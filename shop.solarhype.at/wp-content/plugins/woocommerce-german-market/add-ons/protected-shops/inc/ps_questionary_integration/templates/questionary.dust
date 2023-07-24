@@ -1,0 +1,93 @@
+
+<script>
+    function handleCheckBoxClicked(input) {
+        if (input.id.search('noneOfTheAbove') > 0) {
+            var inputs = document.querySelectorAll("[data-questionid='"+input.dataset.questionid+"']");
+            inputs.forEach(function(el){
+                if (el != input && input.checked) {
+                    el.checked = false;
+                    el.disabled = true;
+                } else if (el != input && !input.checked) {
+                    el.disabled = false;
+                }
+            });
+        }
+    }
+
+    function checkIfEmpty(event){
+        var singleInputs = document.getElementsByClassName('questionnaire-singleline');
+
+        for (var i = 0; i < singleInputs.length; i++) {
+            if (singleInputs[i].value == '') {
+                singleInputs[i].value = '(.....)';
+            }
+        }
+    }
+</script>
+
+<div class="questionary-container">
+    <div class="topbar">
+        <label for="hideAnswered">
+            {tr.hideAnsweredQuestions}
+        </label>
+        <input id="hideAnswered" name="hideAnswered" type="checkbox" {@eq key=config.hideAnswered type="boolean" value="true"}checked="true"{/eq}/>
+        <div style="clear: both"></div>
+    </div>
+    <div id="hide-answered-warning" class="warning {@eq key="false" type="boolean" value=config.hideAnswered}hidden{/eq}">
+         <h2>{tr.hiddenQuestionsWarningHeader}</h2>
+        {tr.hiddenQuestionsWarningText}
+    </div>
+    {! ---- navigation ---- !}
+    <div id="sidebar" style="margin-left: 30px">
+        <div class="left-menu-border"></div>
+        <ul class="questionnaire-nav">
+            {#documents}
+            <li><a href="javascript:void(0);" rel="document-{$idx}"><p class="nav-text" >{title}</p></a></li>
+            {/documents}
+            <div class="clear-fix"></div>
+        </ul>
+    </div>
+    {! ---- questionary ---- !}
+    <div id="content" class="content-blog">		
+        <form novalidate id="questionnaire-form" action="{config.submitQuestionaryUrl}" method="post">
+            <div id="questionnaire">
+                {#documents}
+                <div class="questionnaire-document document-{$idx}">
+                    {#sections}
+                    <div class="questionnaire-section {@eq key="true" type="boolean" value=hidden}hidden{/eq}">
+
+                        {#questions}
+                            {>question /}
+                        {/questions}
+
+                        {?variables}
+                        <div class="variables-container">
+                            <h3><p class="question-title">{tr.pleaseFill}:</p></h3>
+                            <button class="editVariables" type="button">({tr.edit})</button>
+
+                            {#variables}
+                                {>variable /}
+                            {/variables}
+
+                            <div class="questionnaire-error-msg">{tr.pleaseSelect}:</div>
+                            <button class="saveVariables" onClick="checkIfEmpty(event)" type="button">{tr.save}</button>
+                            <div class="clear-fix"></div>
+                        </div>
+                        {/variables}
+                    </div>
+                    {/sections}
+                </div>
+                {/documents}
+            </div>
+            {! ---- buttons ---- !}
+            <div class="btn-navigations" style="margin: 20px 0 0" >
+                <div class="questionnaire-warning-text">{tr.questionaryBottomWarning}</div>
+                <button class="prevDocument inactive" type="button">{tr.back}</button>
+                <button class="nextDocument inactive" type="button">{tr.forward}</button>
+                <button id="submitQuestionnaire" class="inactive" type="button" >{tr.finish}</button>
+                <div class="clear-fix"></div>
+            </div>
+        </form>
+    </div>
+    <div style="clear: both"></div>
+</div>

@@ -1,0 +1,1216 @@
+# Translation of Plugins - All in One SEO – Best WordPress SEO Plugin – Easily Improve SEO Rankings &amp; Increase Traffic - Stable (latest release) in Finnish
+# This file is distributed under the same license as the Plugins - All in One SEO – Best WordPress SEO Plugin – Easily Improve SEO Rankings &amp; Increase Traffic - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-10-11 13:39:22+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: fi\n"
+"Project-Id-Version: Plugins - All in One SEO – Best WordPress SEO Plugin – Easily Improve SEO Rankings &amp; Increase Traffic - Stable (latest release)\n"
+
+#: app/Common/Admin/Notices/Review.php:96 languages/aioseo-lite.php:3935
+#: languages/aioseo-pro.php:5638 dist/Lite/assets/js/Index.f53574a9.js:1
+msgid "Not Really..."
+msgstr "Ei oikeastaan..."
+
+#: app/Common/Admin/Notices/Review.php:95
+msgid "Yes I love it"
+msgstr "Tykkään"
+
+#: languages/aioseo-lite.php:3926 languages/aioseo-pro.php:5629
+#: dist/Lite/assets/js/AboutUs.19e86053.js:1
+#: dist/Lite/assets/js/SitemapsPro.3d63bff4.js:1
+msgid "Not Installed"
+msgstr "Ei asennettu"
+
+#: languages/aioseo-lite.php:1394 dist/Lite/assets/js/Main.2626925e.js:1
+msgid "Complete Support"
+msgstr "Täydellinen tuki"
+
+#: languages/aioseo-lite.php:3348 dist/Lite/assets/js/Main.2626925e.js:1
+msgid "Limited Support"
+msgstr "Rajoitettu tuki"
+
+#: languages/aioseo-lite.php:3913 dist/Lite/assets/js/Main.2626925e.js:1
+msgid "Not Available"
+msgstr "Ei saatavilla"
+
+#: languages/aioseo-lite.php:4419 dist/Lite/assets/js/Main.2626925e.js:1
+msgid "Priority Support"
+msgstr "Ensisijainen tuki"
+
+#: languages/aioseo-lite.php:4735 dist/Lite/assets/js/Main.2626925e.js:1
+msgid "Schema Rich Snippets"
+msgstr "Skeema tärkeät katkelmat"
+
+#: languages/aioseo-lite.php:4767 dist/Lite/assets/js/Main.2626925e.js:1
+msgid "Search Engine Optimization (SEO)"
+msgstr "Hakukoneoptimointi (SEO)"
+
+#: languages/aioseo-lite.php:5196 dist/Lite/assets/js/Main.2626925e.js:1
+msgid "Social Meta (Open Graph Markup)"
+msgstr "Sosiaalinen metatieto (Open Graph Markup)"
+
+#: languages/aioseo-lite.php:6785 dist/Lite/assets/js/Main.2626925e.js:1
+msgid "WooCommerce Integration"
+msgstr "WooCommerce Integraatio"
+
+#: languages/aioseo-lite.php:7250 languages/aioseo-pro.php:10540
+#: dist/Lite/assets/js/AboutUs.19e86053.js:1
+msgid "Yup, we know a thing or two about building awesome products that customers love."
+msgstr "Jep, tiedämme 2 tai 2 asiasiota, mahtavista tuotteieta rakentamisesta ja asiakkaat rakastavat sitä."
+
+#: app/Common/Admin/Admin.php:317 app/Common/Traits/Helpers/Wp.php:730
+msgid "(no title)"
+msgstr "(ei otsikkoa)"
+
+#: languages/aioseo-lite.php:382 languages/aioseo-pro.php:518
+#: dist/Lite/assets/js/AboutUs.19e86053.js:1
+#: dist/Lite/assets/js/GeneralSettings.27e4cfc1.js:1
+msgid "Activate"
+msgstr "Aktivoi"
+
+#: languages/aioseo-lite.php:404 languages/aioseo-pro.php:562
+#: dist/Lite/assets/js/AboutUs.19e86053.js:1
+#: dist/Lite/assets/js/GeneralSettings.27e4cfc1.js:1
+#: dist/Lite/assets/js/SitemapsPro.3d63bff4.js:1
+msgid "Activated"
+msgstr "Aktivoitu"
+
+#: app/Common/Admin/Admin.php:316 languages/aioseo-pro.php:642
+msgid "Add Link"
+msgstr "Lisää linkki"
+
+#: app/Common/Admin/Admin.php:471
+msgid "Analyze this page"
+msgstr "Analysoi tätä sivua"
+
+#: app/Common/Admin/Admin.php:509
+msgid "CSS Validator"
+msgstr "CSS validaattori"
+
+#: app/Common/Admin/Admin.php:484
+msgid "Check Google Cache"
+msgstr "Tarkista Google-välimuisti"
+
+#: app/Common/Admin/Admin.php:479
+msgid "Check links to this URL"
+msgstr "Tarkista linkit tähän URL-osoitteeseen"
+
+#: app/Common/Admin/Admin.php:494
+msgid "Facebook Debugger"
+msgstr "Facebook virheidenkorjaus"
+
+#: app/Common/Admin/Admin.php:888
+msgid "Give us a 5-star rating!"
+msgstr "Anna meille 5 tähden arvostelu!"
+
+#: app/Common/Admin/Admin.php:514
+msgid "Google Page Speed Test"
+msgstr "Google Page Speed testi"
+
+#: app/Common/Admin/Admin.php:504
+msgid "HTML Validator"
+msgstr "HTML validaattori"
+
+#: languages/aioseo-lite.php:3125 languages/aioseo-pro.php:4481
+#: dist/Lite/assets/js/AboutUs.19e86053.js:1
+msgid "Install Plugin"
+msgstr "Asenna lisäosa"
+
+#: app/Common/Admin/Admin.php:321
+msgid "Link has been inserted."
+msgstr "Linkki on lisätty."
+
+#: app/Common/Admin/Admin.php:519
+msgid "Mobile-Friendly Test"
+msgstr "Mobiiliystävällinen testi"
+
+#: app/Common/Admin/Admin.php:319
+msgid "No results found."
+msgstr "Ei tuloksia."
+
+#: languages/aioseo-lite.php:4093 languages/aioseo-pro.php:5866
+#: dist/Lite/assets/js/AboutUs.19e86053.js:1
+msgid "Our goal is to take the pain out of optimizing your website for search engines."
+msgstr "Tavoitteenamme on poistaa ongelmia optimoimalla verkkosivustosi hakukoneille."
+
+#: languages/aioseo-lite.php:4125 languages/aioseo-pro.php:5929
+#: dist/Lite/assets/js/AboutUs.19e86053.js:1
+msgid "Over the years, we found that most other WordPress SEO plugins were bloated, buggy, slow, and very hard to use. So we designed our plugin as an easy and powerful tool."
+msgstr "Vuosien varrella havaitsimme, että suurin osa muista WordPress SEO -lisäosista on paisunut, viallinen, hidas ja erittäin vaikea käyttää. Joten suunnittelimme tämän helpoksi ja tehokkaaksi työkaluksi."
+
+#: app/Common/Admin/Admin.php:499
+msgid "Pinterest Rich Pins Validator"
+msgstr " Pinterest Rich Pins validaattori"
+
+#. Translators: 1 - The marketing site anchor name ("aioseo.com").
+#: app/Lite/Admin/Connect.php:285
+msgid "Plugin installed & activated."
+msgstr "Lisäosa on asennettu ja aktivoitu"
+
+#: languages/aioseo-lite.php:5378 languages/aioseo-pro.php:7884
+#: dist/Lite/assets/flyout-menu-e058dd7e.js:1
+msgid "Support & Docs"
+msgstr "Tuki ja asiakirjat"
+
+#: app/Common/Admin/Admin.php:315
+msgid "Update"
+msgstr "Päivittää"
+
+#. Translators: 1 - The plugin name ("All in One SEO"), 2 - The plugin name
+#. ("All in One SEO").
+#: languages/aioseo-lite.php:6726 languages/aioseo-pro.php:9804
+#: dist/Lite/assets/js/AboutUs.19e86053.js:1
+msgid "Welcome to %1$s, the original SEO plugin for WordPress. At %2$s, we build software that helps you rank your website in search results and gain organic traffic."
+msgstr "Tervetuloa WordPressin alkuperäiseen SEO-lisäosa %1$s. %2$s:lla rakennamme ohjelmistoa, joka auttaa sijoittamaan verkkosivustosi hakutuloksissa ja saamaan orgaanista liikennettä."
+
+#: app/Common/Admin/Admin.php:226 languages/aioseo-lite.php:358
+#: languages/aioseo-pro.php:486 dist/Lite/assets/js/Main.2626925e.js:1
+msgid "About Us"
+msgstr "Meistä"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/Notices/Review.php:92 languages/aioseo-lite.php:812
+#: languages/aioseo-pro.php:1145 dist/Lite/assets/js/Index.f53574a9.js:1
+msgid "Are you enjoying %1$s?"
+msgstr "Nautitko %1$s?"
+
+#: app/Common/Admin/Notices/Review.php:102 languages/aioseo-lite.php:2573
+#: languages/aioseo-pro.php:3766 dist/Lite/assets/js/Index.f53574a9.js:1
+msgid "Give feedback"
+msgstr "Anna palautetta"
+
+#: app/Common/Admin/Notices/Review.php:109
+#: app/Common/Admin/Notices/Review.php:164
+msgid "I already did"
+msgstr "Olen jo tehnyt"
+
+#: app/Common/Admin/Notices/Review.php:108
+#: app/Common/Admin/Notices/Review.php:163 languages/aioseo-lite.php:3903
+#: languages/aioseo-pro.php:5615 dist/Lite/assets/js/Index.f53574a9.js:1
+msgid "Nope, maybe later"
+msgstr "Ei, ehkä myöhemmin"
+
+#. Translators: 1 - The plugin name ("All in One SEO").
+#: app/Common/Admin/Notices/Review.php:107
+#: app/Common/Admin/Notices/Review.php:162 languages/aioseo-lite.php:3970
+#: languages/aioseo-pro.php:5691 dist/Lite/assets/js/Index.f53574a9.js:1
+msgid "Ok, you deserve it"
+msgstr "Ok, ansaitset sen"
+
+#. Translators: This is an action link users can click to open a feature
+#. request.
+#: app/Lite/Main/Filters.php:30 languages/aioseo-lite.php:5354
+#: languages/aioseo-pro.php:7849 dist/Lite/assets/flyout-menu-e058dd7e.js:1
+msgid "Suggest a Feature"
+msgstr "Ehdota ominaisuutta"
+
+#: app/Common/Admin/Notices/Review.php:104
+msgid "That's awesome! Could you please do me a BIG favor and give it a 5-star rating on WordPress to help us spread the word and boost our motivation?"
+msgstr "Se on mahtavaa! Voisitko tehdä minulle suuren palvelun ja antaa sille 5 tähden arvosanan WordPressissä auttaaksemme meitä levittämään sanaa ja lisäämään motivaatiota?"
+
+#. Translators: 1 - The plugin name ("All in One SEO").
+#: app/Common/Admin/Notices/Review.php:99 languages/aioseo-lite.php:6673
+#: languages/aioseo-pro.php:9734 dist/Lite/assets/js/Index.f53574a9.js:1
+msgid "We're sorry to hear you aren't enjoying %1$s. We would love a chance to improve. Could you take a minute and let us know what we can do better?"
+msgstr "Harmi jos et nauttinut %1$s:sta. Haluaisimme mahdollisuuden parantaa. Voisitko käyttää hetken ja kertoa meille, mitä voimme tehdä paremmin?"
+
+#. Author of the plugin
+msgid "All in One SEO Team"
+msgstr "All in One SEO tiimi"
+
+#: languages/aioseo-lite.php:425 languages/aioseo-pro.php:583
+msgid "Ad free (no banner adverts)"
+msgstr "Ilman mainoksia (ei bannerimainoksia)"
+
+#: languages/aioseo-lite.php:4084 languages/aioseo-pro.php:5831
+#: dist/Lite/assets/js/GeneralSitemap.e69bb8e0.js:1
+#: dist/Lite/assets/js/RssSitemap.2936fcb4.js:1
+msgid "Organize sitemap entries into distinct files in your sitemap. We recommend you enable this setting if your sitemap contains more than 1,000 URLs."
+msgstr "Järjestä sivustokartan merkinnät erillisiksi tiedostoiksi sivustokarttassasi. Suosittelemme ottamaan tämän asetuksen käyttöön, jos sivustokarttasi sisältää yli 1 000 URL-osoitetta."
+
+#: languages/aioseo-lite.php:1021 languages/aioseo-pro.php:1536
+msgid "Billing Support"
+msgstr "Laskutustuki"
+
+#: languages/aioseo-lite.php:1616 languages/aioseo-pro.php:2327
+#: dist/Lite/assets/js/Main.2626925e.js:1
+msgid "Customer Support"
+msgstr "Asiakaspalvelu"
+
+#: languages/aioseo-lite.php:4077 languages/aioseo-pro.php:5823
+#: dist/Lite/assets/js/AdditionalInformation.a3121ed5.js:1
+#: dist/Lite/assets/js/GlobalSettings.91862e17.js:1
+msgid "Organization Name"
+msgstr "Organisaation nimi"
+
+#: languages/aioseo-lite.php:4218 languages/aioseo-pro.php:6077
+#: dist/Lite/assets/blocks-7fc28d11.js:1
+#: dist/Lite/assets/js/AdditionalInformation.a3121ed5.js:1
+#: dist/Lite/assets/js/GlobalSettings.91862e17.js:1
+#: dist/Lite/assets/post-settings-a377de34.js:1
+msgid "Phone Number"
+msgstr "Puhelinnumero"
+
+#: languages/aioseo-lite.php:4626 languages/aioseo-pro.php:6731
+msgid "Reservations"
+msgstr "Varaukset"
+
+#: languages/aioseo-lite.php:4692 languages/aioseo-pro.php:6839
+msgid "Sales"
+msgstr "Myynti"
+
+#: languages/aioseo-pro.php:6915
+msgid "Schema Settings"
+msgstr "Schema asetukset"
+
+#: languages/aioseo-lite.php:5420 languages/aioseo-pro.php:7933
+msgid "Technical Support"
+msgstr "Tekninen tuki"
+
+#: languages/aioseo-pro.php:6285
+msgid "Posts"
+msgstr "Postaukset"
+
+#: languages/aioseo-lite.php:796 languages/aioseo-pro.php:1128
+msgid "Archive"
+msgstr "Arkisto"
+
+#: app/Common/Utils/Tags.php:366 languages/aioseo-lite.php:1177
+#: languages/aioseo-pro.php:1764 dist/Lite/assets/js/Breadcrumbs.f2e60b76.js:1
+msgid "Category"
+msgstr "Kategoria"
+
+#: languages/aioseo-lite.php:1832 languages/aioseo-pro.php:2698
+#: dist/Lite/assets/js/Index.f53574a9.js:1
+msgid "Dismiss"
+msgstr "Hylkää"
+
+#: app/Common/Admin/Notices/Review.php:103 languages/aioseo-lite.php:3868
+#: languages/aioseo-pro.php:5550 dist/Lite/assets/js/Index.f53574a9.js:1
+#: dist/Lite/assets/js/WpTable.e7a99c57.js:1
+msgid "No thanks"
+msgstr "Ei kiitos"
+
+#: app/Common/Breadcrumbs/Breadcrumbs.php:281
+msgid "Page"
+msgstr "Sivu"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:640
+msgid "year"
+msgstr "vuosi"
+
+#: app/Common/Tools/SystemStatus.php:313 languages/aioseo-lite.php:410
+#: languages/aioseo-pro.php:568 dist/Lite/assets/js/SystemStatus.3e3ca754.js:1
+msgid "Active Plugins"
+msgstr "Aktiiviset lisäosat"
+
+#: app/Common/Tools/SystemStatus.php:345 languages/aioseo-lite.php:3054
+#: languages/aioseo-pro.php:4377 dist/Lite/assets/js/SystemStatus.3e3ca754.js:1
+msgid "Inactive Plugins"
+msgstr "Passiiviset lisäosat"
+
+#: languages/aioseo-lite.php:913 languages/aioseo-pro.php:1366
+#: dist/Lite/assets/js/GeneralSitemap.e69bb8e0.js:1
+msgid "Author Pages"
+msgstr "Kirjoittajan sivut"
+
+#: languages/aioseo-pro.php:4444
+msgid "Include Custom Fields"
+msgstr "Sisällytä mukautetut kentät"
+
+#: languages/aioseo-pro.php:3071
+msgid "Enable this option to look for videos in custom fields as well."
+msgstr "Ota tämä vaihtoehto käyttöön etsiessäsi videoita myös mukautetuista kentistä."
+
+#: app/Common/Views/sitemap/xsl/templates/header.php:22
+msgid "Generated by"
+msgstr "Luonut"
+
+#: app/Common/Views/sitemap/xsl/templates/header.php:33
+msgid "This sitemap contains"
+msgstr "Tämä sivustokartta sisältää"
+
+#: app/Common/Views/sitemap/xsl/templates/header.php:45
+msgid "This sitemap index contains"
+msgstr "Tämä sivustokarttahakemisto sisältää"
+
+#: app/Common/Views/sitemap/xsl/templates/header.php:40
+#: languages/aioseo-lite.php:6406 languages/aioseo-pro.php:9380
+#: dist/Lite/assets/js/Locations.076b3132.js:1
+#: dist/Lite/assets/post-settings-a377de34.js:1
+msgid "URLs"
+msgstr "URL:t"
+
+#: app/Common/Views/sitemap/xsl/templates/header.php:52
+msgid "sitemaps"
+msgstr "sivukartat"
+
+#: app/Common/Views/sitemap/xsl/templates/header.php:22
+msgid "this is an XML Sitemap, meant to be consumed by search engines like Google or Bing."
+msgstr "tämä on XML-sivustokartta, joka on tarkoitettu käytettäväksi hakukoneille, kuten Google tai Bing."
+
+#: languages/aioseo-lite.php:1827 languages/aioseo-pro.php:2687
+#: dist/Lite/assets/js/RobotsEditor.dbe5e599.js:2
+msgid "Disallow"
+msgstr "Hylkää"
+
+#: languages/aioseo-lite.php:653 languages/aioseo-pro.php:931
+#: dist/Lite/assets/js/RobotsEditor.dbe5e599.js:2
+msgid "Allow"
+msgstr "Salli"
+
+#: languages/aioseo-lite.php:4686 languages/aioseo-pro.php:6818
+#: dist/Lite/assets/js/RobotsEditor.dbe5e599.js:2
+msgid "Rule"
+msgstr "Sääntö"
+
+#: languages/aioseo-lite.php:2188 languages/aioseo-pro.php:3246
+#: dist/Lite/assets/js/GeneralSitemap.e69bb8e0.js:1
+msgid "Exclude Images"
+msgstr "Sulje kuvat pois"
+
+#: app/Common/Tools/SystemStatus.php:97
+msgid "Search Engine Visibility"
+msgstr "Hakukoneen näkyvyys"
+
+#: app/Common/Tools/SystemStatus.php:57
+msgid "Site Language"
+msgstr "Sivuston kieli"
+
+#: app/Common/Tools/SystemStatus.php:53 app/Common/Utils/Tags.php:512
+#: app/Common/Utils/Tags.php:524 languages/aioseo-lite.php:5145
+#: languages/aioseo-pro.php:7571
+#: dist/Lite/assets/js/GlobalSettings.91862e17.js:1
+msgid "Site Title"
+msgstr "Sivuston otsikko"
+
+#: languages/aioseo-lite.php:4961 languages/aioseo-pro.php:7231
+#: dist/Lite/assets/js/FeatureManager.ded34de2.js:1
+msgid "SEO for Categories, Tags and Custom Taxonomies"
+msgstr "Kategorioiden, tunnisteiden ja mukautettujen taksonomioiden hakukoneoptimointi"
+
+#: app/Common/Admin/Dashboard.php:79 languages/aioseo-lite.php:4976
+#: languages/aioseo-pro.php:7252 dist/Lite/assets/js/Advanced.eea0d820.js:1
+msgid "SEO News"
+msgstr "SEO uutiset"
+
+#: languages/aioseo-lite.php:2517 languages/aioseo-pro.php:3714
+#: dist/Lite/assets/js/WebmasterTools.2cb6a6eb.js:1
+msgid "Get Started"
+msgstr "Aloita"
+
+#: languages/aioseo-lite.php:6289 languages/aioseo-pro.php:9232
+#: dist/Lite/assets/js/Index.f53574a9.js:1
+msgid "Upgrade"
+msgstr "Päivitä"
+
+#: languages/aioseo-lite.php:740 languages/aioseo-pro.php:1046
+#: dist/Lite/assets/js/AnalyzeCompetitorSite.6b8676f3.js:1
+#: dist/Lite/assets/js/HeadlineAnalyzer.6bee5f45.js:1
+#: dist/Lite/assets/js/Score.cd8edd8e.js:1
+msgid "Analyze"
+msgstr "Analysoi"
+
+#: languages/aioseo-lite.php:1031 languages/aioseo-pro.php:1546
+#: dist/Lite/assets/js/BadBotBlocker.e92f956d.js:1
+msgid "Block Bad Bots using HTTP"
+msgstr "Estä haitalliset botit käyttäen HTTP:tä"
+
+#: languages/aioseo-lite.php:1034 languages/aioseo-pro.php:1549
+#: dist/Lite/assets/js/BadBotBlocker.e92f956d.js:1
+msgid "Block Referral Spam using HTTP"
+msgstr "Estä Referral -roskaposti käyttäen HTTP:tä"
+
+#: languages/aioseo-lite.php:6428 languages/aioseo-pro.php:9411
+#: dist/Lite/assets/js/BadBotBlocker.e92f956d.js:1
+msgid "Use Custom Blocklists"
+msgstr "Käytä mukautettuja estolistoja"
+
+#: languages/aioseo-lite.php:2954 languages/aioseo-pro.php:4254
+#: dist/Lite/assets/js/Main.2626925e.js:1
+#: dist/Lite/assets/js/Media.5d30d159.js:1
+#: dist/Lite/assets/js/WpTable.e7a99c57.js:1
+msgid "Image SEO"
+msgstr "Kuvan hakukoneoptimointi/SEO"
+
+#. Translators: This is an action link users can click to purchase a license
+#. for All in One SEO Pro.
+#: app/Lite/Admin/Admin.php:51 app/Lite/Admin/Admin.php:80
+#: app/Lite/Main/Filters.php:63 languages/aioseo-lite.php:6330
+#: languages/aioseo-pro.php:9272 dist/Lite/assets/js/Index.f53574a9.js:1
+#: dist/Lite/assets/js/SitemapsPro.3d63bff4.js:1
+msgid "Upgrade to Pro"
+msgstr "Päivitä Pro-versioon"
+
+#. Translators: This is an action link users can click to open our general
+#. documentation page.
+#: app/Lite/Main/Filters.php:58
+msgid "Documentation"
+msgstr "Ohjeistus"
+
+#. Translators: This is an action link users can click to open the General
+#. Settings menu.
+#: app/Common/Admin/Admin.php:579 app/Lite/Main/Filters.php:48
+#: languages/aioseo-lite.php:4985 languages/aioseo-pro.php:7267
+#: dist/Lite/assets/js/ImportExport.4c26d750.js:1
+msgid "SEO Settings"
+msgstr "SEO-asetukset"
+
+#: languages/aioseo-lite.php:3339 languages/aioseo-pro.php:4789
+#: dist/Lite/assets/js/GeneralSettings.27e4cfc1.js:1
+msgid "License Key"
+msgstr "Lisenssiavain"
+
+#: languages/aioseo-lite.php:2237 languages/aioseo-pro.php:3360
+#: dist/Lite/assets/js/Facebook.99580b2f.js:1
+msgid "Facebook Admin ID"
+msgstr "Facebook Admin tunnus/ID"
+
+#: languages/aioseo-lite.php:2240 languages/aioseo-pro.php:3363
+#: dist/Lite/assets/js/Facebook.99580b2f.js:1
+msgid "Facebook App ID"
+msgstr "Facebook App ID"
+
+#: app/Common/Views/sitemap/html/widget-options.php:97
+#: languages/aioseo-lite.php:5408 languages/aioseo-pro.php:7918
+#: dist/Lite/assets/blocks-7fc28d11.js:1
+#: dist/Lite/assets/js/Breadcrumbs.f2e60b76.js:1
+#: dist/Lite/assets/js/GeneralSitemap.e69bb8e0.js:1
+#: dist/Lite/assets/js/HtmlSitemap.6c23e491.js:1
+#: dist/Lite/assets/js/RssSitemap.2936fcb4.js:1
+msgid "Taxonomies"
+msgstr "Luokittelut"
+
+#: languages/aioseo-lite.php:2064 languages/aioseo-pro.php:3059
+#: dist/Lite/assets/js/GeneralSitemap.e69bb8e0.js:1
+#: dist/Lite/assets/js/RssSitemap.2936fcb4.js:1
+#: dist/Lite/assets/js/VideoSitemap.b990e080.js:1
+msgid "Enable Sitemap Indexes"
+msgstr "Ota käyttöön sivustokarttahakemistot"
+
+#: languages/aioseo-lite.php:3289 languages/aioseo-pro.php:4704
+#: dist/Lite/assets/js/AdditionalPages.83f47359.js:2
+#: dist/Lite/assets/js/AdditionalPages.83f47359.js:3
+msgid "Last Modified"
+msgstr "Viimeksi muokattu"
+
+#: app/Common/Sitemap/Xsl.php:35 languages/aioseo-lite.php:496
+#: languages/aioseo-pro.php:710
+#: dist/Lite/assets/js/AdditionalPages.83f47359.js:3
+msgid "Additional Pages"
+msgstr "Lisäsivut"
+
+#: languages/aioseo-lite.php:479 languages/aioseo-pro.php:685
+#: dist/Lite/assets/js/Index.fa02c77a.js:1
+msgid "Add URL"
+msgstr "Lisää verkko-osoite/URL"
+
+#: app/Common/Sitemap/Output.php:31
+msgid "dynamically"
+msgstr "dynaamisesti"
+
+#: languages/aioseo-lite.php:4142 languages/aioseo-pro.php:5948
+#: dist/Lite/assets/js/AdditionalPages.83f47359.js:2
+#: dist/Lite/assets/js/AdditionalPages.83f47359.js:3
+msgid "Page URL"
+msgstr "Sivun verkko-osoite/URL"
+
+#: app/Common/Views/sitemap/html/widget-options.php:74
+#: languages/aioseo-lite.php:4352 languages/aioseo-pro.php:6263
+#: dist/Lite/assets/blocks-7fc28d11.js:1
+#: dist/Lite/assets/js/GeneralSitemap.e69bb8e0.js:1
+#: dist/Lite/assets/js/HtmlSitemap.6c23e491.js:1
+#: dist/Lite/assets/js/NewsSitemap.89b2570b.js:1
+#: dist/Lite/assets/js/RssSitemap.2936fcb4.js:1
+msgid "Post Types"
+msgstr "Sisältötyypit"
+
+#: languages/aioseo-lite.php:857 languages/aioseo-pro.php:1272
+#: dist/Lite/assets/js/App.a588f5fa.js:1
+msgid "Article Tags"
+msgstr "Artikkelin avainsanat"
+
+#. Translators: This is an action link users can click to open our premium
+#. support.
+#: app/Lite/Main/Filters.php:53 languages/aioseo-lite.php:5375
+#: languages/aioseo-pro.php:7881 dist/Lite/assets/js/Main.2df18367.js:1
+msgid "Support"
+msgstr "Tuki"
+
+#: languages/aioseo-lite.php:1269 languages/aioseo-pro.php:1892
+#: dist/Lite/assets/post-settings-a377de34.js:1
+msgid "City"
+msgstr "Kaupunki/postitoimipaikka"
+
+#: languages/aioseo-lite.php:2643 languages/aioseo-pro.php:3836
+#: dist/Lite/assets/js/WebmasterTools.2cb6a6eb.js:11
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: languages/aioseo-lite.php:6206 languages/aioseo-pro.php:9071
+#: dist/Lite/assets/js/App.a588f5fa.js:1
+msgid "Twitter"
+msgstr "Twitter"
+
+#: app/Common/Tools/SystemStatus.php:82 app/Common/Tools/SystemStatus.php:86
+#: app/Common/Tools/SystemStatus.php:226 app/Common/Tools/SystemStatus.php:230
+#: app/Common/Tools/SystemStatus.php:234 languages/aioseo-lite.php:3736
+#: languages/aioseo-pro.php:5408
+msgid "No"
+msgstr "Ei"
+
+#: languages/aioseo-lite.php:1959 languages/aioseo-pro.php:2879
+#: dist/Lite/assets/js/AdditionalPages.83f47359.js:3
+#: dist/Lite/assets/link-format/link-format-block.js:2
+#: dist/Lite/assets/posts-table-7d7dc403.js:1
+msgid "Edit"
+msgstr "Muokkaa"
+
+#: languages/aioseo-lite.php:555 languages/aioseo-pro.php:795
+#: dist/Lite/assets/js/Advanced.9073f51e.js:1
+#: dist/Lite/assets/js/Advanced.eea0d820.js:1
+#: dist/Lite/assets/js/DisplayInfo.ff0090d8.js:1
+#: dist/Lite/assets/js/Facebook.99580b2f.js:1
+#: dist/Lite/assets/js/GeneralSitemap.e69bb8e0.js:1
+#: dist/Lite/assets/js/HtmlSitemap.6c23e491.js:1
+#: dist/Lite/assets/js/Index.fa02c77a.js:1
+#: dist/Lite/assets/js/Media.5d30d159.js:1
+msgid "Advanced Settings"
+msgstr "Yleiset asetukset"
+
+#: languages/aioseo-lite.php:5321 languages/aioseo-pro.php:7819
+#: dist/Lite/assets/js/SystemStatus.3e3ca754.js:1
+#: dist/Lite/assets/link-format/link-format-block.js:2
+msgid "Submit"
+msgstr "Lähetä"
+
+#: languages/aioseo-lite.php:2981 languages/aioseo-pro.php:4286
+#: dist/Lite/assets/js/AdditionalPages.83f47359.js:2
+#: dist/Lite/assets/js/ImportExport.4c26d750.js:1
+msgid "Import"
+msgstr "Tuonti"
+
+#: app/Common/Tools/SystemStatus.php:49 languages/aioseo-lite.php:6532
+#: languages/aioseo-pro.php:9565 dist/Lite/assets/js/SitemapsPro.3d63bff4.js:1
+msgid "Version"
+msgstr "Versio"
+
+#: app/Common/Tools/SystemStatus.php:82 app/Common/Tools/SystemStatus.php:86
+#: app/Common/Tools/SystemStatus.php:226 app/Common/Tools/SystemStatus.php:230
+#: app/Common/Tools/SystemStatus.php:234 languages/aioseo-lite.php:6857
+#: languages/aioseo-pro.php:9960
+msgid "Yes"
+msgstr "Kyllä"
+
+#: languages/aioseo-lite.php:2223 languages/aioseo-pro.php:3325
+#: dist/Lite/assets/js/ImportExport.4c26d750.js:1
+msgid "Export Settings"
+msgstr "Asetusten vienti"
+
+#: languages/aioseo-lite.php:2940 languages/aioseo-pro.php:4237
+#: dist/Lite/assets/js/Facebook.99580b2f.js:1
+#: dist/Lite/assets/js/Locations.076b3132.js:1
+#: dist/Lite/assets/post-settings-a377de34.js:1
+msgid "Image"
+msgstr "Kuva"
+
+#: languages/aioseo-lite.php:3976 languages/aioseo-pro.php:5697
+msgid "On"
+msgstr "Päällä"
+
+#: languages/aioseo-lite.php:3966 languages/aioseo-pro.php:5678
+msgid "Off"
+msgstr "Pois käytöstä"
+
+#: languages/aioseo-lite.php:5381 languages/aioseo-pro.php:7887
+msgid "System Status"
+msgstr "Järjestelmän tila."
+
+#: languages/aioseo-lite.php:1157 languages/aioseo-pro.php:1723
+#: dist/Lite/assets/js/AdditionalPages.83f47359.js:2
+#: dist/Lite/assets/js/Index.fa02c77a.js:1
+#: dist/Lite/assets/posts-table-7d7dc403.js:1
+msgid "Cancel"
+msgstr "Peruuta"
+
+#: app/Common/Tools/SystemStatus.php:69
+msgid "Home URL"
+msgstr "Etusivun verkko-osoite"
+
+#: app/Common/Tools/SystemStatus.php:73
+msgid "Site URL"
+msgstr "Sivuston verkko-osoite"
+
+#: app/Common/Tools/SystemStatus.php:205
+msgid "PHP Version"
+msgstr "PHP:n versio"
+
+#: languages/aioseo-lite.php:4435 languages/aioseo-pro.php:6395
+msgid "Profile"
+msgstr "Profiili"
+
+#: languages/aioseo-lite.php:476 languages/aioseo-pro.php:672
+#: dist/Lite/assets/js/RobotsEditor.dbe5e599.js:2
+msgid "Add Rule"
+msgstr "Lisää sääntö"
+
+#: languages/aioseo-lite.php:1369 languages/aioseo-pro.php:2019
+msgid "Company"
+msgstr "Yritys"
+
+#: languages/aioseo-lite.php:6694 languages/aioseo-pro.php:9768
+msgid "Website"
+msgstr "Sivusto"
+
+#: languages/aioseo-lite.php:6506 languages/aioseo-pro.php:9531
+#: dist/Lite/assets/js/RobotsEditor.dbe5e599.js:2
+msgid "User Agent"
+msgstr "Selain"
+
+#: languages/aioseo-lite.php:1818 languages/aioseo-pro.php:2668
+#: dist/Lite/assets/js/RobotsEditor.dbe5e599.js:2
+msgid "Directory Path"
+msgstr "Hakemistopolku"
+
+#: languages/aioseo-lite.php:1589 languages/aioseo-pro.php:2293
+#: dist/Lite/assets/js/Image.00bca9a1.js:1
+msgid "Custom Image"
+msgstr "Oma kuvake"
+
+#: languages/aioseo-pro.php:3607 dist/Lite/assets/js/App.a588f5fa.js:1
+msgid "Front Page"
+msgstr "Etusivu"
+
+#: languages/aioseo-lite.php:5130 languages/aioseo-pro.php:7528
+#: dist/Lite/assets/js/Twitter.e15822f4.js:1
+msgid "Show Twitter Author"
+msgstr "Näytä Twitter-kirjoittaja"
+
+#: languages/aioseo-lite.php:939 languages/aioseo-pro.php:1411
+#: dist/Lite/assets/js/Facebook.99580b2f.js:1
+msgid "Automatically Generate Article Tags"
+msgstr "Luo artikkelien avainsanat automaattisesti"
+
+#: languages/aioseo-lite.php:854 languages/aioseo-pro.php:1269
+#: dist/Lite/assets/js/App.a588f5fa.js:1
+msgid "Article Section"
+msgstr "Artikkelin jakso"
+
+#: languages/aioseo-lite.php:4199 languages/aioseo-pro.php:6057
+#: dist/Lite/assets/js/AdditionalInformation.a3121ed5.js:1
+#: dist/Lite/assets/js/App.a588f5fa.js:1
+#: dist/Lite/assets/js/GlobalSettings.91862e17.js:1
+msgid "Person"
+msgstr "Henkilö"
+
+#: app/Common/Tools/SystemStatus.php:185 languages/aioseo-pro.php:5803
+msgid "Operating System"
+msgstr "Käyttöjärjestelmä"
+
+#: languages/aioseo-lite.php:5014 languages/aioseo-pro.php:7299
+msgid "Server"
+msgstr "Palvelin"
+
+#: app/Common/Tools/SystemStatus.php:209
+msgid "PHP Memory Limit"
+msgstr "PHP-muistirajoitus"
+
+#: app/Common/Tools/SystemStatus.php:213
+msgid "PHP Max Upload Size"
+msgstr "PHP palvelimelle siirrettävän tiedoston suurin koko"
+
+#: app/Common/Tools/SystemStatus.php:217
+msgid "PHP Max Post Size"
+msgstr "PHP Post-siirron suurin koko"
+
+#: languages/aioseo-lite.php:6615 languages/aioseo-pro.php:9661
+#: dist/Lite/assets/js/Main.2df18367.js:1
+msgid "Watch video tutorials"
+msgstr "Katso video-oppaat"
+
+#: languages/aioseo-lite.php:2564 languages/aioseo-pro.php:3757
+#: dist/Lite/assets/js/Main.2df18367.js:1
+msgid "Getting started? Read the Beginners Guide"
+msgstr "Vasta aloittelemassa? Lue Aloittelijan Opas"
+
+#: languages/aioseo-lite.php:4191 languages/aioseo-pro.php:6039
+#: dist/Lite/assets/js/SeoSiteAnalysisResults.a11d6c16.js:4
+msgid "Performance"
+msgstr "Suorituskyky"
+
+#: languages/aioseo-lite.php:6552 languages/aioseo-pro.php:9591
+#: dist/Lite/assets/js/Main.2626925e.js:1
+#: dist/Lite/assets/js/VideoSitemap.b990e080.js:1
+msgid "Video Sitemap"
+msgstr "Video -sivustokartta"
+
+#: app/Common/Tools/SystemStatus.php:81
+msgid "Multisite"
+msgstr "Multisite"
+
+#: app/Common/Tools/SystemStatus.php:251 languages/aioseo-lite.php:413
+#: languages/aioseo-pro.php:571 dist/Lite/assets/js/SystemStatus.3e3ca754.js:1
+msgid "Active Theme"
+msgstr "Aktiivinen teema"
+
+#: languages/aioseo-lite.php:6840 dist/Lite/assets/js/Main.2626925e.js:1
+msgid "XML Sitemap"
+msgstr "XML-sivustokartta"
+
+#: languages/aioseo-lite.php:663 languages/aioseo-pro.php:945
+#: dist/Lite/assets/js/GeneralSitemap.e69bb8e0.js:1
+#: dist/Lite/assets/js/VideoSitemap.b990e080.js:1
+msgid "Allows you to specify the maximum number of posts in a sitemap (up to 50,000)."
+msgstr "Voit asettaa sivustokartan artikkelien suurimman määrän (50 000 asti)."
+
+#: languages/aioseo-lite.php:3091 languages/aioseo-pro.php:4438
+#: dist/Lite/assets/js/GeneralSitemap.e69bb8e0.js:1
+#: dist/Lite/assets/js/RssSitemap.2936fcb4.js:1
+msgid "Include Author Archives in your sitemap."
+msgstr "Sisällytä tekijäarkistot sivustokarttaan."
+
+#: languages/aioseo-lite.php:6587 languages/aioseo-pro.php:9629
+#: dist/Lite/assets/js/Main.2df18367.js:1
+msgid "View the Changelog"
+msgstr "Katso muutosloki"
+
+#: languages/aioseo-lite.php:5358 languages/aioseo-pro.php:7860
+#: dist/Lite/assets/js/App.a588f5fa.js:1
+#: dist/Lite/assets/js/Twitter.e15822f4.js:1
+msgid "Summary"
+msgstr "Yhteenveto"
+
+#: languages/aioseo-lite.php:6212 languages/aioseo-pro.php:9077
+#: dist/Lite/assets/js/App.a588f5fa.js:1
+msgid "Twitter Card Type"
+msgstr "Twitter Card -laji"
+
+#: languages/aioseo-lite.php:4073 languages/aioseo-pro.php:5819
+#: dist/Lite/assets/js/AdditionalInformation.a3121ed5.js:1
+#: dist/Lite/assets/js/GlobalSettings.91862e17.js:1
+msgid "Organization"
+msgstr "Organisaatio"
+
+#: languages/aioseo-pro.php:7658
+msgid "Social Settings"
+msgstr "Sosiaaliset asetukset"
+
+#: languages/aioseo-pro.php:6881
+msgid "Scan Now"
+msgstr "Skannaa nyt"
+
+#: languages/aioseo-lite.php:3956 languages/aioseo-pro.php:5669
+#: dist/Lite/assets/js/App.a588f5fa.js:1
+#: dist/Lite/assets/js/Facebook.99580b2f.js:1
+msgid "Object Type"
+msgstr "Objektilaji"
+
+#: app/Common/Tools/SystemStatus.php:129 app/Common/Tools/SystemStatus.php:133
+#: app/Common/Tools/SystemStatus.php:137 app/Common/Tools/SystemStatus.php:141
+#: app/Common/Tools/SystemStatus.php:145 app/Common/Tools/SystemStatus.php:149
+#: app/Common/Tools/SystemStatus.php:153 app/Common/Tools/SystemStatus.php:157
+#: app/Common/Tools/SystemStatus.php:161
+msgid "Not set"
+msgstr "Ei asetettu"
+
+#: app/Common/Tools/SystemStatus.php:194 languages/aioseo-pro.php:5302
+#: dist/Lite/assets/publish-panel-82605da7.js:1
+msgid "N/A"
+msgstr "Ei tietoa/-saatavilla"
+
+#: app/Common/Admin/Admin.php:406 app/Common/Admin/SiteHealth.php:91
+msgid "SEO"
+msgstr "Hakukoneoptimointi/SEO"
+
+#: app/Common/Admin/Admin.php:561
+msgid "Edit SEO"
+msgstr "Muokkaa hakukoneoptimointia"
+
+#. Plugin Name of the plugin
+msgid "All in One SEO"
+msgstr "All in One SEO"
+
+#: app/Common/Admin/Admin.php:218 languages/aioseo-lite.php:2284
+#: languages/aioseo-pro.php:3414 dist/Lite/assets/js/Main.9346c7f9.js:1
+msgid "Feature Manager"
+msgstr "Toimintojen hallinta"
+
+#: languages/aioseo-lite.php:4659 languages/aioseo-pro.php:6790
+#: dist/Lite/assets/js/WpTable.e7a99c57.js:1
+msgid "Robots.txt"
+msgstr "Robots.txt"
+
+#: languages/aioseo-lite.php:1962 languages/aioseo-pro.php:2882
+#: dist/Lite/assets/js/HtaccessEditor.d4fc51fe.js:1
+msgid "Edit .htaccess"
+msgstr "Muokkaa .htaccess"
+
+#: languages/aioseo-lite.php:4705 languages/aioseo-pro.php:6859
+#: dist/Lite/assets/posts-table-7d7dc403.js:1
+msgid "Save"
+msgstr "Tallenna"
+
+#: languages/aioseo-lite.php:4286 languages/aioseo-pro.php:6163
+#: dist/Lite/assets/posts-table-7d7dc403.js:1
+msgid "Please wait..."
+msgstr "Odota, ole hyvä..."
+
+#: languages/aioseo-lite.php:2234 languages/aioseo-pro.php:3357
+#: dist/Lite/assets/js/App.a588f5fa.js:1
+msgid "Facebook"
+msgstr "Facebook"
+
+#: languages/aioseo-lite.php:6283 languages/aioseo-pro.php:9208
+#: dist/Lite/assets/js/Main.e52c9415.js:1
+msgid "Update Options"
+msgstr "Päivitä asetukset"
+
+#: languages/aioseo-lite.php:5265 languages/aioseo-pro.php:7726
+msgid "Sport"
+msgstr "Urheilu"
+
+#: languages/aioseo-lite.php:983 languages/aioseo-pro.php:1473
+msgid "Bar"
+msgstr "Baari"
+
+#: languages/aioseo-lite.php:1151 languages/aioseo-pro.php:1713
+msgid "Cafe"
+msgstr "Kahvila"
+
+#: languages/aioseo-lite.php:2853 languages/aioseo-pro.php:4096
+msgid "Hotel"
+msgstr "Hotelli"
+
+#: languages/aioseo-lite.php:4643 languages/aioseo-pro.php:6753
+msgid "Restaurant"
+msgstr "Ravintola"
+
+#: languages/aioseo-lite.php:5271 languages/aioseo-pro.php:7738
+msgid "Sports League"
+msgstr "Urheiluliiga"
+
+#: languages/aioseo-lite.php:5274 languages/aioseo-pro.php:7741
+msgid "Sports Team"
+msgstr "Urheilujoukkue"
+
+#: languages/aioseo-lite.php:980 languages/aioseo-pro.php:1470
+msgid "Band"
+msgstr "Bändi"
+
+#: languages/aioseo-lite.php:4747 languages/aioseo-pro.php:6930
+msgid "School"
+msgstr "Koulu"
+
+#: languages/aioseo-lite.php:6260 languages/aioseo-pro.php:9166
+msgid "University"
+msgstr "Yliopisto"
+
+#: languages/aioseo-lite.php:1186 languages/aioseo-pro.php:1773
+msgid "Cause"
+msgstr "Aate"
+
+#: languages/aioseo-lite.php:419 languages/aioseo-pro.php:577
+msgid "Activity"
+msgstr "Toiminta"
+
+#: languages/aioseo-lite.php:888 languages/aioseo-pro.php:1309
+msgid "Athlete"
+msgstr "Urheilija"
+
+#: languages/aioseo-lite.php:1803 languages/aioseo-pro.php:2653
+msgid "Director"
+msgstr "Ohjaaja"
+
+#: languages/aioseo-lite.php:3654 languages/aioseo-pro.php:5294
+msgid "Musician"
+msgstr "Muusikko"
+
+#: languages/aioseo-lite.php:4298 languages/aioseo-pro.php:6179
+msgid "Politician"
+msgstr "Poliitikko"
+
+#: languages/aioseo-lite.php:1531 languages/aioseo-pro.php:2214
+#: dist/Lite/assets/post-settings-a377de34.js:1
+msgid "Country"
+msgstr "Valtio"
+
+#: languages/aioseo-lite.php:3265 languages/aioseo-pro.php:4674
+msgid "Landmark"
+msgstr "Maamerkki"
+
+#: languages/aioseo-lite.php:595 languages/aioseo-pro.php:853
+msgid "Album"
+msgstr "Albumi"
+
+#: languages/aioseo-lite.php:1055 languages/aioseo-pro.php:1576
+#: dist/Lite/assets/js/App.a588f5fa.js:1
+msgid "Book"
+msgstr "Kirja"
+
+#: languages/aioseo-lite.php:4442 languages/aioseo-pro.php:6407
+msgid "Public Figure"
+msgstr "Julkisuuden henkilö"
+
+#: languages/aioseo-lite.php:422 languages/aioseo-pro.php:580
+msgid "Actor"
+msgstr "Näyttelijä"
+
+#: languages/aioseo-lite.php:2389 languages/aioseo-pro.php:3539
+msgid "Food"
+msgstr "Ruoka"
+
+#: languages/aioseo-lite.php:2449 languages/aioseo-pro.php:3630
+msgid "Game"
+msgstr "Peli"
+
+#: languages/aioseo-lite.php:3633 languages/aioseo-pro.php:5259
+#: dist/Lite/assets/js/App.a588f5fa.js:1
+msgid "Movie"
+msgstr "Elokuva"
+
+#: app/Common/Main/Updates.php:1176 languages/aioseo-lite.php:4423
+#: languages/aioseo-pro.php:6377 dist/Lite/assets/js/App.a588f5fa.js:1
+msgid "Product"
+msgstr "Tuote"
+
+#: languages/aioseo-lite.php:5238 languages/aioseo-pro.php:7691
+msgid "Song"
+msgstr "Laulu"
+
+#: languages/aioseo-lite.php:6201 languages/aioseo-pro.php:9066
+msgid "TV Show"
+msgstr "TV-ohjelma"
+
+#: languages/aioseo-lite.php:2168 languages/aioseo-pro.php:3218
+msgid "Episode"
+msgstr "Jakso"
+
+#: app/Common/Main/Updates.php:1134 languages/aioseo-lite.php:851
+#: languages/aioseo-pro.php:1266 dist/Lite/assets/js/App.a588f5fa.js:1
+#: dist/Lite/assets/js/Schema.13e022be.js:1
+msgid "Article"
+msgstr "Artikkeli"
+
+#: languages/aioseo-lite.php:1044 languages/aioseo-pro.php:1559
+#: dist/Lite/assets/js/Breadcrumbs.f2e60b76.js:1
+#: dist/Lite/assets/js/Category.6273682a.js:1
+msgid "Blog"
+msgstr "Blogi"
+
+#: languages/aioseo-lite.php:1914 languages/aioseo-pro.php:2810
+msgid "Drink"
+msgstr "Juoma"
+
+#: languages/aioseo-lite.php:5142 languages/aioseo-pro.php:7568
+#: dist/Lite/assets/js/Facebook.99580b2f.js:1
+msgid "Site Name"
+msgstr "Sivuston nimi"
+
+#: languages/aioseo-lite.php:4312 languages/aioseo-pro.php:6200
+#: dist/Lite/assets/js/Image.00bca9a1.js:1
+msgid "Post Author Image"
+msgstr "Artikkelin kirjoittajan kuva"
+
+#: languages/aioseo-lite.php:2314 languages/aioseo-pro.php:3457
+#: dist/Lite/assets/js/Image.00bca9a1.js:1
+msgid "First Available Image"
+msgstr "Ensimmäinen saatavilla oleva kuva"
+
+#: languages/aioseo-lite.php:2287 languages/aioseo-pro.php:3420
+#: dist/Lite/assets/js/Image.00bca9a1.js:1
+msgid "Featured Image"
+msgstr "Artikkelikuva"
+
+#: languages/aioseo-lite.php:4899 languages/aioseo-pro.php:7158
+#: dist/Lite/assets/js/GeneralSitemap.e69bb8e0.js:1
+#: dist/Lite/assets/js/HtmlSitemap.6c23e491.js:1
+#: dist/Lite/assets/js/NewsSitemap.89b2570b.js:1
+#: dist/Lite/assets/js/RssSitemap.2936fcb4.js:1
+msgid "Select which Post Types appear in your sitemap."
+msgstr "Valitse mitkä sisältötyypit näkyvät sivustokartassa."
+
+#: languages/aioseo-lite.php:3095 languages/aioseo-pro.php:4448
+#: dist/Lite/assets/js/GeneralSitemap.e69bb8e0.js:1
+#: dist/Lite/assets/js/RssSitemap.2936fcb4.js:1
+msgid "Include Date Archives in your sitemap."
+msgstr "Sisällytä päivämääräarkistot sivustokarttaan."
+
+#: languages/aioseo-lite.php:907 languages/aioseo-pro.php:1351
+#: dist/Lite/assets/js/WebmasterTools.629bc1d6.js:1
+msgid "Author"
+msgstr "Kirjailija"
+
+#: languages/aioseo-lite.php:4206 languages/aioseo-pro.php:6064
+#: dist/Lite/assets/js/AdditionalInformation.a3121ed5.js:1
+#: dist/Lite/assets/js/GlobalSettings.91862e17.js:1
+msgid "Person or Organization"
+msgstr "Henkilö tai organisaatio"
+
+#: app/Common/Admin/Admin.php:318
+#: app/Common/Views/sitemap/html/widget-options.php:13
+#: languages/aioseo-lite.php:5969 languages/aioseo-pro.php:8773
+#: dist/Lite/assets/js/App.a588f5fa.js:1
+#: dist/Lite/assets/js/Facebook.99580b2f.js:1
+#: dist/Lite/assets/js/KeywordRankings.414c923e.js:1
+#: dist/Lite/assets/js/Media.5d30d159.js:1
+#: dist/Lite/assets/js/PostsTable.581ca350.js:1
+#: dist/Lite/assets/seo-preview-e2d4af4a.js:1
+msgid "Title"
+msgstr "Otsikko"
+
+#: app/Common/Tools/SystemStatus.php:129 app/Common/Tools/SystemStatus.php:133
+#: app/Common/Tools/SystemStatus.php:137 app/Common/Tools/SystemStatus.php:141
+#: app/Common/Tools/SystemStatus.php:145 app/Common/Tools/SystemStatus.php:149
+#: app/Common/Tools/SystemStatus.php:153 app/Common/Tools/SystemStatus.php:157
+#: app/Common/Tools/SystemStatus.php:161 languages/aioseo-lite.php:1821
+#: languages/aioseo-pro.php:2681
+msgid "Disabled"
+msgstr "Kopioi alkuperäisestä"
+
+#: languages/aioseo-lite.php:2082 languages/aioseo-pro.php:3087
+msgid "Enabled"
+msgstr "Käytössä"
+
+#: languages/aioseo-lite.php:2839 languages/aioseo-pro.php:4082
+#: dist/Lite/assets/js/Facebook.99580b2f.js:1
+#: dist/Lite/assets/js/Twitter.e15822f4.js:1
+msgid "Home Page Settings"
+msgstr "Etusivun asetukset"
+
+#: languages/aioseo-lite.php:1863 languages/aioseo-pro.php:2744
+msgid "Display Settings"
+msgstr "Näyttöasetukset"
+
+#: languages/aioseo-lite.php:1789 languages/aioseo-pro.php:2613
+#: dist/Lite/assets/js/Advanced.9073f51e.js:1
+msgid "Description Format"
+msgstr "Kuvauksen muoto"
+
+#: app/Common/Utils/Tags.php:563 languages/aioseo-lite.php:1786
+#: languages/aioseo-pro.php:2610 dist/Lite/assets/js/Facebook.99580b2f.js:1
+#: dist/Lite/assets/js/Media.5d30d159.js:1
+#: dist/Lite/assets/js/Twitter.e15822f4.js:1
+#: dist/Lite/assets/seo-preview-e2d4af4a.js:1
+msgid "Description"
+msgstr "Kuvaus"
+
+#: languages/aioseo-lite.php:485 languages/aioseo-pro.php:694
+#: dist/Lite/assets/js/WebmasterTools.2cb6a6eb.js:11
+msgid "Additional Domains"
+msgstr "Lisäverkkotunnukset"
+
+#: languages/aioseo-lite.php:769 languages/aioseo-pro.php:1081
+#: dist/Lite/assets/js/WebmasterTools.2cb6a6eb.js:11
+msgid "Anonymize IP Addresses"
+msgstr "Anonyymoi IP-osoitteet"
+
+#: languages/aioseo-lite.php:924 languages/aioseo-pro.php:1388
+#: dist/Lite/assets/js/Advanced.9073f51e.js:1
+msgid "Autogenerate Descriptions"
+msgstr "Automaattisesti luodut kuvaukset"
+
+#: languages/aioseo-lite.php:1842 languages/aioseo-pro.php:2716
+#: dist/Lite/assets/js/WebmasterTools.2cb6a6eb.js:11
+msgid "Display Advertiser Tracking"
+msgstr "Näyttömainonnan seuranta"
+
+#: languages/aioseo-lite.php:2091 languages/aioseo-pro.php:3102
+#: dist/Lite/assets/js/WebmasterTools.2cb6a6eb.js:11
+msgid "Enhanced Ecommerce"
+msgstr "Parannettu verkkokauppa"
+
+#: languages/aioseo-lite.php:2094 languages/aioseo-pro.php:3105
+#: dist/Lite/assets/js/WebmasterTools.2cb6a6eb.js:11
+msgid "Enhanced Link Attribution"
+msgstr "Parannettu linkkiominaisuus"
+
+#: languages/aioseo-lite.php:2657 languages/aioseo-pro.php:3850
+#: dist/Lite/assets/js/WebmasterTools.2cb6a6eb.js:11
+msgid "Google Analytics ID"
+msgstr "Google Analytics tunnus"
+
+#: languages/aioseo-lite.php:3840 languages/aioseo-pro.php:5515
+#: dist/Lite/assets/js/Advanced.9073f51e.js:1
+msgid "No Pagination for Canonical URLs"
+msgstr "Ei sivutusta kanonisille URL-osoitteille"
+
+#: languages/aioseo-lite.php:4145 languages/aioseo-pro.php:5952
+#: dist/Lite/assets/js/Advanced.9073f51e.js:1
+msgid "Paged Format"
+msgstr "Sivustetun muoto"
+
+#: languages/aioseo-lite.php:4243 languages/aioseo-pro.php:6114
+#: dist/Lite/assets/js/WebmasterTools.2cb6a6eb.js:11
+msgid "Pinterest Site Verification"
+msgstr "Pinterest-sivuston varmennus"
+
+#: languages/aioseo-lite.php:6140 languages/aioseo-pro.php:8993
+#: dist/Lite/assets/js/WebmasterTools.2cb6a6eb.js:11
+msgid "Track Multiple Domains"
+msgstr "Seuraa useita verkkotunnuksia"
+
+#: languages/aioseo-lite.php:6146 languages/aioseo-pro.php:8999
+#: dist/Lite/assets/js/WebmasterTools.2cb6a6eb.js:11
+msgid "Track Outbound Links"
+msgstr "Seuraa lähteviä linkkejä"
+
+#: languages/aioseo-lite.php:6166 languages/aioseo-pro.php:9019
+#: dist/Lite/assets/js/WebmasterTools.2cb6a6eb.js:11
+msgid "Tracking Domain"
+msgstr "Verkkotunnuksen seuranta"
+
+#: languages/aioseo-lite.php:5914 languages/aioseo-pro.php:8695
+#: dist/Lite/assets/js/Advanced.9073f51e.js:1
+msgid "This option allows you to toggle the use of Meta Keywords throughout the whole of the site."
+msgstr "Tässä voit vaihtaa meta-avainsanojen käytön tilaa koko sivustolla."
+
+#: languages/aioseo-lite.php:1201 languages/aioseo-pro.php:1806
+#: dist/Lite/assets/js/Advanced.9073f51e.js:1
+msgid "Check this if you want your categories for a given post used as the Meta Keywords for this post (in addition to any keywords you specify on the Edit Post screen)."
+msgstr "Valitse tämä, jos haluat, että tietyn artikkelin kategorioita käytetään meta-avainsanoina tälle artikkelille (Muokkaa artikkelia -ruudulla määriteltyjen avainsanojen lisäksi)."
+
+#: languages/aioseo-lite.php:1207 languages/aioseo-pro.php:1812
+#: dist/Lite/assets/js/Advanced.9073f51e.js:1
+msgid "Check this if you want your tags for a given post used as the Meta Keywords for this post (in addition to any keywords you specify on the Edit Post screen)."
+msgstr "Valitse tämä, jos haluat, että tietyn artikkelin tageja käytetään meta-avainsanoina tälle artikkelille (Muokkaa artikkelia -ruudulla määriteltyjen avainsanojen lisäksi)."
+
+#: app/Common/Admin/Admin.php:174 languages/aioseo-lite.php:2460
+#: languages/aioseo-pro.php:3648 dist/Lite/assets/js/Main.695a0d91.js:1
+msgid "General Settings"
+msgstr "Yleiset asetukset"
+
+#: languages/aioseo-lite.php:6114 languages/aioseo-pro.php:8967
+#: dist/Lite/assets/js/BadBotBlocker.e92f956d.js:1
+msgid "Track Blocked Bots"
+msgstr "Seuraa estettyjä botteja"
+
+#: languages/aioseo-lite.php:6509 languages/aioseo-pro.php:9534
+#: dist/Lite/assets/js/BadBotBlocker.e92f956d.js:1
+msgid "User Agent Blocklist"
+msgstr "Selainten estolista"
+
+#: languages/aioseo-lite.php:966 languages/aioseo-pro.php:1456
+#: dist/Lite/assets/js/BadBotBlocker.e92f956d.js:1
+#: dist/Lite/assets/js/WpTable.e7a99c57.js:1
+msgid "Bad Bot Blocker"
+msgstr "Haitallisten bottien estäminen"
+
+#: languages/aioseo-lite.php:4560 languages/aioseo-pro.php:6612
+#: dist/Lite/assets/js/BadBotBlocker.e92f956d.js:1
+msgid "Referer Blocklist"
+msgstr "Lähdesivujen estolista"
+
+#. Translators: 1 - The IP address. 2 - The referer.
+#: app/Common/Tools/BadBotBlocker.php:237
+msgid "Blocked bot with IP %1$s -- matched referer %2$s found in blocklist."
+msgstr "Estetty botti IP %1$s:llä - vastaava viittaaja %2$s löytyy estolistasta."
+
+#. Translators: 1 - The IP address. 2 - The user agent.
+#: app/Common/Tools/BadBotBlocker.php:228
+msgid "Blocked bot with IP %1$s -- matched user agent %2$s found in blocklist."
+msgstr "Estetty robotti IP %1$s:llä - vastaava käyttäjäagentti %2$s, joka löytyy estoluettelosta."

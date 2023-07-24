@@ -1,0 +1,161 @@
+# Translation of Plugins - ManageWP Worker - Development (trunk) in Danish
+# This file is distributed under the same license as the Plugins - ManageWP Worker - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-12-12 13:42:36+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: da_DK\n"
+"Project-Id-Version: Plugins - ManageWP Worker - Development (trunk)\n"
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:386
+msgid "Disconnect all"
+msgstr "Afbryd alle"
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:283
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:313
+msgid "Click the Add site button."
+msgstr "Klik på, tilføj websted knappen."
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:277
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:308
+msgid "Log into your account."
+msgstr "Log ind på din konto"
+
+#: src/MWP/EventListener/PublicRequest/AutomaticLogin.php:137
+msgid "Invalid site connection specified. Please try again, or, if this keeps happening, contact support."
+msgstr "Ugyldig webstedsforbindelse angivet. Prøv igen, hvis dette opstår igen, skal du kontakte supporten."
+
+#: functions.php:878
+msgid "Every 5 Minutes"
+msgstr "Hvert 5. minut"
+
+#: src/MWP/EventListener/PublicRequest/AutomaticLogin.php:151
+msgid "The automatic login token isn't properly signed. Please contact our support for help."
+msgstr "Det automatiske login-token er ikke korrekt signeret. Kontakt venligst support for hjælp."
+
+#: functions.php:1150
+msgid "The site is currently in maintenance mode."
+msgstr "Dette websted er for øjeblikket under vedligeholdelse."
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:421
+msgid "Currently loaded keys:"
+msgstr "Indlæste nøgler for øjeblikket:"
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:404
+msgid "Copy"
+msgstr "Kopier"
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:396
+msgid "Connection key:"
+msgstr "Forbindelsesnøgle:"
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:374
+msgid "Disconnect"
+msgstr "Frakobl:"
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:355
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:367
+msgid "N/A"
+msgstr "N/A"
+
+#. translators: the variable is going to contain a human time difference string
+#. like "2 days"
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:352
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:364
+msgid "%s ago"
+msgstr "%s siden"
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:339
+msgid "Last Used"
+msgstr "Sidst brugt"
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:335
+msgid "Connected"
+msgstr "Tilkoblet"
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:331
+msgid "ID"
+msgstr "ID"
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:324
+msgid "Here is the list of currently active connections to this plugin:"
+msgstr "Her er en liste over de aktive tilkoblinger til dette plugin:"
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:317
+msgid "Enter this website's URL. When prompted, paste the connection key."
+msgstr "Indtast dette websteds URL. På anmodning, kopier tilkoblingsnøglen ind."
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:303
+msgid "Copy the connection key below."
+msgstr "Kopier tilkoblingsnøglen herunder."
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:299
+msgid "Install and activate the <b>Worker</b> plugin."
+msgstr "Installer og aktiver <b>Worker</b> plugin'et."
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:294
+msgid "Manual"
+msgstr "Manuel"
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:288
+msgid "Enter this website's URL, admin username and password, and the system will take care of everything."
+msgstr "Indtast webstedets URL, admin brugernavn og adgangskode og systemet tager sig af resten."
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:271
+msgid "Automatic"
+msgstr "Automatisk"
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:266
+msgid "There are two ways to connect your website to the management dashboard:"
+msgstr "Der er to måder, du kan bruge til at tilkoble dit websted til kontrolpanelet."
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:219
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:458
+msgid "Connection Management"
+msgstr "Tilkoblingshåndtering"
+
+#. Author URI of the plugin
+msgid "https://godaddy.com"
+msgstr "https://godaddy.com"
+
+#. Author of the plugin
+msgid "GoDaddy"
+msgstr "GoDaddy"
+
+#. Description of the plugin
+msgid "We help you efficiently manage all your WordPress websites. <strong>Updates, backups, 1-click login, migrations, security</strong> and more, on one dashboard. This service comes in two versions: standalone <a href=\"https://managewp.com\">ManageWP</a> service that focuses on website management, and <a href=\"https://godaddy.com/pro\">GoDaddy Pro</a> that includes additional tools for hosting, client management, lead generation, and more."
+msgstr "Vi hjælper dig til effektiv håndtering af alle dine WordPress websteder. <strong>Opdateringer, backup, 1-klik login, sikkerhed</strong> med mere, samlet i et kontrolpanel. Denne tjeneste kommer i to variationer: Selvstændig <a href=\"https://managewp.com\">ManageWP</a> tjeneste, der fokuserer på webstedshåndtering, og <a href=\"https://godaddy.com/pro\">GoDaddy Pro</a> der inkluderer yderligere redskaber til hosting, kundehåndtering, leadgenerering med mere."
+
+#. Plugin URI of the plugin
+msgid "https://managewp.com"
+msgstr "https://managewp.com"
+
+#. Plugin Name of the plugin
+msgid "ManageWP - Worker"
+msgstr "ManageWP - Worker"
+
+#. translators: the variable in this string is the WordPress username that
+#. could not be found
+#: src/MWP/EventListener/PublicRequest/AutomaticLogin.php:162
+msgid "User <strong>%s</strong> could not be found."
+msgstr "Bruger <strong>%s</strong> kunne ikke findes."
+
+#: src/MWP/EventListener/PublicRequest/AutomaticLogin.php:155
+msgid "The automatic login token is invalid. Please check if this website is properly connected with your dashboard, or, if this keeps happening, contact support."
+msgstr "Nøglekoden for automatisk login er ugyldig. Tjek venligst at webstedet er korrekt forbundet med dit kontrolpanel - hvis det fortsat sker, så kontakt supporten."
+
+#: src/MWP/EventListener/PublicRequest/AutomaticLogin.php:125
+msgid "The automatic login token was already used. Please try again, or, if this keeps happening, contact support."
+msgstr "Nøglekoden for automatisk login er allerede i brug. Prøv venligst igen - hvis det fortsat sker, så kontakt supporten."
+
+#: src/MWP/EventListener/PublicRequest/AutomaticLogin.php:123
+msgid "The automatic login token has expired. Please try again, or, if this keeps happening, contact support."
+msgstr "Nøglekoden for automatisk login er udløbet. Prøv venligst igen - hvis det fortsat sker, så kontakt supporten."
+
+#: src/MWP/EventListener/PublicRequest/AutomaticLogin.php:121
+msgid "The automatic login token is invalid. Please try again, or, if this keeps happening, contact support."
+msgstr "Nøglekoden for automatisk login er ugyldig. Prøv venligst igen - hvis det fortsat sker, så kontakt supporten."

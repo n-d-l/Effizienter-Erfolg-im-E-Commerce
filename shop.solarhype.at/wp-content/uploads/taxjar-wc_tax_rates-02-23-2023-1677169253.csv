@@ -1,0 +1,5 @@
+Country Code,State Code,ZIP/Postcode,Stadt,Steuersatz %,Tax Name,Priorität,Zusammengesetzt,Versand,Tax Class
+AT,*,4600,WELS,20.0000, Tax,1,0,1,
+AT,*,4600,WELS,20.0000, Tax,1,0,1,
+AT,*,*,*,20.0000,MwSt.,1,1,1,
+AT,*,*,*,10.0000,reduzierte MwSt.,1,1,1,

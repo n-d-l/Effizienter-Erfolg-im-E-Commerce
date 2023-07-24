@@ -1,0 +1,3050 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: B2B Market\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-24 11:13+0100\n"
+"PO-Revision-Date: 2023-01-24 11:26+0100\n"
+"Last-Translator: Maik Batzel <info@maikbatzel.com>\n"
+"Language-Team: Deutsch\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: b2b-market.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: b2b-market.php:132
+msgid ""
+"<strong>WooCommerce is not active.</strong> In order to use B2B Market, "
+"please activate WooCommerce first."
+msgstr ""
+"<strong> WooCommerce ist nicht aktiv. </strong> Um B2B-Market nutzen zu "
+"können, aktiviere bitte WooCommerce zuerst."
+
+#: b2b-market.php:150
+#, php-format
+msgid ""
+"<b>B2B Market is activated, but not effective.</b> B2B Market requires PHP %s"
+"+. Your server is currently running PHP %s. Please ask your web hoster to "
+"upgrade to a recent, more stable version of PHP."
+msgstr ""
+"<b>B2B Market ist aktiviert, aber nicht wirksam.</b> B2B Market erfordert "
+"PHP %s+. Auf dem Server läuft derzeit PHP %s. Bitte Deinen Webhoster um ein "
+"Upgrade auf eine neuere, stabilere Version von PHP."
+
+#. translators: %s: link to b2b-market migration settings
+#: b2b-market.php:164
+#, php-format
+msgid ""
+"<strong>Role Based Prices is active</strong>. If you switch from RBP to B2B "
+"Market use our <a href=\"%s\">migrator</a> and deactivate Role Based Prices "
+"after that."
+msgstr ""
+"<strong>Role Based Prices ist aktiv</strong>. Wenn du von RBP auf B2B Market "
+"wechselst, nutze unseren <a href=\"%s\">Migrator</a> und deaktiviere danach "
+"Role Based Prices."
+
+#: b2b-market.php:174
+msgid ""
+"B2B Market could not be activated networke wide due to the license "
+"restrictions. Please activate it on a subsite of your multisite."
+msgstr ""
+"B2B Market konnte auf Grund von Lizenzeinschränkungen nicht netzwerkweit "
+"aktiviert werden. Bitte aktiviere es auf einer Unterseite deiner Mulitsite."
+
+#: inc/marketpress-autoupdater/class-MarketPress_Auto_Update_B2B.php:207
+#: inc/marketpress-autoupdater/class-MarketPress_Auto_Update_B2B.php:698
+#: inc/marketpress-autoupdater/class-MarketPress_Auto_Update_B2B.php:840
+#, php-format
+msgid "The license has been %sexpired%s!"
+msgstr "Diese Lizenz ist abgelaufen %sexpired%s!"
+
+#: inc/marketpress-autoupdater/class-MarketPress_Auto_Update_B2B.php:303
+#: inc/marketpress-autoupdater/class-MarketPress_Auto_Update_B2B.php:374
+#, php-format
+msgid ""
+"The license has already been updated? Click %shere%s to check the license "
+"status and hide this message."
+msgstr ""
+"Die Lizenz wurde bereits aktualisiert? Klicken Sie auf %shere%s, um den "
+"Lizenzstatus zu überprüfen und diese Meldung auszublenden."
+
+#: inc/marketpress-autoupdater/class-MarketPress_Auto_Update_B2B.php:332
+#, php-format
+msgid "Your %s licence is going to expire in %s days."
+msgstr "Deine %s-Lizenz läuft in %s Tagen ab."
+
+#: inc/marketpress-autoupdater/class-MarketPress_Auto_Update_B2B.php:334
+#, php-format
+msgid "Your %s licence is going to expire in one day."
+msgstr "Deine %s-Lizenz läuft an einem Tag ab."
+
+#: inc/marketpress-autoupdater/class-MarketPress_Auto_Update_B2B.php:336
+#, php-format
+msgid "Your %s licence is going to expire today."
+msgstr "Deine %s-Lizenz läuft heute ab."
+
+#: inc/marketpress-autoupdater/class-MarketPress_Auto_Update_B2B.php:350
+#: inc/marketpress-autoupdater/class-MarketPress_Auto_Update_B2B.php:694
+#: inc/marketpress-autoupdater/class-MarketPress_Auto_Update_B2B.php:699
+#: inc/marketpress-autoupdater/class-MarketPress_Auto_Update_B2B.php:842
+msgid "With an expired license you will not receive any updates or support."
+msgstr "Mit einer abgelaufenen Lizenz erhälst du keine Updates oder Support."
+
+#: inc/marketpress-autoupdater/class-MarketPress_Auto_Update_B2B.php:350
+#: inc/marketpress-autoupdater/class-MarketPress_Auto_Update_B2B.php:694
+#: inc/marketpress-autoupdater/class-MarketPress_Auto_Update_B2B.php:699
+#: inc/marketpress-autoupdater/class-MarketPress_Auto_Update_B2B.php:716
+#: inc/marketpress-autoupdater/class-MarketPress_Auto_Update_B2B.php:721
+#: inc/marketpress-autoupdater/class-MarketPress_Auto_Update_B2B.php:842
+#, php-format
+msgid "The owner of the license should please visit %s and renew the license."
+msgstr ""
+"Der Besitzer der Lizenz sollte bitte %s besuchen und die Lizenz erneuern."
+
+#: inc/marketpress-autoupdater/class-MarketPress_Auto_Update_B2B.php:448
+msgid "License"
+msgstr "Lizenz"
+
+#: inc/marketpress-autoupdater/class-MarketPress_Auto_Update_B2B.php:513
+msgid "License Key"
+msgstr "Lizenzschlüssel"
+
+#: inc/marketpress-autoupdater/class-MarketPress_Auto_Update_B2B.php:522
+msgid "Delete License Key"
+msgstr "Lizenzschlüssel löschen"
+
+#: inc/marketpress-autoupdater/class-MarketPress_Auto_Update_B2B.php:527
+msgid "Activate License Key"
+msgstr "Lizenzschlüssel aktivieren"
+
+#: inc/marketpress-autoupdater/class-MarketPress_Auto_Update_B2B.php:574
+msgid "License Status"
+msgstr "Lizenzstatus"
+
+#: inc/marketpress-autoupdater/class-MarketPress_Auto_Update_B2B.php:583
+#: inc/marketpress-autoupdater/class-MarketPress_Auto_Update_B2B.php:679
+#, php-format
+msgid "Enter a valid license key from %s below."
+msgstr "Geben einen validen Lizenzschlüssel von %s ein."
+
+#: inc/marketpress-autoupdater/class-MarketPress_Auto_Update_B2B.php:588
+#: inc/marketpress-autoupdater/class-MarketPress_Auto_Update_B2B.php:680
+msgid "Help! I need to retrieve my key."
+msgstr "Hilfe! Ich brauche meinen Lizenzschlüssel."
+
+#: inc/marketpress-autoupdater/class-MarketPress_Auto_Update_B2B.php:595
+#, php-format
+msgid ""
+"<strong>All is fine.</strong> You are using a valid license key from %s for "
+"this plugin."
+msgstr ""
+"<strong>All ist gut.</strong>  Du nutzt eine valide Lizenz von %s für dieses "
+"Plugin."
+
+#: inc/marketpress-autoupdater/class-MarketPress_Auto_Update_B2B.php:639
+msgid "Access Expires"
+msgstr "Zugang läuft ab"
+
+#: inc/marketpress-autoupdater/class-MarketPress_Auto_Update_B2B.php:678
+msgid ""
+"Your license could not be activated, the license key could not be found."
+msgstr ""
+"Ihr Konto kann nicht aktiviert werden. Der Lizenzschlüssel wurde nicht "
+"gefunden."
+
+#: inc/marketpress-autoupdater/class-MarketPress_Auto_Update_B2B.php:684
+#, php-format
+msgid ""
+"Your license could not be activated, there is no valid license for %s for "
+"this key."
+msgstr ""
+"Deine Lizenz konnte nicht aktiviert werden, es gibt keine gültige Lizenz für "
+"%s für diesen Schlüssel."
+
+#: inc/marketpress-autoupdater/class-MarketPress_Auto_Update_B2B.php:685
+#, php-format
+msgid "Please check your licenses at %s."
+msgstr "Überprüfe deine Lizenzen bei %s."
+
+#: inc/marketpress-autoupdater/class-MarketPress_Auto_Update_B2B.php:693
+#, php-format
+msgid "The license has been %sexpired%s since %s%s%s!"
+msgstr "Die Lizenz ist  %sexpired%s seit %s%s%s!"
+
+#: inc/marketpress-autoupdater/class-MarketPress_Auto_Update_B2B.php:705
+msgid "Your license could not be activated because it has already expired."
+msgstr ""
+"Deine Lizenz konnte nicht aktiviert werden, da sie bereits abgelaufen ist."
+
+#: inc/marketpress-autoupdater/class-MarketPress_Auto_Update_B2B.php:706
+#, php-format
+msgid "Please visit %s to renew your license."
+msgstr "Bitte besuche %s, um deine Lizenz zu erneuern."
+
+#: inc/marketpress-autoupdater/class-MarketPress_Auto_Update_B2B.php:710
+msgid ""
+"Your license could not be activated because your domain limit has been "
+"reached."
+msgstr ""
+"Deine Lizenz konnte nicht aktiviert werden, da dein Domänenlimit erreicht "
+"wurde."
+
+#: inc/marketpress-autoupdater/class-MarketPress_Auto_Update_B2B.php:711
+#, php-format
+msgid ""
+"Please visit %s to manage the domains you use or to upgrade your license."
+msgstr ""
+"Besuche %s, um deine genutzten Domains zu verwalten oder deine Lizenz zu "
+"aktualisieren."
+
+#: inc/marketpress-autoupdater/class-MarketPress_Auto_Update_B2B.php:715
+msgid "Your license key could not be found."
+msgstr "Dein Lizenzschlüssel wurde nicht gefunden."
+
+#: inc/marketpress-autoupdater/class-MarketPress_Auto_Update_B2B.php:716
+#: inc/marketpress-autoupdater/class-MarketPress_Auto_Update_B2B.php:721
+#: inc/marketpress-autoupdater/class-MarketPress_Auto_Update_B2B.php:726
+#: inc/marketpress-autoupdater/class-MarketPress_Auto_Update_B2B.php:731
+msgid "You will not receive any updates or support."
+msgstr "Du erhältst keine Updates oder Support."
+
+#: inc/marketpress-autoupdater/class-MarketPress_Auto_Update_B2B.php:720
+#, php-format
+msgid "There is no valid license for %s for the used license key."
+msgstr ""
+"Für %s gibt es keine gültige Lizenz für den verwendeten Lizenzschlüssel."
+
+#: inc/marketpress-autoupdater/class-MarketPress_Auto_Update_B2B.php:725
+msgid "The domain limit has been reached for this license."
+msgstr "Das Domainlimit für diese Lizenz wurde erreicht."
+
+#: inc/marketpress-autoupdater/class-MarketPress_Auto_Update_B2B.php:726
+#, php-format
+msgid ""
+"The owner of the license should please visit %s to manage the domains or to "
+"upgrade the license."
+msgstr ""
+"Der Besitzer der Lizenz sollte %s besuchen, um die Domains zu verwalten oder "
+"die Lizenz zu aktualisieren."
+
+#: inc/marketpress-autoupdater/class-MarketPress_Auto_Update_B2B.php:730
+msgid "There is something wrong with this license."
+msgstr "Es stimmt etwas nicht mit dieser Lizenz."
+
+#: inc/marketpress-autoupdater/class-MarketPress_Auto_Update_B2B.php:732
+msgid ""
+"Please try again later to check the license status. If this error still "
+"exists, please contact our support team at \"support@marketpress.com\"."
+msgstr ""
+"Versuche es später erneut, um den Lizenzstatus zu überprüfen. Wenn dieser "
+"Fehler weiterhin vorliegt, wenden Sie sich bitte an unser Support-Team unter "
+"\"support@marketpress.com\"."
+
+#: inc/marketpress-improve-plugin/abstracts/abstract-class-marketpress-improve-plugin.php:263
+#, php-format
+msgid ""
+"Thanks for supporting <strong>MarketPress</strong> to improve <strong>%s</"
+"strong>"
+msgstr ""
+"Vielen Dank für die Unterstützung von <strong>MarketPress</strong> um "
+"<strong>%s</strong> zu verbessern"
+
+#: inc/marketpress-improve-plugin/abstracts/abstract-class-marketpress-improve-plugin.php:274
+#, php-format
+msgid ""
+"We at <strong>MarketPress</strong> want to constantly improve our plugin "
+"<strong>%s</strong>. We would be happy if you help us by sending data on "
+"your use of the plugin once. The data is anonymous, there is no conclusion "
+"on your used website or MarketPress licence."
+msgstr ""
+"Wir bei <strong>MarketPress</strong> möchten unser Produkt <strong>%s</"
+"strong> stetig verbessern. Wir würden uns freuen wenn du uns erlauben "
+"würdest einmalig die technischen Daten zu deinem System zu übertragen. Die "
+"Daten sind völlig anonym und ermöglichen keinerlei Rückschlüsse auf Ihren "
+"Online Shop oder ihre aktuelle Lizenz."
+
+#: inc/marketpress-improve-plugin/abstracts/abstract-class-marketpress-improve-plugin.php:274
+msgid ""
+"Click <a style=\"cursor: pointer;\" class=\"marketpress-improve-show-data"
+"\">here</a> to show the data sent to MarketPress."
+msgstr ""
+"Klicke <a style=„cursor: pointer;“ class=„marketpress-improve-show-"
+"data“>hier</a> um zu sehen, welche Daten an MarketPress übertragen werden."
+
+#: inc/marketpress-improve-plugin/abstracts/abstract-class-marketpress-improve-plugin.php:285
+msgid "Yes, send data once"
+msgstr "Ja, sende Daten einmalig"
+
+#: inc/marketpress-improve-plugin/abstracts/abstract-class-marketpress-improve-plugin.php:295
+msgid "No, thanks."
+msgstr "Nein, danke."
+
+#: src/addons/conditional-shipping-payment/admin/class-csp-options.php:13
+msgid "Shipping and Payment"
+msgstr "Versand und Zahlung"
+
+#: src/addons/conditional-shipping-payment/admin/class-csp-options.php:20
+msgid "Payment"
+msgstr "Zahlung"
+
+#: src/addons/conditional-shipping-payment/admin/class-csp-options.php:26
+msgid "Shipping"
+msgstr "Versand"
+
+#: src/addons/conditional-shipping-payment/admin/class-csp-options.php:52
+#: src/addons/conditional-shipping-payment/admin/class-csp-options.php:116
+msgid "Customer Group: "
+msgstr "Kundengruppe: "
+
+#: src/addons/conditional-shipping-payment/admin/class-csp-options.php:153
+msgid "Deactivate specific shipping methods"
+msgstr "Bestimmte Versandmethoden deaktivieren"
+
+#: src/addons/conditional-shipping-payment/admin/class-csp-options.php:154
+msgid ""
+"You can deactivate specific shipping methods by there rate id. Please follow "
+"this tutorial to find your rate ids: <a target=\"_blank\" href=\"https://"
+"marketpress.de/dokumentation/b2b-market/addons/\">How to find your rate ids</"
+"a>"
+msgstr ""
+"Du kannst Versandmethoden mit ihrer ID deaktivieren. Folge diesem Tutorial "
+"um die IDs deiner Versandmethoden herauszufinden: <a target=\"_blank\" href="
+"\"https://marketpress.de/dokumentation/b2b-market/addons/\">Rate IDs finden</"
+"a>"
+
+#: src/addons/import-export/admin/class-ie-options.php:18
+msgid "Import and Export"
+msgstr "Import und Export"
+
+#: src/addons/import-export/admin/class-ie-options.php:23
+msgid "Export"
+msgstr "Export"
+
+#: src/addons/import-export/admin/class-ie-options.php:29
+msgid "Import"
+msgstr "Import"
+
+#: src/addons/import-export/admin/class-ie-options.php:63
+msgid "Which Customer Groups do you want export?"
+msgstr "Welche Kundengruppe möchtest du exportieren?"
+
+#: src/addons/import-export/admin/class-ie-options.php:66
+#: src/addons/import-export/class-ie.php:46
+msgid "Select all / Unselect all"
+msgstr "Alle auswählen / Alle abwählen"
+
+#: src/addons/import-export/admin/class-ie-options.php:86
+msgid "Do you want export the B2B Market Plugin Settings also?"
+msgstr "Möchtest du ebenfalls die B2B Market Einstellungen exportieren?"
+
+#: src/addons/import-export/admin/class-ie-options.php:96
+msgid "Yes, export the plugin settings too."
+msgstr "Ja, Einstellungen ebenfalls exportieren."
+
+#: src/addons/import-export/admin/class-ie-options.php:99
+msgid "I want to save the export as a file on my local computer."
+msgstr "Ich möchte den Export als Datei auf meinem Computer speichern."
+
+#: src/addons/import-export/admin/class-ie-options.php:105
+msgid "Start Export"
+msgstr "Export starten"
+
+#: src/addons/import-export/admin/class-ie-options.php:108
+msgid "Export Output"
+msgstr "Export-Ausgabe"
+
+#: src/addons/import-export/admin/class-ie-options.php:116
+msgid "Export complete"
+msgstr "Export abgeschlossen"
+
+#: src/addons/import-export/admin/class-ie-options.php:116
+msgid "Your export was successfull"
+msgstr "Dein Export wurde erfolgreich abgeschlossen"
+
+#: src/addons/import-export/admin/class-ie-options.php:134
+#: src/addons/import-export/admin/class-ie-options.php:147
+#, php-format
+msgid "Step %s"
+msgstr "Schritt %s"
+
+#: src/addons/import-export/admin/class-ie-options.php:134
+msgid "Import Data"
+msgstr "Daten importieren"
+
+#: src/addons/import-export/admin/class-ie-options.php:137
+msgid "Please insert your export data here or upload an export file below."
+msgstr ""
+"Bitte füge dein Export-Snippet ein oder lade eine Export-Datei weiter unten "
+"hoch."
+
+#: src/addons/import-export/admin/class-ie-options.php:139
+msgid "or"
+msgstr "oder"
+
+#: src/addons/import-export/admin/class-ie-options.php:142
+msgid "Analyze Data"
+msgstr "Analysiere Daten"
+
+#: src/addons/import-export/admin/class-ie-options.php:147
+msgid "Choose what to Import"
+msgstr "Was möchtest du importieren?"
+
+#: src/addons/import-export/admin/class-ie-options.php:150
+msgid ""
+"Please choose here, after successful analysis of the data, what do you want "
+"to import."
+msgstr ""
+"Bitte wähle was du importieren möchtest, nachdem die Analyse der Daten "
+"abgeschlossen ist."
+
+#: src/addons/import-export/admin/class-ie-options.php:155
+msgid "Import complete"
+msgstr "Import abgeschlossen"
+
+#: src/addons/import-export/admin/class-ie-options.php:155
+msgid "Your import was successfull"
+msgstr "Dein Import wurde erfolgreich durchgeführt"
+
+#: src/addons/import-export/admin/class-ie-options.php:170
+msgid ""
+"Migrate all Settings from your current installation of Role Based Prices"
+msgstr ""
+"Migrieren aller Einstellungen von der aktuellen Installation des Plugins "
+"Role Based Prices"
+
+#: src/addons/import-export/class-ie.php:45
+msgid "Plugin Settings"
+msgstr "Plugin Einstellungen"
+
+#: src/addons/import-export/class-ie.php:47
+msgid "Group"
+msgstr "Kundengruppe"
+
+#: src/addons/import-export/class-ie.php:48
+msgid "Start Import"
+msgstr "Import starten"
+
+#: src/addons/import-export/class-ie.php:49
+msgid "Please upload your import data first."
+msgstr "Bitte lade erst deine Import-Datei hoch."
+
+#: src/addons/import-export/class-ie.php:50
+msgid "Error occurred: Cannot read or convert import data."
+msgstr ""
+"Es ist ein Fehler aufgetreten: Die Daten konnte nicht gelesen oder "
+"importiert werden."
+
+#: src/addons/import-export/inc/class-ie-importer.php:51
+msgid "The selected data were successfully imported."
+msgstr "Die ausgewählten Daten wurden erfolgreich importiert."
+
+#: src/addons/min-max-quantities/class-bm-quantities.php:192
+#, php-format
+msgid "You can add a maximum of %1$s %2$s's to %3$s. You already have %4$s."
+msgstr "Du kannst maximal  %1$s %2$s zu %3$s hinzufügen. Du hast bereits %4$s."
+
+#: src/addons/min-max-quantities/class-bm-quantities.php:195
+#: src/addons/min-max-quantities/class-bm-quantities.php:310
+#: src/addons/min-max-quantities/class-bm-quantities.php:320
+#: src/addons/min-max-quantities/class-bm-quantities.php:426
+#: src/addons/min-max-quantities/class-bm-quantities.php:434
+msgid "your cart"
+msgstr "deinem Warenkorb"
+
+#: src/addons/min-max-quantities/class-bm-quantities.php:203
+#: src/addons/min-max-quantities/class-bm-quantities.php:328
+#: src/addons/min-max-quantities/class-bm-quantities.php:440
+#, php-format
+msgid "You are only allowed to add the product %1$s in steps of %2$s."
+msgstr ""
+"Du kannst die Menge für das Produkt %1$s nur in %2$ser Schritten ändern."
+
+#: src/addons/min-max-quantities/class-bm-quantities.php:307
+#: src/addons/min-max-quantities/class-bm-quantities.php:423
+#, php-format
+msgid "You can add a maximum of %1$s %2$s's to %3$s."
+msgstr "Du kannst maximal  %1$s %2$s zu  %3$s hinzufügen."
+
+#: src/addons/min-max-quantities/class-bm-quantities.php:317
+#: src/addons/min-max-quantities/class-bm-quantities.php:431
+#, php-format
+msgid "You should have minimum of %1$s %2$s's to %3$s."
+msgstr "Du solltest mindestens  %1$s %2$s zu %3$s hinzufügen."
+
+#: src/addons/registration/admin/class-rgn-options.php:19
+#: src/addons/registration/admin/class-rgn-options.php:23
+#: src/options/class-bm-options.php:1444
+msgid "Registration"
+msgstr "Registrierung"
+
+#: src/addons/registration/admin/class-rgn-options.php:29
+#: src/options/class-bm-options.php:561
+msgid "General"
+msgstr "Allgemein"
+
+#: src/addons/registration/admin/class-rgn-options.php:68
+msgid "Activate for registration"
+msgstr "Aktiviere für Registrierung"
+
+#: src/addons/registration/admin/class-rgn-options.php:74
+msgid "Sequence"
+msgstr "Reihenfolge"
+
+#: src/addons/registration/admin/class-rgn-options.php:80
+msgid "Custom name"
+msgstr "Benutzerdefinierter Name"
+
+#: src/addons/registration/admin/class-rgn-options.php:109
+msgid "Do you want to activate Double Opt-in?"
+msgstr "Möchtest du Double Opt-in aktivieren?"
+
+#: src/addons/registration/admin/class-rgn-options.php:120
+msgid "Activate Double Opt-In"
+msgstr "Aktiviere Double Opt-In"
+
+#: src/addons/registration/admin/class-rgn-options.php:128
+msgid "Autodelete non activated accounts after 14 days."
+msgstr "Automatisch nicht aktivierte Accounts nach 14 Tagen löschen."
+
+#: src/addons/registration/admin/class-rgn-options.php:136
+msgid "Double Opt-In is already activated in German Market."
+msgstr "Double Opt-In ist bereits in German Market aktiviert."
+
+#: src/addons/registration/admin/class-rgn-options.php:139
+msgid ""
+"The Double Opt-In from B2B Market is automatically deactivated when it is "
+"activated in German Market as they are the same solution and do not have to "
+"be included multiples times."
+msgstr ""
+"Das Double Opt-In von B2B Market wurde automatisch deaktiviert, da es "
+"bereits in German Market aktiviert ist. Es handelt sich dabei um die gleiche "
+"Lösung und eine doppelte Aktivierung ist nicht notwendig."
+
+#: src/addons/registration/admin/class-rgn-options.php:152
+msgid "Labels and Placeholders"
+msgstr "Label und Platzhalter"
+
+#: src/addons/registration/admin/class-rgn-options.php:159
+msgid "Remove Label"
+msgstr "Label entfernen"
+
+#: src/addons/registration/admin/class-rgn-options.php:160
+msgid "Remove the label for the customer group select field."
+msgstr "Label für Kundengruppe ausblenden."
+
+#: src/addons/registration/admin/class-rgn-options.php:168
+msgid "Placeholder instead of Label"
+msgstr "Platzhalter statt Label benutzen"
+
+#: src/addons/registration/admin/class-rgn-options.php:169
+msgid "Use a placeholder instead of the label for all registration fields."
+msgstr "Nutze Platzhalter statt des Labels für alle Registrierungsfelder."
+
+#: src/addons/registration/inc/class-rgn-vat-validator.php:85
+msgid "VAT Number"
+msgstr "UST-ID-Nummer"
+
+#: src/addons/registration/inc/class-rgn-vat-validator.php:88
+msgid "Successfully validated. (Whew!)"
+msgstr "Erfolgreich validiert. (Puh!)"
+
+#: src/addons/registration/inc/class-rgn-vat-validator.php:89
+msgid ""
+"API server rejects input. Have you entered a valid country code? A valid "
+"country code consists of 2 capitals, like DE for Germany. Check allowed "
+"country codes <a href=\"http://ec.europa.eu/taxation_customs/vies/help.html"
+"\" target=\"_blank\">here</a>."
+msgstr ""
+"Der API-Server weist die Eingabe zurück. Hast du einen gültigen Ländercode "
+"eingegeben? Ein gültiger Ländercode besteht aus 2 Großbuchstaben, wie DE für "
+"Deutschland. Überprüfe die zulässigen Ländercodes <a href=\"http://ec.europa."
+"eu/taxation_customs/vies/help.html\" target=\"_blank\">hier</a>."
+
+#: src/addons/registration/inc/class-rgn-vat-validator.php:90
+msgid ""
+"Could not establish connection to API server. Falling back to static "
+"validation. (<a href=\"http://ec.europa.eu/taxation_customs/vies/help.html\" "
+"target=\"_blank\">Why?</a>)"
+msgstr ""
+"Verbindung zum API-Server konnte nicht hergestellt werden. Zurückfallen auf "
+"statische Validierung. (<a href=\"http://ec.europa.eu/taxation_customs/vies/"
+"help.html\" target=\"_blank\"> Warum? </a>)"
+
+#: src/addons/registration/inc/class-rgn-vat-validator.php:91
+msgid ""
+"Validation aborted: No input found. Input might have been rejected, or the "
+"number you have entered simply cannot be found."
+msgstr ""
+"Validierung abgebrochen: Keine Eingabe gefunden. Die Eingabe wurde "
+"möglicherweise abgelehnt, oder die eingegebene Nummer konnte nicht gefunden "
+"werden."
+
+#: src/addons/registration/inc/class-rgn-vat-validator.php:92
+msgid ""
+"Invalid input: Value passed does not seem to be a string or an array. (Aka "
+"something’s wrong here technically.)"
+msgstr ""
+"Ungültige Eingabe: Der übergebene Wert scheint nicht ein String oder ein "
+"Array zu sein. (Etwas ist hier technisch falsch.)"
+
+#: src/addons/registration/inc/class-rgn-vat-validator.php:93
+msgid ""
+"Invalid input: Array does not seem to consist of 2 strings. (Aka something’s "
+"wrong here technically.)"
+msgstr ""
+"Ungültige Eingabe: Array scheint nicht aus 2 Strings bestehen. (etwas ist "
+"hier technisch falsch.)"
+
+#: src/addons/registration/inc/class-rgn-vat-validator.php:94
+msgid ""
+"RegEx: Country Code not recognized. Have you entered a valid country code? A "
+"valid country code consists of 2 capitals, like DE for Germany. Check "
+"allowed country codes <a href=\"http://ec.europa.eu/taxation_customs/vies/"
+"help.html\" target=\"_blank\">here</a>"
+msgstr ""
+"RegEx: Ländercode nicht erkannt. Hast du einen gültigen Ländercode "
+"eingegeben? Ein gültiger Ländercode besteht aus 2 Großbuchstaben, wie DE für "
+"Deutschland. Überprüfe die zulässigen Ländercodes <a href=\"http://ec.europa."
+"eu/taxation_customs/vies/help.html\" target=\"_blank\">hier</a>"
+
+#: src/addons/registration/src/class-rgn-billing-address.php:103
+#: src/addons/registration/src/class-rgn-registration.php:93
+#: src/addons/registration/src/class-rgn-user-meta.php:32
+msgid "VAT-ID"
+msgstr "Umsatzsteuer-ID"
+
+#: src/addons/registration/src/class-rgn-billing-address.php:104
+#: src/addons/registration/src/class-rgn-registration.php:118
+#: src/class-bm-admin.php:534 src/options/class-bm-list-table.php:107
+msgid "Customer Group"
+msgstr "Kundengruppe"
+
+#: src/addons/registration/src/class-rgn-double-opt-in-email.php:34
+msgid "Double Opt-in Customer Registration"
+msgstr "Double-Opt-in-Kundenregistrierung"
+
+#: src/addons/registration/src/class-rgn-double-opt-in-email.php:35
+msgid "Order confirmation e-mail sent to customers."
+msgstr "Bestellbestätigung, die per E-Mail an Kunden versandt wird."
+
+#: src/addons/registration/src/class-rgn-double-opt-in-email.php:37
+#: src/addons/registration/src/class-rgn-double-opt-in-email.php:38
+msgid "Activate your account - {site_title}"
+msgstr "Aktiviere dein Benutzerkonto auf {site_title}"
+
+#: src/addons/registration/src/class-rgn-double-opt-in-registration.php:170
+msgid ""
+"If you don't activate your account, it will be automatically deleted after "
+"[days] days."
+msgstr ""
+"Wenn du deinen Account nicht aktivierst, wird er automatisch nach [days] "
+"gelöscht."
+
+#: src/addons/registration/src/class-rgn-double-opt-in-registration.php:198
+#, php-format
+msgid "Number of resend Double Opt In Activation Emails: %s"
+msgstr "Anzahl an erneuten E-Mails für Aktivierung %s"
+
+#: src/addons/registration/src/class-rgn-double-opt-in-registration.php:211
+#, php-format
+msgid "Number of manually activated accounts: %s"
+msgstr "Anzahl von manuell aktivierten Accounts: %s"
+
+#: src/addons/registration/src/class-rgn-double-opt-in-registration.php:317
+msgid "Resend Double Opt In Activation Email"
+msgstr "Schicke Double-Opt-In E-Mail erneut"
+
+#: src/addons/registration/src/class-rgn-double-opt-in-registration.php:318
+msgid "Double Opt In: Manual Account Activation"
+msgstr "Double Opt-In: Manuelle Aktivierung"
+
+#: src/addons/registration/src/class-rgn-double-opt-in-registration.php:374
+#: src/addons/registration/src/class-rgn-double-opt-in-registration.php:405
+msgctxt "Double Opt In Status"
+msgid "Waiting"
+msgstr "Wartend"
+
+#: src/addons/registration/src/class-rgn-double-opt-in-registration.php:375
+msgctxt "Double Opt In Status"
+msgid "Activated"
+msgstr "Aktiviert"
+
+#: src/addons/registration/src/class-rgn-double-opt-in-registration.php:377
+msgid "Double Opt In Filter..."
+msgstr "Double-Opt-In in Filter.."
+
+#: src/addons/registration/src/class-rgn-double-opt-in-registration.php:381
+msgid "Filter"
+msgstr "Filter"
+
+#: src/addons/registration/src/class-rgn-double-opt-in-registration.php:409
+#, php-format
+msgctxt "Double Opt In Status in Backend"
+msgid "since %s"
+msgstr "seit %s"
+
+#: src/addons/registration/src/class-rgn-double-opt-in-registration.php:412
+msgctxt "Double Opt In Status in Backend"
+msgid "Activated"
+msgstr "Aktiviert"
+
+#: src/addons/registration/src/class-rgn-double-opt-in-registration.php:431
+msgid "Double Opt In"
+msgstr "Aktiviere Double Opt-In"
+
+#: src/addons/registration/src/class-rgn-double-opt-in-registration.php:471
+msgid ""
+"Please activate your account through clicking on the activation link "
+"received via email."
+msgstr ""
+"Bitte aktiviere dein Kundenkonto, indem du auf den Link in der E-Mail "
+"klickst."
+
+#: src/addons/registration/src/class-rgn-double-opt-in-registration.php:625
+msgid "Your account has been successfully activated."
+msgstr "Ihr Konto wurde erfolgreich aktiviert."
+
+#: src/addons/registration/src/class-rgn-double-opt-in-registration.php:633
+msgid "Your account has already been activated."
+msgstr "Dein Account wurde bereits aktiviert."
+
+#: src/addons/registration/src/class-rgn-double-opt-in-registration.php:640
+msgid "Your account cannot be activated. The activation code cannot be found."
+msgstr ""
+"Ihr Konto kann nicht aktiviert werden. Der Aktivierungscode wurde nicht "
+"gefunden."
+
+#: src/addons/registration/src/class-rgn-double-opt-in-registration.php:668
+msgid "A new activation link has been sent to your e-mail."
+msgstr "Ein neuer Aktivierungslink wurde an deine E-Mail gesendet."
+
+#: src/addons/registration/src/class-rgn-double-opt-in-registration.php:702
+#, php-format
+msgid ""
+"Please activate your account through clicking on the activation link "
+"received via email. Click <a href=\"%s\">here</a> if you need a new "
+"activation link."
+msgstr ""
+"Aktiviere dein Konto, indem du auf den Aktivierungslink klickst, den du per "
+"E-Mail erhalten hast. Klicke auf < a href = \" %s\" > hier </a>, wenn du "
+"einen neuen Aktivierungslink benötigst."
+
+#: src/addons/registration/src/class-rgn-registration.php:99
+#: src/addons/registration/src/class-rgn-user-meta.php:41
+msgid "Company registration number"
+msgstr "Handelsregisternummer"
+
+#: src/addons/registration/src/class-rgn-registration.php:181
+msgid "VAT is required!"
+msgstr "USt-IdNr. ist verpflichtend!"
+
+#: src/addons/registration/src/class-rgn-registration.php:190
+msgid "VAT is not valid!"
+msgstr "USt-IdNr. ist fehlerhaft!"
+
+#: src/addons/registration/src/class-rgn-registration.php:200
+msgid "Company registration number is required!"
+msgstr "Handelsregisternummer ist ein Pflichtfeld!"
+
+#: src/addons/registration/src/class-rgn-user-meta.php:27
+msgid "B2B Market Registration"
+msgstr "B2B Market Registrierung"
+
+#: src/addons/registration/templates/emails/plain/registration-double-opt-in-mail-plain.php:16
+#: src/addons/registration/templates/emails/registration-double-opt-in-mail.php:19
+#, php-format
+msgid "Thanks for creating a customer account on %s. Your username is %s."
+msgstr ""
+"Es wurde für dich ein Benutzerkonto bei %s angelegt. Dein Benutzername "
+"lautet %s."
+
+#: src/addons/registration/templates/emails/plain/registration-double-opt-in-mail-plain.php:18
+#: src/addons/registration/templates/emails/registration-double-opt-in-mail.php:15
+#, php-format
+msgid "Your password has been automatically generated: %s"
+msgstr "Dein Passwort wurde automatisch generiert: %s"
+
+#: src/addons/registration/templates/emails/plain/registration-double-opt-in-mail-plain.php:26
+#: src/addons/registration/templates/emails/registration-double-opt-in-mail.php:31
+msgid "Please follow the activation link to activate your account:"
+msgstr "Bitte folge dem Link, um dein Benutzerkonto zu bestätigen:"
+
+#: src/addons/registration/templates/emails/plain/registration-double-opt-in-mail-plain.php:37
+#: src/addons/registration/templates/emails/registration-double-opt-in-mail.php:51
+#, php-format
+msgid "If you haven't created an account on %s please ignore this email."
+msgstr ""
+"Wenn du bei %s kein Kundenkonto eröffnet hast, ignoriere diese E-Mail bitte."
+
+#: src/addons/slack-connector/application/backend/custom-post-type-handler.php:62
+#: src/addons/slack-connector/application/backend/custom-post-type-handler.php:88
+msgid "Webhook URL"
+msgstr "﻿Webhook URL"
+
+#: src/addons/slack-connector/application/backend/custom-post-type-handler.php:94
+msgid ""
+"Firstly, go to <a target=\"_blank\" href=\"https://slack.com/services/new/"
+"incoming-webhook\">https://slack.com/services/new/incoming-webhook</a> and "
+"create a new webhook. Next, set a channel to receive notifcations, copy the "
+"URL for the webhook and insert this URL in the field above."
+msgstr ""
+"Erstens, gehe zu < a target = \"_blank\" href = \"https://slack.com/services/"
+"new/incoming-webhook\" > https://slack.com/Services/New/Incoming-webhook </"
+"a> und erstelle einen neuen Webhook. Als nächstes lege einen Kanal zu "
+"empfangen von Notifcations an, kopiere die URL für den Webhook und füge "
+"diese URL in das Feld oben ein."
+
+#: src/addons/slack-connector/application/backend/custom-post-type-handler.php:98
+msgid "Send a test notification"
+msgstr "Senden einer Test-Benachrichtigung"
+
+#: src/addons/slack-connector/application/backend/custom-post-type-handler.php:102
+msgid "Test notification has been sent."
+msgstr "Die Test-Benachrichtigung wurde gesendet."
+
+#: src/addons/slack-connector/application/backend/custom-post-type-handler.php:123
+msgid "General Settings"
+msgstr "Allgemeine Einstellungen"
+
+#: src/addons/slack-connector/application/backend/custom-post-type-handler.php:126
+msgid "Slack Username"
+msgstr "Slack Benutzername"
+
+#: src/addons/slack-connector/application/backend/custom-post-type-handler.php:139
+msgid ""
+"Choose a username for your notifications. You can't leave this field empty."
+msgstr ""
+"Wähle einen Benutzernamen für die Benachrichtigungen aus. Du kannst dieses "
+"Feld nicht leer lassen."
+
+#: src/addons/slack-connector/application/backend/custom-post-type-handler.php:145
+msgid "Emoji"
+msgstr "Emoji"
+
+#: src/addons/slack-connector/application/backend/custom-post-type-handler.php:150
+msgid "Emoji Code, example: :mailbox_with_mail:"
+msgstr "Emoji-Code, Beispiel:: mailbox_with_mail:"
+
+#: src/addons/slack-connector/application/backend/custom-post-type-handler.php:153
+#, php-format
+msgid ""
+"Choose an emoji that will be included in every %s notification. You can find "
+"all emoji codes in the <a href=\"http://www.emoji-cheat-sheet.com/\" target="
+"\"_blank\">Emoji Cheat Sheet</a>."
+msgstr ""
+"Wähle eine Emoji aus, die in jeder %s-Benachrichtigung enthalten sein soll. "
+"Alle Emoji-Codes findest du im < a href = \"http://www.emoji-cheat-sheet.com/"
+"\" target = \"_blank\" > Emoji Spickzettel </a>."
+
+#: src/addons/slack-connector/application/custom-post-type.php:23
+msgctxt "post type general name"
+msgid "Slack Connectors"
+msgstr "Slack Connector"
+
+#: src/addons/slack-connector/application/custom-post-type.php:24
+msgctxt "post type singular name"
+msgid "Slack Connector"
+msgstr "Slack Connector"
+
+#: src/addons/slack-connector/application/custom-post-type.php:25
+msgctxt "admin menu"
+msgid "Slack Connector"
+msgstr "Slack Connector"
+
+#: src/addons/slack-connector/application/custom-post-type.php:26
+msgctxt "add new on admin bar"
+msgid "Slack Connector"
+msgstr "Slack Connector"
+
+#: src/addons/slack-connector/application/custom-post-type.php:27
+msgctxt "slack_connector"
+msgid "Add New"
+msgstr "Hinzufügen"
+
+#: src/addons/slack-connector/application/custom-post-type.php:28
+msgid "Add New Slack Connector"
+msgstr "Neu hinzufügen"
+
+#: src/addons/slack-connector/application/custom-post-type.php:29
+msgid "New Slack Connector"
+msgstr "Neuer Slack Connector"
+
+#: src/addons/slack-connector/application/custom-post-type.php:30
+msgid "Edit Slack Connector"
+msgstr "Slack Connector bearbeiten"
+
+#: src/addons/slack-connector/application/custom-post-type.php:31
+msgid "View Slack Connector"
+msgstr "Slack Connector ansehen"
+
+#: src/addons/slack-connector/application/custom-post-type.php:32
+#: src/addons/slack-connector/application/general.php:138
+#: src/options/class-bm-options.php:1462
+msgid "Slack Connector"
+msgstr "Slack Connector"
+
+#: src/addons/slack-connector/application/custom-post-type.php:33
+msgid "Search Slack Connectors"
+msgstr "Slack Connector suchen"
+
+#: src/addons/slack-connector/application/custom-post-type.php:34
+msgid "Parent Slack Connectors:"
+msgstr "Übergeordnete Slack Connectors:"
+
+#: src/addons/slack-connector/application/custom-post-type.php:35
+msgid "No Slack Connectors found."
+msgstr "Kein Slack Connector gefunden."
+
+#: src/addons/slack-connector/application/custom-post-type.php:36
+msgid "No Slack Connectors found in Trash."
+msgstr "Kein Slack Connector im Papierkorb gefunden."
+
+#: src/addons/slack-connector/application/custom-post-type.php:44
+msgid "Slack Connectors for Slack."
+msgstr "Slack Connectors für Slack."
+
+#: src/addons/slack-connector/application/general.php:131
+msgid "Please enter a webhook URL"
+msgstr "Gebe eine Webhook-URL ein"
+
+#: src/addons/slack-connector/application/general.php:145
+msgid "*This is a test notification*"
+msgstr "*Dies ist eine Test-Benachrichtigung*"
+
+#. Author of the plugin/theme
+#: src/addons/slack-connector/application/general.php:150
+msgid "MarketPress"
+msgstr "MarketPress"
+
+#: src/addons/slack-connector/application/general.php:151
+msgid "https://marketpress.com"
+msgstr "https://marketpress.de"
+
+#: src/addons/slack-connector/application/general.php:152
+msgid "Sending test notification succeeded"
+msgstr "Senden der Test-Benachrichtigung erfolgreich"
+
+#: src/addons/slack-connector/application/general.php:153
+msgid ""
+"This is a test message from Slack Connector. We hope you enjoy this plugin. "
+"\\nLovely regards\\n\\nYour MarketPress Team!"
+msgstr ""
+"Dies ist eine Testnachricht von Slack Connector. Wir hoffen, du genießt "
+"dieses Plugin. \\Beste Grüße\\n\\nDein MarketPress Team!"
+
+#: src/addons/slack-connector/application/general.php:168
+msgid "ERROR: Something went wrong. Please, check your webhook URL."
+msgstr "Fehler: etwas ist schief gelaufen. Bitte überprüfe deine Webhook URL."
+
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:23
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:45
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:261
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:289
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:317
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:345
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:377
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:461
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:545
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:629
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:710
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:738
+msgid "Deactivated"
+msgstr "Inaktiv"
+
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:46
+msgid "New Order"
+msgstr "Neue Bestellung"
+
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:47
+msgid "Product Sale"
+msgstr "Produkt Angebot"
+
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:48
+msgid "Product Category Sale"
+msgstr "Produktkategorie Angebot"
+
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:65
+msgid "New Order Settings"
+msgstr "Neue Bestellung - Einstellungen"
+
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:68
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:371
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:455
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:539
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:623
+msgid "Notifications"
+msgstr "Benachrichtigungen"
+
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:86
+msgid ""
+"You can choose either to get a notifiaction when you have a new order or "
+"when certain products are sold. You can also choose to get notification when "
+"products of certain product categories are sold."
+msgstr ""
+"Du kannst wählen, ob du eine Benachrichtigung erhalten möchtest, wenn du "
+"eine neue Bestellung hast oder wenn bestimmte Produkte verkauft werden. Du "
+"kannst auch eine Benachrichtigung erhalten, wenn Produkte bestimmter "
+"Produktkategorien verkauft werden."
+
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:101
+#: src/class-bm-automatic-actions.php:244
+#: src/class-bm-automatic-actions.php:246
+msgid "Products"
+msgstr "Produkte"
+
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:149
+#: src/options/class-bm-edit-group.php:704
+msgid "Product Categories"
+msgstr "Produktkategorien"
+
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:192
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:394
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:478
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:562
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:646
+msgid "Notification Title"
+msgstr "Benachrichtigungstitel"
+
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:198
+msgid "New sale!"
+msgstr "Im Angebot!"
+
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:205
+msgid "Choose a title for your the notification \"New Order / Product Sale\"."
+msgstr "Wähle einen Titel für die Mitteilung \"neuer Auftrag/Produktverkauf\"."
+
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:206
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:408
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:492
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:660
+msgid "You can use the following placeholders"
+msgstr "Du kannst die folgenden Platzhalter verwenden"
+
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:208
+msgid "When you set the option to \"New Order\", you can also use"
+msgstr "Wenn du die Option \"neue Bestellung\" setzt, kannst du auch"
+
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:210
+msgid ""
+"When you set the option to \"Product Sale\" or \"Product Category Sale\", "
+"you can also use"
+msgstr ""
+"Wenn du die Option \"Produktverkauf\" oder \"Produktkategorie Verkauf\" "
+"festlegst, kannst du auch"
+
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:212
+msgid ""
+"You can use valid Slack markup, for more details, see <a href=\"https://get."
+"slack.help/hc/en-us/articles/202288908-How-can-I-add-formatting-to-my-"
+"messages-\" target=\"_blank\">here</a>"
+msgstr ""
+"Du kannst gültige Slack Markup verwenden, weitere Informationen findest du < "
+"a href = \"https://get.slack.help/hc/en-us/articles/202288908-How-can-I-add-"
+"formatting-to-my-messages-\" target = \"_blank\" > hier </a>"
+
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:224
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:421
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:505
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:589
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:673
+msgid "Notification Color"
+msgstr "Benachrichtigungs Farbe"
+
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:238
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:435
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:519
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:603
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:687
+msgid "Choose a color for this kind of notification."
+msgstr "Wähle eine Farbe für diese Art von Benachrichtigung aus."
+
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:250
+msgid "Field - Order"
+msgstr "Feld - Bestellung"
+
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:262
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:290
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:318
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:378
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:462
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:546
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:630
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:711
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:739
+msgid "Activated"
+msgstr "Aktiv"
+
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:266
+msgid ""
+"Activate or deactiate a field in your notification that shows the order "
+"number with a link to view the order."
+msgstr ""
+"Aktiviere oder deaktiviere ein Feld in deiner Benachrichtigung, das die "
+"Bestellnummer mit einem Link zum Anzeigen der Bestellung anzeigt."
+
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:278
+msgid "Field - Order Total"
+msgstr "Feld - Gesamtsumme"
+
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:294
+msgid ""
+"Activate or deactiate a field in your notification that shows the order "
+"total."
+msgstr ""
+"Aktiviere oder deaktiviere ein Feld in deiner Benachrichtigung, das die "
+"Auftragssumme anzeigt."
+
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:306
+msgid "Field - Customer"
+msgstr "Feld - Kunde"
+
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:322
+msgid ""
+"Activate or deactiate a field in your notification that shows the name of "
+"the customer."
+msgstr ""
+"Aktiviere oder deaktiviere ein Feld in deiner Benachrichtigung, das den "
+"Namen des Debitors anzeigt."
+
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:334
+msgid "Field - Items"
+msgstr "Feld - Positionen"
+
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:346
+msgid "Activated with Price"
+msgstr "Aktiviert mit Preis"
+
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:347
+msgid "Activated without Price"
+msgstr "Ohne Preis aktiviert"
+
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:351
+msgid ""
+"Activate or deactiate a field in your notification that shows the items of "
+"the order, respectively the product name if you set the option "
+"\"Notifications\" to \"Product Sale\" or \"Product Category Sale\". You can "
+"choose whether the price is shown or not."
+msgstr ""
+"Aktiviere oder deaktiviere ein Feld in deiner Benachrichtigung, das die "
+"Artikel des Auftrags bzw. den Produktnamen anzeigt, wenn du die Option "
+"\"Benachrichtigungen\" auf \"Produktverkauf\" oder \"Produktkategorie Verkauf"
+"\" setzen. Du kannst wählen, ob der Preis angezeigt wird oder nicht."
+
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:360
+msgid "Low Stock Settings"
+msgstr "Geringer Lagerbestand - Einstellungen"
+
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:382
+msgid "You can get a notification when a product is low on stock."
+msgstr ""
+"Du kannst eine Benachrichtigung erhalten, wenn ein Produkt nicht vorrätig "
+"ist."
+
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:400
+msgid ""
+"Low on stock: The product [product-name] ([product-id]) is low on stock!"
+msgstr ""
+"Niedrig auf Lager: das Produkt [Produktname] ([Produkt-ID]) ist auf Lager "
+"niedrig!"
+
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:407
+msgid "Choose a title for the notification \"Low on Stock\"."
+msgstr "Wähle einen Titel für die Meldung \"Low on Stock\"."
+
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:444
+msgid "Out of Stock Settings"
+msgstr "Nicht vorrätige Einstellungen"
+
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:466
+msgid "You can get a notification when a product is out of stock."
+msgstr ""
+"Du kannst eine Benachrichtigung erhalten, wenn ein Produkt nicht vorrätig "
+"ist."
+
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:484
+msgid ""
+"Out of stock: The product [product-name] ([product-id]) is out of stock!"
+msgstr ""
+"Nicht vorrätig: das Produkt [Produktname] ([Product-ID]) ist nicht vorrätig!"
+
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:491
+msgid "Choose a title for the notification \"Out of Stock\"."
+msgstr "Wähle einen Titel für die Meldung \"nicht vorrätig\"."
+
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:528
+msgid "New Customer Settings"
+msgstr "Neue Kunden - Einstellungen"
+
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:550
+msgid ""
+"You can get a notification when a new customer has been created by "
+"WooCommerce."
+msgstr ""
+"Du kannst eine Benachrichtigung erhalten, wenn ein neuer Kunde von "
+"WooCommerce erstellt wurde."
+
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:568
+msgid "New Customer: [customer-name]"
+msgstr "Neuer Kunde:[customer-name]"
+
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:575
+msgid "Choose a title for the notification \"New Customer\"."
+msgstr "Wähle einen Titel für die Benachrichtigung \"neuer Kunde\"."
+
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:576
+msgid "You can use the following placeholder"
+msgstr "Du kannst den folgenden Platzhalter verwenden"
+
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:612
+msgid "New Review Settings"
+msgstr "Neue Bewertung - Einstellungen"
+
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:634
+msgid ""
+"You can get a notification when new customer has been created by WooCommerce."
+msgstr ""
+"Du kannst eine Benachrichtigung erhalten, wenn der neue Kunde von "
+"WooCommerce erstellt wurde."
+
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:652
+msgid "New Review: by [reviewer-name] for [product-name]"
+msgstr "Neue Bewertung: von [reviewer-name]  für [product-name]"
+
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:659
+msgid "Choose a title for the notification \"New Review\"."
+msgstr "Wähle einen Titel für die Benachrichtigung \"Neue Bewertung\"."
+
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:699
+msgid "Review Text"
+msgstr "Bewertungstext"
+
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:715
+msgid "Choose whether the review text is shown in the notification."
+msgstr "Wähle aus, ob die Bewertung in der Benachrichtigung angezeigt wird."
+
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:727
+msgid "Rating"
+msgstr "Bewertung"
+
+#: src/addons/slack-connector/application/modules/woocommerce/application/backend/meta-boxes.php:743
+msgid ""
+"Choose whether the review rating is shown in the notification. A 5-star "
+"rating system is used to display the rating."
+msgstr ""
+"Wähle aus, ob die Bewertung in der Benachrichtigung angezeigt wird. Zur "
+"Anzeige der Bewertung wird ein 5-Sterne-Bewertungssystem verwendet."
+
+#: src/addons/slack-connector/application/modules/woocommerce/application/general.php:142
+msgid "View Order"
+msgstr "Bestellung anzeigen"
+
+#: src/addons/slack-connector/application/modules/woocommerce/application/general.php:158
+msgid "Order"
+msgstr "Bestellung"
+
+#: src/addons/slack-connector/application/modules/woocommerce/application/general.php:164
+#: src/class-bm-admin.php:273
+msgid "Customer"
+msgstr "Kunde"
+
+#: src/addons/slack-connector/application/modules/woocommerce/application/general.php:170
+msgid "Order Total"
+msgstr "Gesamtsumme"
+
+#: src/addons/slack-connector/application/modules/woocommerce/application/general.php:176
+msgid "Order Items"
+msgstr "Positionen der Bestellung"
+
+#: src/addons/slack-connector/application/modules/woocommerce/application/general.php:176
+msgid "Order Item"
+msgstr "Bestellartikel"
+
+#: src/class-bm-admin.php:145 src/class-bm-admin.php:155
+msgid ""
+"Please check the values for amount (from) and amount (to). There should be "
+"never the same value."
+msgstr ""
+"Bitte überprüfe die Werte für Betrag (von) und Betrag (bis). Sie sollten nie "
+"gleich sein."
+
+#: src/class-bm-admin.php:149 src/class-bm-admin.php:159
+#: src/options/class-bm-options.php:801 src/options/class-bm-options.php:1349
+msgid "Your settings have been saved."
+msgstr "Deine Einstellungen wurden gespeichert."
+
+#: src/class-bm-admin.php:187
+msgctxt "post type general name"
+msgid "Customer Groups"
+msgstr "Kundengruppen"
+
+#: src/class-bm-admin.php:188
+msgctxt "post type singular name"
+msgid "Customer Group"
+msgstr "Kundengruppe"
+
+#: src/class-bm-admin.php:189
+msgctxt "admin menu"
+msgid "Customer Groups"
+msgstr "Kundengruppen"
+
+#: src/class-bm-admin.php:190
+msgctxt "add new on admin bar"
+msgid "Customer Group"
+msgstr "Kundengruppe"
+
+#: src/class-bm-admin.php:191
+msgctxt "b2b-market"
+msgid "Add New"
+msgstr "Hinzufügen"
+
+#: src/class-bm-admin.php:192
+msgid "Add New Customer Group"
+msgstr "Neue Kundengruppe hinzufügen"
+
+#: src/class-bm-admin.php:193
+msgid "New Customer Group"
+msgstr "Neue Kundengruppe"
+
+#: src/class-bm-admin.php:194
+msgid "Edit Customer Group"
+msgstr "Kundengruppe bearbeiten"
+
+#: src/class-bm-admin.php:195
+msgid "View Customer Group"
+msgstr "Kundengruppe ansehen"
+
+#: src/class-bm-admin.php:196
+msgid "All Customer Groups"
+msgstr "Alle Kundengruppen"
+
+#: src/class-bm-admin.php:197
+msgid "Search Customer Groups"
+msgstr "Kundengruppen durchsuchen"
+
+#: src/class-bm-admin.php:198
+msgid "Parent Customer Group"
+msgstr "Eltern-Kundengruppe"
+
+#: src/class-bm-admin.php:199
+msgid "No Customer Groups found."
+msgstr "Keine Kundengruppen gefunden."
+
+#: src/class-bm-admin.php:200
+msgid "No Customer Groups found in Trash."
+msgstr "Keine Kundengruppen im Papierkorb gefunden."
+
+#: src/class-bm-admin.php:205
+msgid "Description."
+msgstr "Beschreibung."
+
+#: src/class-bm-admin.php:261
+msgid "Guest"
+msgstr "Gast"
+
+#: src/class-bm-admin.php:375
+#, php-format
+msgid ""
+"You use our plugin <strong>B2B Market</strong>. That's great! Take a look at "
+"our new plugin <strong>%s</strong>, which combines features to increase "
+"customer loyalty, usability and traffic. Bonus points, recommendation "
+"programme and much more: selling has never been easier."
+msgstr ""
+"Du nutzt unser Plugin <strong>B2B Market</strong>. Das ist toll! Schau dir "
+"auch unser neues Plugin <strong>%s</strong> an, welches clevere Features zur "
+"Kundenbindung mit smarten Funktionen zur Steigerung der Usability und "
+"Erhöhung des Traffics vereint. Bonuspunkte, Gutscheine, "
+"Weiterempfehlungsprogramm u.v.m.: Verkaufen so einfach wie nie."
+
+#: src/class-bm-admin.php:382
+#, php-format
+msgid ""
+"You use our plugin <strong>B2B Market</strong>. That's great! Take a look at "
+"our plugins <strong>%s</strong> and <strong>%s</strong> as well as our theme "
+"<strong>%s</strong>, they fit perfectly."
+msgstr ""
+"Du nutzt unser Plugin <strong>B2B Market</strong>. Das ist toll! Schauen dir "
+"auch unsere Plugins <strong>%s</strong> und <strong>%s</strong> sowie unser "
+"Theme <strong>%s</strong> an, sie passen perfekt dazu."
+
+#: src/class-bm-admin.php:393
+#, php-format
+msgid ""
+"You use our plugin <strong>B2B Market</strong>. That's great! Take a look at "
+"the plugin <strong>%s</strong> and the theme <strong>%s</strong>, they fit "
+"perfectly."
+msgstr ""
+"Du nutzt unser Plugin <strong>B2B Market</strong>. Das ist toll! Schaue dir "
+"auch unser Plugin <strong>%s</strong> und unser Theme <strong>%s</strong> "
+"an, sie passen perfekt dazu."
+
+#: src/class-bm-admin.php:470 src/class-bm-admin.php:906
+msgid ""
+"Scheduled the migration process with cron. The migration message will "
+"dissapear as soon as the migration is finished."
+msgstr ""
+"Der Prozess wurde nun mit WP-Cron geplant. Die Migrations-Meldung "
+"verschwindet sobald die Migration abgeschlossen ist."
+
+#: src/class-bm-admin.php:473
+#, php-format
+msgid ""
+"The update from B2B Market version 1.0.7 (or lower) to a higher version "
+"involves major changes in the structure and pricing. We strongly recommend "
+"testing the update and migration on a %s environment first and backing up "
+"the store beforehand. Since this process can take some time, we also "
+"recommend temporarily putting the store into maintenance mode until the "
+"migration is complete. If it is a new installation, you can simply close "
+"this message."
+msgstr ""
+"Das Update von der Version 1.0.7 (oder niedriger) auf eine höhere B2B Market-"
+"Version bringt große Veränderungen in der Struktur und Preiskalkulation mit "
+"sich. Wir empfehlen ausdrücklich das Update und die Migration zunächst auf "
+"einer %s-Umgebung zu testen und vorab ein Backup des Shops zu erstellen. Da "
+"dieser Prozess einige Zeit in Anspruch nehmen kann, empfehlen wir außerdem "
+"den Shop vorübergehend in den Wartungsmodus zu stellen, bis die Migration "
+"abgeschlossen ist. Handelt es sich um eine Neuinstallation kannst du diese "
+"Meldung einfach schließen."
+
+#: src/class-bm-admin.php:484
+msgid "Run migration"
+msgstr "Starte Migration"
+
+#: src/class-bm-admin.php:595
+msgid "Switch Customer Group"
+msgstr "Kundengruppe wechseln"
+
+#: src/class-bm-admin.php:626
+msgid "No Customer Group"
+msgstr "Keine Kundengruppe"
+
+#: src/class-bm-automatic-actions.php:244
+msgid "from Product Category"
+msgstr "aus Produktkategorie"
+
+#: src/class-bm-automatic-actions.php:246
+msgid "from Product Categories"
+msgstr "aus Produktkategorien"
+
+#: src/class-bm-automatic-actions.php:367
+#: src/options/class-bm-edit-group.php:735
+#: src/options/class-bm-edit-group.php:756
+#: src/options/class-bm-edit-group.php:795
+msgid "Cart Discount"
+msgstr "Warenkorb-Rabatt"
+
+#: src/class-bm-automatic-actions.php:566
+#, php-format
+msgid "Coupon: %s"
+msgstr "Gutschein: %s"
+
+#: src/class-bm-automatic-actions.php:566
+msgid "Coupon"
+msgstr "Gutschein"
+
+#: src/class-bm-compatibilities.php:411 src/class-bm-product-meta.php:83
+#: src/class-bm-show-discounts.php:262 src/class-bm-variation-meta.php:45
+#: src/options/class-bm-options.php:1121 src/options/class-bm-options.php:1149
+msgid "RRP"
+msgstr "UVP"
+
+#. Plugin Name of the plugin/theme
+#: src/class-bm-product-meta.php:33 src/options/class-bm-options.php:70
+#: src/options/class-bm-options.php:71
+msgid "B2B Market"
+msgstr "B2B Market"
+
+#: src/class-bm-product-meta.php:85 src/class-bm-variation-meta.php:47
+msgid "rrp:"
+msgstr "UVP:"
+
+#: src/class-bm-product-meta.php:114 src/class-bm-product-meta.php:212
+#: src/class-bm-product-meta.php:270 src/class-bm-product-meta.php:377
+#: src/class-bm-product-meta.php:431 src/class-bm-variation-meta.php:75
+#: src/class-bm-variation-meta.php:177 src/class-bm-variation-meta.php:235
+#: src/class-bm-variation-meta.php:345 src/class-bm-variation-meta.php:480
+#: src/options/class-bm-edit-group.php:111
+#: src/options/class-bm-edit-group.php:208
+#: src/options/class-bm-edit-group.php:259
+#: src/options/class-bm-edit-group.php:367 src/options/class-bm-options.php:107
+#: src/options/class-bm-options.php:176 src/options/class-bm-options.php:222
+#: src/options/class-bm-options.php:282
+msgid "Fix Price"
+msgstr "Festpreis"
+
+#: src/class-bm-product-meta.php:115 src/class-bm-product-meta.php:213
+#: src/class-bm-product-meta.php:271 src/class-bm-product-meta.php:378
+#: src/class-bm-product-meta.php:432 src/class-bm-variation-meta.php:76
+#: src/class-bm-variation-meta.php:178 src/class-bm-variation-meta.php:236
+#: src/class-bm-variation-meta.php:346 src/class-bm-variation-meta.php:481
+#: src/options/class-bm-edit-group.php:112
+#: src/options/class-bm-edit-group.php:209
+#: src/options/class-bm-edit-group.php:260
+#: src/options/class-bm-edit-group.php:368
+#: src/options/class-bm-edit-group.php:653
+#: src/options/class-bm-edit-group.php:730
+#: src/options/class-bm-edit-group.php:799 src/options/class-bm-options.php:108
+#: src/options/class-bm-options.php:177 src/options/class-bm-options.php:223
+#: src/options/class-bm-options.php:283 src/options/class-bm-options.php:880
+msgid "Discount (fixed Value)"
+msgstr "Rabatt (fester Wert)"
+
+#: src/class-bm-product-meta.php:116 src/class-bm-product-meta.php:214
+#: src/class-bm-product-meta.php:272 src/class-bm-product-meta.php:379
+#: src/class-bm-product-meta.php:433 src/class-bm-variation-meta.php:77
+#: src/class-bm-variation-meta.php:179 src/class-bm-variation-meta.php:237
+#: src/class-bm-variation-meta.php:347 src/class-bm-variation-meta.php:482
+#: src/options/class-bm-edit-group.php:113
+#: src/options/class-bm-edit-group.php:210
+#: src/options/class-bm-edit-group.php:261
+#: src/options/class-bm-edit-group.php:369
+#: src/options/class-bm-edit-group.php:654
+#: src/options/class-bm-edit-group.php:731
+#: src/options/class-bm-edit-group.php:800 src/options/class-bm-options.php:109
+#: src/options/class-bm-options.php:178 src/options/class-bm-options.php:224
+#: src/options/class-bm-options.php:284 src/options/class-bm-options.php:881
+msgid "Discount (%)"
+msgstr "Rabatt (%)"
+
+#: src/class-bm-product-meta.php:125 src/class-bm-variation-meta.php:86
+#: src/options/class-bm-options.php:230
+msgid "Group Prices"
+msgstr "Gruppenpreise"
+
+#: src/class-bm-product-meta.php:139 src/class-bm-product-meta.php:296
+#: src/class-bm-product-meta.php:462 src/class-bm-variation-meta.php:103
+#: src/class-bm-variation-meta.php:264 src/class-bm-variation-meta.php:510
+msgid "Copy from"
+msgstr "Kopieren von"
+
+#: src/class-bm-product-meta.php:153 src/class-bm-variation-meta.php:117
+msgid "Group Prices for"
+msgstr "Gruppenpreise für"
+
+#: src/class-bm-product-meta.php:176 src/class-bm-product-meta.php:209
+#: src/class-bm-variation-meta.php:174 src/options/class-bm-edit-group.php:58
+#: src/options/class-bm-edit-group.php:158
+#: src/options/class-bm-edit-group.php:204
+msgid "Group Price"
+msgstr "Gruppenpreis"
+
+#: src/class-bm-product-meta.php:179 src/class-bm-product-meta.php:210
+#: src/class-bm-product-meta.php:343 src/class-bm-product-meta.php:375
+#: src/class-bm-variation-meta.php:143 src/class-bm-variation-meta.php:175
+#: src/class-bm-variation-meta.php:311 src/class-bm-variation-meta.php:343
+#: src/options/class-bm-edit-group.php:162
+#: src/options/class-bm-edit-group.php:320
+#: src/options/class-bm-edit-group.php:764 src/options/class-bm-options.php:143
+#: src/options/class-bm-options.php:174 src/options/class-bm-options.php:251
+#: src/options/class-bm-options.php:280
+msgid "Price-Type"
+msgstr "Preis-Typ"
+
+#: src/class-bm-product-meta.php:188 src/class-bm-product-meta.php:215
+#: src/class-bm-product-meta.php:351 src/class-bm-product-meta.php:380
+#: src/class-bm-variation-meta.php:152 src/class-bm-variation-meta.php:180
+#: src/class-bm-variation-meta.php:319 src/class-bm-variation-meta.php:348
+#: src/options/class-bm-edit-group.php:185
+#: src/options/class-bm-edit-group.php:211
+#: src/options/class-bm-edit-group.php:343
+#: src/options/class-bm-edit-group.php:370
+#: src/options/class-bm-edit-group.php:776
+#: src/options/class-bm-edit-group.php:801 src/options/class-bm-options.php:153
+#: src/options/class-bm-options.php:179 src/options/class-bm-options.php:261
+#: src/options/class-bm-options.php:285
+msgid "Remove"
+msgstr "Entfernen"
+
+#: src/class-bm-product-meta.php:200 src/class-bm-product-meta.php:363
+#: src/class-bm-variation-meta.php:164 src/class-bm-variation-meta.php:331
+#: src/options/class-bm-edit-group.php:198
+#: src/options/class-bm-edit-group.php:356
+#: src/options/class-bm-edit-group.php:790 src/options/class-bm-options.php:164
+#: src/options/class-bm-options.php:272
+msgid "Add"
+msgstr "Hinzufügen"
+
+#: src/class-bm-product-meta.php:281 src/class-bm-variation-meta.php:246
+#: src/options/class-bm-options.php:115 src/options/class-bm-options.php:1166
+msgid "Bulk Prices"
+msgstr "Staffelpreise"
+
+#: src/class-bm-product-meta.php:310 src/class-bm-variation-meta.php:278
+msgid "Bulk prices for"
+msgstr "Staffelpreis für"
+
+#: src/class-bm-product-meta.php:316 src/class-bm-variation-meta.php:284
+#: src/options/class-bm-edit-group.php:274 src/options/class-bm-options.php:116
+msgid ""
+"Bulk prices are applied if the current quantity fits in the configured "
+"quantity range "
+msgstr ""
+"Staffelpreise berücksichtigen die aktuelle Menge des Produktes. So kannst du "
+"den Einzelpreis des Produktes günstiger anbieten, sobald eine bestimmte "
+"Mindestmenge erreicht wird."
+
+#: src/class-bm-product-meta.php:334 src/class-bm-product-meta.php:372
+#: src/class-bm-shortcode.php:188 src/class-bm-variation-meta.php:302
+#: src/class-bm-variation-meta.php:340 src/options/class-bm-edit-group.php:63
+#: src/options/class-bm-edit-group.php:308
+#: src/options/class-bm-edit-group.php:361 src/options/class-bm-options.php:134
+#: src/options/class-bm-options.php:171
+msgid "Bulk Price"
+msgstr "Staffelpreis"
+
+#: src/class-bm-product-meta.php:337 src/class-bm-product-meta.php:373
+#: src/class-bm-variation-meta.php:305 src/class-bm-variation-meta.php:341
+#: src/options/class-bm-edit-group.php:312
+#: src/options/class-bm-edit-group.php:362 src/options/class-bm-options.php:137
+#: src/options/class-bm-options.php:172
+msgid "Amount (from)"
+msgstr "Menge (ab)"
+
+#: src/class-bm-product-meta.php:340 src/class-bm-product-meta.php:374
+#: src/class-bm-variation-meta.php:308 src/class-bm-variation-meta.php:342
+#: src/options/class-bm-edit-group.php:316
+#: src/options/class-bm-edit-group.php:363 src/options/class-bm-options.php:140
+#: src/options/class-bm-options.php:173
+msgid "Amount (to)"
+msgstr "Menge (bis)"
+
+#: src/class-bm-product-meta.php:442 src/class-bm-product-meta.php:476
+#: src/class-bm-variation-meta.php:492 src/class-bm-variation-meta.php:524
+msgid "Quantities"
+msgstr "Mengen"
+
+#: src/class-bm-product-meta.php:444 src/class-bm-variation-meta.php:493
+msgid ""
+"You can find the pricing fields for B2B Market directly within each "
+"variation."
+msgstr ""
+"Du kannst die Einstellungen zur Preiseingabe von B2B Market direkt innerhalb "
+"jeder Variante konfigurieren."
+
+#: src/class-bm-product-meta.php:481 src/class-bm-variation-meta.php:529
+msgid "Min:"
+msgstr "Min:"
+
+#: src/class-bm-product-meta.php:484 src/class-bm-variation-meta.php:532
+msgid "Max:"
+msgstr "Max:"
+
+#: src/class-bm-product-meta.php:487 src/class-bm-variation-meta.php:535
+msgid "Step:"
+msgstr "Schritt:"
+
+#: src/class-bm-public.php:39
+msgid "Dismiss site notice"
+msgstr "Diesen Hinweis ausblenden"
+
+#: src/class-bm-shortcode.php:186
+msgid "Product"
+msgstr "Produkt"
+
+#: src/class-bm-shortcode.php:189
+msgid "Quantity (from)"
+msgstr "Menge (von)"
+
+#: src/class-bm-shortcode.php:190
+msgid "Quantity (to)"
+msgstr "Menge (bis)"
+
+#: src/class-bm-shortcode.php:202
+msgid "Price Per Unit"
+msgstr "Preis pro Einheit"
+
+#: src/class-bm-show-discounts.php:488
+msgid "Totals"
+msgstr "Gesamtsumme"
+
+#: src/class-bm-tax.php:77
+msgid "excl. VAT"
+msgstr "exkl. MwSt."
+
+#: src/class-bm-variation-meta.php:140 src/options/class-bm-options.php:248
+#: src/options/class-bm-options.php:279
+msgid "Price"
+msgstr "Preis"
+
+#: src/class-bm-variation-meta.php:461
+msgid "B2B Market Quantity Addon"
+msgstr "B2B Market Mengen Addon"
+
+#: src/class-bm-whitelist.php:493 src/class-bm-whitelist.php:499
+msgid ""
+"You are not allowed to purchase the following product, please remove it from "
+"your cart"
+msgstr ""
+"Du kannst das folgende Produkt nicht kaufen, bitte entferne es aus deinem "
+"Warenkorb"
+
+#: src/class-bm-whitelist.php:522 src/class-bm-whitelist.php:528
+msgid ""
+"You are not allowed to complete your order, please remove the following "
+"product from your cart"
+msgstr ""
+"Du kannst deine Bestellung nicht abschließen, bitte entferne das folgende "
+"Produkt aus deinem Warenkorb"
+
+#: src/options/class-bm-edit-group.php:24
+msgid "customer_groups"
+msgstr "kunden_gruppen"
+
+#: src/options/class-bm-edit-group.php:49
+msgid "Return to all groups"
+msgstr "Zurück zu allen Kundengruppen"
+
+#: src/options/class-bm-edit-group.php:52
+msgid "Title"
+msgstr "Name der Kundengruppe"
+
+#: src/options/class-bm-edit-group.php:55
+msgid ""
+"You should not name your Customer Groups like native roles with admin "
+"permission cause we are overwriting the permissions. If you name a group "
+"\"Administator\" you can not login after the group is created."
+msgstr ""
+"Du solltest deine Kundengruppe nicht wie die nativen Rollen von WordPress "
+"benennen. Damit überschreibst du die Berechtigungen der Nutzer und hast dann "
+"keinen Zugang mehr zum Administrationsbereich deiner Installation."
+
+#: src/options/class-bm-edit-group.php:67
+msgid "Restrictions"
+msgstr "Restriktionen"
+
+#: src/options/class-bm-edit-group.php:71
+msgid "Discounts"
+msgstr "Rabatte"
+
+#: src/options/class-bm-edit-group.php:76
+msgid "Tax Control"
+msgstr "Steuer-Einstellungen"
+
+#: src/options/class-bm-edit-group.php:80
+msgid "Additional Control"
+msgstr "Zusätzliche Einstellungen"
+
+#: src/options/class-bm-edit-group.php:85
+msgid "Save Group"
+msgstr "Kundengruppe speichern"
+
+#: src/options/class-bm-edit-group.php:117
+#: src/options/class-bm-edit-group.php:175
+#: src/options/class-bm-edit-group.php:265
+#: src/options/class-bm-edit-group.php:333
+msgid "All categories"
+msgstr "Alle Kategorien"
+
+#: src/options/class-bm-edit-group.php:126
+msgid "Modify the price for each product assigned to this customer group"
+msgstr ""
+"Erstelle Preisregeln für diese Kundengruppe, um den Preis je Produkt-"
+"Kategorie für diese Kundengruppe anzupassen."
+
+#: src/options/class-bm-edit-group.php:173
+#: src/options/class-bm-edit-group.php:206
+#: src/options/class-bm-edit-group.php:331
+#: src/options/class-bm-edit-group.php:365
+msgid "Product Category"
+msgstr "Produktkategorie"
+
+#: src/options/class-bm-edit-group.php:205
+#: src/options/class-bm-edit-group.php:364
+#: src/options/class-bm-edit-group.php:797
+msgid "Price Type"
+msgstr "Preis-Typ"
+
+#: src/options/class-bm-edit-group.php:432
+#: src/options/class-bm-edit-group.php:470
+msgid "You need to spend at least [min-amount] to complete your order."
+msgstr ""
+"Du musst wenigstens [min-amount] in deinem Warenkorb haben um die Bestellung "
+"abzuschließen."
+
+#: src/options/class-bm-edit-group.php:447
+msgid "Blacklist"
+msgstr "Blacklist"
+
+#: src/options/class-bm-edit-group.php:447
+msgid ""
+"Choose which products and categories you want to exclude for this customer "
+"group."
+msgstr ""
+"Mit der Blacklist kannst du Produkte für die aktuelle Kundengruppe "
+"<b>verstecken</b>, mit der Whitelist zeigst du ausschließlich die gewählten "
+"Produkte an."
+
+#: src/options/class-bm-edit-group.php:448
+#: src/options/class-bm-edit-group.php:678
+msgid "Products:"
+msgstr "Produkte:"
+
+#: src/options/class-bm-edit-group.php:449
+#: src/options/class-bm-edit-group.php:679
+msgid "Product Categories:"
+msgstr "Produktkategorien:"
+
+#: src/options/class-bm-edit-group.php:451
+msgid "Invert to Whitelist"
+msgstr "Umkehrung zur Whitelist"
+
+#: src/options/class-bm-edit-group.php:464
+#: src/options/class-bm-edit-group.php:525
+#: src/options/class-bm-edit-group.php:544
+#: src/options/class-bm-edit-group.php:590
+#: src/options/class-bm-edit-group.php:694 src/options/class-bm-options.php:382
+msgid "Off"
+msgstr "Aus"
+
+#: src/options/class-bm-edit-group.php:466
+#: src/options/class-bm-edit-group.php:527
+#: src/options/class-bm-edit-group.php:546
+#: src/options/class-bm-edit-group.php:592
+#: src/options/class-bm-edit-group.php:696 src/options/class-bm-options.php:384
+msgid "On"
+msgstr "An"
+
+#: src/options/class-bm-edit-group.php:468
+msgid "Minimum order amount"
+msgstr "Minimale Bestellsumme"
+
+#: src/options/class-bm-edit-group.php:468
+msgid ""
+"Set a minimum order <b>amount</b> for your customer group to <b>complete an "
+"order</b>. You can use the shortcode <b>[min-amount]</b> to dynamically add "
+"the amount to your error message."
+msgstr ""
+"Setze eine minimale <b>Bestellsumme</b> für deine Kundengruppe um eine "
+"Bestellung abschließen zu können. Du kannst den Shortcode <b>[min-amount]</"
+"b> benutzen um den Wert dynamisch in deiner Fehlermeldung ausgeben zu lassen."
+
+#: src/options/class-bm-edit-group.php:469
+msgid "Minimum order amount:"
+msgstr "Minimale Bestellsumme:"
+
+#: src/options/class-bm-edit-group.php:470
+msgid "Min order amount error message:"
+msgstr "Fehlermeldung bei Unterschreitung der minimalen Bestellsumme"
+
+#: src/options/class-bm-edit-group.php:482
+msgid "Show net prices instead of gross price?"
+msgstr "Netto-Preise anzeigen"
+
+#: src/options/class-bm-edit-group.php:531
+msgid "Use VAT validation for this group registration?"
+msgstr "UST-ID Validierung"
+
+#: src/options/class-bm-edit-group.php:562
+msgid ""
+"Show sale badge and sale price for products when a customer group discount "
+"is active."
+msgstr ""
+"Zeige Sale-Badge und Streichpreis bei Produkten, wenn ein Kundengruppen-"
+"Rabatt aktiv ist."
+
+#: src/options/class-bm-edit-group.php:562
+msgid ""
+"We currently don't support percentage based calculations for the sale badge."
+msgstr ""
+"Aktuell unterstützen wir keine prozent-basierten Kalkulationen innerhalb des "
+"Sale-Badges."
+
+#: src/options/class-bm-edit-group.php:662
+msgid "First Order"
+msgstr "Erstbesteller"
+
+#: src/options/class-bm-edit-group.php:662
+msgid "Set a discount for the first order of a user from this group"
+msgstr "Erstbesteller-Rabatt für <b>registrierte</b> Kunden"
+
+#: src/options/class-bm-edit-group.php:664
+msgid "Label:"
+msgstr "Bezeichnung:"
+
+#: src/options/class-bm-edit-group.php:665
+msgid "Discount:"
+msgstr "Rabatt:"
+
+#: src/options/class-bm-edit-group.php:666
+msgid "Discount-Type:"
+msgstr "Rabatt-Typ:"
+
+#: src/options/class-bm-edit-group.php:681
+msgid "Override and activate for all products:"
+msgstr "Überschreiben und für alle Produkte aktivieren:"
+
+#: src/options/class-bm-edit-group.php:702
+msgid "Products from Category"
+msgstr "Mengenrabatt je Kategorie"
+
+#: src/options/class-bm-edit-group.php:702
+msgid ""
+"Set a discount if a customer has the defined quantity of products from the "
+"given category in their cart."
+msgstr ""
+"Hat dein Kunde die eingestellte Menge an Produkten aus der gewählten "
+"Kategorie im Warenkorb wird ein Rabatt auf die Bestellung gewährt."
+
+#: src/options/class-bm-edit-group.php:706
+msgid "Quantity"
+msgstr "Menge"
+
+#: src/options/class-bm-edit-group.php:708
+msgid "Discount"
+msgstr "Rabatt"
+
+#: src/options/class-bm-edit-group.php:710
+msgid "Discount-Type"
+msgstr "Rabatt-Typ"
+
+#: src/options/class-bm-edit-group.php:735
+msgid ""
+"Set cart discount(s) for this customer group if their cart reached a certain "
+"amount."
+msgstr ""
+"Lege Warenkorb-Rabatte für diese Kundengruppe fest, sobald die Warenkorb-"
+"Summe einen bestimmten Wert erreicht."
+
+#: src/options/class-bm-edit-group.php:760
+#: src/options/class-bm-edit-group.php:796
+msgid "Cart Total Amount (from)"
+msgstr "Warenkorb-Wert (ab)"
+
+#: src/options/class-bm-list-table.php:35
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: src/options/class-bm-list-table.php:36
+msgid "Delete"
+msgstr "Löschen"
+
+#: src/options/class-bm-list-table.php:68
+msgid "No"
+msgstr "Nein"
+
+#: src/options/class-bm-list-table.php:71
+#: src/options/class-bm-list-table.php:75
+msgid "Yes"
+msgstr "Ja"
+
+#: src/options/class-bm-list-table.php:91
+msgid "Gross"
+msgstr "Brutto"
+
+#: src/options/class-bm-list-table.php:94
+msgid "Net"
+msgstr "Netto"
+
+#: src/options/class-bm-list-table.php:108
+msgid "Group Slug"
+msgstr "Gruppen-Slug"
+
+#: src/options/class-bm-list-table.php:109
+msgid "Pricing Rules"
+msgstr "Preisregeln"
+
+#: src/options/class-bm-list-table.php:110
+msgid "Tax display"
+msgstr "Steueranzeige"
+
+#: src/options/class-bm-options.php:520
+msgid "Customer Groups"
+msgstr "Kundengruppen"
+
+#: src/options/class-bm-options.php:528 src/options/class-bm-options.php:533
+msgid "All Customers"
+msgstr "Alle Kunden"
+
+#: src/options/class-bm-options.php:556
+msgid "Options"
+msgstr "Optionen"
+
+#: src/options/class-bm-options.php:567 src/options/class-bm-options.php:1064
+msgid "Administration"
+msgstr "Administration"
+
+#: src/options/class-bm-options.php:573
+msgid "Price Display"
+msgstr "Preisanzeige"
+
+#: src/options/class-bm-options.php:588
+msgid "Add-ons"
+msgstr "Add-Ons"
+
+#: src/options/class-bm-options.php:626
+msgid "Menu"
+msgstr "Menü"
+
+#: src/options/class-bm-options.php:789 src/options/class-bm-options.php:1320
+msgid ""
+"Sorry, but something went wrong while saving your settings. Please, try "
+"again."
+msgstr ""
+"Sorry, beim Speichern der Einstellungen ist etwas schiefgegangen. Bitte "
+"versuche es erneut."
+
+#: src/options/class-bm-options.php:857
+msgid "Add new Customer Group"
+msgstr "Neue Kundengruppe hinzufügen"
+
+#: src/options/class-bm-options.php:879
+msgid "Fixed Price"
+msgstr "Festpreis"
+
+#: src/options/class-bm-options.php:887
+msgid "Prices (All Customers)"
+msgstr "Preise (Alle Kunden)"
+
+#: src/options/class-bm-options.php:890
+msgid ""
+"All prices which are defined here are valid for all customers including "
+"guests and all members of all customer groups.<br> B2B Market checks for the "
+"cheapest price to apply for the current customer."
+msgstr ""
+"Definiere <b>globale</b> Rabatte und Staffelpreise für alle deine Kunden. "
+"Diese Preise können durch andere günstigere Preiseinstellungen überschrieben "
+"werden."
+
+#: src/options/class-bm-options.php:893
+msgctxt "b2b-market"
+msgid "Group Prices"
+msgstr "Gruppenpreise"
+
+#: src/options/class-bm-options.php:898
+msgctxt "b2b-market"
+msgid "Bulk Prices"
+msgstr "Staffelpreise"
+
+#: src/options/class-bm-options.php:928
+msgid "Compatibility"
+msgstr "Kompatibilität"
+
+#: src/options/class-bm-options.php:933
+msgid "Deactivate Whitelist Function"
+msgstr "Deaktiviere Whitelist Funktion"
+
+#: src/options/class-bm-options.php:943
+msgid "Discount Message"
+msgstr "Rabatt-Meldung"
+
+#: src/options/class-bm-options.php:948
+msgid ""
+"Here you can add a dismissable teaser on the top of your shop to inform "
+"customers about discounts."
+msgstr ""
+"Hier kannst du einen Teaser im Kopfbereich deines Online-Shops anzeigen, um "
+"Kunden auf Rabatte hinzuweisen."
+
+#: src/options/class-bm-options.php:956
+msgid "Background-Color"
+msgstr "Hintergrundfarbe"
+
+#: src/options/class-bm-options.php:963
+msgid "Font-Color"
+msgstr "Schriftfarbe"
+
+#: src/options/class-bm-options.php:990
+msgid "German Market"
+msgstr "German Market"
+
+#: src/options/class-bm-options.php:991
+msgid "Modify the behaviour of German Market per customer group"
+msgstr "Passe die Einstellungen für German Market je Kundengruppe an"
+
+#: src/options/class-bm-options.php:1015
+msgid "Hide Terms and Conditions"
+msgstr "Verstecke Datenschutz"
+
+#: src/options/class-bm-options.php:1021
+msgid "Alternative Terms and Conditions Page"
+msgstr "Alternative Datenschutz und AGB-Seite"
+
+#: src/options/class-bm-options.php:1028
+msgid "Hide Revocation"
+msgstr "Verstecke Widerruf"
+
+#: src/options/class-bm-options.php:1034
+msgid "Revocation Page"
+msgstr "Widerruf-Seite"
+
+#: src/options/class-bm-options.php:1069
+msgid "Activate No-Cache Mode in Admin"
+msgstr "Cache für Admin-Bereich verhindern"
+
+#: src/options/class-bm-options.php:1075
+msgid "Show customer groups in orders"
+msgstr "Zeige Kundengruppen in Bestellübersicht"
+
+#: src/options/class-bm-options.php:1103
+msgid "General settings"
+msgstr "Allgemeine Einstellungen"
+
+#: src/options/class-bm-options.php:1104
+msgid "Additional settings"
+msgstr "Zusätzliche Einstellungen"
+
+#: src/options/class-bm-options.php:1109
+msgid "Show total price on product page"
+msgstr "Zeige Gesamtpreis auf Produktseite"
+
+#: src/options/class-bm-options.php:1113
+msgid ""
+"Shows the updated total price on the product page, in case of e.g. change of "
+"quantity."
+msgstr ""
+"Zeige den aktualisierten Gesamtpreis auf der Produktseite (z.B. wenn sich "
+"die Menge verändert)."
+
+#: src/options/class-bm-options.php:1122
+msgid "Modify the RRP visibility and output."
+msgstr "UVP-Anzeige und Ausgabe anpassen."
+
+#: src/options/class-bm-options.php:1127
+msgid "Use RRP"
+msgstr "Aktiviere UVP"
+
+#: src/options/class-bm-options.php:1133
+msgid "Show RRP for all customers"
+msgstr "Zeige UVP für alle Kunden"
+
+#: src/options/class-bm-options.php:1139
+msgid "Show RRP for variable products (if all RRP are equal)"
+msgstr ""
+"UVP bei variablem Produkt anzeigen (wenn UVP an allen Varianten gleich ist)"
+
+#: src/options/class-bm-options.php:1143
+msgid ""
+"The RRP is output by default when the variant is selected, even if this "
+"option is disabled."
+msgstr ""
+"Der UVP wird standardmäßig bei Wahl der Variante ausgegeben, auch wenn diese "
+"Option deaktiviert ist."
+
+#: src/options/class-bm-options.php:1146
+msgid "RRP Label"
+msgstr "UVP Label"
+
+#: src/options/class-bm-options.php:1152
+msgid "RRP Price Format"
+msgstr "UVP-Preisformat"
+
+#: src/options/class-bm-options.php:1157
+msgid "Always gross"
+msgstr "Immer Brutto"
+
+#: src/options/class-bm-options.php:1158
+msgid "Based on customer group tax settings"
+msgstr "Basierend auf Steueranzeige der aktuellen Kundengruppe"
+
+#: src/options/class-bm-options.php:1167
+msgid "Modify the bulk prices output."
+msgstr "Anzeige der Staffelpreise"
+
+#: src/options/class-bm-options.php:1172
+msgid "Show bulk price message on shop pages"
+msgstr "Zeige Staffelpreis-Hinweis auf Shop-Seiten"
+
+#: src/options/class-bm-options.php:1178
+msgid "Show bulk price message on product pages"
+msgstr "Zeige Staffelpreis-Hinweis auf Produkt-Seiten"
+
+#: src/options/class-bm-options.php:1184
+msgid "Bulk price message"
+msgstr "Staffelpreis-Hinweis"
+
+#: src/options/class-bm-options.php:1187
+msgid "From [bulk_qty]x only [bulk_price] each."
+msgstr "ab [bulk_qty] nur [bulk_price] pro Stück."
+
+#: src/options/class-bm-options.php:1190
+msgid "Show bulk price message below price"
+msgstr "Zeige Staffelpreis-Hinweis unter Preis-Daten"
+
+#: src/options/class-bm-options.php:1196
+msgid "Show bulk price table on product page"
+msgstr "Zeige Staffelpreis-Tabelle auf Produktseite"
+
+#: src/options/class-bm-options.php:1202
+msgid "Background-Color active bulk prices in table"
+msgstr "Hintergrundfarbe für aktiven Staffelpreis in Staffelpreistabelle"
+
+#: src/options/class-bm-options.php:1209
+msgid "Font-Color for active row in bulk price table"
+msgstr "Schriftfarbe für aktive Zeile in Staffelpreistabelle"
+
+#: src/options/class-bm-options.php:1220
+msgid "Cart Discount Notice"
+msgstr "Warenkorb-Rabatt-Hinweis"
+
+#: src/options/class-bm-options.php:1221
+msgid "Shows the percentage discount per item in your cart."
+msgstr "Zeigt den prozentualen Rabatt je Produkt in deinem Warenkorb."
+
+#: src/options/class-bm-options.php:1226
+msgid "Activate for single item price"
+msgstr "Aktiviere für Einzelpreis"
+
+#: src/options/class-bm-options.php:1232
+msgid "Activate for subtotal"
+msgstr "Aktiviere für Zwischensumme"
+
+#: src/options/class-bm-options.php:1238
+msgid "Discount Text"
+msgstr "Rabatt-Beschreibung"
+
+#: src/options/class-bm-options.php:1240
+msgid ""
+"Use the shortcode [percent] to show the percentage discount,[old-price] to "
+"show the regular price without any discounts and [absolute-discount] to show "
+"the absolute discount."
+msgstr ""
+"Nutze den Shortcode [percent] um die prozentuale Ersparnis zu zeigen, den "
+"Shortcode [absolute-discount] um die Ersparnis als Betrag auszugeben und den "
+"Shortcode [old-price] um den bisherigen Preis (ohne Nachlässe) anzuzeigen."
+
+#: src/options/class-bm-options.php:1243
+#, php-format
+msgid ""
+"You will save [percent] %s compared to the original price of [old-price]"
+msgstr ""
+"Du sparst [percent] %s verglichen mit dem ursprünglichen Preis von [old-"
+"price]. Absolute Ersparnis: [absolute-discount]"
+
+#: src/options/class-bm-options.php:1250
+msgid "Hide Prices for Customer Groups"
+msgstr "Preise verstecken je Kundengruppe"
+
+#: src/options/class-bm-options.php:1251
+msgid ""
+"Completly hides the prices for products and shows the alternative message "
+"below. This option also completly blocks the ability to put products in the "
+"cart and go to checkout."
+msgstr ""
+"Versteckt die Preise für die ausgewählte Kundengruppe und zeigt stattdessen "
+"die alternative Nachricht weiter unten an. Diese Option blockiert "
+"vollständig die Möglichkeit Produkte in den Warenkorb zu legen und den "
+"Kaufprozess abzuschließen."
+
+#: src/options/class-bm-options.php:1279
+msgid ""
+"When you hide a price for one or more customer groups, this message will be "
+"shown instead. You can also use HTML."
+msgstr ""
+"Wenn du Preise für eine oder mehrere Gruppen versteckst, wird diese "
+"Nachricht stattdessen angezeigt. Du kannst auch HTML-Code benutzen."
+
+#: src/options/class-bm-options.php:1283
+#, php-format
+msgid ""
+"You need to login <a href=\"%s\">here</a> before you can buy any products"
+msgstr ""
+"Bitte logge dich <a href=„%s“>hier</a> ein um Preise zu sehen und einkaufen "
+"zu können."
+
+#: src/options/class-bm-options.php:1426
+msgid "Conditional Shipping & Payments"
+msgstr "Bedingter Versand und Zahlungen"
+
+#: src/options/class-bm-options.php:1427
+msgid ""
+"B2B-Market Shipping & Payments let you control the conditional displays of "
+"shipping and payments options per customer group"
+msgstr ""
+"Lege je Kundengruppe fest, welche Versand- und Zahlungsoptionen genutzt "
+"werden können, bzw. welche ausgeblendet werden sollen"
+
+#: src/options/class-bm-options.php:1435
+msgid "Import & Export"
+msgstr "Import & Export"
+
+#: src/options/class-bm-options.php:1436
+msgid ""
+"B2B-Market Import & Export let you export your customer groups with all "
+"pricing options. Works also with plugin settings"
+msgstr ""
+"Mit B2B-Market Import & Export kannst du deine Kundengruppen mit allen "
+"Preisoptionen exportieren. Auch die Plugin-Einstellungen können exportiert "
+"werden"
+
+#: src/options/class-bm-options.php:1445
+msgid ""
+"Allow Users to registrate for specific Customer Groups. Use Double Opt-In "
+"and Vat-Check."
+msgstr ""
+"Ermögliche deinen Benutzern, dass sie sich selbst einzelnen Kundengruppen "
+"zuweisen (optional). Richte das Double Opt-In und die Überprüfung der USt-ID "
+"ein."
+
+#: src/options/class-bm-options.php:1453
+msgid "Min & Max Quantities"
+msgstr "Min- und Max-Mengen"
+
+#: src/options/class-bm-options.php:1454
+msgid ""
+"B2B-Market Min & Max Quantities let you define min and max quantities for "
+"products per user group. You could also define steps for each product and "
+"group."
+msgstr ""
+"B2B Market Min-und Max-Mengen lässt dich minimal und maximal Mengen für "
+"deine Produkte je Kundengruppe hinterlegen. Außerdem kannst du auch Mengen-"
+"Schritte für jedes Produkt definieren."
+
+#: src/options/class-bm-options.php:1463
+msgid ""
+"Allow users to connect woocommerce with slack and get notified about orders, "
+"new customers and more."
+msgstr ""
+"Verbinde WooCommerce mit Slack, um dich und dein Team über Bestellungen, "
+"neue Kunden und mehr zu benachrichtigen."
+
+#: src/options/class-bm-options.php:1485
+msgid "Save changes"
+msgstr "Einstellungen speichern"
+
+#: src/options/class-bm-options.php:1503
+msgid "Video"
+msgstr "Video"
+
+#: src/options/class-bm-options.php:1506
+msgid "Close"
+msgstr "Schließen"
+
+#: templates/woocommerce/single-product/add-to-cart/variation.php:24
+msgid ""
+"Sorry, this product is unavailable. Please choose a different combination."
+msgstr ""
+"Entschuldige dieses Produkt ist nicht verfügbar. Bitte wähle eine andere "
+"Kombination."
+
+#. Plugin URI of the plugin/theme
+msgid "https://marketpress.de/shop/plugins/b2b-market/"
+msgstr "https://marketpress.de/shop/plugins/b2b-market/"
+
+#. Description of the plugin/theme
+msgid ""
+"B2B solution for WooCommerce with role-based pricing and simultaneous sales "
+"to B2B and B2C."
+msgstr ""
+"B2B-Lösung für WooCommerce mit rollenbasierten Preisen und gleichzeitigem "
+"Verkauf an B2B und B2C."
+
+#. Author URI of the plugin/theme
+msgid "https://marketpress.de"
+msgstr "https://marketpress.de"
+
+#~ msgid ""
+#~ "You use our plugin <strong>B2B Market</strong>. That's great! Take a look "
+#~ "at the plugin <strong>%s</strong>, it fits perfectly."
+#~ msgstr ""
+#~ "Du nutzt unser Plugin <strong>B2B Market</strong>. Das ist toll! Schaue "
+#~ "dir doch auch einmal das Plugin <strong>%s</strong> an, es passt perfekt "
+#~ "dazu."
+
+#~ msgid ""
+#~ "You use our plugin <strong>B2B Market</strong>. That's great! Take a look "
+#~ "at the theme <strong>%s</strong>, it fits perfectly."
+#~ msgstr ""
+#~ "Du nutzt unser Plugin <strong>B2B Market</strong>. Das ist toll! Schaue "
+#~ "dir doch auch einmal das Theme <strong>%s</strong> an, es passt perfekt "
+#~ "dazu."
+
+#~ msgid ""
+#~ "B2B Market 1.0.8 brings huge changes to the underlying structure and "
+#~ "pricing calculation, so it is highly recommended to do the migration on a "
+#~ "%s environment."
+#~ msgstr ""
+#~ "Das Update auf die Version 1.0.8 von B2B Market bringt große "
+#~ "Veränderungen in der Struktur und Preiskalkulation mit sich. Wir "
+#~ "empfehlen ausdrücklich das Update und die Migration zunächst auf einer %s-"
+#~ "Umgebung zu testen und vorab ein Backup des Shops zu erstellen.\n"
+#~ "Da dieser Prozess einige Zeit in Anspruch nehmen kann, empfehlen wir "
+#~ "außerdem den Shop vorübergehend in den Wartungsmodus zu stellen, bis die "
+#~ "Migration abgeschlossen ist. Handelt es sich um eine Neuinstallation "
+#~ "kannst du diese Meldung einfach schließen."
+
+#~ msgid "Migrator"
+#~ msgstr "Migrator"
+
+#~ msgid "Export Customer Groups"
+#~ msgstr "Kundengruppen exportieren"
+
+#~ msgid "Include this group in your export"
+#~ msgstr "Diese Gruppe in den Export einbeziehen"
+
+#~ msgid "Include plugin settings"
+#~ msgstr "Plugin-Einstellungen einbeziehen"
+
+#~ msgid "Please save your settings before click export"
+#~ msgstr "Bitte speichere deine Einstellungen bevor du den Export benutzt"
+
+#~ msgid "Migrate"
+#~ msgstr "Migrieren"
+
+#~ msgid "Migration complete"
+#~ msgstr "Migration abgeschlossen"
+
+#~ msgid "Your migration was successfull"
+#~ msgstr "Die Migration von Role Based Prices wurde erfolgreich abgeschlossen"
+
+#~ msgid "Show bulk price totals in table"
+#~ msgstr "Zeige Gesamtpreis in Staffelpreistabelle"
+
+#~ msgid ""
+#~ "If global discount activated you can display a custom discount banner in "
+#~ "your shop header."
+#~ msgstr ""
+#~ "Wenn der globale Rabatt aktiviert ist, kannst du einen "
+#~ "benutzerdefinierten Rabatt-Banner im Kopfbereich deines Online Shops "
+#~ "anzeigen lassen."
+
+#~ msgid "Cookie Consent"
+#~ msgstr "Cookie-Banner"
+
+#~ msgid "Content"
+#~ msgstr "Inhalt"
+
+#~ msgid "Design"
+#~ msgstr "Design"
+
+#~ msgid "Scripts"
+#~ msgstr "Scripts"
+
+#~ msgid "Headline Text"
+#~ msgstr "Überschrift"
+
+#~ msgid "Cookies & Privacy"
+#~ msgstr "Cookies und Datenschutz"
+
+#~ msgid "Description Text"
+#~ msgstr "Beschreibung"
+
+#~ msgid ""
+#~ "This website uses cookies to ensure you get the best experience on our "
+#~ "website."
+#~ msgstr ""
+#~ "Diese Website benutzt Cookies um sicherzustellen, dass du unser Angebot "
+#~ "im bestmöglichen Umfang nutzen kannst."
+
+#~ msgid "Popup delay (in seconds)"
+#~ msgstr "Pop-Up Verzögerung (in Sekunden)"
+
+#~ msgid "Cookie lifetime (in days)"
+#~ msgstr "Cookie-Dauer (in Tagen)"
+
+#~ msgid "Slug for data privacy page"
+#~ msgstr "Slug deiner Datenschutzseite"
+
+#~ msgid "privacy"
+#~ msgstr "datenschutzerklaerung"
+
+#~ msgid "Slug for imprint page"
+#~ msgstr "Slug deiner Impressum-Seite"
+
+#~ msgid "imprint"
+#~ msgstr "impressum"
+
+#~ msgid "Accept Button text"
+#~ msgstr "Zustimmen-Button-Text"
+
+#~ msgid "Accept"
+#~ msgstr "Bestätigen"
+
+#~ msgid "Edit Button text"
+#~ msgstr "Bearbeiten-Button-Text"
+
+#~ msgid "Headline color"
+#~ msgstr "Überschrift Farbe"
+
+#~ msgid "Headline font size"
+#~ msgstr "Überschrift Schriftgröße"
+
+#~ msgid "Position"
+#~ msgstr "Position des Banners"
+
+#~ msgid "Center"
+#~ msgstr "zentriert"
+
+#~ msgid "Bottom"
+#~ msgstr "Unten"
+
+#~ msgid "Bottom right"
+#~ msgstr "unten-rechts"
+
+#~ msgid "Message"
+#~ msgstr "Beschreibung"
+
+#~ msgid "Message background color"
+#~ msgstr "Hintergrundfarbe des Inhalts"
+
+#~ msgid "Message font color"
+#~ msgstr "Schriftfarbe des Inhalts"
+
+#~ msgid "Message font size"
+#~ msgstr "Schriftgröße des Inhalts"
+
+#~ msgid "Data privacy link color"
+#~ msgstr "Link-Farbe für Datenschutz-Link"
+
+#~ msgid "Buttons"
+#~ msgstr "Buttons"
+
+#~ msgid "Accept button background color"
+#~ msgstr "Bestätigen-Button Hintergrundfarbe"
+
+#~ msgid "Accept button font color"
+#~ msgstr "Bestätigen-Button Schriftfarbe"
+
+#~ msgid "Customise button background color"
+#~ msgstr "Bearbeiten-Button Hintergrundfarbe"
+
+#~ msgid "Customise button font color"
+#~ msgstr "Bearbeiten-Button Schriftfarbe"
+
+#~ msgid "Button font size"
+#~ msgstr "Schriftgröße der Buttons"
+
+#~ msgid "Overlay"
+#~ msgstr "Overlay"
+
+#~ msgid "Z-Index Overlay"
+#~ msgstr "Z-Index des Overlay"
+
+#~ msgid "Z-Index Cookie Banner"
+#~ msgstr "Z-Index des Banners"
+
+#~ msgid "Grade of tranparency"
+#~ msgstr "Grad der Transparenz"
+
+#~ msgid "Google Analytics ID"
+#~ msgstr "Google Analytics ID"
+
+#~ msgid "Facebook ID"
+#~ msgstr "Facebook ID"
+
+#~ msgid "Block iframes"
+#~ msgstr "Iframes vor Zustimmung blockieren"
+
+#~ msgid "iframe (Alternative text)"
+#~ msgstr ""
+#~ "Alternativ-Text vor Cookie-Zustimmung (Wird anstatt des iframes "
+#~ "angezeigt)."
+
+#~ msgid "To show this content you have to accept our cookies."
+#~ msgstr ""
+#~ "Um diesen Inhalt anzusehen musst du zunächst unsere Cookies akzeptieren."
+
+#~ msgid "Custom Tracking Codes"
+#~ msgstr "Eigene Tracking-Codes"
+
+#~ msgid "Custom Tracking Label"
+#~ msgstr "Eigene Tracking Code Bezeichnung"
+
+#~ msgid "Google Tag Manager"
+#~ msgstr "Google Tag Manager"
+
+#~ msgid "Custom Tracking Description"
+#~ msgstr "Eigene Tracking Code Beschreibung"
+
+#~ msgid "Custom Tracking Code"
+#~ msgstr "Eigener Tracking-Code"
+
+#~ msgid "Please paste in your custom tracking code without the script tags."
+#~ msgstr "Bitte füge deinen eigenen Trackingcode ohne das Script-Tag ein."
+
+#~ msgid "Google Adsense"
+#~ msgstr "Google Adsense"
+
+#~ msgid "Please accept our cookies"
+#~ msgstr "Bitte bestätige unsere Cookies"
+
+#~ msgid "Imprint"
+#~ msgstr "Impressum"
+
+#~ msgid "Select cookies to accept"
+#~ msgstr "Wähle welches Cookies du akzeptieren möchtest"
+
+#~ msgid "Technical necessary Cookies"
+#~ msgstr "Technisch-notwendige Cookies"
+
+#~ msgid ""
+#~ "We require some cookies to be able to process orders and customer "
+#~ "accounts. This cookies can not be disabled if you like to use our "
+#~ "product. "
+#~ msgstr ""
+#~ "Wir benötigen einige Cookies um die Bearbeitung von Bestellungen und die "
+#~ "Nutzung des Kundenkontos zu ermöglichen. Diese Cookies können nicht "
+#~ "deaktiviert werden, wenn du unser Angebot nutzen möchtest."
+
+#~ msgid "Privacy policy"
+#~ msgstr "Datenschutz"
+
+#~ msgid ""
+#~ "We use cookies for Facebook to send and promote you special offers and "
+#~ "tracking our campains to optimize our services."
+#~ msgstr ""
+#~ "Wir nutzen Cookies für Facebook um dich auf neue Angebote hinzuweisen und "
+#~ "unsere Werbekampagnen zu optimieren."
+
+#~ msgid ""
+#~ "We use cookies for Google Analytics to track our users behaviour with our "
+#~ "products and continuesly improve it. "
+#~ msgstr ""
+#~ "Wir nutzen Cookies für Google Analytics um den Umgang mit unserer Website "
+#~ "zu analysieren und die Bedienung kontinuierlich zu verbessern."
+
+#~ msgid "More information"
+#~ msgstr "Mehr Informationen"
+
+#~ msgid "Less information"
+#~ msgstr "Weniger Informationen"
+
+#~ msgid "Name"
+#~ msgstr "Name"
+
+#~ msgid "B2B Market Cookie Consent"
+#~ msgstr "B2B Market Cookie-Banner"
+
+#~ msgid "Provider"
+#~ msgstr "Anbieter"
+
+#~ msgid "Owner of this website"
+#~ msgstr "Besitzer dieser Website"
+
+#~ msgid "Usage"
+#~ msgstr "Nutzung"
+
+#~ msgid "Save the settings from your cookie selection."
+#~ msgstr "Speichert die Einstellungen deiner Cookie-Auswahl."
+
+#~ msgid "Cookies"
+#~ msgstr "Cookies"
+
+#~ msgid "Lifetime"
+#~ msgstr "Laufzeit"
+
+#~ msgid "Days"
+#~ msgstr "Tage"
+
+#~ msgid ""
+#~ "Cookie for website analytics. Creates statistic data about the website "
+#~ "usage."
+#~ msgstr ""
+#~ "Cookie für die Website-Analyse. Erstellt statistische Daten zur Nutzung "
+#~ "der Website."
+
+#~ msgid "Data privacy"
+#~ msgstr "Datenschutzerklärung"
+
+#~ msgid "Years"
+#~ msgstr "Jahre"
+
+#~ msgid "Cookie to unlock facebook content."
+#~ msgstr "Cookie zur Freischaltung von Facebook-Inhalten."
+
+#~ msgid "Hosts"
+#~ msgstr "Hosts"
+
+#~ msgid "Apply %s prices"
+#~ msgstr "%s Preise anwenden"
+
+#~ msgid ""
+#~ "The cookie consent addon is deprecated and will be removed in the next "
+#~ "version of B2B Market. We developed a new plugin called %s that replaces "
+#~ "it. Please get in contact with our %s."
+#~ msgstr ""
+#~ "Der Support für das Cookie-Banner-Add-On läuft aus, es wird mit dem "
+#~ "nächsten Update von B2B Market entfernt. Wir haben ein neues Plugin "
+#~ "namens %s  entwickelt, das es ersetzt. Bitte nimm Kontakt mit unserem %s "
+#~ "auf."
+
+#~ msgid "All products"
+#~ msgstr "Alle Produkte"
+
+#~ msgid "Prevent tracking of users without permission for GPDR compliance"
+#~ msgstr ""
+#~ "Verhindere das Tracking von Nutzern ohne Zustimmung für DSGVO-Konformität"
+
+#~ msgid "Cache cleared"
+#~ msgstr "Cache gelöscht"
+
+#~ msgid "The B2B market cache has been cleared."
+#~ msgstr "Der B2B Market Cache wurde geleert."
+
+#~ msgid "Free!"
+#~ msgstr "Kostenlos!"
+
+#~ msgid "From"
+#~ msgstr "Ab"
+
+#~ msgid "Price:"
+#~ msgstr "Preis:"
+
+#~ msgid "Price-Type:"
+#~ msgstr "Preis-Typ:"
+
+#~ msgid "Apply Prices"
+#~ msgstr "Produkte auswählen"
+
+#~ msgid ""
+#~ "For choosen products the settings from group price and bulk prices will "
+#~ "be applied. It does not apply to your blacklist settings."
+#~ msgstr ""
+#~ "Alle <b>Preisanpassungen</b> der Kundengruppe werden nur auf die hier "
+#~ "getroffene Produktauswahl angewendet."
+
+#~ msgid "No products included"
+#~ msgstr "Keine Produkte enthalten"
+
+#~ msgid "No categories included"
+#~ msgstr "Keine Kategorien enthalten"
+
+#~ msgid "Included Products"
+#~ msgstr "Eingeschlossene Produkte"
+
+#~ msgid "Base Price"
+#~ msgstr "Basispreis"
+
+#~ msgid "Base Price Type"
+#~ msgstr "Basispreis-Typ"
+
+#~ msgid "Standard"
+#~ msgstr "Standard"
+
+#~ msgid "Old Price - New Price"
+#~ msgstr "Alter Preis - Neuer Preis"
+
+#~ msgid "Standard (No RRP)"
+#~ msgstr "Standard (kein UVP)"
+
+#~ msgid "Old Price - New Price (No RRP)"
+#~ msgstr "Alter Preis - Neuer Preis (Kein UVP)"
+
+#~ msgid "Modify the general price display for your modified prices."
+#~ msgstr "Bearbeite die Preisanzeige der angepassten Preise durch B2B Market"
+
+#~ msgid "Label"
+#~ msgstr "Label"
+
+#~ msgid "Global Options"
+#~ msgstr "Globale Optionen"
+
+#~ msgid "Addons"
+#~ msgstr "Addons"
+
+#~ msgid "Ready!"
+#~ msgstr "Bereit!"
+
+#~ msgid "B2B Market Setup Wizard"
+#~ msgstr "Setup-Assistent für B2B-Market"
+
+#~ msgid "Not right now"
+#~ msgstr "Nicht gerade jetzt"
+
+#~ msgid "Return to your dashboard"
+#~ msgstr "Zurück zum Dashboard"
+
+#~ msgid "Skip this step"
+#~ msgstr "Diesen Schritt überspringen"
+
+#~ msgid "First Steps"
+#~ msgstr "Erste Schritte"
+
+#~ msgid ""
+#~ "The following wizard will help you create a your start setup for B2B "
+#~ "Market. Following this guide step-by-step and your ready to go to sell "
+#~ "with B2B-Market."
+#~ msgstr ""
+#~ "Der folgende Assistent hilft dir beim Erstellen eines Start-Setups für "
+#~ "B2B Market."
+
+#~ msgid "Do you want to import some sample groups?"
+#~ msgstr "Möchtest du einige Beispiel-Gruppen importieren?"
+
+#~ msgid "Let's go!"
+#~ msgstr "Auf geht's!"
+
+#~ msgid "Activate B2B Registration"
+#~ msgstr "B2B-Registrierung aktivieren"
+
+#~ msgid "Activate Import/Exprt"
+#~ msgstr "Import/exprt aktivieren"
+
+#~ msgid "Activate Conditional Payment & Shipping"
+#~ msgstr "Bedingte Zahlung und Versand aktivieren"
+
+#~ msgid "Continue"
+#~ msgstr "Fortfahren"
+
+#~ msgid "Done. Go further."
+#~ msgstr "Erledigt. Weiter gehen."
+
+#~ msgid ""
+#~ "Watch our <a href=\"%1$s\" target=\"_blank\">guided tour videos</a> to "
+#~ "learn more about B2B Market, and visit marketpress.de to learn more about "
+#~ "<a href=\"%2$s\" target=\"_blank\">getting started</a>."
+#~ msgstr ""
+#~ "Sehe dir unsere <a href=\"%1$s\" target=\"_blank\">Videos</a> an, um mehr "
+#~ "über B2B Market zu erfahren, und besuchen marktpresse.de, um mehr über "
+#~ "die <a href=\"%2$s\" target=\"_blank\"> erste Schritte </a> zu erfahren."
+
+#~ msgid "You're ready to start."
+#~ msgstr "Du bist bereit zum verkaufen."
+
+#~ msgid "Next step"
+#~ msgstr "Nächster Schritt"
+
+#~ msgid "Read the guides"
+#~ msgstr "Lese die Dokumenation"
+
+#~ msgid "Read the offical docs and unleash your super-power!"
+#~ msgstr "Lies die offizielle Doku und entfessle die Supermacht!"
+
+#~ msgid "Docs"
+#~ msgstr "Dokumentation"
+
+#~ msgid "Check the settings"
+#~ msgstr "Einstellungen überprüfen"
+
+#~ msgid "Go to the settings page and configure your addon details"
+#~ msgstr ""
+#~ "Gehe auf die Seite Einstellungen und konfigurieren deine Addon-Details"
+
+#~ msgid "Settings"
+#~ msgstr "Einstellungen"
+
+#, fuzzy
+#~| msgid "https://marketpress.com"
+#~ msgctxt "MarketPress URL part, should be .de for German languages"
+#~ msgid "marketpress.com"
+#~ msgstr "https://marketpress.de"
+
+#~ msgid ""
+#~ "<strong>Whoops!</strong> The license key you have entered appears not to "
+#~ "be valid. You can always get your valid key from your Downloads page at "
+#~ "%s. Automatic updates for this plugin have been disabled until you enter "
+#~ "a valid key."
+#~ msgstr ""
+#~ "<strong>Entschuldige!</strong>  Der Lizenzschlüssel den du eingegeben "
+#~ "hast ist ungültig. Du erhältst jederzeit einen validen Lizenzschlüssel "
+#~ "auf %s. Automatische Updates werden deaktiviert bis ein valider "
+#~ "Lizenzschlüssel eingetragen worden ist."
+
+#~ msgid ""
+#~ "<strong>Whoops!</strong> The license key you have entered appears not to "
+#~ "be valid. Automatic updates for this plugin have been disabled until you "
+#~ "enter a valid key."
+#~ msgstr ""
+#~ "<strong>Entschuldige!</strong>  Der Lizenzschlüssel den du eingegeben "
+#~ "hast ist ungültig. Automatische Updates werden deaktiviert bis ein "
+#~ "valider Lizenzschlüssel eingetragen worden ist."
+
+#~ msgid ""
+#~ "<strong>All is fine.</strong> You are using a valid license key from %s "
+#~ "for this plugin. <a href=\"%s\">Delete Key</a>."
+#~ msgstr ""
+#~ "<strong>All ist gut.</strong>  Du nutzt eine valide Lizenz von %s für "
+#~ "dieses Plugin. <a href=„%s“>Lizenzschlüssel löschen</a>."
+
+#~ msgid "Activate"
+#~ msgstr "Aktivieren"
+
+#~ msgid "License activated successfully."
+#~ msgstr "Lizenz wurde erfolgreich aktiviert."
+
+#~ msgid "License cannot be activated."
+#~ msgstr "Lizenz konnte nicht aktiviert werden."
+
+#~ msgid "The license key you have entered is not correct."
+#~ msgstr "Der eingegebene Lizenzschlüssel ist nicht korrekt."
+
+#~ msgid ""
+#~ "The license can not be activated. You have reached the URL limit for your "
+#~ "license. Please upgrade your license or change the current license domain "
+#~ "in your %s."
+#~ msgstr ""
+#~ "Die Lizenz konnte nicht aktiviert werden. Du hast das Limit an Webseiten "
+#~ "für diese Lizenz erreicht. Bitte führe ein Upgrade deiner Lizenz durch "
+#~ "oder wechsle die aktuelle Domain in deinem %s."
+
+#~ msgid ""
+#~ "Something went wrong. Please try again later or contact the support staff "
+#~ "at %s."
+#~ msgstr ""
+#~ "Etwas ist schief gelaufen. Bitte versuche es später erneut oder "
+#~ "kontaktiere den Support hier %s."
+
+#~ msgid ""
+#~ "Your license does not appear to be valid for this plugin. Please update "
+#~ "your license at %s."
+#~ msgstr ""
+#~ "Deine Lizenz scheint nicht für dieses Plugin zu sein. Bitte aktualisiere "
+#~ "deine Lizenz hier %s."
+
+#~ msgid "Show discount"
+#~ msgstr "Rabatt anzeigen"
+
+#~ msgid "Gast"
+#~ msgstr "Gast"
+
+#~ msgid "Kunde"
+#~ msgstr "Kunde"
+
+#~ msgid "Attention"
+#~ msgstr "Achtung"
+
+#~ msgid ""
+#~ "Before you can define custom group and bulk prices for this product, you "
+#~ "have to assign it under \"Choose Products\" in your customer group."
+#~ msgstr ""
+#~ "Bevor du produktbasierte Gruppen-und Staffelpreise definieren kannst, "
+#~ "muss das Produkt innerhalb der Kundengruppe unter \"Produkte auswählen\" "
+#~ "zugeordnet sein."
+
+#~ msgid "Deactivate Auto-Transient Delete"
+#~ msgstr "Deaktiviere Löschung des Transient-Caches"
+
+#~ msgid "WP All Import"
+#~ msgstr "WP All Import"
+
+#~ msgid ""
+#~ "Allow you to import and export B2B Market product prices with the WP All "
+#~ "Import"
+#~ msgstr ""
+#~ "Ermöglicht es dir B2B Market Preise mit WP All Import zu importieren und "
+#~ "exportieren"
+
+#~ msgid "Choose which groups users can register for"
+#~ msgstr "Auswählen der Gruppen, für die sich Benutzer anmelden können"
+
+#~ msgctxt "enhanced select"
+#~ msgid "One result is available, press enter to select it."
+#~ msgstr ""
+#~ "Ein Ergebnis ist verfügbar, drücke die Eingabetaste um es auszuwählen."
+
+#~ msgctxt "enhanced select"
+#~ msgid "%qty% results are available, use up and down arrow keys to navigate."
+#~ msgstr ""
+#~ "%qty% Ergebnisse sind verfügbar, verwende die Hoch-/Runter-Pfeiltasten "
+#~ "zum Navigieren."
+
+#~ msgctxt "enhanced select"
+#~ msgid "No matches found"
+#~ msgstr "Keine Treffer gefunden"
+
+#~ msgctxt "enhanced select"
+#~ msgid "Loading failed"
+#~ msgstr "Laden fehlgeschlagen"
+
+#~ msgctxt "enhanced select"
+#~ msgid "Please enter 1 or more characters"
+#~ msgstr "Bitte 1 oder mehr Buchstaben eingeben"
+
+#~ msgctxt "enhanced select"
+#~ msgid "Please enter %qty% or more characters"
+#~ msgstr "Bitte %qty% oder mehr Buchstaben eingeben"
+
+#~ msgctxt "enhanced select"
+#~ msgid "Please delete 1 character"
+#~ msgstr "Bitte 1 Buchstaben löschen"
+
+#~ msgctxt "enhanced select"
+#~ msgid "Please delete %qty% characters"
+#~ msgstr "Bitte %qty% Buchstaben löschen"
+
+#~ msgctxt "enhanced select"
+#~ msgid "You can only select 1 item"
+#~ msgstr "Du kannst nur 1 Produkt auswählen"
+
+#~ msgctxt "enhanced select"
+#~ msgid "You can only select %qty% items"
+#~ msgstr "Du kannst nur %qty% Produkte auswählen"
+
+#~ msgctxt "enhanced select"
+#~ msgid "Loading more results&hellip;"
+#~ msgstr "Weitere Ergebnisse anzeigen&hellip;"
+
+#~ msgctxt "enhanced select"
+#~ msgid "Searching&hellip;"
+#~ msgstr "Suche nach&hellip;"
+
+#~ msgid "Import Customer example"
+#~ msgstr "Kunde-Gruppe importieren"
+
+#~ msgid "Include customer example"
+#~ msgstr "Kunde-Gruppe einbeziehen"
+
+#~ msgid "Import Guest example"
+#~ msgstr "Gast-Gruppe importieren"
+
+#~ msgid "Include guest example"
+#~ msgstr "Gast-Gruppe einbeziehen"
+
+#~ msgid "Import B2B example"
+#~ msgstr "B2B-Beispiel importieren"
+
+#~ msgid "Performance"
+#~ msgstr "Performance"
+
+#~ msgid "Activate Calculation for Guest and Customer"
+#~ msgstr "Aktiviere Kalkulation für Gäste und Kunden"
+
+#~ msgid "Deactivate guest group search"
+#~ msgstr "Deaktiviere die Suche nach Gast-Gruppe"
+
+#~ msgid "Old price:"
+#~ msgstr "Alter Preis:"
+
+#~ msgid "Your price:"
+#~ msgstr "Dein Preis:"
+
+#~ msgid "selected"
+#~ msgstr "ausgewählt"
+
+#~ msgid "The indicated prices are gross prices."
+#~ msgstr "Die angegebenen Preise sind Brutto-Preise."
+
+#~ msgid "Misc"
+#~ msgstr "Verschiedenes"
+
+#~ msgid "Activate total price calculation"
+#~ msgstr "Aktiviere Live-Preis-Berechnung auf Produktseiten"
+
+#~ msgid "Activate Whitelist for Administrator"
+#~ msgstr "Aktiviere Whitelist für Administratoren"
+
+#~ msgid "Transients"
+#~ msgstr "Transients"
+
+#~ msgid "Whitelist / Blacklist"
+#~ msgstr "Whitelist / Blacklist"
+
+#~ msgid "Do you like to include the standard Customer Role?"
+#~ msgstr "Möchtest du die Standard-Kundenrolle einbeziehen?"
+
+#~ msgid "Include Customer"
+#~ msgstr "\"Kunde\" einbeziehen"
+
+#~ msgid "Exclude products from your shop for guest users only."
+#~ msgstr "Schließe Produkte nur für Gäste aus."
+
+#~ msgid "Global Bulk Prices"
+#~ msgstr "Globale Staffelpreise"
+
+#~ msgid "Global Prices"
+#~ msgstr "Globale Preise"
+
+#~ msgctxt "b2b-market"
+#~ msgid "Global Bulk Prices"
+#~ msgstr "Globale Staffelpreise"

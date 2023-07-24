@@ -1,0 +1,41 @@
+<div class="question-variable {@eq key="true" type="boolean" value=hidden}hidden{/eq}">
+	<label class="default" for="{id}"><b>{title}</b></label>
+	<div class="description">{description|s}</div>
+	{@eq key="singleline" value=type}
+		<input class="input-tooltip questionnaire-singleline" type="text" name="{id}" id="{id}" rel="text" value="{value}"/>
+	{/eq}
+	{@eq key="multiline" value=type}
+		<textarea name="{id}" id="{id}" class="questionnaire-textarea input-tooltip" rel="text" >{value}</textarea>
+	{/eq}
+	{@eq key="number" value=type}
+		<input type="text" name="{id}" class="numberInput input-tooltip" rel="text" value="{value}"/>
+	{/eq}
+	{@eq key="radio" value=type}
+		{#options variableId=id}
+		<div class="choiceDiv">
+            <div class="inputDiv">
+                <input id="{variableId}{key}{$idx}" type="radio" rel="radio" class="choice" value="{key}" name="{variableId}" {@eq key=key value=value}checked="true"{/eq}>
+			</div>
+            <div class="labelDiv">
+                <label for="{variableId}{key}{$idx}">{title|s}</label><br/>
+			</div>
+		</div>
+		{/options}
+	{/eq}
+	{@eq key="checkbox" value=type}
+		{#options variableId=id}
+		<div class="choiceDiv">
+            <div class="inputDiv">
+                <input id="{variableId}{key}{$idx}" type="checkbox" rel="checkbox" class="choice" value="{key}" name="{variableId}" {#value}{@eq key=value[$idx] value=key}checked="true"{/eq}{/value}>
+			</div>
+			<div class="labelDiv">
+			<label for="{variableId}{key}{$idx}">{title|s}</label><br/>
+			</div>
+		</div>
+		{/options}
+	{/eq}
+	{@eq key="date" value=type}
+	    <script> $(function() { $( "#{id}" ).datepicker({yearRange: "-100:+0", changeMonth: true, changeYear: true, dateFormat: 'dd.mm.yy' }); }); </script>
+		<input type="text" name="{id}" id="{id}" class="questionnaire-date input-tooltip" rel="date" value="{value}"/>
+	{/eq}
+</div>

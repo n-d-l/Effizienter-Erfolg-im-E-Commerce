@@ -1,0 +1,17 @@
+.button.lexoffice-woocomerce-default{ display: block; position: relative; padding: 0!important; height: 2em!important; width: 2em; text-indent: -999999px;}
+.button.lexoffice-woocommerce-x, .button.lexoffice-woocommerce-x:hover{ background: url("../images/lexoffice_logo_x.png" ); background-size: 15px 15px; background-repeat: no-repeat; background-position: center center; }
+.lexoffice-not-completed{ -webkit-filter: grayscale(100%); -moz-filter: grayscale(100%); -ms-filter: grayscale(100%); -o-filter: grayscale(100%); filter: grayscale(100%); }
+.button.lexoffice-woocommerce-loader, .button.lexoffice-woocommerce-loader:hover{ background: url("../images/ajax-loader.gif" ); background-size: 15px 15px; background-repeat: no-repeat; background-position: center center; }
+.button.lexoffice-woocommerce-yes, .button.lexoffice-woocommerce-yes:hover{ color: #f49600; text-indent: 0; }
+p .button.lexoffice-woocommerce-yes:after{  font-family: dashicons; content: "\f147"; }
+.button.lexoffice-woocommerce-error, .button.lexoffice-woocommerce-error:hover{ color: #ff0000; text-indent: 0; }
+.button.lexoffice-woocommerce-error:after{  font-family: dashicons; content: "\f158"; }
+.button.lexoffice-refund.lexoffice-woocommerce-error:after{  font-family: dashicons; content: ""; }
+.button.lexoffice-refund.lexoffice-woocommerce-error{ text-indent: 0; }
+.wp-core-ui p .button { vertical-align: top; }
+.lexoffice-info-bulk { display: block;  margin-top: .7rem; width: 100%; float: left; box-sizing: border-box; background: #fff; border: 1px solid #ccd0d4; box-shadow: 0 1px 1px rgba(0,0,0,.04); padding: 1px 12px; border-left: 4px solid #46b450; margin-bottom: .7rem; }
+
+.button-primary[name="transmit-to-lexoffice"] { margin-left: .5rem; }
+@media screen and (max-width: 362px) {
+    .button-primary[name="transmit-to-lexoffice"] { margin-top: .5rem; margin-left: 0; display: block; }
+}

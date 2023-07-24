@@ -1,0 +1,608 @@
+@charset "UTF-8";
+.wgm-video-wrapper{	margin-top: 10px; width: 100px;	max-width: 100%; }
+.wgm-video-wrapper span.url { display: none; }
+.wgm-video-wrapper a { cursor: pointer; }
+.wgm-video-wrapper a.open span.icon{ margin-right: 5px;	margin-top: -2px; }
+.wgm-video-wrapper a.close span.icon{ margin-top: -10px; }
+.wgm-video-wrapper div.videoouter { display: none; position: fixed; width: 100%; height: 100%; left: 0; top: 0; background-color: rgba(0, 0, 0, 0.5); z-index: 99999; }
+.wgm-video-wrapper div.videoouter div.videoinner { line-height: 0; position: absolute; width: 750px; max-width: 95%; height: auto; left: 50%; top: 50%; transform: translate(-50%, -50%); box-shadow: 0 0 50px rgba(0, 0, 0, 0.8); z-index: 9999; }
+.wgm-video-wrapper div.videoouter div.videoinner video { width: 100%; height: auto; z-index: 9999; }
+.wgm-video-wrapper div.videoouter div.videoinner a.close { display: none; z-index: 999999; position: absolute; top: -15px; right: 0; text-align: right; width: inherit; color: #fff; float: inherit; }
+.wgm-video-wrapper div.videoouter div.videoinner p { display: none; }
+
+.german-market .form-table select, .german-market .form-table input[type="text"], .german-market .form-table input[type="number"] { line-height: 2;  }
+.german-market .form-table input[type="number"] { padding: 6px;  }
+.german-market{ font-family: sans-serif; width: 100%; box-sizing: border-box; background-color: #fff; margin-top: 25px; background-image: url(../images/code.png); background-position: right 30px bottom 35px; background-repeat: no-repeat; background-size: 45px 75px;  }
+.german-market a:focus {outline:0; -webkit-box-shadow: none; box-shadow: none; }
+.german-market a{ outline: none; text-decoration: none; transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; color: #3498db; }
+.german-market a:hover { text-decoration: none; transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; color: #2980b9; }
+.german-market ul{ margin: 0; }
+.german-market:after { content: ''; display: block; clear: both; }
+.german-market .german-market-left-menu{ width: 25%; float: left; padding-top: 30px; }
+.german-market .german-market-left-menu .mobile-menu-outer { display: none; }
+.german-market .german-market-left-menu ul {  }
+.german-market .german-market-left-menu .logo { float: left; width: 100%; background-position: top center; height: 98px; background-image: url(../images/wgm-logo.png); background-size: 175px 98px; background-repeat: no-repeat; margin-bottom: 30px; }
+.german-market .german-market-left-menu li{	color: #666666; font-size: 18px; font-weight: 200; }
+.german-market .german-market-left-menu li a{ float: left; width: 100%; box-sizing: border-box; display: block; padding: 15px 10px; padding-left: 30px; transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; color: #666; text-decoration: none; }
+.german-market .german-market-left-menu li.current a{ background-color: #f6f6f6; border-right: 5px solid #34495e; font-weight: 700; color:#333; }
+.german-market .german-market-left-menu li a:focus{ font-weight: bold; }
+.german-market .german-market-left-menu li.new a:after { content: 'NEU'; margin-left: 5px; font-size: 10px; padding: 2px 5px; border-radius: 3px; color: #fff; font-weight: 400; background-color: #34495e; } 
+.german-market .german-market-left-menu li a:hover{ background-color: #f6f6f6; transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; color: #333; }
+.german-market .german-market-main-menu { width: 75%; height: 100%; border-left: 1px solid #ddd; float: left; padding: 30px; padding-left: 3%; box-sizing: border-box; padding-bottom: 120px; }
+.german-market .german-market-main-menu h1 { font-size: 32px; color: #72808e; font-weight: 200; margin-bottom: 15px; }
+.german-market .german-market-main-menu h2 { font-size: 22px; color: #72808e; font-weight: 200; }
+.german-market .german-market-main-menu .titledesc { font-size: 16px; color: #72808e; font-weight: 400; }
+.german-market .german-market-main-menu .form-table th.titledesc { width: 400px; margin-right: 25px; }
+.german-market .german-market-main-menu .submenu { float: left; width: 100%; margin: 10px 0 25px 0; border-bottom: 1px solid #ddd; padding-bottom: 10px; }
+.german-market .german-market-main-menu .submenu li { margin: 0; }
+.german-market .german-market-main-menu .submenu a { float: left; padding: 5px; border: 1px solid #ddd; border-radius: 5px; margin-right: 10px; margin-bottom: 10px; color: #72808e; }
+.german-market .german-market-main-menu .submenu li a:hover,
+.german-market .german-market-main-menu .submenu li a:focus { float: left; padding: 5px; border: 1px solid #31363b; border-radius: 5px; margin-right: 10px; color: #fff; background-color: #34495e; }
+.german-market .german-market-main-menu .submenu li.current a { float: left; padding: 5px; border: 1px solid #34495e; border-radius: 5px; margin-right: 10px; color: #fff; background-color: #34495e; }
+.german-market .german-market-footer-menu{ float: left; display: block; margin-top: 50px; padding: 0 0 30px 30px; color: #999; font-size: 12px; }
+.german-market .german-market-footer-menu a { color:#34495e; }
+.german-market .german-market-unit + .description{ display: inline; line-height: 40px; vertical-align: middle; }
+
+.german-market-news .wrap.german-market-notice-wrap{ display: flex; align-items: center; width: 100%; margin-right: 10px; box-sizing: border-box; }
+.german-market-news .wp-heading-inline{ display: inline-block; padding: 0; margin-bottom: 15px; font-size: 23px; line-height: 1.3;}
+.german-market-news .notice{ width: 100%; box-sizing: border-box; }
+.german-market-news {box-sizing: border-box; background-color: #f9f9f9; padding: 20px 30px; width: 100%; border-bottom: 1px solid #ddd; border-left: 5px solid #34495e; border-right: 5px solid #34495e;}
+.german-market-news .german-market-news-heading {cursor: pointer;}
+.german-market-news .german-market-heading-title {padding-left: 5px; margin: 0 5px 10px 0;}
+.german-market-news .german-market-news-heading .icon {color: #2979af; margin-bottom: 10px;}
+.german-market-news .news-list {margin: 30px 30px 0 30px; list-style-type: disc;}
+.german-market-news .news-list li {color: #666;line-height: 2em;font-size: 14px;}
+.german-market-news,
+.german-market-news-heading,
+.german-market-news-inner,
+.german-market-news .german-market-the-news,
+.german-market-news .german-market-the-news .german-market-news-element,
+.german-market-news .german-market-news-boxes,
+.german-market-news .german-market-news-boxes .german-market-news-box {display: flex; flex-wrap: wrap;}
+.german-market-news .german-market-the-news,
+.german-market-news .german-market-news-boxes {box-sizing: border-box;}
+.german-market-news .german-market-news-boxes {width: 25%; justify-content: space-around;}
+.german-market-news .german-market-the-news {
+	width: calc(75% - 25px);
+	margin-right: 25px;
+	justify-content: space-between;
+}
+.german-market-news .german-market-the-news .german-market-news-element, 
+.german-market-news .german-market-news-boxes .german-market-news-box {
+    margin-bottom: 25px;   
+    padding: 20px; 
+    text-align: center;    
+    -moz-border-radius: 5px; 
+    -webkit-border-radius: 5px; 
+    border-radius: 5px; 
+    justify-content: center;
+    align-content: flex-start;
+}
+.german-market-news .german-market-the-news .german-market-news-element {
+    min-height: 135px; 
+    background-color: #fff;
+    border: 1px solid #ccc;
+    width: calc(50% - 54px); 
+}
+.german-market-news .german-market-the-news.elements-count-3 .german-market-news-element.element-1 {
+	width: 100%;
+}
+.german-market-news .german-market-news-boxes .german-market-news-box {
+    background-color: #e3eaeb;
+    border: 1px solid #e3eaeb;
+    align-content: center;
+    width: 100%;
+}
+.german-market-news .german-market-the-news .german-market-news-element:last-of-type,
+.german-market-news .german-market-news-boxes .german-market-news-box:last-of-type {margin-right:0;}
+.german-market-news .german-market-the-news .german-market-news-element div {
+    width: 100%; display: block;
+}
+.german-market-news .german-market-the-news .german-market-news-element .german-market-date,
+.german-market-news .german-market-the-news .german-market-news-element .german-market-content {
+    margin-bottom: 15px;
+}
+.german-market-news .german-market-the-news .german-market-news-element .german-market-headline {
+    font-weight: 700;
+    hyphens: auto;
+    font-size: 14px;
+}
+.german-market-news .german-market-the-news .german-market-news-element .german-market-date {
+    font-size: smaller;
+}
+.german-market-news .german-market-the-news .german-market-news-element p,
+.german-market-news .german-market-news-boxes .german-market-news-box p {width: 100%; margin-top: 0; font-size: 13px;}
+.german-market-news .german-market-the-news .german-market-news-element .german-market-content ~ a,
+.german-market-news .german-market-news-boxes .german-market-news-box p ~ a {
+    -moz-border-radius: 5px; 
+    -webkit-border-radius: 5px; 
+    border-radius: 5px; 
+    padding: 10px 15px;
+    min-width: 80px;
+    text-align: center;
+}
+.german-market-news .german-market-the-news .german-market-news-element .german-market-content ~ a {
+    color: #404040; 
+    background-color: #e3eaeb; 
+}
+.german-market-news .german-market-news-boxes .german-market-news-box p ~ a {
+    color: #fff; 
+    background-color: #2979af; 
+}
+@media (max-width:1199px) {
+    .german-market-news .german-market-the-news,
+    .german-market-news .german-market-news-boxes {justify-content: space-between; width: 100%; margin-right: 0}
+    .german-market-news .german-market-the-news .german-market-news-element, 
+    .german-market-news .german-market-news-boxes .german-market-news-box {
+        width: calc(50% - 60px);
+        margin-right: 0;
+    }
+}
+@media (max-width: 480px) {
+    .german-market-news .german-market-the-news .german-market-news-element,
+    .german-market-news .german-market-news-boxes .german-market-news-box {
+        width: 100%;
+        margin-right: 0;
+    }
+}
+
+.german-market p{ font-size: 14px; }
+
+/* Checkbox */
+.german-market .switch {  position: relative;  display: block;  width: 52px;  height: 25px; }
+.german-market .switch input {display:none;}
+.german-market .slider { position: absolute; cursor: pointer; top: 0; left: 0; right: 0; bottom: 0; background-color: #ccc; -webkit-transition: .4s;  transition: .4s; margin: 0;}
+.german-market .slider:before { position: absolute; content: ""; height: 17px; width: 17px; left: 4px; bottom: 4px; background-color: white; -webkit-transition: .4s; transition: .4s; }
+.german-market input:checked + .slider, .german-market input.on + .slider  { background-color: #2ECC71; }
+.german-market input:focus + .slider { box-shadow: 0 0 1px #2ECC71; }
+.german-market input:checked + .slider:before,  .german-market input.on + .slider:before{  -webkit-transform: translateX(26px);  -ms-transform: translateX(26px);  transform: translateX(26px); }
+.german-market .slider.round { border-radius: 25px;}
+.german-market .slider.round:before { border-radius: 50%;}
+
+/* Correction for WC Settings */
+.german-market select{ width: 250px; }
+.german-market td.forminp-color { position: relative; display: inline-block; margin-bottom: 0; }
+.german-market input[type=text].colorpick{ margin-left: -2px; }
+.german-market .colorpickpreview{ float: right; margin-left: 5px; display: inline-block; width: 38px; border: 1px solid #7e8993; font-size: 14px; height: 38px; margin-top: 1px; }
+.german-market .iris-border { z-index: 100; display: none; position: absolute; border: 1px solid #ccc; border-radius: 3px; box-shadow: 0 1px 3px rgba(0,0,0,.2); }
+.german-market td.forminp-color { position: relative; }
+.german-market .woocommerce-help-tip{ float: right; }
+.wrap .german-market div.error{ margin-top: 25px; }
+.german-market input[type=text] { width: 400px; margin: 0; padding: 6px; box-sizing: border-box; vertical-align: top; }
+.german-market span.select2-container{ margin-bottom: 10px; }
+
+/* Buttons */
+.wp-core-ui .german-market .button-primary { margin-left: -2px; }
+.wp-core-ui .german-market .button-primary,
+.german-market .woocommerce-wcreapdf-download-test-pdf,
+.german-market a.woocommerce-wcreapdf-download-test-pdf { border-radius: 5px; transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; background: #fff; color: #6C7A89 ; border: 1px solid #6C7A89; text-shadow: none; box-shadow: 0 1px 0 #fff; border-radius: 5px; padding: 3px 10px; height: auto; width: auto; }
+.wp-core-ui .german-market .button-primary:hover,
+.german-market .woocommerce-wcreapdf-download-test-pdf:hover,
+.german-market a.woocommerce-wcreapdf-download-test-pdf:hover { transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; background: #6C7A89; color: #fff ; border-color: #6C7A89; text-shadow: none; box-shadow: 0 1px 0 #fff; border-radius: 5px; padding: 3px 10px; height: auto; width: auto; cursor: pointer; }
+.german-market .save-wgm-options,
+.german-market .button,
+.wp-core-ui .german-market .button-secondary,
+.wp-core-ui .german-market .button { outline: 0; transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; background: #3498db; border-color: #3498db; text-shadow: none; box-shadow: 0 1px 0 #2980b9; border-radius: 5px; padding: 8px 13px; height: auto; width: auto; border: none; color: #fff; line-height: inherit; }
+.save-wgm-options:hover,
+.wp-core-ui .german-market .button:hover,
+.wp-core-ui .german-market .button-secondary:hover { transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; background: #2979af; border-color: #2979af; text-shadow: none; box-shadow: 0 1px 0 #1d5c84; border-radius: 5px; padding: 8px 13px; height: auto; width: auto; border: none; color: #fff; cursor: pointer;}
+.german-market .save-wgm-options.top { margin-bottom: 20px; }
+
+#wp_wc_invoice_pdf_image_remove_button_footer,
+#wp_wc_invoice_pdf_image_remove_button_header,
+#wp_wc_invoice_pdf_image_remove_button_background,
+#woocomerce_wcreapdf_wgm_image_remove_button,
+.button-secondary.de_shop_emails_file_attachments_remove_button{ cursor: pointer; background-color: #EF4836; box-shadow: 0 1px 0 #C0392B; }
+#wp_wc_invoice_pdf_image_remove_button_footer:hover,
+#wp_wc_invoice_pdf_image_remove_button_header:hover,
+#wp_wc_invoice_pdf_image_remove_button_background:hover,
+#woocomerce_wcreapdf_wgm_image_remove_button:hover,
+.german-market .de_shop_emails_file_attachments_remove_button.button-secondary:hover{ background-color: #C0392B; box-shadow: 0 1px 0 #96281B; }
+
+.german-market a.woocommerce-wcreapdf-download-test-pdf{ padding: 8px 13px; }
+.german-market a.woocommerce-wcreapdf-download-test-pdf:hover{ padding: 8px 13px; }
+.german-market .form-table { border-bottom: 1px solid #ddd; margin-bottom: 40px; padding-bottom: 20px; display: block; }
+.german-market .form-table:last-child { border:none; }
+.german-market .notice-wgm{ margin: 5px 0 15px; background: #fff; border-left: 4px solid #fff; padding: 1px 12px; float: left; width: 100%; -webkit-box-shadow: 0 1px 1px 0 rgba( 0, 0, 0, 0.1 ); box-shadow: 0 1px 1px 0 rgba( 0, 0, 0, 0.1 ); box-sizing: border-box; margin-bottom: 25px; }
+.german-market .notice-wgm.notice-error{ border-left-color: #dc3232; }
+.german-market .notice-wgm.notice-success{ border-left-color: #46b450; }
+
+/* Errors for functions that have special requirements  */
+.german-market .german-market-requirement-error {
+    background: #fff;
+    border: 1px solid #c3c4c7;
+    border-left-width: 4px;
+    box-shadow: 0 1px 1px rgb(0 0 0 / 4%);
+    padding: 1em;
+    border-left-color: #d63638;
+    display: block;
+    color:  #f00;
+    font-size: 15px;
+}
+
+.form-field.ajax_check_customer_payment_information span.success:before,
+.form-field.ajax_check_customer_payment_information span.error:before {
+    display: inline-block;
+    -webkit-font-smoothing: antialiased;
+    font-size: 21px;
+    line-height: 1;
+    vertical-align: top;
+    margin-left: 1px;
+}
+.form-field.ajax_check_customer_payment_information span.success:before {
+    content: "\2714";
+    color: green;
+}
+.form-field.ajax_check_customer_payment_information span.error:before {
+    content: "x";
+    color: red;
+}
+
+/* Add-Ons Page */
+.german-market .add-ons .description { font-size: 16px; line-height: 22px; color: #777; margin-bottom: 25px; }
+.german-market .add-on-box { float: left; width: 32%; padding: 20px; border: 1px #ddd solid; border-radius: 5px; box-sizing: border-box; margin-right: 2%; margin-bottom: 25px; height: 350px; }
+.german-market .add-on-box:nth-child(3n+4) { margin-right: 0;}
+.german-market .add-on-box.on, .german-market .add-on-box.always-on { border-color:#2ecc71; }
+.german-market .add-on-box .description { font-size: 14px; line-height: 22px; color: #777; }
+.german-market .add-on-box .icon .dashicons { color: #72808e; font-size: 45px; display: block; margin-bottom: 42px; text-align: left; width: 100%; }
+.german-market .add-on-box .title { font-size: 16px; margin-bottom: 15px; }
+
+/* ON-OFF ADD-ON */
+.german-market .add-on-box .on-off-box { float: right; text-align: right; }
+
+/* Icon */
+.german-market .logo-box{ float: left; width: 50%; }
+.german-market .logo-box img{ width: 100%; margin-bottom: 15px; }
+
+/* Manual Order Confirmation Button */
+.wc-action-button-manual-order-confirmation:after{ content: '\f12a'; color: #32a852; }
+
+/* Invoice Number Edit */
+a.edit-refund-number::after {
+    position: absolute;
+    top: 0;
+    left: 0;
+    text-align: center;
+    vertical-align: top;
+    line-height: 14px;
+    font-size: 14px;
+    font-weight: 400;
+    -webkit-font-smoothing: antialiased;
+    font-family: Dashicons;
+    content: '\f464';
+}
+
+a.edit-refund-number {
+    width: 14px;
+    height: 0;
+    padding: 14px 0 0;
+    margin: 0 0 0 6px;
+    overflow: hidden;
+    position: relative;
+    color: #999;
+    border: 0;
+    float: right;
+    cursor: pointer;
+}
+
+@media screen and (max-width:782px) {
+    .german-market .form-table td .german-market-unit,  .german-market .form-table td .colorpick {
+        display: inline-block;
+    }
+    .german-market .form-table .woocommerce-help-tip {
+        float: none;
+    }
+    .german-market .colorpickpreview {
+      margin-top: 3px;
+    }
+}
+
+@media screen and (max-width: 1400px) {
+    .german-market .add-on-box { width: 48%; margin-right: 4%; height: 350px; }
+    .german-market .add-on-box:nth-child(3n+4) { margin-right: 4%;}
+    .german-market .add-on-box:nth-child(2n+3) { margin-right: 0;}
+}
+
+/* Test Download for Invoice PDF */
+.test-download{ float: right; }
+.wp-core-ui .german-market .test-download .button-primary { background: #6C7A89; color: #fff ; }
+.wp-core-ui .german-market .test-download .button-primary:hover{ background: #fff; color: #6C7A89 ; }
+
+@media screen and (max-width: 1120px) {
+    .german-market { background-position: right 30px bottom 20px; }
+    .german-market .german-market-left-menu{ width: 100%; float: left; padding-top: 30px; }
+    .german-market .german-market-main-menu { width: 100%; height: 100%; border-left: none; float: left; padding: 30px; box-sizing: border-box; padding-bottom: px; }
+    .german-market .german-market-footer-menu { text-align: center; float: none; padding: 0; border-bottom: 1px solid #ddd; padding-bottom: 35px; }
+    .german-market .german-market-left-menu ul { display: none; }
+    .german-market .german-market-left-menu ul.open { display: block; }
+    .german-market .german-market-left-menu .mobile-menu-outer { float: left; display: block; width: 100%; margin-bottom: 25px; cursor: pointer; }
+    .german-market .german-market-left-menu .mobile-menu-button { margin: 0 auto; width: 75px; text-align: center; font-size: 16px; font-weight: 700; color: #3498db; }
+    .german-market .german-market-left-menu .mobile-menu-button .txt { float: left; margin-right: 10px; }
+    .german-market .german-market-left-menu .mobile-menu-button .mobile-icon { float: right; z-index: 99999; width: 15px; height: 15px; position: relative; margin-top: 4px; -webkit-transform: rotate(0deg); -moz-transform: rotate(0deg); -o-transform: rotate(0deg); transform: rotate(0deg); -webkit-transition: .5s ease-in-out; -moz-transition: .5s ease-in-out; -o-transition: .5s ease-in-out; transition: .5s ease-in-out; cursor: pointer; }
+    .german-market .german-market-left-menu .mobile-menu-button .mobile-icon span {display: block;position: absolute;height: 3px;width: 100%;background: #3498db;border-radius: 10px;opacity: 1;left: 0;-webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-o-transform: rotate(0deg);transform: rotate(0deg);-webkit-transition: .25s ease-in-out;-moz-transition: .25s ease-in-out;-o-transition: .25s ease-in-out;transition: .25s ease-in-out;}
+    .german-market .german-market-left-menu .mobile-menu-button .mobile-icon span:nth-child(1) { top: 0px; }
+    .german-market .german-market-left-menu .mobile-menu-button .mobile-icon span:nth-child(2),#nav-icon3 span:nth-child(3) { top: 5px; }
+    .german-market .german-market-left-menu .mobile-menu-button .mobile-icon span:nth-child(4) { top: 10px; }
+    .german-market .german-market-left-menu .mobile-menu-button .mobile-icon.open span:nth-child(1) { top: 5px; width: 0%; left: 50%; }
+    .german-market .german-market-left-menu .mobile-menu-button .mobile-icon.open span:nth-child(2) { -webkit-transform: rotate(45deg); -moz-transform: rotate(45deg); -o-transform: rotate(45deg); transform: rotate(45deg); }
+    .german-market .german-market-left-menu .mobile-menu-button .mobile-icon.open span:nth-child(3) { top: 5px; -webkit-transform: rotate(-45deg); -moz-transform: rotate(-45deg); -o-transform: rotate(-45deg); transform: rotate(-45deg); }
+    .german-market .german-market-left-menu .mobile-menu-button .mobile-icon.open span:nth-child(4) { top: 5px; width: 0%; left: 50%; } 
+}
+
+@media screen and (max-width: 550px) {
+    .german-market { background-position: right 15px bottom 50px; }
+    .german-market .german-market-main-menu { padding: 15px; padding-bottom: 75px;  }
+    .german-market .add-on-box { width: 100%; margin-right: 0; height: 350px; }
+    .german-market .add-on-box:nth-child(3n+4) { margin-right: 0%;}
+    .german-market .add-on-box:nth-child(2n+3) { margin-right: 0;}
+}
+
+/* Sepa */
+#order_data .order_data_column .form-field._german_market_sepa_holder_field, 
+#order_data .order_data_column .form-field._german_market_sepa_iban_field, 
+#order_data .order_data_column .form-field._german_market_sepa_bic_field,
+#order_data .order_data_column .form-field._german_market_sepa_mandate_reference_field {
+     width: 100%; 
+}
+
+#woocommerce_german_market_sepa_direct_debit_my_account_title,
+#woocommerce_german_market_sepa_direct_debit_sepa_mandate_email_title,
+#woocommerce_german_market_sepa_direct_debit_prenotification_api_title,
+#woocommerce_german_market_sepa_direct_debit_xml_export,
+#woocommerce_german_market_sepa_direct_debit_rest_api_title,
+#woocommerce_german_market_sepa_direct_debit_sevdesk_title,
+#woocommerce_german_market_sepa_direct_debit_lexoffice_due_date_title {
+    border-top: 1px solid #ccc;
+    padding-top: 1em;
+}
+
+.german-market-error-admin { display: block;  margin-top: .7rem; width: 100%; float: left; box-sizing: border-box; background: #fff; border: 1px solid #ccd0d4; box-shadow: 0 1px 1px rgba(0,0,0,.04); padding: 1px 12px; border-left: 4px solid #dc3232; margin-bottom: .7rem; }
+
+.wp-core-ui .button.sepa_mandate, 
+.wp-core-ui .button.sepa_mandate:hover, 
+.wp-core-ui .button.sepa_mandate:active, 
+.wp-core-ui .button.sepa_mandate:focus{ position: relative; padding: 0!important; height: 2em!important; width: 2em; text-indent: -9999px; background: url("../images/sepa_button.png" ); background-size: 15px 15px; background-repeat: no-repeat; background-position: center center; }
+
+
+.wp-core-ui .button.sepa_mandate.has_xml_export, 
+.wp-core-ui .button.sepa_mandate.has_xml_export:hover, 
+.wp-core-ui .button.sepa_mandate.has_xml_export:active, 
+.wp-core-ui .button.sepa_mandate.has_xml_export:focus{
+    background-color: #c6e1c6;
+}
+
+/* Protected Shops Loader */
+#gm-ps-background-loader {     
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    overflow: hidden;
+    float: left;
+    left: 0;
+    top: 0;
+    background-color: #fff;
+    opacity: 0.8;
+}
+
+#gm-ps-background-icon{
+    z-index: 200;
+    width: 100%;
+    display: none;
+    position: fixed;
+    left: 0;
+    top: 45vh;
+    background-image: url(../images/loader-squares.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 200px;
+    height: 200px;
+}
+
+.gm-ps-save-to-page {
+    float: left;
+}
+
+.gm-ps-background-icon.small{
+    background-image: url(../images/loader-squares.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 40px;
+    height: 40px;
+    width: 40px;
+    float: left;
+    margin-left: 5px;
+    margin-top: -3px;
+    display: none;
+} 
+
+.german-market #sidebar {
+    margin-left: 0 !important;
+}
+.german-market .questionnaire-nav a {
+    z-index: 0;
+}
+
+.german-market #main-questionary {
+    font-family: sans-serif;
+    font-size: 14px;
+    color: #666;
+}
+.german-market .questionary-container label {
+    font-size: 14px;
+}
+
+.german-market .questionary-container .topbar label {
+    margin-right: 0;
+}
+
+.german-market #content .question-title {
+    color: #666;
+    margin: 0;
+}
+.german-market .questionary-container .question {
+    background-color: #fff;
+    padding-bottom: 30px;
+    margin: 0;
+}
+.german-market .questionary-container .question h3 {
+    background-color: #ccc;
+}
+.german-market .questionary-container.answered .question h3 {
+    background-color: #eee;
+}
+
+.german-market #questionnaire,
+.german-market .questionnaire-nav,
+.german-market .left-menu-border,
+.german-market .questionnaire-nav li {
+    border: 0;
+}
+
+.german-market .questionnaire-nav li a,
+.german-market .questionnaire-nav li.tab-success a {
+    padding: 18px 6px 18px;
+    background-size: 15px 15px;
+    background-position: 180px center;
+}
+
+.german-market .questionnaire-nav li a:hover {
+    font-weight: normal;
+    text-decoration: underline;
+}
+
+.german-market .questionary-container .question.answered h3 {
+    background-size: 15px 15px;
+    background-position: 658px 12px;
+}
+
+.german-market .question button.editQuestionnaire, 
+.german-market .variables-container button.editVariables {
+    right: 20px;
+}
+
+.german-market .gm-protected-shops-preview-text {
+    white-space: pre-line;
+    background-color: #f6f6f6;
+    padding: 20px;
+    margin-bottom: 25px;
+    height: 250px;
+    overflow-y: scroll;
+    border: 1px solid #ddd;
+}
+
+.german-market .copied-success, .german-market .copied-page-success {
+    float: left;
+    width: 100%;
+    margin-top: 10px;
+    font-style: italic;
+    color: #2980b9;
+    display: none;
+}
+
+.german-market .copied-page-error {
+    float: left;
+    width: 100%;
+    margin-top: 10px;
+    font-style: italic;
+    color: #f00;
+    display: none;
+    font-weight: bold;
+}
+
+.german-market .document-type.hidden{
+    display: none;
+}
+
+.german-market p.screen-reader-buttons {
+    width: 52px;
+    float: left;
+    display: block;
+    font-size: smaller;
+    margin-top: -5px;
+    text-align: center;
+}
+
+.german-market p.screen-reader-buttons .delimter {
+    margin: 0 1px;
+}
+
+.german-market p.screen-reader-buttons .gm-ui-checkbox.switcher-german-market {
+    cursor: pointer;
+}
+
+.german-market p.screen-reader-buttons .gm-ui-checkbox.active {
+    font-weight: bolder;
+}
+
+.german-market p.screen-reader-buttons .gm-ui-checkbox {
+    color: #666;
+}
+
+.german-market p.screen-reader-buttons .gm-ui-checkbox.on {
+    color: #2ECC71;
+}
+
+.german-market .legal-text-contents-html {
+    height: 200px;
+    overflow: scroll;
+    border: 1px solid #ddd;
+    padding: 0 20px;
+    box-sizing: border-box;
+    overflow-x: hidden;
+    margin-bottom: 20px;
+    background-color: #eee;
+}
+
+.german-market .legal-text{ margin-left: 50px; }
+
+.german-market .legal-text-de-en {
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+}
+
+.german-market .legal-text-language-de, .german-market .legal-text-language-en {
+    font-weight: bold; 
+    font-size: 1.1em;
+}
+
+.german-market .legal-text-language-en {
+    margin-top: 1em;
+    width: 100%;
+    float: left;
+}
+
+
+/* Import EU Tax Rates by CN Number */
+.german-market #wcevc_import_cn_number_eu_countries-description + table.form-table td {
+    width: 80%;
+}
+
+.german-market table [id^="wcevc_import_"]:not(.wcevc_import_cn_number_input):not(.wcevc_import_cn_number_categories_select),
+.german-market table [id^="wcevc_import_"]:not(.wcevc_import_cn_number_input):not(.wcevc_import_cn_number_categories_select) + span {
+    width: 80% !important;
+    max-width: 700px;
+}
+
+.german-market table .wcevc_import_cn_number_categories_select {
+    width: 400px;
+}
+
+@media screen and (max-width: 1200px ) {
+    .german-market table [id^="wcevc_import_"], 
+    .german-market table [id^="wcevc_import_"] + span {
+        max-width: 400px;
+    }
+}
+
+@media screen and (max-width: 782px ) {
+    .german-market #wcevc_import_cn_number_eu_countries-description + table.form-table td {
+        width: 100vw;
+    }
+
+    .german-market table [id^="wcevc_import_"], 
+    .german-market table [id^="wcevc_import_"] + span {
+        max-width: unset;
+    }
+}

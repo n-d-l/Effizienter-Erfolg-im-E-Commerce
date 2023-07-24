@@ -1,0 +1,64 @@
+@font-face {
+    font-family: icomoon;
+    src: url(../fonts/icomoon.eot?es545r);
+    src: url(../fonts/icomoon.eot?#iefixes545r) format('embedded-opentype'), url(../fonts/icomoon.woff?es545r) format('woff'), url(../fonts/icomoon.ttf?es545r) format('truetype'), url(../fonts/icomoon.svg?es545r#icomoon) format('svg');
+    font-weight: 400;
+    font-style: normal
+}
+.invoice_pdf,
+.invoice_pdf_delete_content,
+.refund_actions .delete-refund-pdf-content,
+.refund_actions .refund_pdf {
+    display: block;
+    text-indent: -9999px;
+    position: relative;
+    padding: 0!important;
+    height: 2em!important;
+    width: 2em
+}
+.invoice_pdf_delete_content:after,
+.invoice_pdf:after,
+.refund_actions .delete-refund-pdf-content:after,
+.refund_actions .refund_pdf:after {
+    speak: none;
+    font-variant: normal;
+    text-transform: none;
+    -webkit-font-smoothing: antialiased;
+    margin: 0;
+    text-indent: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    line-height: 1.85
+}
+
+.widefat .column-wc_actions a.button.invoice_pdf_delete_content.hidden{
+    display: none;
+}
+
+.widefat .column-wc_actions a.button.invoice_pdf::after,
+.refund_actions .refund_pdf:after {
+    font-family: icomoon;
+    content: "\e600"
+}
+.invoice_pdf_delete_content:after,
+.refund_actions .delete-refund-pdf-content:after {
+    font-family: dashicons;
+    content: "\f158"
+}
+
+.woocommerce_page_wgm-refunds .tablenav{ 
+    margin: 0; 
+}
+
+.woocommerce_page_wgm-refunds form .button-primary:first-child {
+    margin-top: 15px;
+}
+
+.woocommerce_page_wgm-refunds td > input[type="checkbox"].gm-select-refund{
+    margin-top: -4px;
+    margin-left: 6px;
+}

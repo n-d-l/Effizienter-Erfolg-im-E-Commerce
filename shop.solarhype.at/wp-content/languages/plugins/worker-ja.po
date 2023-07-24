@@ -1,0 +1,104 @@
+# Translation of Plugins - ManageWP Worker - Development (trunk) in Japanese
+# This file is distributed under the same license as the Plugins - ManageWP Worker - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-06-24 06:46:32+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - ManageWP Worker - Development (trunk)\n"
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:277
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:308
+msgid "Log into your account."
+msgstr "アカウントにログインしてください。"
+
+#: functions.php:878
+msgid "Every 5 Minutes"
+msgstr "5分ごと"
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:404
+msgid "Copy"
+msgstr "コピー"
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:374
+msgid "Disconnect"
+msgstr "接続解除"
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:331
+msgid "ID"
+msgstr "ID"
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:335
+msgid "Connected"
+msgstr "接続済み"
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:355
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:367
+msgid "N/A"
+msgstr "なし"
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:294
+msgid "Manual"
+msgstr "手動"
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:271
+msgid "Automatic"
+msgstr "自動"
+
+#. Author URI of the plugin
+msgid "https://godaddy.com"
+msgstr "https://godaddy.com"
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:219
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:458
+msgid "Connection Management"
+msgstr "接続の管理"
+
+#. Author of the plugin
+msgid "GoDaddy"
+msgstr "GoDaddy"
+
+#. translators: the variable is going to contain a human time difference string
+#. like "2 days"
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:352
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:364
+msgid "%s ago"
+msgstr "%s前"
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:339
+msgid "Last Used"
+msgstr "最終使用日"
+
+#. Plugin URI of the plugin
+msgid "https://managewp.com"
+msgstr "https://managewp.com"
+
+#. Plugin Name of the plugin
+msgid "ManageWP - Worker"
+msgstr "ManageWP - Worker"
+
+#. translators: the variable in this string is the WordPress username that
+#. could not be found
+#: src/MWP/EventListener/PublicRequest/AutomaticLogin.php:162
+msgid "User <strong>%s</strong> could not be found."
+msgstr "ユーザー <strong>%s</strong> は見つかりません。"
+
+#: src/MWP/EventListener/PublicRequest/AutomaticLogin.php:155
+msgid "The automatic login token is invalid. Please check if this website is properly connected with your dashboard, or, if this keeps happening, contact support."
+msgstr "自動ログインのトークンが無効です。このウェブサイトがダッシュボードに正しく接続されているかどうかを確認してください。"
+
+#: src/MWP/EventListener/PublicRequest/AutomaticLogin.php:125
+msgid "The automatic login token was already used. Please try again, or, if this keeps happening, contact support."
+msgstr "自動ログイントークンはすでに使用されていました。もう一度やり直してください。引き続き起きる場合は、サポートに連絡してください。"
+
+#: src/MWP/EventListener/PublicRequest/AutomaticLogin.php:123
+msgid "The automatic login token has expired. Please try again, or, if this keeps happening, contact support."
+msgstr "自動ログイントークンが期限切れです。もう一度ログインしなおしてください。引き続き起きる場合は、サポートに連絡してください。"
+
+#: src/MWP/EventListener/PublicRequest/AutomaticLogin.php:121
+msgid "The automatic login token is invalid. Please try again, or, if this keeps happening, contact support."
+msgstr "自動ログイントークンが無効です。もう一度やり直してください。引き続き起きる場合は、サポートに連絡してください。"

@@ -1,0 +1,3 @@
+2023-07-02T03:19:15+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 1656): ["Solarmodule"].
+2023-07-02T03:19:17+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":1656,"google_id":"online:de:AT:gla_1656"}]

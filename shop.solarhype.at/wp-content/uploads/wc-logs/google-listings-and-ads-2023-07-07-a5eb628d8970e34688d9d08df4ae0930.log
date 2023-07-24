@@ -1,0 +1,6 @@
+2023-07-07T08:59:53+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2189): ["Solarmodule"].
+2023-07-07T08:59:54+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2189,"google_id":"online:de:AT:gla_2189"}]
+2023-07-07T11:31:04+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2189): ["Solarmodule"].
+2023-07-07T11:31:05+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2189,"google_id":"online:de:AT:gla_2189"}]

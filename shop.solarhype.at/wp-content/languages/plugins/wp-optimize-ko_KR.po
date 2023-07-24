@@ -1,0 +1,4453 @@
+# Translation of Plugins - WP-Optimize &#8211; Cache, Clean, Compress. - Stable (latest release) in Korean
+# This file is distributed under the same license as the Plugins - WP-Optimize &#8211; Cache, Clean, Compress. - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-06-16 07:10:29+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: ko_KR\n"
+"Project-Id-Version: Plugins - WP-Optimize &#8211; Cache, Clean, Compress. - Stable (latest release)\n"
+
+#: wp-optimize.php:795
+msgid "Select destination"
+msgstr "목적지 선택"
+
+#: wp-optimize.php:753
+msgid "Add"
+msgstr "추가"
+
+#: includes/class-wp-optimize-notices.php:213
+msgid "Visit any of our websites and use code %s at the checkout to get 20%% off all our plugins. Be quick, offer ends 30th September. "
+msgstr "당사 웹사이트를 방문하고 체크아웃 시 코드 %s를 사용하여 모든 플러그인을 20%% 할인받으십시오. 서두르세요. 제안은 9월 30일에 종료됩니다. "
+
+#: includes/class-wp-optimize-notices.php:199
+msgid "Get 20%% off. Use code %s at %s. Hurry, offer ends 31st July."
+msgstr "20%% 할인 받으세요. %s에서 %s 코드를 사용하십시오. 서두르세요. 제안은 7월 31일에 종료됩니다."
+
+#: includes/class-wp-optimize-notices.php:198
+msgid "Summer Sale"
+msgstr "여름 세일"
+
+#: includes/class-wp-optimize-notices.php:185
+msgid "Get 20%% off. Use code %s at %s. Hurry, offer ends 31st May."
+msgstr "20%% 할인 받으세요. %s에서 %s 코드를 사용하십시오. 서둘러주세요. 제안은 5월 31일에 종료됩니다."
+
+#: includes/class-wp-optimize-notices.php:184
+msgid "Spring Sale"
+msgstr "봄 세일"
+
+#: includes/class-wp-optimize-notices.php:171
+msgid "Get 20%% off. Use code %s at %s. Hurry, offer ends 14th January."
+msgstr "20%% 할인 받으세요. %s에서 %s 코드를 사용하십시오. 서두르세요. 제안은 1월 14일에 종료됩니다."
+
+#: includes/class-wp-optimize-notices.php:170
+msgid "New Year Sale"
+msgstr "새해 세일"
+
+#: includes/class-wp-optimize-notices.php:157
+msgid "Get 20%% off with code %s at %s. Hurry, offer ends 28th November."
+msgstr "%s에서 %s 코드로 20%% 할인을 받으세요. 서두르세요. 제안은 11월 28일에 종료됩니다."
+
+#: includes/class-wp-optimize-notices.php:156
+msgid "Black Friday Sale"
+msgstr "블랙 프라이데이 세일"
+
+#: includes/class-wp-optimize-notices.php:42
+msgid "checkout"
+msgstr "점검"
+
+#: includes/class-wp-optimize-notices.php:40
+msgid "Premium is compatible with WordPress multisite, WooCommerce and other add-ons, including multilingual and multi-currency WordPress plugins."
+msgstr "프리미엄은 워드프레스 다중 사이트, WooCommerce 및 다국어 및 다중 통화 워드프레스 플러그인을 포함한 기타 애드온과 호환됩니다."
+
+#: includes/class-wp-optimize-notices.php:39
+msgid "Get advanced options, like the ability to optimize your site using WP-CLI."
+msgstr "WP-CLI를 사용하여 사이트를 최적화하는 기능과 같은 고급 옵션을 얻으십시오."
+
+#: includes/class-wp-optimize-notices.php:38
+msgid "Identify orphaned images, load webpages faster and get premium support."
+msgstr "고아 이미지를 식별하고, 웹페이지를 더 빠르게 로드하고, 프리미엄 지원을 받으세요."
+
+#: includes/class-wp-optimize-notices.php:37
+msgid "Make your site even faster with Premium."
+msgstr "프리미엄으로 사이트를 더욱 빠르게 만드세요."
+
+#: minify/class-wp-optimize-minify-cache-functions.php:497
+msgid "Some data is missing in the log file %s"
+msgstr "로그 파일 %s에서 일부 데이터가 누락되었습니다."
+
+#: minify/class-wp-optimize-minify-cache-functions.php:492
+msgid "JSON error in file %s | Error details: %s"
+msgstr "파일 %s의 JSON 오류 | 오류 세부 정보: %s"
+
+#: minify/class-wp-optimize-minify-cache-functions.php:483
+msgid "Log file %s is missing"
+msgstr "로그 파일 %s이(가) 없습니다."
+
+#: includes/class-updraft-smush-manager.php:814
+msgid "Compressing this file type extension is not supported"
+msgstr "이 파일 형식 확장자는 압축할 수 없습니다."
+
+#: includes/class-updraft-smush-manager.php:751
+msgid "Converting image to WebP format, please wait"
+msgstr "이미지를 WebP 형식으로 변환 중입니다. 잠시만 기다려 주십시오."
+
+#: includes/class-updraft-smush-manager.php:146
+msgid "Convert to WebP"
+msgstr "WebP로 변환"
+
+#: includes/class-updraft-smush-manager-commands.php:528
+msgid "Image not found"
+msgstr "이미지를 찾을 수 없음"
+
+#: includes/class-updraft-smush-manager-commands.php:517
+msgid "Image is converted to WebP format."
+msgstr "이미지는 WebP 형식으로 변환됩니다."
+
+#: templates/settings/settings-logging.php:52
+msgid "Apply"
+msgstr "적용하다"
+
+#: templates/settings/settings-logging.php:46
+msgid "Edit"
+msgstr "편집"
+
+#: templates/minify/js-settings-tab.php:143
+msgid "(Asynchronous loading. Use this method if you require support for %solder browsers%s)."
+msgstr "(비동기식 로딩. %solder browsers%s에 대한 지원이 필요한 경우 이 방법을 사용하십시오.)"
+
+#: templates/minify/js-settings-tab.php:100
+msgid "Use this only for testing purpose to find out which scripts are slowing down your site."
+msgstr "사이트 속도를 저하시키는 스크립트를 확인하기 위한 테스트 목적으로만 사용하십시오."
+
+#: templates/minify/js-settings-tab.php:99
+msgid "Exclude scripts from page speed tests (PageSpeed Insights, GTMetrix...)"
+msgstr "페이지 속도 테스트에서 스크립트 제외(PageSpeed ​​Insights, GTMetrix...)"
+
+#: templates/minify/js-settings-tab.php:80
+msgid "Use this if you have a completely independent script"
+msgstr "완전히 독립적인 스크립트가 있는 경우 이것을 사용하십시오."
+
+#: templates/minify/js-settings-tab.php:72
+msgid "Asynchronously load selected JavaScript files"
+msgstr "선택한 JavaScript 파일을 비동기식으로 로드"
+
+#: templates/minify/css-settings-tab.php:112
+msgid "Use this only for testing purpose to find out which stylesheets are slowing down your site."
+msgstr "사이트 속도를 저하시키는 스타일시트를 확인하기 위한 테스트 목적으로만 사용하십시오."
+
+#: templates/minify/css-settings-tab.php:111
+msgid "Exclude stylesheets from page speed tests (PageSpeed Insights, GTMetrix...)"
+msgstr "페이지 속도 테스트에서 스타일시트 제외(PageSpeed ​​Insights, GTMetrix...)"
+
+#: templates/minify/css-settings-tab.php:92
+msgid "Use this if you have a completely independent stylesheet"
+msgstr "완전히 독립적인 스타일시트가 있는 경우 이것을 사용하십시오."
+
+#: templates/minify/cached-file.php:5
+#: templates/settings/settings-logging.php:47 wp-optimize.php:773
+msgid "Delete"
+msgstr "삭제"
+
+#: templates/images/smush.php:133
+msgid "Select site"
+msgstr "사이트 선택"
+
+#: templates/images/smush.php:79
+msgid "How to get WebP conversion tools work?"
+msgstr "WebP 변환 도구를 작동시키는 방법은 무엇입니까?"
+
+#: optimizations/usermeta.php:132
+msgid "Remove orphaned user meta"
+msgstr "고아 사용자 메타 제거"
+
+#: optimizations/usermeta.php:125
+msgid "Clean user meta data"
+msgstr "사용자 메타 데이터 정리"
+
+#: optimizations/usermeta.php:94
+msgid "%s orphaned user meta data in your database"
+msgid_plural "%s orphaned user meta data in your database"
+msgstr[0] "데이터베이스의 %s 분리된 사용자 메타 데이터"
+
+#: optimizations/usermeta.php:54 optimizations/usermeta.php:96
+msgid "No orphaned user meta data in your database"
+msgstr "데이터베이스에 분리된 사용자 메타 데이터가 없습니다."
+
+#: optimizations/usermeta.php:46
+msgid "User ID"
+msgstr "사용자 아이디"
+
+#: minify/class-wp-optimize-minify-commands.php:137
+msgid "Cache deleted."
+msgstr "캐시가 삭제되었습니다."
+
+#: minify/class-wp-optimize-minify-commands.php:116 wp-optimize.php:778
+msgid "Cache file was not found."
+msgstr "캐시 파일을 찾을 수 없습니다."
+
+#: wp-optimize.php:794
+msgid "Do you want to carry out the import?"
+msgstr "가져오기를 수행하시겠습니까?"
+
+#: wp-optimize.php:793
+msgid "Which was exported on:"
+msgstr "내보낸 항목:"
+
+#: wp-optimize.php:792
+msgid "This will import data from:"
+msgstr "다음에서 데이터를 가져옵니다."
+
+#: wp-optimize.php:791
+msgid "Importing..."
+msgstr "가져오는 중..."
+
+#: wp-optimize.php:790
+msgid "Error: The chosen file is corrupt. Please choose a valid WP-Optimize export file."
+msgstr "오류: 선택한 파일이 손상되었습니다. 유효한 WP-옵티마이즈 내보내기 파일을 선택하십시오."
+
+#: wp-optimize.php:789
+msgid "You have not yet selected a file to import."
+msgstr "가져올 파일을 아직 선택하지 않았습니다."
+
+#: templates/settings/settings-export-import.php:15
+msgid "Import settings"
+msgstr "가져오기 설정"
+
+#: templates/settings/settings-export-import.php:12
+msgid "This tool will replace all your saved settings."
+msgstr "이 도구는 저장된 모든 설정을 대체합니다."
+
+#: templates/settings/settings-export-import.php:12
+msgid "You can also import previously-exported settings."
+msgstr "이전에 내보낸 설정을 가져올 수도 있습니다."
+
+#: templates/settings/settings-export-import.php:9
+msgid "Export settings"
+msgstr "내보내기 설정"
+
+#: templates/settings/settings-export-import.php:7
+msgid "Here, you can export your WP-Optimize settings, either for use on another site, or to keep as a backup."
+msgstr "여기에서 다른 사이트에서 사용하거나 백업으로 유지하기 위해 WP-옵티마이즈 설정을 내보낼 수 있습니다."
+
+#: templates/settings/settings-export-import.php:3
+msgid "Export / import settings"
+msgstr "내보내기/가져오기 설정"
+
+#: includes/class-wp-optimize-commands.php:514
+msgid "The settings were imported successfully."
+msgstr "설정을 성공적으로 가져왔습니다."
+
+#: includes/class-updraft-smush-manager-commands.php:224
+msgid "Smush options could not be updated"
+msgstr "Smush 옵션을 업데이트할 수 없습니다."
+
+#: cache/class-wpo-page-cache.php:1404
+msgid "Same as cache lifespan: %s"
+msgstr "캐시 수명과 동일: %s"
+
+#: cache/class-wpo-page-cache.php:1399
+msgid "%d minutes"
+msgstr "%d분"
+
+#: templates/images/smush.php:88
+msgid "The WebP serving method has been reset"
+msgstr "WebP 제공 방법이 재설정되었습니다."
+
+#: templates/images/smush.php:87
+msgid "Reset WebP serving method"
+msgstr "WebP 제공 방법 재설정"
+
+#: templates/database/tables-body.php:38
+msgid "Thus, it cannot be deleted."
+msgstr "따라서 삭제할 수 없습니다."
+
+#: templates/database/tables-body.php:37
+msgid "This table is used by many plugins for batch processing. "
+msgstr "이 테이블은 일괄 처리를 위해 많은 플러그인에서 사용됩니다. "
+
+#: templates/cache/page-cache-advanced.php:41
+msgid "You can find more details about condtional tags from %1$shere%2$s"
+msgstr "조건부 태그에 대한 자세한 내용은 %1$s여기%2$s에서 확인할 수 있습니다."
+
+#: templates/cache/page-cache-advanced.php:39
+msgid "List conditional tags (e.g. %s) that should not be cached (one per line)."
+msgstr "캐시되지 않아야 하는 조건부 태그(예: %s)를 나열합니다(한 줄에 하나씩)."
+
+#: templates/cache/page-cache-advanced.php:32
+msgid "Conditional tags to exclude from caching"
+msgstr "캐싱에서 제외할 조건부 태그"
+
+#: cache/file-based-page-cache-functions.php:907
+msgid "In the settings, caching is disabled for %s"
+msgstr "설정에서 %s에 대한 캐싱이 비활성화되었습니다."
+
+#: cache/class-wpo-page-cache.php:1394
+msgid "Every time after the cache has expired"
+msgstr "캐시가 만료된 후 매번"
+
+#: templates/minify/preload-tab.php:28
+msgid "If a sitemap is available, then it will be used to determine which assets get minified."
+msgstr "사이트맵을 사용할 수 있는 경우 축소할 자산을 결정하는 데 사용됩니다."
+
+#: templates/minify/preload-tab.php:27
+msgid "This action will trigger WP-Optimize to generate minify assets by visiting pages to preload them (so that they are ready the first time a human visitor wants them)."
+msgstr "이 작업은 WP-옵티마이즈를 트리거하여 미리 로드하기 위해 페이지를 방문하여 축소 자산을 생성합니다(그래서 인간 방문자가 처음 원할 때 준비가 됩니다)."
+
+#: templates/minify/preload-tab.php:8
+msgid "Cache Preload"
+msgstr "캐시 사전 로드"
+
+#: templates/minify/preload-tab.php:8
+msgid "You are using WP-Optimize for page caching. Because of that, the pre-load settings used for page-caching are used. i.e. To configure pre-loading, go to the <a href=\"%s\">settings in the caching section</a> instead."
+msgstr "페이지 캐싱에 WP-옵티마이즈를 사용하고 있습니다. 그 때문에 페이지 캐싱에 사용되는 사전 로드 설정이 사용됩니다. 즉, 미리 로드를 구성하려면 대신 <a href=\"%s\">캐싱 섹션의 설정</a>으로 이동하세요."
+
+#: minify/class-wp-optimize-minify-preloader.php:115
+msgid "Probably minify preload is running already."
+msgstr "미리 로드를 축소하는 것이 이미 실행 중일 수 있습니다."
+
+#: minify/class-wp-optimize-minify-preloader.php:103
+msgid "Minify is disabled."
+msgstr "최소화가 비활성화되었습니다."
+
+#: minify/class-wp-optimize-minify-preloader.php:78
+msgid "Minify: Tasks for preload site urls created."
+msgstr "축소: 미리 로드 사이트 URL에 대한 작업이 생성되었습니다."
+
+#: minify/class-wp-optimize-minify-preloader.php:66
+msgid "Minify: Creating tasks for preload site urls."
+msgstr "축소: 사이트 URL을 미리 로드하기 위한 작업 생성."
+
+#: templates/minify/status-tab.php:60
+msgid "It looks like you already have an active minify plugin (%s) installed. Having more than one active plugin to minify front end assets might cause unexpected results and waste of resources."
+msgstr "활성 축소 플러그인(%s)이 이미 설치되어 있는 것 같습니다. 프런트 엔드 자산을 축소하기 위해 둘 이상의 활성 플러그인이 있으면 예기치 않은 결과와 리소스 낭비가 발생할 수 있습니다."
+
+#: templates/minify/font-settings-tab.php:66
+msgid "The stylesheets will be inlined."
+msgstr "스타일시트가 인라인됩니다."
+
+#: templates/minify/font-settings-tab.php:65
+msgid "Inline google font CSS files"
+msgstr "인라인 구글 글꼴 CSS 파일"
+
+#: templates/images/smush-details.php:9
+msgid "Compressed"
+msgstr "압축됨"
+
+#: templates/images/smush-details.php:8
+msgid "Original"
+msgstr "원래의"
+
+#: templates/images/smush-details.php:7
+msgid "Size name"
+msgstr "사이즈명"
+
+#: optimizations/optimizetables.php:85 optimizations/orphanedtables.php:35
+#: optimizations/orphanedtables.php:54
+msgid "The table \"%s\" does not exist."
+msgstr "테이블 \"%s\"이(가) 존재하지 않습니다."
+
+#: includes/class-updraft-smush-manager.php:750
+msgid "Less"
+msgstr "간략 보기"
+
+#: includes/class-updraft-smush-manager.php:749
+#: templates/images/smush-details.php:2
+msgid "More"
+msgstr "상세 보기"
+
+#: includes/class-updraft-smush-manager.php:135
+msgid "The file was either compressed using another tool or marked as compressed"
+msgstr "파일이 다른 도구를 사용하여 압축되었거나 압축된 것으로 표시되었습니다."
+
+#: cache/file-based-page-cache-functions.php:106
+msgid "This page returned an HTTP unauthorised response code (%s)"
+msgstr "이 페이지에서 HTTP 승인되지 않은 응답 코드(%s)를 반환했습니다."
+
+#: cache/file-based-page-cache-functions.php:104
+msgid "This page has a critical error (HTTP code %s)"
+msgstr "이 페이지에는 심각한 오류가 있습니다(HTTP 코드 %s)."
+
+#: wp-optimize.php:885
+msgid "Convert to InnoDB"
+msgstr "InnoDB로 변환"
+
+#: wp-optimize.php:763
+msgid "%s was not converted to InnoDB. For more details, please check your logs configured in logging destinations settings."
+msgstr "%s은(는) InnoDB로 변환되지 않았습니다. 자세한 내용은 로깅 대상 설정에서 구성된 로그를 확인하십시오."
+
+#: includes/class-wp-optimize-admin.php:478
+msgid "Enjoyed %s? Please leave us a %s rating. We really appreciate your support!"
+msgstr "%s을(를) 잘 사용하고 있습니까? %s 평가를 남겨주세요. 여러분의 지원에 정말 감사드립니다!"
+
+#: includes/class-wp-optimize-admin.php:448
+msgid "Your server takes care of table optimization"
+msgstr "서버가 테이블 최적화를 처리합니다."
+
+#: templates/minify/status-tab.php:163 templates/minify/status-tab.php:176
+#: wp-optimize.php:786
+msgid "No minified files are present"
+msgstr "최소화된 파일이 없습니다."
+
+#: templates/minify/status-tab.php:89
+msgid "All HTML will be minified. It takes effect only when cache pre-loading because it takes time."
+msgstr "모든 HTML이 축소됩니다. 시간이 걸리므로 캐시 사전 로드 시에만 적용됩니다."
+
+#: templates/minify/status-tab.php:87
+msgid "Process HTML (works only when cache pre-loading)"
+msgstr "HTML 처리(캐시 사전 로드 시에만 작동)"
+
+#: templates/minify/css-settings-tab.php:38
+msgid "When enabled, small CSS files will be inlined."
+msgstr "활성화되면 작은 CSS 파일이 인라인됩니다."
+
+#: templates/images/smush.php:75
+msgid "Creates WebP image format and serves it whenever possible."
+msgstr "WebP 이미지 형식을 생성하고 가능할 때마다 제공합니다."
+
+#: templates/images/smush.php:74
+msgid "Create WebP version of image"
+msgstr "이미지의 WebP 버전 만들기"
+
+#: templates/images/smush.php:69
+msgid "Note: Local WebP conversion tools are not allowed on your server."
+msgstr "참고: 로컬 WebP 변환 도구는 서버에서 허용되지 않습니다."
+
+#: templates/images/smush.php:65
+msgid "WebP conversion"
+msgstr "WebP 변환"
+
+#: templates/cache/page-cache.php:7
+msgid "Browser static file caching (via headers)"
+msgstr "브라우저 정적 파일 캐싱(헤더를 통해)"
+
+#: templates/cache/page-cache.php:5
+msgid "Page caching"
+msgstr "페이지 캐싱"
+
+#: templates/cache/page-cache.php:4
+msgid "Your web hosting company/server handles: "
+msgstr "귀하의 웹 호스팅 회사/서버는 다음을 처리합니다. "
+
+#: includes/class-wp-optimize-notices.php:145
+msgid "The WordPress subscription extension for WooCommerce store owners."
+msgstr "WooCommerce 상점 소유자를 위한 워드프레스 구독 확장."
+
+#: includes/class-wp-optimize-notices.php:144
+msgid "by"
+msgstr "~에 의해"
+
+#: includes/class-wp-optimize-notices.php:134
+msgid "WP-Optimize Premium comes with the power tweaks that will enable you to improve performance by targeting specific weak points, either in WordPress Core, or in popular plugins."
+msgstr "WP-옵티마이즈 프리미엄은 워드프레스 Core 또는 인기 있는 플러그인에서 특정 약점을 대상으로 성능을 개선할 수 있는 강력한 조정 기능을 제공합니다."
+
+#: includes/class-wp-optimize-notices.php:133
+msgid "Power tweaks for advanced users and better site performance."
+msgstr "고급 사용자 및 더 나은 사이트 성능을 위한 강력한 조정."
+
+#: cache/file-based-page-cache-functions.php:89
+msgid "DONOTCACHEPAGE constant forbade it and wpo_can_cache_page filter did not over-ride it"
+msgstr "DONOTCACHEPAGE 상수는 이를 금지했고 wpo_can_cache_page 필터는 이를 무시하지 않았습니다."
+
+#: cache/file-based-page-cache-functions.php:87
+msgid "wpo_can_cache_page filter forbade it"
+msgstr "wpo_can_cache_page 필터가 그것을 금지했습니다."
+
+#: wp-optimize.php:774
+msgid "Added to the list"
+msgstr "목록에 추가됨"
+
+#: templates/notices/cache-notice.php:5
+msgid "Page caching issue."
+msgstr "페이지 캐싱 문제."
+
+#: templates/minify/settings-tab.php:18
+msgid "Inline JavaScript and CSS that should come before or after other enqueued files will be merged."
+msgstr "인라인 JavaScript 및 CSS는 대기열에 포함된 다른 파일 앞이나 뒤에 와야 병합됩니다."
+
+#: templates/minify/settings-tab.php:17
+msgid "Merge inline extra css and javascript"
+msgstr "인라인 추가 CSS와 자바스크립트 병합"
+
+#: templates/minify/cached-file.php:8 wp-optimize.php:776
+msgid "Save the changes"
+msgstr "변경 사항 저장"
+
+#: templates/minify/cached-file.php:7 wp-optimize.php:775
+msgid "The file was added to the list"
+msgstr "파일이 목록에 추가되었습니다."
+
+#: templates/minify/cached-file-log.php:28
+msgid "Load asynchronously"
+msgstr "비동기식으로 로드"
+
+#: templates/minify/cached-file-log.php:25
+msgid "Defer loading"
+msgstr "로딩 연기"
+
+#: templates/database/settings-auto-cleanup.php:14
+msgid "Enable scheduled clean-up and optimization"
+msgstr "예약된 정리 및 최적화 활성화"
+
+#: cache/class-wpo-page-cache.php:1374
+msgid "The request to write the file %s failed."
+msgstr "%s 파일 쓰기 요청이 실패했습니다."
+
+#: cache/class-wpo-page-cache.php:358 cache/class-wpo-page-cache.php:1375
+msgid "Please check file and directory permissions on the file paths up to this point, and your PHP error log."
+msgstr "지금까지의 파일 경로에 대한 파일 및 디렉토리 권한과 PHP 오류 로그를 확인하십시오."
+
+#: templates/images/smush.php:46
+msgid "Uses lossless compression, which results in much better image quality but lower file size savings per image"
+msgstr "무손실 압축을 사용하므로 이미지 품질은 훨씬 향상되지만 이미지당 파일 크기는 더 적게 절약됩니다."
+
+#: templates/images/smush.php:23
+msgid "The time taken to complete the compression will depend upon the size and quantity of the images."
+msgstr "압축을 완료하는 데 걸리는 시간은 이미지의 크기와 양에 따라 다릅니다."
+
+#: templates/images/smush.php:23
+msgid "This prevents the site from being slowed down during media uploads."
+msgstr "이렇게 하면 미디어 업로드 중에 사이트 속도가 느려지는 것을 방지할 수 있습니다."
+
+#: templates/images/smush.php:23
+msgid "The images will be added to a background queue, which will start automatically within the next hour."
+msgstr "이미지는 다음 시간 내에 자동으로 시작되는 백그라운드 대기열에 추가됩니다."
+
+#: templates/images/smush.php:79
+msgid "No WebP conversion tools are available on your web-server."
+msgstr "웹 서버에서 사용할 수 있는 WebP 변환 도구가 없습니다."
+
+#: templates/images/smush.php:71
+msgid "Available WebP conversion tools:"
+msgstr "사용 가능한 WebP 변환 도구:"
+
+#: templates/minify/cached-file-log.php:21
+msgid "Exclude"
+msgstr "제외"
+
+#: templates/notices/horizontal-notice.php:75
+msgid "Read more."
+msgstr "더 읽어보세요."
+
+#: templates/database/settings-general.php:38
+msgid "Take a backup with UpdraftPlus before running scheduled optimizations"
+msgstr "예약된 최적화를 실행하기 전에 UpdraftPlus로 백업하십시오."
+
+#: templates/database/settings-general.php:36
+msgid "This option will retain specified number of post revisions, and remove other revisions."
+msgstr "이 옵션은 지정된 수의 사후 수정본을 유지하고 다른 수정본을 제거합니다."
+
+#: templates/database/settings-general.php:30
+msgid "Always keep %s post revisions"
+msgstr "항상 %s 게시물 갱신 유지"
+
+#: templates/database/status-box-contents.php:98
+msgid "Not keeping any revisions"
+msgstr "수정본을 보관하지 않음"
+
+#: templates/database/status-box-contents.php:95
+msgid "Keeping last %s revisions"
+msgstr "마지막 %s 개정 유지"
+
+#: optimizations/unapproved.php:84
+msgid "Post"
+msgstr "게시물"
+
+#: optimizations/revisions.php:235
+msgid "Clean post revisions but keep at least %d revisions"
+msgstr "사후 수정본을 정리하되 최소 %d개 수정본을 유지하세요."
+
+#: optimizations/revisions.php:227
+msgid "Clean post revisions which are older than %d weeks and keep at least %d revisions"
+msgstr "%d주보다 오래되고 최소 %d개의 수정본을 유지하는 게시물 수정본을 정리합니다."
+
+#: wp-optimize.php:785
+msgid "The tweak has been performed."
+msgstr "트윅이 실행되었습니다."
+
+#: minify/class-wp-optimize-minify.php:238
+msgid "The minify cache was successfully purged."
+msgstr "축소 캐시가 성공적으로 제거되었습니다."
+
+#: minify/class-wp-optimize-minify.php:127
+msgid "Minify cache purged"
+msgstr "최소화 캐시 제거"
+
+#: templates/minify/status-tab.php:145
+msgid "Purge the minified files"
+msgstr "최소화된 파일 제거"
+
+#: templates/minify/advanced-tab.php:96
+msgid "Enter 0 to never keep stale cache."
+msgstr "오래된 캐시를 유지하지 않으려면 0을 입력합니다."
+
+#: templates/minify/advanced-tab.php:95
+msgid "In order to prevent broken pages when using a third party page caching, WP-Optimize keeps the stale minified cache for 30 days."
+msgstr "타사 페이지 캐싱을 사용할 때 깨진 페이지를 방지하기 위해 WP-옵티마이즈는 오래된 축소 캐시를 30일 동안 유지합니다."
+
+#: templates/minify/advanced-tab.php:78
+msgid "Advanced options"
+msgstr "고급 옵션"
+
+#: wp-optimize.php:755
+msgid "Cancelling..."
+msgstr "취소 중..."
+
+#: cache/class-wpo-page-cache.php:1367
+msgid "Please disable the feature \"Gzip compression\" in Far Future Expiration to prevent conflicts."
+msgstr "충돌을 방지하려면 Far Future Expiration에서 \"Gzip 압축\" 기능을 비활성화하십시오."
+
+#: cache/class-wpo-page-cache.php:1346
+msgid "Please disable the feature \"Gzip compression\" in PageSpeed Ninja to prevent conflicts."
+msgstr "충돌을 방지하려면 PageSpeed ​​Ninja에서 \"Gzip 압축\" 기능을 비활성화하십시오."
+
+#: templates/minify/font-settings-tab.php:112
+msgid "Inline the Font Awesome CSS file"
+msgstr "Font Awesome CSS 파일 인라인"
+
+#: templates/minify/asset-preload.php:12
+msgid "Find out more here."
+msgstr "여기에서 자세히 알아보세요."
+
+#: templates/minify/asset-preload.php:12
+msgid "Preload key requests is a premium feature."
+msgstr "사전 로드 키 요청은 프리미엄 기능입니다."
+
+#: templates/minify/asset-preload.php:6
+msgid "Learn more about preloading key requests."
+msgstr "키 요청 미리 로드에 대해 자세히 알아보세요."
+
+#: templates/minify/asset-preload.php:5
+msgid "Preload critical assets to improve loading speed."
+msgstr "중요한 자산을 미리 로드하여 로딩 속도를 개선하십시오."
+
+#: templates/minify/asset-preload.php:2
+msgid "Preload key requests / assets"
+msgstr "주요 요청/자산 미리 로드"
+
+#: templates/minify/status-tab.php:67
+msgid "The constant %s is set to true, so no JavaScript or CSS file will be minified."
+msgstr "상수 %s가 true로 설정되어 있으므로 JavaScript 또는 CSS 파일이 축소되지 않습니다."
+
+#: templates/settings/may-also-like.php:250
+msgid "Catered towards more advanced users, the power tweaks will enable you to improve performance by targeting specific weak points, either in WordPress Core, or in popular plugins"
+msgstr "고급 사용자를 위한 강력한 조정을 통해 워드프레스 코어 또는 인기 있는 플러그인에서 특정 약점을 대상으로 성능을 개선할 수 있습니다."
+
+#: templates/settings/may-also-like.php:248
+#: templates/settings/may-also-like.php:249
+msgid "Power tweaks"
+msgstr "전원 조정"
+
+#: templates/settings/may-also-like.php:237
+msgid "Preload assets such as web fonts and icon fonts, as recommended by Google PageSpeed Insights"
+msgstr "구글 PageSpeed ​​Insights에서 권장하는 웹 글꼴 및 아이콘 글꼴과 같은 자산을 미리 로드합니다."
+
+#: templates/minify/asset-preload.php:10
+#: templates/settings/may-also-like.php:235
+#: templates/settings/may-also-like.php:236
+msgid "Preload key requests"
+msgstr "사전 로드 키 요청"
+
+#: templates/settings/may-also-like.php:198
+msgid "Anyone running an international WooCommerce store needs this: serve country specific content to your customers, appropriate VAT, pricing, all cached for great performance"
+msgstr "국제 WooCommerce 매장을 운영하는 모든 사람은 다음이 필요합니다. 고객에게 국가별 콘텐츠 제공, 적절한 VAT, 가격 책정, 뛰어난 성능을 위해 모두 캐시됨"
+
+#: templates/settings/may-also-like.php:197
+msgid "Geolocation and tax country for WooCommerce"
+msgstr "WooCommerce의 지리적 위치 및 세금 국가"
+
+#: templates/settings/may-also-like.php:196
+msgid "Geolocation for WooCommerce"
+msgstr "WooCommerce를 위한 지리적 위치"
+
+#: templates/settings/settings-trackback-and-comments.php:62
+msgid "All comments on existing posts were disabled on the %s."
+msgstr "기존 게시물에 대한 모든 댓글이 %s에서 비활성화되었습니다."
+
+#: templates/settings/settings-trackback-and-comments.php:60
+msgid "All comments on existing posts were enabled on the %s."
+msgstr "기존 게시물에 대한 모든 댓글이 %s에서 활성화되었습니다."
+
+#: templates/settings/settings-trackback-and-comments.php:30
+msgid "All trackbacks on existing posts were disabled on the %s."
+msgstr "기존 게시물의 모든 트랙백이 %s에서 비활성화되었습니다."
+
+#: templates/settings/settings-trackback-and-comments.php:28
+msgid "All trackbacks on existing posts were enabled on the %s."
+msgstr "기존 게시물의 모든 트랙백이 %s에서 활성화되었습니다."
+
+#: templates/notices/horizontal-notice.php:25
+msgid "Never"
+msgstr "절대"
+
+#: templates/notices/horizontal-notice.php:22
+msgid "Maybe later"
+msgstr "나중에"
+
+#: templates/notices/horizontal-notice.php:18
+msgid "Ok, you deserve it"
+msgstr "그래, 넌 그럴 자격이 있어"
+
+#: templates/database/tables.php:31
+msgid "Your WordPress install does not use a database prefix, so WP-Optimize was not able to differentiate which tables belong to WordPress so all tables are listed below."
+msgstr "워드프레스 설치는 데이터베이스 접두사를 사용하지 않으므로 WP-옵티마이즈는 워드프레스에 속한 테이블을 구분할 수 없으므로 모든 테이블이 아래에 나열됩니다."
+
+#: templates/database/tables-list-after.php:55
+msgid "Do not show this warning again."
+msgstr "이 경고를 다시 표시하지 마십시오."
+
+#: includes/class-wp-optimizer.php:591
+msgid "All trackbacks on existing posts were enabled at %s."
+msgstr "기존 게시물의 모든 트랙백이 %s에서 활성화되었습니다."
+
+#: includes/class-wp-optimizer.php:587
+msgid "All trackbacks on existing posts were disabled at %s."
+msgstr "기존 게시물의 모든 트랙백이 %s에서 비활성화되었습니다."
+
+#: includes/class-wp-optimizer.php:579
+msgid "All comments on existing posts were enabled at %s."
+msgstr "기존 게시물에 대한 모든 댓글이 %s에서 활성화되었습니다."
+
+#: includes/class-wp-optimizer.php:575
+msgid "All comments on existing posts were disabled at %s."
+msgstr "기존 게시물에 대한 모든 댓글이 %s에서 비활성화되었습니다."
+
+#: includes/class-wp-optimize-notices.php:68
+msgid "Thank you so much!"
+msgstr "매우 감사합니다!"
+
+#: includes/class-wp-optimize-notices.php:68
+msgid "Hey - We noticed WP-Optimize has kept your site running fast for a while.  If you like us, please consider leaving a positive review to spread the word.  Or if you have any issues or questions please leave us a support message"
+msgstr "안녕하세요. WP-옵티마이즈가 귀하의 사이트를 잠시 동안 빠르게 실행하는 것을 확인했습니다. 당신이 우리를 좋아한다면, 소문을 퍼뜨리기 위해 긍정적인 리뷰를 남겨주세요. 또는 문제나 질문이 있는 경우 지원 메시지를 남겨주세요."
+
+#: minify/class-wp-optimize-minify.php:95
+msgid "Minify cache"
+msgstr "캐시 최소화"
+
+#: wp-optimize.php:749
+msgid "(with warnings - open the browser console for more details)"
+msgstr "(경고 있음 - 자세한 내용은 브라우저 콘솔을 여십시오)"
+
+#: templates/minify/advanced-tab.php:150 templates/minify/advanced-tab.php:171
+msgid "Refresh the page to see the list"
+msgstr "목록을 보려면 페이지를 새로고침하세요."
+
+#: templates/minify/advanced-tab.php:144 templates/minify/advanced-tab.php:166
+msgid "Tick the checkbox to merge / minify the corresponding file anyways."
+msgstr "어쨌든 해당 파일을 병합/축소하려면 확인란을 선택하십시오."
+
+#: templates/minify/font-settings-tab.php:41
+msgid "This feature of Google Fonts is encouraged for better accessibility, but may result in a visible font change."
+msgstr "구글 글꼴의 이 기능은 더 나은 접근성을 위해 권장되지만 글꼴이 눈에 띄게 변경될 수 있습니다."
+
+#: templates/minify/font-settings-tab.php:40
+msgid "Add \"display=swap\" to Google Fonts requests"
+msgstr "구글 폰트 요청에 \"display=swap\" 추가"
+
+#: templates/settings/settings-general.php:19
+msgid "This option will add a caching menu on the top admin bar."
+msgstr "이 옵션은 상단 관리 표시줄에 캐싱 메뉴를 추가합니다."
+
+#: templates/settings/settings-general.php:16
+msgid "Enable the caching menu in the admin bar"
+msgstr "관리 표시줄에서 캐싱 메뉴 활성화"
+
+#: templates/settings/settings-general.php:11
+#: templates/settings/settings-general.php:19
+msgid "Requires a page refresh after saving the settings."
+msgstr "설정을 저장한 후 페이지 새로 고침이 필요합니다."
+
+#: templates/settings/settings-general.php:11
+msgid "This option will add a link labeled \"WP-Optimize\" in the top admin bar, for easy access to the different features."
+msgstr "이 옵션은 다양한 기능에 쉽게 액세스할 수 있도록 상단 관리 표시줄에 \"WP-옵티마이즈\"라는 레이블이 붙은 링크를 추가합니다."
+
+#: templates/cache/page-cache-cloudflare-placeholder.php:6
+msgid "(This feature requires %s)"
+msgstr "(이 기능에는 %s가 필요합니다)"
+
+#: templates/cache/page-cache-cloudflare-placeholder.php:6
+msgid "Purge Cloudflare cached pages when the WP-Optimize cache is purged"
+msgstr "WP-옵티마이즈 캐시가 삭제될 때 Cloudflare 캐시 페이지 삭제"
+
+#: templates/cache/page-cache-cloudflare-placeholder.php:2
+msgid "Cloudflare settings"
+msgstr "Cloudflare 설정"
+
+#: templates/cache/browser-cache.php:13
+msgid "Your website seems to use Cloudflare, which handles the browser caching rules."
+msgstr "귀하의 웹사이트는 브라우저 캐싱 규칙을 처리하는 Cloudflare를 사용하는 것 같습니다."
+
+#: includes/class-wp-optimize-commands.php:601
+msgid "The command %s failed"
+msgstr "%s 명령이 실패했습니다."
+
+#: includes/class-wp-optimize-commands.php:582
+msgid "No tweak provided"
+msgstr "조정이 제공되지 않음"
+
+#: includes/class-wp-optimize-commands.php:576
+msgid "No such command found"
+msgstr "해당 명령을 찾을 수 없습니다."
+
+#: cache/class-wp-optimize-cache-commands.php:170
+#: minify/class-wp-optimize-minify-commands.php:73
+#: minify/class-wp-optimize-minify-commands.php:113
+msgid "You do not have permission to purge the cache"
+msgstr "캐시를 제거할 권한이 없습니다."
+
+#: cache/class-wpo-page-cache.php:206 cache/class-wpo-page-cache.php:209
+msgid "Purge cache for this page"
+msgstr "이 페이지의 캐시 제거"
+
+#: cache/class-wpo-page-cache.php:195 cache/class-wpo-page-cache.php:198
+msgid "Purge cache for all pages"
+msgstr "모든 페이지의 캐시 제거"
+
+#: cache/class-wpo-page-cache.php:182
+msgid "(%d files)"
+msgstr "(%d개 파일)"
+
+#: cache/class-wpo-page-cache.php:182 minify/class-wp-optimize-minify.php:95
+msgid "Cache size:"
+msgstr "캐시 크기:"
+
+#: cache/file-based-page-cache-functions.php:292
+msgid "We don't cache RSS feeds"
+msgstr "RSS 피드를 캐시하지 않습니다."
+
+#: cache/file-based-page-cache-functions.php:100
+msgid "This page has a fatal error"
+msgstr "이 페이지에는 치명적인 오류가 있습니다."
+
+#: optimizations/optimizetables.php:118
+msgid "Optimized table:"
+msgstr "최적화된 테이블:"
+
+#: includes/class-updraft-smush-manager.php:748
+msgid "Do you really want to restore all the compressed images?"
+msgstr "압축된 이미지를 모두 복원하시겠습니까?"
+
+#: includes/class-updraft-smush-manager.php:472
+msgid "All the compressed images for the site %s were successfully restored."
+msgstr "사이트 %s의 모든 압축 이미지가 성공적으로 복원되었습니다."
+
+#: includes/class-updraft-smush-manager.php:157
+msgid "The file was compressed from %s to %s, saving %s percent, using WP-Optimize"
+msgstr "WP-옵티마이즈를 사용하여 파일이 %s에서 %s로 압축되어 %s퍼센트를 절약했습니다."
+
+#: includes/class-wp-optimize-notices.php:212
+msgid "The UpdraftPlus Plugin Collection Sale"
+msgstr "UpdraftPlus 플러그인 컬렉션 판매"
+
+#: templates/images/smush.php:118
+msgid "Only the original image will be restored. In order to restore the other sizes, you should use a plugin such as \"Regenerate Thumbnails\"."
+msgstr "원본 이미지만 복원됩니다. 다른 크기를 복원하려면 \"Regenerate Thumbnails\"와 같은 플러그인을 사용해야 합니다."
+
+#: templates/images/smush.php:118
+msgid "Restore all compressed images"
+msgstr "모든 압축된 이미지 복원"
+
+#: templates/images/smush.php:14
+msgid "Note: Currently this feature uses third party services from reSmush.it. The performance of this free image compression service may be limited for large workloads. We are working on a premium service."
+msgstr "참고: 현재 이 기능은 reSmush.it의 타사 서비스를 사용합니다. 이 무료 이미지 압축 서비스의 성능은 대규모 워크로드에 대해 제한될 수 있습니다. 프리미엄 서비스를 진행하고 있습니다."
+
+#: templates/minify/js-settings-tab.php:154
+msgid "Disable this setting if you have an error 'jQuery undefined'."
+msgstr "'jQuery가 정의되지 않음' 오류가 있는 경우 이 설정을 비활성화합니다."
+
+#: templates/minify/js-settings-tab.php:153
+msgid "(Note that as jQuery is a common dependency, it probably needs to be loaded synchronously)."
+msgstr "(jQuery는 공통 종속성이므로 동기식으로 로드해야 할 수도 있습니다.)"
+
+#: templates/minify/js-settings-tab.php:153
+msgid "Defer jQuery"
+msgstr "JQuery 연기"
+
+#: templates/minify/js-settings-tab.php:142
+msgid "Defer using JavaScript"
+msgstr "JavaScript를 사용하여 연기"
+
+#: templates/minify/js-settings-tab.php:133
+msgid "Supported by all modern browsers."
+msgstr "모든 최신 브라우저에서 지원됩니다."
+
+#: templates/minify/js-settings-tab.php:132
+msgid "Use the \"defer\" html attribute"
+msgstr "\"defer\" html 속성 사용"
+
+#: templates/minify/js-settings-tab.php:124
+msgid "Defer method:"
+msgstr "연기 방법:"
+
+#: templates/minify/js-settings-tab.php:121
+msgid "Please check the browser console for any eventual JavaScript errors caused by deferring the scripts."
+msgstr "스크립트 연기로 인해 발생하는 최종 JavaScript 오류에 대해서는 브라우저 콘솔을 확인하십시오."
+
+#: templates/minify/js-settings-tab.php:121
+msgid "Some themes and plugins need render blocking scripts to work."
+msgstr "일부 테마 및 플러그인이 작동하려면 렌더링 차단 스크립트가 필요합니다."
+
+#: templates/minify/js-settings-tab.php:115
+msgid "All files - including the ones processed by WP-Optimize - will be deferred, except the ones in the exclusion list above."
+msgstr "WP-옵티마이즈에서 처리한 파일을 포함한 모든 파일은 위의 제외 목록에 있는 파일을 제외하고 연기됩니다."
+
+#: templates/minify/js-settings-tab.php:114
+msgid "Defer all the JavaScript files"
+msgstr "모든 JavaScript 파일 연기"
+
+#: templates/minify/js-settings-tab.php:73
+msgid "The files in the list will be loaded asynchronously, and will not be minified or merged."
+msgstr "목록의 파일은 비동기식으로 로드되며 축소되거나 병합되지 않습니다."
+
+#: templates/minify/js-settings-tab.php:62
+msgid "Defer JavaScript"
+msgstr "자바스크립트 연기"
+
+#: templates/admin-metabox-smush.php:64
+msgid "Note: This image is already compressed by another plugin"
+msgstr "참고: 이 이미지는 이미 다른 플러그인으로 압축되어 있습니다."
+
+#: cache/class-wpo-cache-config.php:182
+msgid "The cache configuration file could not be saved to the disk; please check the file/folder permissions of %s ."
+msgstr "캐시 구성 파일을 디스크에 저장할 수 없습니다. %s의 파일/폴더 권한을 확인하십시오."
+
+#: cache/class-wp-optimize-cache-commands.php:82
+msgid "Page caching was enabled, but with some warnings:"
+msgstr "페이지 캐싱이 활성화되었지만 몇 가지 경고가 있습니다."
+
+#: cache/class-wp-optimize-cache-commands.php:62
+msgid "Page caching was disabled, but with some warnings:"
+msgstr "페이지 캐싱이 비활성화되었지만 몇 가지 경고가 있습니다."
+
+#: includes/class-wp-optimize-preloader.php:253
+msgid "Preloading posts found in sitemap:"
+msgstr "사이트맵에 있는 게시물을 사전 로드 중:"
+
+#: cache/class-wp-optimize-page-cache-preloader.php:626
+msgid "Probably page cache preload is running already."
+msgstr "페이지 캐시 사전 로드가 이미 실행 중일 수 있습니다."
+
+#: cache/class-wpo-page-cache.php:880
+msgid "Unable to write inside the cache configuration folder (%s); please check file/folder permissions"
+msgstr "캐시 구성 폴더(%s)에 쓸 수 없습니다. 파일/폴더 권한을 확인하십시오"
+
+#: cache/class-wpo-page-cache.php:867
+msgid "Unable to write inside the cache files folder (%s); please check file/folder permissions (no cache files will be able to be created otherwise)"
+msgstr "캐시 파일 폴더(%s)에 쓸 수 없습니다. 파일/폴더 권한을 확인하십시오(그렇지 않으면 캐시 파일을 생성할 수 없습니다)."
+
+#: cache/class-wpo-page-cache.php:860
+msgid "Unable to write the file advanced-cache.php inside the wp-content folder; please check file/folder permissions"
+msgstr "Wp-content 폴더 안에 advanced-cache.php 파일을 쓸 수 없습니다. 파일/폴더 권한을 확인하십시오"
+
+#: cache/class-wpo-page-cache.php:852
+msgid "Unable to write to or find wp-config.php; please check file/folder permissions."
+msgstr "Wp-config.php에 쓰거나 찾을 수 없습니다. 파일/폴더 권한을 확인하십시오."
+
+#: cache/class-wpo-page-cache.php:754
+msgid "Please try to disable and then re-enable the WP-Optimize cache manually."
+msgstr "수동으로 WP-옵티마이즈 캐시를 비활성화했다가 다시 활성화하십시오."
+
+#: cache/class-wpo-page-cache.php:423
+msgid "The page caching could not be disabled: the WP_CACHE constant could not be removed from wp-config.php and the request to the filesystem to remove or empty advanced-cache.php failed."
+msgstr "페이지 캐싱을 비활성화할 수 없습니다. wp-config.php에서 WP_CACHE 상수를 제거할 수 없고 파일 시스템에 대한 고급 캐시 제거 또는 비우기 요청이 실패했습니다."
+
+#: cache/class-wpo-page-cache.php:417
+msgid "The request to the filesystem to remove or empty advanced-cache.php failed"
+msgstr "파일 시스템에 대한 advanced-cache.php 제거 또는 비우기 요청이 실패했습니다."
+
+#: cache/class-wpo-page-cache.php:407
+msgid "Could not turn off the WP_CACHE constant in wp-config.php"
+msgstr "Wp-config.php에서 WP_CACHE 상수를 끌 수 없습니다."
+
+#: minify/class-wp-optimize-minify-cache-functions.php:215
+#: minify/class-wp-optimize-minify-cache-functions.php:224
+#: minify/class-wp-optimize-minify-cache-functions.php:233
+#: minify/class-wp-optimize-minify-cache-functions.php:242
+msgid "A cache purge request was also sent to %s"
+msgstr "캐시 제거 요청도 %s로 전송되었습니다."
+
+#: templates/minify/font-settings-tab.php:56
+#: templates/minify/font-settings-tab.php:104
+msgid "The stylesheets will be merged or inlined."
+msgstr "스타일시트가 병합되거나 인라인됩니다."
+
+#: templates/minify/font-settings-tab.php:55
+#: templates/minify/font-settings-tab.php:103
+msgid "Inherit from the CSS settings"
+msgstr "CSS 설정에서 상속"
+
+#: templates/minify/font-settings-tab.php:30
+msgid "If enabled, stylesheets from Google Fonts will not be loaded on the site and system fallback fonts will be used instead."
+msgstr "사용하도록 설정하면 구글 글꼴의 스타일시트가 사이트에 로드되지 않고 대신 시스템 대체 글꼴이 사용됩니다."
+
+#: templates/minify/font-settings-tab.php:29
+msgid "Do not load Google Fonts"
+msgstr "구글 글꼴을 로드하지 않음"
+
+#: templates/minify/css-settings-tab.php:27
+msgid "If some of the design is breaking on the frontend, disabling merging of CSS might fix the issues."
+msgstr "일부 디자인이 프런트엔드에서 깨지는 경우 CSS 병합을 비활성화하면 문제가 해결될 수 있습니다."
+
+#: templates/minify/css-settings-tab.php:26
+msgid "Enable merging of CSS files"
+msgstr "CSS 파일 병합 활성화"
+
+#: templates/minify/settings-tab.php:72
+msgid "Uses your site's default protocol."
+msgstr "사이트의 기본 프로토콜을 사용합니다."
+
+#: templates/minify/settings-tab.php:71
+msgid "Currently: %s"
+msgstr "현재: %s"
+
+#: templates/minify/settings-tab.php:71
+msgid "Same as home URL"
+msgstr "홈 URL과 동일"
+
+#: templates/minify/status-tab.php:218
+msgid "Delete all the files generated by minifcation"
+msgstr "축소 기능으로 생성된 모든 파일 삭제"
+
+#: templates/minify/status-tab.php:208
+msgid "This will reset the files generated by minify, but use the existing minify temporary files."
+msgstr "이것은 축소에 의해 생성된 파일을 재설정하지만 기존 축소 임시 파일을 사용합니다."
+
+#: templates/minify/status-tab.php:180
+msgid "This includes the older, non-expired cache, as well as the temporary files used to generate the minified files."
+msgstr "여기에는 만료되지 않은 이전 캐시와 축소된 파일을 생성하는 데 사용되는 임시 파일이 포함됩니다."
+
+#: templates/minify/status-tab.php:170
+msgid "Total cache:"
+msgstr "총 캐시:"
+
+#: templates/minify/status-tab.php:167
+msgid "View the files"
+msgstr "파일 보기"
+
+#: templates/minify/status-tab.php:157
+msgid "Current cache:"
+msgstr "현재 캐시:"
+
+#: templates/minify/status-tab.php:152
+msgid "Read more about what this does in our FAQs."
+msgstr "FAQ에서 이것이 무엇을 하는지 자세히 알아보세요."
+
+#: templates/minify/status-tab.php:152
+msgid "The new minified files will be regenerated when visiting your website's pages."
+msgstr "축소된 새로운 파일은 웹사이트 페이지를 방문할 때 재생성됩니다."
+
+#: templates/minify/status-tab.php:145
+msgid "Reset the minified files"
+msgstr "최소화 파일 재설정"
+
+#: templates/minify/status-tab.php:131
+msgid "Process CSS files"
+msgstr "CSS 파일 처리"
+
+#: templates/minify/status-tab.php:109
+msgid "Process JavaScript files"
+msgstr "JavaScript 파일 처리"
+
+#: templates/minify/status-tab.php:55
+msgid "You can adjust the settings in the tabs above to control this to meet your requirements."
+msgstr "위의 탭에서 설정을 조정하여 요구 사항에 맞게 제어할 수 있습니다."
+
+#: templates/minify/status-tab.php:55
+msgid "If this is turned on, then the default settings are that JavaScript and CSS on this website will be concatenated and minified and HTML will be minified."
+msgstr "이 기능이 켜져 있으면 이 웹 사이트의 JavaScript와 CSS가 연결되고 축소되고 HTML이 축소되는 것이 기본 설정입니다."
+
+#: templates/minify/status-tab.php:9
+msgid "Minify video preview"
+msgstr "비디오 미리보기 최소화"
+
+#: templates/minify/status-tab.php:7
+msgid "Not sure how to use the Minify feature?"
+msgstr "축소 기능을 사용하는 방법을 잘 모르시겠습니까?"
+
+#: templates/minify/status-tab.php:5
+msgid "How to use the minify feature"
+msgstr "최소화 기능을 사용하는 방법"
+
+#: templates/minify/js-settings-tab.php:39
+msgid "When enabled, the content of each JavaScript file that is combined will be wrapped in its own \"try / catch\" statement. This means that if one file has an error, it should not impede execution of other, independent files."
+msgstr "활성화되면 결합된 각 JavaScript 파일의 내용이 자체 \"try / catch\" 문으로 래핑됩니다. 즉, 한 파일에 오류가 있어도 다른 독립 파일의 실행을 방해해서는 안 됩니다."
+
+#: templates/minify/js-settings-tab.php:38
+msgid "(enable if trying to isolate a JavaScript error introduced by minifying or merging)"
+msgstr "(축소 또는 병합으로 인해 발생하는 JavaScript 오류를 격리하려는 경우 활성화)"
+
+#: templates/minify/js-settings-tab.php:37
+msgid "Contain each included file in its own block"
+msgstr "포함된 각 파일을 자체 블록에 포함"
+
+#: templates/minify/js-settings-tab.php:27
+msgid "If some functionality is breaking on the frontend, disabling merging of JavaScript might fix the issues."
+msgstr "프런트엔드에서 일부 기능이 중단되는 경우 JavaScript 병합을 비활성화하면 문제가 해결될 수 있습니다."
+
+#: templates/minify/js-settings-tab.php:26
+msgid "Enable merging of JavaScript files"
+msgstr "JavaScript 파일 병합 활성화"
+
+#: templates/minify/advanced-tab.php:164
+msgid "List of excluded files used for IE compatibility."
+msgstr "IE 호환성을 위해 사용되는 제외 파일 목록입니다."
+
+#: templates/minify/advanced-tab.php:142
+msgid "List of files that can't or shouldn't be minified or merged."
+msgstr "축소하거나 병합할 수 없거나 병합해서는 안 되는 파일 목록입니다."
+
+#: templates/minify/advanced-tab.php:116
+msgid "It also adds extra actions in the status tab."
+msgstr "또한 상태 탭에 추가 작업을 추가합니다."
+
+#: templates/minify/advanced-tab.php:116
+msgid "Enabling the debug mode will add various comments and show more information in the files list."
+msgstr "디버그 모드를 활성화하면 다양한 주석이 추가되고 파일 목록에 더 많은 정보가 표시됩니다."
+
+#: templates/minify/advanced-tab.php:39 templates/minify/advanced-tab.php:68
+msgid "There are no processed files yet."
+msgstr "아직 처리된 파일이 없습니다."
+
+#: templates/settings/may-also-like.php:224
+msgid "Exclude posts and pages from the cache, straight from the post edit screen."
+msgstr "게시물 편집 화면에서 바로 캐시에서 게시물과 페이지를 제외합니다."
+
+#: templates/settings/may-also-like.php:222
+#: templates/settings/may-also-like.php:223
+msgid "More caching options"
+msgstr "더 많은 캐싱 옵션"
+
+#: templates/settings/settings.php:25
+msgid "This button will delete all of WP-Optimize's settings. You will then need to enter all your settings again. You can also do this before deactivating/deinstalling WP-Optimize if you wish."
+msgstr "이 버튼은 WP-옵티마이즈의 모든 설정을 삭제합니다. 그런 다음 모든 설정을 다시 입력해야 합니다. 원하는 경우 WP-옵티마이즈를 비활성화/제거하기 전에 이 작업을 수행할 수도 있습니다."
+
+#: templates/settings/settings.php:21 templates/settings/settings.php:28
+msgid "Wipe settings"
+msgstr "초기화 설정"
+
+#: templates/notices/install-or-update-notice.php:38
+msgid "Go to minify settings."
+msgstr "최소화 설정으로 이동합니다."
+
+#: templates/notices/install-or-update-notice.php:37
+msgid "This highly requested feature adds an extra layer of optimization to your website, lowering the number of requests sent to your server by combining and minifying the JavaScript and CSS files."
+msgstr "많이 요청된 이 기능은 웹 사이트에 추가 최적화 계층을 추가하여 JavaScript 및 CSS 파일을 결합하고 축소하여 서버로 전송되는 요청 수를 줄입니다."
+
+#: templates/notices/install-or-update-notice.php:36
+msgctxt "%s will be replaced by a \"strong\" tag"
+msgid "This new version includes a new major feature: the ability to %s minify your scripts and stylesheets.%s"
+msgstr "이 새 버전에는 스크립트와 스타일시트를 %s 축소하는 기능이 포함되어 있습니다.%s"
+
+#: templates/notices/install-or-update-notice.php:14
+#: templates/notices/install-or-update-notice.php:41
+msgctxt "%s will be replaced by a link tag"
+msgid "Read more about this feature %son our website%s."
+msgstr "이 기능에 대한 자세한 내용은 %s 당사 웹사이트%s를 참조하십시오."
+
+#: templates/notices/install-or-update-notice.php:13
+msgctxt "%s will be replaced by a \"strong\" tag"
+msgid "We also recently added the ability to %scombine and minify%s CSS, JavaScript and HTML, for an increased performance boost."
+msgstr "또한 최근 성능 향상을 위해 CSS, JavaScript 및 HTML을 %s 결합 및 축소%s하는 기능을 추가했습니다."
+
+#: templates/database/tables-body.php:41
+msgid "Known plugins that use this table name:"
+msgstr "이 테이블 이름을 사용하는 알려진 플러그인:"
+
+#: templates/database/tables-list-after.php:57
+msgid "Remove the table"
+msgstr "테이블 제거"
+
+#: templates/database/tables-list-after.php:52
+msgid "I confirm that I have understood the risks in doing that, and that I know what I am doing."
+msgstr "나는 그렇게 하는 데 따르는 위험을 이해했으며 내가 무엇을 하고 있는지 알고 있음을 확인합니다."
+
+#: templates/database/tables-list-after.php:48
+msgid "I confirm that I will be able to revert the changes if needed."
+msgstr "필요한 경우 변경 사항을 되돌릴 수 있음을 확인합니다."
+
+#: templates/database/tables-list-after.php:48
+msgid "No automatic backup was detected."
+msgstr "자동 백업이 감지되지 않았습니다."
+
+#: templates/database/tables-list-after.php:42
+msgid "You are about to remove the table %s."
+msgstr "%s 테이블을 제거하려고 합니다."
+
+#: templates/database/tables-list-after.php:40
+msgid "If none of the plugins listed were ever installed on this website, you should not delete this table as it is likely to be used by an unlisted plugin."
+msgstr "목록에 있는 플러그인이 이 웹사이트에 설치된 적이 없다면 목록에 없는 플러그인에서 사용될 가능성이 있으므로 이 표를 삭제하면 안 됩니다."
+
+#: templates/database/tables-list-after.php:37
+msgid "Are you sure?"
+msgstr "확실합니까?"
+
+#: includes/class-wp-optimize-admin.php:639
+#: includes/class-wp-optimize-admin.php:640
+msgid "Minify"
+msgstr "최소화"
+
+#: wp-optimize.php:779
+msgid "WP-Optimize settings have been deleted successfully."
+msgstr "WP-옵티마이즈 설정이 성공적으로 삭제되었습니다."
+
+#: includes/class-wp-optimize-admin.php:65
+msgid "Advanced"
+msgstr "고급"
+
+#: includes/class-wp-optimize-admin.php:62
+msgid "Fonts"
+msgstr "글꼴"
+
+#: includes/class-wp-optimize-admin.php:61
+msgid "CSS"
+msgstr "CSS"
+
+#: includes/class-wp-optimize-admin.php:60
+#: includes/class-wp-optimize-admin.php:61
+msgid "Disabled"
+msgstr "허용하지 않음"
+
+#: includes/class-wp-optimize-admin.php:60
+msgid "JavaScript"
+msgstr "자바스크립트"
+
+#: includes/class-wp-optimize-admin.php:59
+msgid "Minify status"
+msgstr "최소화 상태"
+
+#: cache/file-based-page-cache-functions.php:282
+msgid "In the settings, caching is disabled for the front page"
+msgstr "설정에서 첫 페이지에 대한 캐싱이 비활성화되어 있습니다."
+
+#: cache/class-wpo-page-cache.php:753
+msgid "The file advanced-cache.php needs to be updated, but the automatic process failed."
+msgstr "파일 advanced-cache.php를 업데이트해야 하지만 자동 프로세스가 실패했습니다."
+
+#: wp-optimize.php:1145
+msgid "N/A"
+msgstr "해당 없음"
+
+#: minify/class-wp-optimize-minify-commands.php:40
+msgid "The minification cache was deleted."
+msgstr "최소화 캐시가 삭제되었습니다."
+
+#: minify/class-wp-optimize-minify-commands.php:19
+#: minify/class-wp-optimize-minify-commands.php:34
+#: minify/class-wp-optimize-minify-commands.php:57
+#: minify/class-wp-optimize-minify-commands.php:72
+#: minify/class-wp-optimize-minify-commands.php:112
+msgid "WP-Optimize Minify requires a higher PHP version"
+msgstr "WP-옵티마이즈 축소에는 더 높은 PHP 버전이 필요합니다."
+
+#: wp-optimize.php:777
+msgid "Refreshing the page to reflect changes..."
+msgstr "변경 사항을 반영하도록 페이지를 새로 고치는 중..."
+
+#: includes/class-wpo-ajax.php:306
+msgid "The command \"%s\" was not found"
+msgstr "\"%s\" 명령을 찾을 수 없습니다."
+
+#: includes/class-wpo-ajax.php:147
+msgid "You are not allowed to run this command."
+msgstr "이 명령을 실행할 권한이 없습니다."
+
+#: includes/class-wpo-ajax.php:126
+msgid "The security check failed; try refreshing the page."
+msgstr "보안 검사에 실패했습니다. 페이지를 새로고침해 보세요."
+
+#: templates/cache/page-cache-advanced.php:51
+msgid "List of browser agent strings which, if detected, will prevent caching"
+msgstr "감지될 경우 캐싱을 방지하는 브라우저 에이전트 문자열 목록"
+
+#: templates/cache/page-cache-advanced.php:22
+msgid "Cookies which, if present, will prevent caching (one per line)"
+msgstr "존재하는 경우 캐싱을 방지하는 쿠키(한 줄에 하나씩)"
+
+#: templates/database/tables.php:57
+msgid "Loading tables list..."
+msgstr "테이블 목록 로드 중..."
+
+#: templates/database/tables.php:24
+msgid "Refresh data"
+msgstr "데이터 새로 고침"
+
+#: templates/database/optimize-table.php:8 templates/database/tables.php:5
+#: wp-optimize.php:780
+msgid "Loading data..."
+msgstr "데이터 로드 중..."
+
+#: templates/minify/js-settings-tab.php:89
+msgid "e.g.: /js/main.js"
+msgstr "예: /js/main.js"
+
+#: templates/minify/settings-tab.php:92
+msgid "Recommended if you have SSL"
+msgstr "SSL이 있는 경우 권장"
+
+#: templates/minify/settings-tab.php:91
+msgid "Force HTTPS"
+msgstr "강제 HTTPS"
+
+#: templates/minify/settings-tab.php:82
+msgid "If you do not have SSL"
+msgstr "SSL이 없는 경우"
+
+#: templates/minify/settings-tab.php:81
+msgid "Force HTTP"
+msgstr "강제 HTTP"
+
+#: templates/minify/settings-tab.php:61
+msgid "You may need it for some CDN plugins to work:"
+msgstr "일부 CDN 플러그인이 작동하려면 필요할 수 있습니다."
+
+#: templates/minify/settings-tab.php:60
+msgid "Force HTTP or HTTPS on the assets generated by WP-Optimize Minify."
+msgstr "WP-옵티마이즈 축소에서 생성된 자산에 HTTP 또는 HTTPS를 강제 적용합니다."
+
+#: templates/minify/settings-tab.php:57
+msgid "SSL options"
+msgstr "SSL 옵션"
+
+#: templates/minify/settings-tab.php:52
+msgid "When selected, the site will use the device's built in Emoji"
+msgstr "선택하면 사이트에서 기기에 내장된 이모티콘을 사용합니다."
+
+#: templates/minify/settings-tab.php:51
+msgid "Remove default WordPress and TinyMCE icons"
+msgstr "기본 워드프레스 및 TinyMCE 아이콘 제거"
+
+#: templates/minify/settings-tab.php:40
+msgid "Remove resource hints, generator tag, shortlinks, manifest link, etc."
+msgstr "리소스 힌트, 생성기 태그, 단축 링크, 매니페스트 링크 등을 제거합니다."
+
+#: templates/minify/settings-tab.php:39
+msgid "Remove meta information from page header"
+msgstr "페이지 헤더에서 메타 정보 제거"
+
+#: templates/minify/settings-tab.php:29
+msgid "Useful for debugging or to improve compatibility with some visual editors."
+msgstr "디버깅에 유용하거나 일부 시각적 편집기와의 호환성을 개선하는 데 유용합니다."
+
+#: templates/minify/settings-tab.php:29
+msgid "HTML, JavaScript and CSS will be loaded normally by WordPress."
+msgstr "HTML, JavaScript 및 CSS는 워드프레스에서 정상적으로 로드됩니다."
+
+#: templates/minify/settings-tab.php:28
+msgid "Disable Minify for logged-in users"
+msgstr "로그인한 사용자에 대해 최소화 비활성"
+
+#: templates/minify/settings-tab.php:6
+msgid "Miscellaneous"
+msgstr "기타"
+
+#: templates/minify/css-settings-tab.php:101
+msgid "e.g.: /wp-content/themes/my-theme/css/custom-font.css"
+msgstr "예: /wp-content/themes/my-theme/css/custom-font.css"
+
+#: templates/minify/advanced-tab.php:314
+msgid "Load my JS files from the CDN, even when \"defer for Pagespeed Insights\" is enabled"
+msgstr "\"Pagespeed Insights 연기\"가 활성화된 경우에도 CDN에서 내 JS 파일 로드"
+
+#: templates/minify/advanced-tab.php:313
+msgid "I know what I'm doing..."
+msgstr "내가 뭘하는지 알아..."
+
+#: templates/minify/advanced-tab.php:302
+msgid "If you force this, your JS files may not load for certain slow internet users on Google Chrome."
+msgstr "이를 강제로 적용하면 구글 크롬에서 특정 느린 인터넷 사용자에게 JS 파일이 로드되지 않을 수 있습니다."
+
+#: templates/minify/advanced-tab.php:299
+msgid "Force the CDN Usage"
+msgstr "CDN 사용 강제"
+
+#: templates/minify/advanced-tab.php:293
+msgid "Will rewrite the static assets urls inside WP-O Minify-merged files to your CDN domain. Usage: cdn.example.com"
+msgstr "WP-옵티마이즈 축소 병합 파일 내부의 정적 자산 URL을 CDN 도메인에 다시 작성합니다. 사용법: cdn.example.com"
+
+#: templates/minify/advanced-tab.php:279
+msgid "Your CDN domain"
+msgstr "CDN 도메인"
+
+#: templates/minify/advanced-tab.php:276
+msgid "However, you can define a CDN Domain below, in order to use it for all of the static assets \"inside\" your CSS and JS files."
+msgstr "그러나 CSS 및 JS 파일 \"내부\"의 모든 정적 자산에 사용하기 위해 아래에서 CDN 도메인을 정의할 수 있습니다."
+
+#: templates/minify/advanced-tab.php:275
+msgid "When the \"Enable defer on processed JavaScript files\" option is enabled, JavaScript and CSS files will not be loaded from the CDN due to %scompatibility%s reasons."
+msgstr "\"처리된 JavaScript 파일에 대한 지연 활성화\" 옵션이 활성화되면 %scompatibility%s 이유로 인해 JavaScript 및 CSS 파일이 CDN에서 로드되지 않습니다."
+
+#: templates/minify/advanced-tab.php:273
+msgid "CDN Options"
+msgstr "CDN 옵션"
+
+#: templates/minify/advanced-tab.php:268
+msgid "e.g.: example.com"
+msgstr "예: example.com"
+
+#: templates/minify/advanced-tab.php:260
+msgid "Add any external \"domain\" for JavaScript or CSS files that can be fetched and merged by WP-Optimize, e.g.: cdnjs.cloudflare.com"
+msgstr "WP-옵티마이즈에서 가져오고 병합할 수 있는 JavaScript 또는 CSS 파일에 대한 외부 \"도메인\"을 추가합니다(예: cdnjs.cloudflare.com)."
+
+#: templates/minify/advanced-tab.php:259
+msgid "List of external domains that can be fetched and merged:"
+msgstr "가져오고 병합할 수 있는 외부 도메인 목록:"
+
+#: templates/minify/advanced-tab.php:255
+msgid "External URLs to merge"
+msgstr "병합할 외부 URL"
+
+#: templates/minify/advanced-tab.php:250
+msgid "Examples: https://fonts.googleapis.com, https://fonts.gstatic.com"
+msgstr "예: https://fonts.googleapis.com, https://fonts.gstatic.com"
+
+#: templates/minify/advanced-tab.php:247
+msgid "Use the complete scheme (http:// or https://) followed by the domain name only (no file paths)."
+msgstr "완전한 스키마(http:// 또는 https://) 다음에 도메인 이름만(파일 경로 없음)을 사용하십시오."
+
+#: templates/minify/advanced-tab.php:234
+msgid "Use only the strictly minimum necessary domain names, (CDN or frequent embeds):"
+msgstr "최소한의 필수 도메인 이름(CDN 또는 빈번한 임베드)만 사용하십시오."
+
+#: templates/minify/advanced-tab.php:230
+msgid "Preconnect"
+msgstr "사전 연결"
+
+#: templates/minify/advanced-tab.php:226
+msgid "Preconnect Headers"
+msgstr "사전 연결 헤더"
+
+#: templates/minify/advanced-tab.php:223
+msgid "Note: Some servers do not support http push or headers. If you get a server error: a) rename the plugin directory via (S)FTP or your hosting control panel, b) go to your plugins page (plugin will be disabled on access), c) rename it back and d) activate it back (reset to default settings)."
+msgstr "참고: 일부 서버는 http 푸시 또는 헤더를 지원하지 않습니다. 서버 오류가 발생하는 경우: a) (S)FTP 또는 호스팅 제어판을 통해 플러그인 디렉토리의 이름을 변경합니다. b) 플러그인 페이지로 이동합니다(액세스 시 플러그인이 비활성화됨). c) 다시 이름을 변경하고 d) 활성화합니다. 뒤로(기본 설정으로 재설정)."
+
+#: templates/minify/advanced-tab.php:220
+msgid "Preload Headers: Use this for preloading specific, high priority resources that exist across all of your pages."
+msgstr "헤더 미리 로드: 모든 페이지에 존재하는 우선 순위가 높은 특정 리소스를 미리 로드하는 데 사용합니다."
+
+#: templates/minify/advanced-tab.php:217
+msgid "Preconnect Headers: This will add link headers to your HTTP response to instruct the browser to preconnect to other domains (e.g.: fonts, images, videos, etc)"
+msgstr "사전 연결 헤더: HTTP 응답에 링크 헤더를 추가하여 브라우저가 다른 도메인(예: 글꼴, 이미지, 비디오 등)에 사전 연결하도록 지시합니다."
+
+#: templates/minify/advanced-tab.php:214
+msgid "HTTP Headers"
+msgstr "HTTP 헤더"
+
+#: templates/minify/advanced-tab.php:209
+msgid "Automatically create HTTP headers for WP-O Minify-generated JS files"
+msgstr "WP-옵티마이즈 축소에서 생성된 JS 파일용 HTTP 헤더 자동 생성"
+
+#: templates/minify/advanced-tab.php:208
+msgid "Enable WP-O Minify JavaScript files Preload"
+msgstr "WP-옵티마이즈 축소 JavaScript 파일 사용 사전 로드"
+
+#: templates/minify/advanced-tab.php:197
+msgid "Automatically create HTTP headers for WP-O Minify-generated CSS files (when not inlined)"
+msgstr "WP-옵티마이즈 축소에서 생성된 CSS 파일에 대한 HTTP 헤더 자동 생성(인라인되지 않은 경우)"
+
+#: templates/minify/advanced-tab.php:196
+msgid "Enable WP-O Minify CSS files preloading"
+msgstr "WP-옵티마이즈 축소 CSS 파일 미리 로드 활성화"
+
+#: templates/minify/css-settings-tab.php:80
+msgid "e.g.: /bootstrap.css"
+msgstr "예: /bootstrap.css"
+
+#: templates/minify/advanced-tab.php:161
+msgid "IE incompatible files"
+msgstr "IE 호환되지 않는 파일"
+
+#: templates/minify/js-settings-tab.php:55
+msgid "e.g.: /wp-includes/js/jquery/jquery.js"
+msgstr "예: /wp-includes/js/jquery/jquery.js"
+
+#: templates/minify/advanced-tab.php:145
+msgid "Files that have been consistently reported by other users to cause trouble when merged"
+msgstr "병합 시 문제가 발생한다고 다른 사용자가 지속적으로 보고한 파일"
+
+#: templates/minify/advanced-tab.php:143 templates/minify/advanced-tab.php:165
+msgid "Do not edit this if you are not sure what it is."
+msgstr "그것이 무엇인지 확실하지 않으면 이것을 편집하지 마십시오."
+
+#: templates/minify/advanced-tab.php:139
+msgid "Known incompatible files"
+msgstr "알려진 호환되지 않는 파일"
+
+#: templates/minify/advanced-tab.php:137
+msgid "Enable this option to see or edit those files."
+msgstr "해당 파일을 보거나 편집하려면 이 옵션을 활성화합니다."
+
+#: templates/minify/advanced-tab.php:136
+msgid "By default, WP-Optimize excludes a list of files that are known to cause problems when minified or combined."
+msgstr "기본적으로 WP-옵티마이즈는 축소하거나 결합할 때 문제를 일으키는 것으로 알려진 파일 목록을 제외합니다."
+
+#: templates/minify/advanced-tab.php:133
+msgid "Edit default exclusions"
+msgstr "기본 제외 수정"
+
+#: templates/minify/advanced-tab.php:118
+msgid "Default exclusions"
+msgstr "기본 제외"
+
+#: templates/minify/advanced-tab.php:113
+msgid "Enable debug mode"
+msgstr "디버그 모드 사용"
+
+#: templates/minify/advanced-tab.php:47
+msgid "There are no merged CSS files listed here, because you are inlining all CSS directly"
+msgstr "모든 CSS를 직접 인라인하기 때문에 여기에 나열된 병합된 CSS 파일이 없습니다."
+
+#: templates/minify/advanced-tab.php:44
+msgid "CSS files"
+msgstr "CSS 파일"
+
+#: templates/minify/cached-file.php:4 wp-optimize.php:772
+msgid "Show information"
+msgstr "정보 표시"
+
+#: templates/minify/advanced-tab.php:18
+msgid "JavaScript files"
+msgstr "자바스크립트 파일"
+
+#: templates/minify/advanced-tab.php:16
+msgid "List of processed files"
+msgstr "처리된 파일 목록"
+
+#: templates/minify/advanced-tab.php:10
+msgid "none"
+msgstr "없음"
+
+#: templates/minify/advanced-tab.php:6
+msgid "Current cache path:"
+msgstr "현재 캐시 경로:"
+
+#: templates/minify/advanced-tab.php:3
+msgid "Minify cache information"
+msgstr "최소화 캐시 정보"
+
+#: templates/minify/status-tab.php:223
+msgid "If you are using an unsupported cache plugin, then you will also need to purge your page cache when doing this."
+msgstr "지원되지 않는 캐시 플러그인을 사용하는 경우 이 작업을 수행할 때 페이지 캐시도 제거해야 합니다."
+
+#: templates/minify/status-tab.php:203
+msgid "Increment cache"
+msgstr "증분 캐시"
+
+#: templates/minify/status-tab.php:185
+msgid "Last Minify cache update:"
+msgstr "마지막 최소화 캐시 업데이트:"
+
+#: templates/minify/status-tab.php:155
+msgid "Minify cache size:"
+msgstr "최소화 캐시 크기 :"
+
+#: templates/minify/status-tab.php:152
+msgid "This will also purge the page cache"
+msgstr "이렇게 하면 페이지 캐시도 제거됩니다."
+
+#: templates/minify/status-tab.php:48
+msgid "PHP version requirement (5.4 minimum) not met"
+msgstr "PHP 버전 요구 사항(최소 5.4)이 충족되지 않음"
+
+#: templates/minify/status-tab.php:46
+msgid "Update PHP to enable minification of JS, CSS and HTML on this website"
+msgstr "이 웹 사이트에서 JS, CSS 및 HTML을 축소할 수 있도록 PHP를 업데이트하십시오."
+
+#: templates/minify/status-tab.php:46
+msgid "The PHP version on your server is too old."
+msgstr "서버의 PHP 버전이 너무 오래되었습니다."
+
+#: templates/minify/status-tab.php:44
+msgid "Enable Minify"
+msgstr "최소화 활성"
+
+#: templates/minify/status-tab.php:23
+msgctxt "\"it\" refers to the Minify feature."
+msgid "We will do our best to help you configure it."
+msgstr "구성할 수 있도록 최선을 다하겠습니다."
+
+#: templates/minify/status-tab.php:22
+msgctxt "\"it\" refers to the Minify feature."
+msgid "If you encounter an issue and are not sure what to do, disable the feature and ask for help on the support forum."
+msgstr "문제가 발생하고 어떻게 해야 할지 잘 모르겠으면 기능을 비활성화하고 지원 포럼에서 도움을 요청하십시오."
+
+#: templates/minify/status-tab.php:21
+msgctxt "\"it\" refers to the Minify feature."
+msgid "While enabling it will work just fine for most sites, it might need specific configuration to work properly on your website."
+msgstr "활성화하면 대부분의 사이트에서 잘 작동하지만 웹 사이트에서 제대로 작동하려면 특정 구성이 필요할 수 있습니다."
+
+#: templates/minify/status-tab.php:20
+msgid "CSS, JavaScript and HTML minification is an advanced feature."
+msgstr "CSS, JavaScript 및 HTML 축소는 고급 기능입니다."
+
+#: includes/class-updraft-smush-manager-commands.php:65
+#: includes/class-updraft-smush-manager.php:322
+msgid "The blog ID provided does not match the current blog."
+msgstr "제공된 블로그 ID가 현재 블로그와 일치하지 않습니다."
+
+#: cache/class-wp-optimize-cache-commands.php:289
+msgid "Page cache settings updated successfully."
+msgstr "페이지 캐시 설정이 성공적으로 업데이트되었습니다."
+
+#: cache/class-wp-optimize-cache-commands.php:229
+msgid "Preloading URLs into cache..."
+msgstr "URL을 캐시에 미리 로드하는 중..."
+
+#: cache/class-wp-optimize-cache-commands.php:226
+msgid "All URLs were preloaded into cache successfully"
+msgstr "모든 URL이 성공적으로 캐시에 미리 로드되었습니다."
+
+#: cache/class-wp-optimize-cache-commands.php:219
+msgid "Preloading is currently running in another process."
+msgstr "사전 로드가 현재 다른 프로세스에서 실행 중입니다."
+
+#: cache/class-wp-optimize-cache-commands.php:195
+msgid "Page cache purged successfully"
+msgstr "페이지 캐시가 성공적으로 제거되었습니다."
+
+#: cache/class-wp-optimize-cache-commands.php:133
+msgid "Number of files: %s"
+msgstr "파일 수: %s"
+
+#: cache/class-wp-optimize-cache-commands.php:132
+msgid "Current cache size: %s"
+msgstr "현재 캐시 크기: %s"
+
+#: cache/class-wp-optimize-cache-commands.php:129
+msgid "Caching is disabled"
+msgstr "캐싱이 비활성화됨"
+
+#: cache/class-wp-optimize-cache-commands.php:129
+msgid "Caching is enabled"
+msgstr "캐싱이 활성화됨"
+
+#: templates/minify/css-settings-tab.php:156
+msgid "This will be inlined after the above if your page matches the WP conditional is_front_page()"
+msgstr "페이지가 WP 조건부 is_front_page()와 일치하는 경우 위 항목 뒤에 인라인됩니다."
+
+#: templates/minify/css-settings-tab.php:156
+msgid "is_front_page (conditional)"
+msgstr "is_front_page(조건부)"
+
+#: templates/minify/css-settings-tab.php:145
+msgid "Fallback CSS"
+msgstr "대체 CSS"
+
+#: templates/minify/css-settings-tab.php:141
+msgid "Critical path CSS"
+msgstr "중요 경로 CSS"
+
+#: templates/minify/css-settings-tab.php:133
+msgid "If you have multiple css files per media type, they may load out of order and break your design when loaded asynchronously."
+msgstr "미디어 유형당 여러 css 파일이 있는 경우 순서가 맞지 않게 로드될 수 있으며 비동기적으로 로드될 때 디자인이 손상될 수 있습니다."
+
+#: templates/minify/css-settings-tab.php:130
+msgid "Note that inline CSS won't work if this is active"
+msgstr "인라인 CSS가 활성화되어 있으면 작동하지 않습니다."
+
+#: templates/minify/css-settings-tab.php:129
+msgid "Load all CSS files asynchronously"
+msgstr "모든 CSS 파일을 비동기식으로 로드"
+
+#: templates/minify/css-settings-tab.php:118
+msgid "Enable asynchronous CSS"
+msgstr "비동기 CSS 활성화"
+
+#: templates/minify/css-settings-tab.php:93
+msgid "e.g. You may want to exclude 'fontawesome' or other libraries from the initial load"
+msgstr "예: 초기 로드에서 'fontawesome' 또는 기타 라이브러리를 제외할 수 있습니다."
+
+#: templates/minify/css-settings-tab.php:91
+msgid "Any CSS files that match the paths below will be loaded asynchronously."
+msgstr "아래 경로와 일치하는 모든 CSS 파일은 비동기식으로 로드됩니다."
+
+#: templates/minify/css-settings-tab.php:87
+msgid "Load the following CSS files asynchronously"
+msgstr "다음 CSS 파일을 비동기식으로 로드"
+
+#: templates/minify/css-settings-tab.php:72
+msgid "Use this if you are having issues with a specific CSS file"
+msgstr "특정 CSS 파일에 문제가 있는 경우 사용하십시오."
+
+#: templates/minify/css-settings-tab.php:71
+msgid "Any CSS files that match the paths below will be completely ignored."
+msgstr "아래 경로와 일치하는 모든 CSS 파일은 완전히 무시됩니다."
+
+#: templates/minify/css-settings-tab.php:67
+msgid "Exclude the following CSS files from processing"
+msgstr "처리에서 다음 CSS 파일 제외"
+
+#: templates/minify/css-settings-tab.php:61
+msgid "This is useful if you want to test your critical path CSS"
+msgstr "중요한 경로 CSS를 테스트하려는 경우에 유용합니다."
+
+#: templates/minify/css-settings-tab.php:60
+msgid "Dequeue all CSS files"
+msgstr "모든 CSS 파일을 대기열에서 빼기"
+
+#: templates/minify/css-settings-tab.php:49
+msgid "Enable if your site does not need specific print styles."
+msgstr "사이트에 특정 인쇄 스타일이 필요하지 않은 경우 활성화하십시오."
+
+#: templates/minify/css-settings-tab.php:49
+msgid "When selected, any CSS files with the media type \"print\" will be removed."
+msgstr "선택하면 미디어 유형이 \"인쇄\"인 모든 CSS 파일이 제거됩니다."
+
+#: templates/minify/css-settings-tab.php:48
+msgid "Strip the \"print\" related stylesheets"
+msgstr "\"print\" 관련 스타일시트 제거"
+
+#: templates/minify/css-settings-tab.php:37
+msgid "Recommended if the CSS files are small enough."
+msgstr "CSS 파일이 충분히 작은 경우 권장됩니다."
+
+#: templates/minify/css-settings-tab.php:37
+msgid "Inline CSS"
+msgstr "인라인 CSS"
+
+#: templates/minify/css-settings-tab.php:16
+msgid "Enable minification of CSS files"
+msgstr "CSS 파일 최소화 활성"
+
+#: templates/minify/css-settings-tab.php:5
+msgid "CSS options"
+msgstr "CSS 옵션"
+
+#: templates/minify/status-tab.php:132
+msgid "The stylesheets will be combined and minified to lower the number and size of requests."
+msgstr "스타일시트가 결합되고 축소되어 요청의 수와 크기가 줄어듭니다."
+
+#: templates/minify/js-settings-tab.php:81
+msgid "Independent scripts are for example 'analytics' or 'pixel' scripts. They are not required for the website to work"
+msgstr "독립 스크립트는 예를 들어 '분석' 또는 '픽셀' 스크립트입니다. 웹 사이트가 작동하는 데 필요하지 않습니다."
+
+#: templates/minify/js-settings-tab.php:78
+msgid "Any JavaScript files that match the paths below will be loaded asynchronously."
+msgstr "아래 경로와 일치하는 모든 JavaScript 파일은 비동기식으로 로드됩니다."
+
+#: templates/minify/css-settings-tab.php:83
+#: templates/minify/js-settings-tab.php:58
+msgid "You can see / edit them in the Advanced tab."
+msgstr "고급 탭에서 확인/편집할 수 있습니다."
+
+#: templates/minify/css-settings-tab.php:83
+#: templates/minify/js-settings-tab.php:58
+msgid "Some files known for causing issues when combined / minified are excluded by default."
+msgstr "결합/축소 시 문제를 일으키는 것으로 알려진 일부 파일은 기본적으로 제외됩니다."
+
+#: templates/minify/css-settings-tab.php:73
+#: templates/minify/js-settings-tab.php:48
+msgid "Any file present here will be loaded normally by WordPress"
+msgstr "여기에 있는 모든 파일은 워드프레스에서 정상적으로 로드됩니다."
+
+#: templates/minify/js-settings-tab.php:48
+msgid "Use this if you are having issues with a certain JavaScript file."
+msgstr "특정 JavaScript 파일에 문제가 있는 경우 이를 사용하십시오."
+
+#: templates/minify/js-settings-tab.php:47
+msgid "Any JavaScript files that match the paths below will be completely ignored"
+msgstr "아래 경로와 일치하는 모든 JavaScript 파일은 완전히 무시됩니다."
+
+#: templates/minify/js-settings-tab.php:43
+msgid "Exclude JavaScript from processing"
+msgstr "처리에서 JavaScript 제외"
+
+#: templates/minify/js-settings-tab.php:16
+msgid "Enable minification of JavaScript files"
+msgstr "JavaScript 파일 최소화 활성"
+
+#: templates/minify/js-settings-tab.php:5
+msgid "JavaScript options"
+msgstr "자바스크립트 옵션"
+
+#: templates/minify/status-tab.php:110
+msgid "The JavaScript files will be combined and minified to lower the number and size of requests."
+msgstr "JavaScript 파일이 결합되고 축소되어 요청의 수와 크기가 줄어듭니다."
+
+#: templates/minify/font-settings-tab.php:131
+msgid "Use if you want to exclude Font Awesome from page speed tests (PageSpeed Insights, GTMetrix...)"
+msgstr "페이지 속도 테스트(PageSpeed ​​Insights, GTMetrix...)에서 Font Awesome을 제외하려는 경우에 사용합니다."
+
+#: templates/minify/font-settings-tab.php:130
+msgid "Asynchronously load the Font Awesome stylesheet using JavaScript"
+msgstr "JavaScript를 사용하여 Font Awesome 스타일시트를 비동기식으로 로드"
+
+#: templates/minify/font-settings-tab.php:121
+msgid "Asynchronously load the Font Awesome CSS file"
+msgstr "Font Awesome CSS 파일을 비동기식으로 로드"
+
+#: templates/minify/font-settings-tab.php:94
+msgid "Choose how to include Font Awesome (only available if it has 'font-awesome' in the url):"
+msgstr "Font Awesome 포함 방법 선택(URL에 'font-awesome'이 있는 경우에만 사용 가능):"
+
+#: templates/minify/font-settings-tab.php:91
+msgid "Font Awesome"
+msgstr "멋진 글꼴"
+
+#: templates/minify/font-settings-tab.php:86
+msgid "Use if you want to exclude the CSS from Google Fonts from performance tests."
+msgstr "성능 테스트에서 구글 Fonts의 CSS를 제외하려는 경우에 사용합니다."
+
+#: templates/minify/font-settings-tab.php:85
+msgid "Asynchronously load fonts from Google Fonts using JavaScript"
+msgstr "JavaScript를 사용하여 구글 폰트에서 비동기식으로 글꼴 로드"
+
+#: templates/minify/font-settings-tab.php:76
+#: templates/minify/font-settings-tab.php:122
+msgid "Will use 'preload' with LoadCSS polyfill"
+msgstr "LoadCSS 폴리필과 함께 '사전 로드'를 사용합니다."
+
+#: templates/minify/font-settings-tab.php:75
+msgid "Asynchronously load CSS files from Google Fonts"
+msgstr "구글 폰트에서 CSS 파일을 비동기식으로 로드"
+
+#: templates/minify/font-settings-tab.php:45
+msgid "Choose how to include fonts from Google Fonts on your pages, when available:"
+msgstr "가능한 경우 페이지에 구글 글꼴의 글꼴을 포함하는 방법을 선택합니다."
+
+#: templates/minify/font-settings-tab.php:18
+msgid "This improves speed when loading multiple fonts from Google Fonts."
+msgstr "이렇게 하면 구글 폰트에서 여러 글꼴을 로드할 때 속도가 향상됩니다."
+
+#: templates/minify/font-settings-tab.php:17
+msgid "Merge fonts from Google Fonts into one request"
+msgstr "구글 폰트의 글꼴을 하나의 요청으로 병합"
+
+#: templates/minify/font-settings-tab.php:5
+msgid "Google Fonts"
+msgstr "구글 글꼴"
+
+#: minify/class-wp-optimize-minify-cache-functions.php:426
+#: templates/minify/status-tab.php:189
+msgid "Never."
+msgstr "절대."
+
+#: minify/class-wp-optimize-minify-cache-functions.php:389
+msgid "Error: %s is not a directory!"
+msgstr "오류: %s은(는) 디렉토리가 아닙니다!"
+
+#: minify/class-wp-optimize-minify-cache-functions.php:184
+#: minify/class-wp-optimize-minify-cache-functions.php:206
+msgid "A cache purge request has been sent to %s. Please note that it may not work every time, due to cache rate limiting by your host."
+msgstr "캐시 제거 요청이 %s에 전송되었습니다. 호스트의 캐시 속도 제한으로 인해 매번 작동하지 않을 수 있습니다."
+
+#: minify/class-wp-optimize-minify-cache-functions.php:165
+#: minify/class-wp-optimize-minify-cache-functions.php:172
+#: minify/class-wp-optimize-minify-cache-functions.php:178
+#: minify/class-wp-optimize-minify-cache-functions.php:190
+msgid "All caches from %s have also been purged."
+msgstr "%s의 모든 캐시도 제거되었습니다."
+
+#: minify/class-wp-optimize-minify-admin.php:125
+msgid "Please contact your hosting provider."
+msgstr "호스팅 제공업체에 문의하세요."
+
+#: minify/class-wp-optimize-minify-admin.php:123
+msgid "If you need something more than %s for it to work, then your server is probably misconfigured."
+msgstr "작동을 위해 %s 이상의 것이 필요한 경우 서버가 잘못 구성되었을 수 있습니다."
+
+#: minify/class-wp-optimize-minify-admin.php:117
+msgid "The current permissions for WP-Optimize Minify are chmod %s."
+msgstr "WP-옵티마이즈 축소의 현재 권한은 chmod %s입니다."
+
+#: minify/class-wp-optimize-minify-admin.php:112
+msgid "WP-Optimize Minify needs write permissions on the folder %s."
+msgstr "WP-옵티마이즈 축소는 %s 폴더에 대한 쓰기 권한이 필요합니다."
+
+#: minify/class-wp-optimize-minify-admin.php:86
+msgid "WP-Optimize Minify requires WordPress version %s or higher. You’re using version %s."
+msgstr "WP-옵티마이즈 축소에는 워드프레스 버전 %s 이상이 필요합니다. %s 버전을 사용 중입니다."
+
+#: minify/class-wp-optimize-minify-admin.php:82
+msgid "WP-Optimize Minify requires the PHP mbstring module to be installed on the server; please ask your web hosting company for advice on how to enable it on your server."
+msgstr "WP-옵티마이즈 축소를 사용하려면 서버에 PHP mbstring 모듈을 설치해야 합니다. 서버에서 활성화하는 방법에 대한 조언은 웹 호스팅 회사에 문의하십시오."
+
+#: minify/class-wp-optimize-minify-admin.php:78
+msgid "WP-Optimize Minify requires PHP 5.4 or higher. You’re using version %s."
+msgstr "WP-옵티마이즈 축소는 PHP 5.4 이상이 필요합니다. %s 버전을 사용 중입니다."
+
+#: minify/class-wp-optimize-minify.php:109
+msgid "Purge minify cache"
+msgstr "최소화 캐시 제거"
+
+#: minify/class-wp-optimize-minify-commands.php:89
+msgid "All caches from WP-Optimize Minify have been purged."
+msgstr "WP-옵티마이즈 축소의 모든 캐시가 제거되었습니다."
+
+#: cache/file-based-page-cache-functions.php:94
+msgid "This is a REST API request (identified by REST_REQUEST constant)"
+msgstr "이것은 REST API 요청입니다(REST_REQUEST 상수로 식별됨)."
+
+#: cache/class-wpo-page-cache.php:363
+msgid "3. Copy and paste the following lines into the file:"
+msgstr "3. 다음 줄을 복사하여 파일에 붙여넣습니다."
+
+#: cache/class-wpo-page-cache.php:362
+msgid "2. Edit or create a file with the name advanced-cache.php"
+msgstr "2. advanced-cache.php라는 이름으로 파일을 편집하거나 생성합니다."
+
+#: cache/class-wpo-page-cache.php:361
+msgid "1. Please navigate, via FTP, to the folder - %s"
+msgstr "1. FTP를 통해 %s 폴더로 이동하십시오."
+
+#: templates/cache/gzip-compression.php:26
+msgid "It seems to be handled by Cloudflare."
+msgstr "Cloudflare에서 처리하는 것 같습니다."
+
+#: templates/cache/gzip-compression.php:21
+msgid "Your server uses Brotli compression instead of Gzip, which is good."
+msgstr "귀하의 서버는 좋은 Gzip 대신 Brotli 압축을 사용합니다."
+
+#: cache/file-based-page-cache-functions.php:67
+msgid "Comments are opened and the visitor saved his information."
+msgstr "댓글이 열리고 방문자가 자신의 정보를 저장했습니다."
+
+#: includes/class-updraft-smush-manager-commands.php:372
+#: includes/class-updraft-smush-manager-commands.php:396
+#: includes/class-updraft-smush-manager.php:474
+msgid "All the compressed images were successfully restored."
+msgstr "모든 압축 이미지가 성공적으로 복원되었습니다."
+
+#: includes/class-updraft-smush-manager-commands.php:345
+msgid "The selected image was successfully marked as compressed"
+msgid_plural "The selected images were successfully marked as compressed"
+msgstr[0] "선택한 이미지가 성공적으로 압축된 것으로 표시되었습니다."
+
+#: includes/class-updraft-smush-manager-commands.php:343
+msgid "The selected image was successfully marked as uncompressed"
+msgid_plural "The selected images were successfully marked as uncompressed"
+msgstr[0] "선택한 이미지가 압축되지 않은 것으로 성공적으로 표시되었습니다."
+
+#: includes/class-updraft-smush-manager-commands.php:134
+msgid "The image was restored successfully"
+msgstr "이미지가 성공적으로 복원되었습니다."
+
+#: includes/class-updraft-smush-manager.php:154
+#: includes/class-updraft-smush-task.php:290
+msgid "The file was compressed to %s using WP-Optimize"
+msgstr "파일이 WP-옵티마이즈를 사용하여 %s로 압축되었습니다."
+
+#: includes/class-updraft-smush-manager.php:747
+msgid "Do you want to restore the original images from the backup (where they exist?)"
+msgstr "백업에서 원본 이미지를 복원하시겠습니까(존재하는 위치)?"
+
+#: includes/class-updraft-smush-manager.php:746
+msgid "Do you really want to mark all the images as uncompressed? This action is irreversible."
+msgstr "모든 이미지를 압축되지 않은 것으로 표시하시겠습니까? 이 작업은 되돌릴 수 없습니다."
+
+#: includes/class-updraft-smush-manager-commands.php:398
+#: includes/class-updraft-smush-manager.php:480
+msgid "All the compressed images were successfully marked as uncompressed."
+msgstr "모든 압축된 이미지가 압축되지 않은 것으로 성공적으로 표시되었습니다."
+
+#: includes/class-updraft-smush-manager.php:478
+msgid "All the compressed images for the site %s were successfully marked as uncompressed."
+msgstr "사이트 %s의 모든 압축 이미지가 압축되지 않은 것으로 성공적으로 표시되었습니다."
+
+#: includes/class-updraft-smush-manager.php:460
+msgid "%s compressed images were restored from their backup"
+msgstr "%s 압축 이미지가 백업에서 복원되었습니다."
+
+#: includes/class-updraft-smush-manager.php:458
+msgid "%s compressed images were restored from their backup for the site %s"
+msgstr "%s 압축 이미지가 %s 사이트의 백업에서 복원되었습니다."
+
+#: includes/class-updraft-smush-manager.php:374
+msgid "The backup file %s could not be deleted."
+msgstr "백업 파일 %s을(를) 삭제할 수 없습니다."
+
+#: includes/class-updraft-smush-manager.php:372
+msgid "The file could not be copied; check your PHP error logs for details"
+msgstr "파일을 복사할 수 없습니다. 자세한 내용은 PHP 오류 로그를 확인하십시오."
+
+#: includes/class-updraft-smush-manager.php:370
+msgid "Please check your folder's permissions"
+msgstr "폴더 권한을 확인하세요."
+
+#: includes/class-updraft-smush-manager.php:370
+msgid "The destination could not be written to."
+msgstr "대상을 쓸 수 없습니다."
+
+#: includes/class-updraft-smush-manager.php:368
+msgid "The backup was not found; it may have been deleted or was already restored"
+msgstr "백업을 찾을 수 없습니다. 삭제되었거나 이미 복원되었을 수 있습니다."
+
+#: templates/images/smush.php:115
+msgid "Mark all images as uncompressed"
+msgstr "모든 이미지를 압축되지 않은 것으로 표시"
+
+#: cache/class-wpo-page-cache.php:276 cache/class-wpo-page-cache.php:290
+msgid "The page cache was not purged."
+msgstr "페이지 캐시가 제거되지 않았습니다."
+
+#: templates/cache/gzip-compression.php:23
+msgid "Gzip compression is already enabled."
+msgstr "Gzip 압축이 이미 활성화되어 있습니다."
+
+#: cache/class-wpo-page-cache.php:269 cache/class-wpo-page-cache.php:283
+msgid "The page cache was successfully purged."
+msgstr "페이지 캐시가 성공적으로 제거되었습니다."
+
+#: templates/admin-metabox-smush.php:76
+msgid "Mark as uncompressed"
+msgstr "압축되지 않은 것으로 표시"
+
+#: templates/admin-metabox-smush.php:72 templates/images/smush.php:156
+msgid "Mark as already compressed"
+msgstr "이미 압축된 것으로 표시"
+
+#: templates/images/smush.php:111
+msgid "Delete all backup images now"
+msgstr "지금 모든 백업 이미지 삭제"
+
+#: templates/images/smush.php:111
+msgid "or"
+msgstr "또는"
+
+#: templates/images/smush.php:111 templates/minify/advanced-tab.php:92
+msgid "days"
+msgstr "일"
+
+#: templates/images/smush.php:111
+msgid "Automatically delete image backups after"
+msgstr "이후 이미지 백업 자동 삭제"
+
+#: templates/images/smush.php:101
+msgid "More options"
+msgstr "추가 옵션"
+
+#: templates/database/tables-list-after.php:39
+msgid "Only delete a table if you are sure of what you are doing, and after taking a backup."
+msgstr "수행 중인 작업이 확실하고 백업을 수행한 후에만 테이블을 삭제하십시오."
+
+#: templates/database/tables-list-after.php:39
+msgid "WARNING - some plugins might not be detected as installed or activated if they are in unknown folders (for example premium plugins)."
+msgstr "경고 - 일부 플러그인은 알 수 없는 폴더(예: 프리미엄 플러그인)에 있는 경우 설치되거나 활성화된 것으로 감지되지 않을 수 있습니다."
+
+#: includes/class-updraft-smush-manager-commands.php:320
+msgid "This image is marked as already compressed by another tool."
+msgstr "이 이미지는 다른 도구에 의해 이미 압축된 것으로 표시됩니다."
+
+#: includes/class-updraft-smush-manager.php:745
+msgid "Do you really want to delete all backup images now? This action is irreversible."
+msgstr "지금 모든 백업 이미지를 삭제하시겠습니까? 이 작업은 되돌릴 수 없습니다."
+
+#: includes/class-updraft-smush-manager.php:743
+msgid "Please select the images you want to mark as already compressed from the \"Uncompressed images\" panel first"
+msgstr "먼저 \"압축되지 않은 이미지\" 패널에서 이미 압축된 것으로 표시할 이미지를 선택하십시오."
+
+#: includes/class-updraft-smush-manager.php:742
+msgid "Please wait: updating information about the selected image."
+msgstr "기다려 주십시오: 선택한 이미지에 대한 정보를 업데이트 중입니다."
+
+#: cache/file-based-page-cache-functions.php:125
+msgid "Attempt to create subfolder within cache directory failed"
+msgstr "캐시 디렉토리 내에 하위 폴더를 생성하려는 시도가 실패했습니다."
+
+#: cache/file-based-page-cache-functions.php:56
+msgid "WP-O cache directory was not found"
+msgstr "WP-옵티마이즈 캐시 디렉토리를 찾을 수 없습니다."
+
+#: cache/file-based-page-cache-functions.php:52
+msgid "WP-O cache parent directory was not found"
+msgstr "WP-옵티마이즈 캐시 상위 디렉토리를 찾을 수 없습니다."
+
+#: cache/file-based-page-cache-functions.php:276
+msgid "Page type is not cacheable (search, 404 or password-protected)"
+msgstr "페이지 유형은 캐시할 수 없습니다(검색, 404 또는 비밀번호로 보호됨)."
+
+#: cache/file-based-page-cache-functions.php:37
+msgid "User is logged in"
+msgstr "사용자가 로그인했습니다."
+
+#: cache/file-based-page-cache-functions.php:32
+msgid "Output is too small (less than %d bytes) to be worth caching"
+msgstr "출력이 너무 작아서(%d바이트 미만) 캐싱할 가치가 없습니다."
+
+#: includes/class-wp-optimize-gzip-compression.php:135
+#: includes/class-wp-optimize-gzip-compression.php:137
+msgid "You should speak to your web hosting support to find how to enable it."
+msgstr "활성화 방법을 알아보려면 웹 호스팅 지원팀에 문의해야 합니다."
+
+#: includes/class-wp-optimize-gzip-compression.php:135
+msgid "Possible causes include that Apache (your webserver) is not configured to allow .htaccess files to take effect, or one of Apache modules - mod_filter or mod_deflate - is not active, or the webserver is configured to disallow Gzip compression."
+msgstr "가능한 원인으로는 아파치(귀하의 웹 서버)가 .htaccess 파일이 적용되도록 구성되지 않았거나 아파치 모듈(mod_filter 또는 mod_deflate) 중 하나가 활성화되지 않았거나 웹 서버가 Gzip 압축을 허용하지 않도록 구성되어 있기 때문입니다."
+
+#: includes/class-wp-optimize-gzip-compression.php:133
+msgid "It seems one of Apache modules - mod_filter or mod_deflate - is not active."
+msgstr "아파치 모듈(mod_filter 또는 mod_deflate) 중 하나가 활성화되지 않은 것 같습니다."
+
+#: includes/class-wp-optimize-gzip-compression.php:133
+#: includes/class-wp-optimize-gzip-compression.php:135
+#: includes/class-wp-optimize-gzip-compression.php:137
+msgid "However, the test file we fetched was not Gzip-compressed."
+msgstr "그러나 가져온 테스트 파일은 Gzip으로 압축되지 않았습니다."
+
+#: includes/class-wp-optimize-gzip-compression.php:133
+#: includes/class-wp-optimize-gzip-compression.php:135
+#: includes/class-wp-optimize-gzip-compression.php:137
+msgid "We successfully added Gzip compression settings into .htaccess file."
+msgstr "Gzip 압축 설정을 .htaccess 파일에 성공적으로 추가했습니다."
+
+#: cache/class-wp-optimize-page-cache-preloader.php:260
+#: includes/class-wp-optimize-preloader.php:356
+msgid "%d url found."
+msgid_plural "%d urls found."
+msgstr[0] "%d개의 URL을 찾았습니다."
+
+#: cache/class-wp-optimize-page-cache-preloader.php:182
+msgid "Tasks for preload site urls created."
+msgstr "미리 로드 사이트 URL에 대한 작업이 생성되었습니다."
+
+#: cache/class-wp-optimize-page-cache-preloader.php:163
+msgid "Creating tasks for preload site urls."
+msgstr "사이트 URL을 미리 로드하기 위한 작업 만들기."
+
+#: includes/class-wp-optimize-preloader.php:251
+msgid "%1$s out of %2$s URL preloaded"
+msgid_plural "%1$s out of %2$s URLs preloaded"
+msgstr[0] "%2$s URL 중 %1$s 미리 로드됨"
+
+#: cache/class-wp-optimize-page-cache-preloader.php:646
+#: minify/class-wp-optimize-minify-preloader.php:140
+msgid "Last preload finished at %s"
+msgstr "마지막 사전 로드가 %s에 완료되었습니다."
+
+#: cache/class-wp-optimize-page-cache-preloader.php:614
+msgid "Page cache is disabled."
+msgstr "페이지 캐시가 비활성화되었습니다."
+
+#: cache/class-wpo-page-cache.php:577 cache/class-wpo-page-cache.php:581
+#: cache/class-wpo-page-cache.php:586
+msgid "The request to the filesystem failed: unable to create directory %s. Please check your file permissions."
+msgstr "파일 시스템에 대한 요청 실패: %s 디렉토리를 생성할 수 없습니다. 파일 권한을 확인하십시오."
+
+#: templates/cache/browser-cache.php:5
+msgid "Browser static file caching settings (via headers)"
+msgstr "브라우저 정적 파일 캐싱 설정(헤더를 통해)"
+
+#: templates/cache/page-cache-preload.php:13
+msgid "This action will trigger WP-Optimize to cache the site by visiting pages to preload them (so that they are ready the first time a human visitor wants them)."
+msgstr "이 조치는 WP-옵티마이즈가 페이지를 방문하여 사이트를 미리 로드하여 사이트를 캐시하도록 트리거합니다(그래서 방문자가 처음 원할 때 사이트가 준비되도록 합니다)."
+
+#: templates/cache/gzip-compression.php:37
+msgid "Check status again"
+msgstr "상태를 다시 확인"
+
+#: templates/cache/gzip-compression.php:37
+msgid "Press this to see if any changes were made to your Gzip configuration"
+msgstr "Gzip 구성이 변경되었는지 확인하려면 이 버튼을 누르세요."
+
+#: templates/cache/gzip-compression.php:5
+msgid "Gzip compression settings"
+msgstr "Gzip 압축 설정"
+
+#: templates/cache/page-cache.php:98
+msgid "Time after which a new cached version will be generated (0 = only when the cache is emptied)"
+msgstr "새 캐시된 버전이 생성되기까지의 시간(0 = 캐시가 비워진 경우에만)"
+
+#: templates/cache/page-cache.php:42
+msgid "It looks like you already have an active caching plugin (%s) installed. Having more than one active page cache might cause unexpected results."
+msgstr "활성 캐싱 플러그인(%s)이 이미 설치되어 있는 것 같습니다. 둘 이상의 활성 페이지 캐시가 있으면 예기치 않은 결과가 발생할 수 있습니다."
+
+#: templates/cache/page-cache.php:15
+msgid "Cache video preview"
+msgstr "캐시 비디오 미리보기"
+
+#: templates/cache/page-cache.php:13 templates/minify/status-tab.php:7
+msgid "Watch our how-to video below."
+msgstr "아래 방법 동영상을 시청하세요."
+
+#: templates/cache/page-cache.php:13
+msgid "Not sure how to use the cache feature?"
+msgstr "캐시 기능을 사용하는 방법을 모르십니까?"
+
+#: templates/cache/page-cache.php:11
+msgid "How to use the cache feature"
+msgstr "캐시 기능을 사용하는 방법"
+
+#: templates/admin-page-header-tabs.php:38
+#: templates/admin-page-header-tabs.php:40
+msgid "I need help / something is not working"
+msgstr "도움이 필요합니다/뭔가 작동하지 않습니다"
+
+#: templates/admin-page-header-tabs.php:36
+msgid "I have an idea to improve WP-Optimize"
+msgstr "WP-옵티마이즈를 개선할 아이디어가 있습니다."
+
+#: templates/admin-page-header-tabs.php:33
+msgid "Feedback"
+msgstr "피드백"
+
+#: templates/cache/page-cache.php:17 templates/images/smush.php:10
+#: templates/minify/status-tab.php:11
+msgid "Open the video in a new window"
+msgstr "새 창에서 비디오 열기"
+
+#: templates/cache/page-cache.php:17 templates/images/smush.php:10
+#: templates/minify/status-tab.php:11
+msgid "Loads a video hosted on vimeo.com"
+msgstr "Vimeo.com에 호스팅된 비디오를 로드합니다."
+
+#: templates/images/smush.php:6
+msgid "Watch our howto video below."
+msgstr "아래의 하우투 동영상을 시청하세요."
+
+#: templates/images/smush.php:6
+msgid "Not sure how to use the image compression feature?"
+msgstr "이미지 압축 기능을 사용하는 방법을 모르십니까?"
+
+#: templates/images/smush.php:4
+msgid "How to use the image compression feature"
+msgstr "이미지 압축 기능을 사용하는 방법"
+
+#: templates/settings/may-also-like.php:211
+msgid "Cache supports WPML multilingual plugin and multiple currencies for WooCommerce"
+msgstr "캐시는 WooCommerce용 WPML 다국어 플러그인 및 여러 통화를 지원합니다."
+
+#: templates/settings/may-also-like.php:209
+#: templates/settings/may-also-like.php:210
+msgid "Multilingual and multi-currency compatible"
+msgstr "다국어 및 다중 통화 호환"
+
+#: templates/settings/may-also-like.php:68
+msgid "Cache your page and post for even more speed."
+msgstr "더 빠른 속도를 위해 페이지와 게시물을 캐시하세요."
+
+#: templates/settings/may-also-like.php:66
+#: templates/settings/may-also-like.php:67
+msgid "Caching"
+msgstr "캐싱"
+
+#: templates/settings/may-also-like.php:55
+msgid "Compress your images for a much faster page load."
+msgstr "훨씬 빠른 페이지 로드를 위해 이미지를 압축합니다."
+
+#: templates/settings/may-also-like.php:53
+#: templates/settings/may-also-like.php:54
+msgid "Image compression"
+msgstr "이미지 압축"
+
+#: templates/settings/may-also-like.php:42
+msgid "Clears out unnecessary data, cleans up your tables and retrieves space lost to data fragmentation."
+msgstr "불필요한 데이터를 지우고 테이블을 정리하며 데이터 조각화로 인해 손실된 공간을 검색합니다."
+
+#: templates/settings/may-also-like.php:40
+#: templates/settings/may-also-like.php:41
+msgid "Database cleaning"
+msgstr "데이터베이스 청소"
+
+#: templates/minify/status-tab.php:12 templates/minify/status-tab.php:24
+#: templates/notices/install-or-update-notice.php:51
+msgid "Read the documentation"
+msgstr "문서 읽기"
+
+#: templates/notices/install-or-update-notice.php:49
+msgid "%sRead the full WP-Optimize documentation%s, or if you have any questions, please ask %sPremium support%s"
+msgstr "%s전체 WP-옵티마이즈 문서%s를 읽거나 질문이 있는 경우 %s프리미엄 지원%s에 문의하십시오."
+
+#: templates/notices/install-or-update-notice.php:43
+msgctxt "%s is replaced by a link tag"
+msgid "PS - check out our new improved Premium version %shere%s."
+msgstr "추신 - 새롭게 개선된 프리미엄 버전 %s여기%s를 확인하십시오."
+
+#: templates/notices/install-or-update-notice.php:40
+msgid "If you already have plugins for minifying, don't worry - WP-Optimize won't interfere unless you turn these options on."
+msgstr "축소를 위한 플러그인이 이미 있는 경우 걱정하지 마십시오. 이러한 옵션을 설정하지 않으면 WP-옵티마이즈가 간섭하지 않습니다."
+
+#: templates/notices/install-or-update-notice.php:33
+msgid "Thank you for updating WP-Optimize!"
+msgstr "WP-옵티마이즈를 업데이트해주셔서 감사합니다!"
+
+#: templates/notices/install-or-update-notice.php:23
+msgid "Finally, please take a look at our %spremium version%s, which is packed full of additional speed enhancements to make your site go even faster!"
+msgstr "마지막으로, 귀하의 사이트를 더욱 빠르게 만들 수 있는 추가 속도 향상 기능이 포함된 %s프리미엄 버전%s을(를) 살펴보십시오!"
+
+#: templates/notices/install-or-update-notice.php:19
+msgid "WP-Optimize can trigger UpdraftPlus to automatically back up right before any optimization takes place, so you can undo any changes you make."
+msgstr "WP-옵티마이즈는 최적화가 수행되기 직전에 UpdraftPlus가 자동으로 백업하도록 트리거할 수 있으므로 변경 사항을 취소할 수 있습니다."
+
+#: templates/notices/install-or-update-notice.php:18
+msgid "But first, we strongly recommend you backup your site with %sUpdraftPlus%s."
+msgstr "그러나 먼저 %sUpdraftPlus%s로 사이트를 백업하는 것이 좋습니다."
+
+#: templates/notices/install-or-update-notice.php:11
+msgid "If you are unsure what settings to use, please take a look at the %sdocumentation%s."
+msgstr "어떤 설정을 사용해야 할지 확실하지 않은 경우 %s문서%s를 참조하십시오."
+
+#: templates/notices/install-or-update-notice.php:9
+msgctxt "%s will be replaced by a \"strong\" tag"
+msgid "The plugin settings are split into three parts: %sclean%s the database, %scompress%s images and %scaching%s."
+msgstr "플러그인 설정은 %sclean%s 데이터베이스, %scompress%s 이미지 및 %scaching%s의 세 부분으로 나뉩니다."
+
+#: templates/notices/install-or-update-notice.php:7
+#: templates/notices/install-or-update-notice.php:34
+msgid "The team at WP-Optimize is working hard to make your site fast and efficient."
+msgstr "WP-옵티마이즈 팀은 귀하의 사이트를 빠르고 효율적으로 만들기 위해 열심히 노력하고 있습니다."
+
+#: templates/admin-page-header.php:31
+msgid "Make your site fast & efficient"
+msgstr "빠르고 효율적인 사이트 만들기"
+
+#: includes/class-wp-optimize-admin.php:671
+#: includes/class-wp-optimize-admin.php:672
+msgid "Premium Upgrade"
+msgstr "프리미엄 업그레이드"
+
+#: templates/cache/page-cache.php:61 wp-optimize.php:771
+msgid "Number of files:"
+msgstr "파일 수:"
+
+#: templates/cache/page-cache.php:60 wp-optimize.php:770
+msgid "Current cache size:"
+msgstr "현재 캐시 크기:"
+
+#: cache/class-wp-optimize-page-cache-preloader.php:637
+#: minify/class-wp-optimize-minify-preloader.php:131 wp-optimize.php:769
+msgid "Loading URLs..."
+msgstr "URL 로드 중..."
+
+#: wp-optimize.php:768
+msgid "Started preload..."
+msgstr "프리로드를 시작했습니다..."
+
+#: includes/class-wp-optimize-admin.php:321
+msgid "Same as cache lifespan"
+msgstr "캐시 수명과 동일"
+
+#: includes/class-wp-optimize-admin.php:56
+msgid "Static file headers"
+msgstr "정적 파일 헤더"
+
+#: includes/class-wp-optimize-admin.php:54
+msgid "Advanced settings"
+msgstr "고급 설정"
+
+#: includes/class-wp-optimize-admin.php:53
+#: includes/class-wp-optimize-admin.php:64
+msgid "Preload"
+msgstr "사전 로드"
+
+#: cache/class-wpo-page-cache.php:181 includes/class-wp-optimize-admin.php:52
+msgid "Page cache"
+msgstr "페이지 캐시"
+
+#: includes/class-wpo-ajax.php:171
+msgid "Options can only be saved by network admin"
+msgstr "옵션은 네트워크 관리자만 저장할 수 있습니다."
+
+#: includes/class-wp-optimize-commands.php:449
+msgid "We could not determine if Gzip compression is enabled."
+msgstr "Gzip 압축이 활성화되어 있는지 확인할 수 없습니다."
+
+#: includes/class-updraft-smush-manager.php:1568
+msgid "Compress image"
+msgstr "이미지 압축"
+
+#. Description of the plugin
+msgid "WP-Optimize makes your site fast and efficient. It cleans the database, compresses images and caches pages. Fast sites attract moretraffic and users."
+msgstr "WP-옵티마이즈는 귀하의 사이트를 빠르고 효율적으로 만듭니다. 데이터베이스를 정리하고 이미지를 압축하며 페이지를 캐시합니다. 빠른 사이트는 더 많은 트래픽과 사용자를 유치합니다."
+
+#. Plugin Name of the plugin
+msgid "WP-Optimize - Clean, Compress, Cache"
+msgstr "WP-옵티마이즈 - 정리, 압축, 캐시"
+
+#: includes/class-updraft-smush-manager.php:734
+msgid "No uncompressed images were found."
+msgstr "압축되지 않은 이미지가 없습니다."
+
+#: includes/class-wp-optimize-admin.php:49
+msgid "Lazy-load"
+msgstr "지연 로드"
+
+#: includes/class-wp-optimize-admin.php:48
+msgid "Unused images and sizes"
+msgstr "미사용 이미지 및 크기"
+
+#: templates/cache/page-cache.php:94
+msgid "Months"
+msgstr "개월"
+
+#: templates/cache/page-cache.php:93
+msgid "Days"
+msgstr "일"
+
+#: templates/cache/page-cache.php:92
+msgid "Hours"
+msgstr "시간"
+
+#: templates/cache/page-cache.php:88 templates/minify/advanced-tab.php:82
+msgid "Cache lifespan"
+msgstr "캐시 수명"
+
+#: templates/cache/page-cache.php:82
+msgid "Enable this option if you do not have user-specific or restricted content on your website."
+msgstr "웹 사이트에 사용자별 또는 제한된 콘텐츠가 없는 경우 이 옵션을 활성화하십시오."
+
+#: templates/cache/page-cache.php:80
+msgid "Serve cached pages to logged in users"
+msgstr "로그인한 사용자에게 캐시된 페이지 제공"
+
+#: templates/cache/page-cache.php:74
+msgid "Useful if your website has mobile-specific content."
+msgstr "웹사이트에 모바일 전용 콘텐츠가 있는 경우에 유용합니다."
+
+#: templates/cache/page-cache.php:72
+msgid "Generate separate files for mobile devices"
+msgstr "모바일 장치용으로 별도의 파일 생성"
+
+#: templates/cache/page-cache.php:65
+msgid "Cache settings"
+msgstr "캐시 설정"
+
+#: templates/cache/page-cache.php:57
+msgid "Deletes the entire cache contents but keeps the page cache enabled."
+msgstr "전체 캐시 내용을 삭제하지만 페이지 캐시는 활성화된 상태로 유지합니다."
+
+#: includes/class-wp-optimize-admin.php:560
+#: includes/class-wp-optimize-admin.php:563 templates/cache/page-cache.php:52
+#: wp-optimize.php:819 wp-optimize.php:822
+msgid "Purge cache"
+msgstr "캐시 제거"
+
+#: templates/cache/page-cache.php:49
+msgid "Purge the cache"
+msgstr "캐시 제거"
+
+#: templates/cache/page-cache.php:36
+msgid "You can tweak the the settings below and in the advanced settings tab, if needed."
+msgstr "필요한 경우 아래 및 고급 설정 탭에서 설정을 조정할 수 있습니다."
+
+#: templates/cache/page-cache.php:36
+msgid "WP-Optimize will automatically detect and configure itself optimally for your site."
+msgstr "WP-옵티마이즈는 자동으로 사이트를 최적으로 감지하고 구성합니다."
+
+#: templates/cache/page-cache.php:36
+msgid "This is all that's needed for caching to work."
+msgstr "이것이 캐싱이 작동하는 데 필요한 전부입니다."
+
+#: templates/cache/page-cache.php:32
+msgid "Enable page caching"
+msgstr "페이지 캐싱 활성화"
+
+#: templates/cache/page-cache-advanced.php:60
+msgid "If any of the above strings is found in the User-Agent HTTP header, then the requested page will not be cached."
+msgstr "User-Agent HTTP 헤더에서 위 문자열 중 하나라도 발견되면 요청된 페이지가 캐시되지 않습니다."
+
+#: templates/cache/page-cache-advanced.php:56
+msgid "List of browser agents strings or substrings that should not be served cached files (one per line)"
+msgstr "캐시된 파일을 제공하지 않아야 하는 브라우저 에이전트 문자열 또는 하위 문자열 목록(한 줄에 하나씩)"
+
+#: templates/cache/page-cache-advanced.php:27
+msgid "List of cookies that will prevent caching when set."
+msgstr "설정된 경우 캐싱을 방지하는 쿠키 목록입니다."
+
+#: templates/cache/page-cache-advanced.php:13
+msgctxt "a second example path using the wildcard (*) twice"
+msgid "*sample-path*"
+msgstr "*sample-path*"
+
+#: templates/cache/page-cache-advanced.php:13
+msgctxt "an example path with the wildcard (*)"
+msgid "/shop/*"
+msgstr "/shop/*"
+
+#: templates/cache/page-cache-advanced.php:13
+msgctxt "%s are examples of path using the wildcard *"
+msgid "e.g. %s or %s"
+msgstr "예: %s 또는 %s"
+
+#: templates/cache/page-cache-advanced.php:13
+msgid "Use the wildcard * to exclude child URLs."
+msgstr "하위 URL을 제외하려면 와일드카드 *를 사용하십시오."
+
+#: templates/cache/page-cache-advanced.php:8
+msgctxt "an example path"
+msgid "/product/green-beans"
+msgstr "/product/green-beans"
+
+#: templates/cache/page-cache-advanced.php:8
+msgid "List paths (e.g. %s) that should not be cached (one per line)"
+msgstr "캐시되지 않아야 하는 경로(예: %s) 나열(한 줄에 하나씩)"
+
+#: templates/cache/page-cache-advanced.php:3
+msgid "URLs to exclude from caching"
+msgstr "캐싱에서 제외할 URL"
+
+#: templates/cache/page-cache-preload.php:49 templates/cache/page-cache.php:106
+msgid "Save changes"
+msgstr "변경 사항을 저장하다"
+
+#: templates/cache/page-cache-preload.php:31
+msgid "Select schedule type"
+msgstr "일정 유형 선택"
+
+#: templates/cache/page-cache-preload.php:27
+msgid "The scheduled preloading will run automatically in your chosen time period."
+msgstr "예약된 사전 로드는 선택한 기간에 자동으로 실행됩니다."
+
+#: templates/cache/page-cache-preload.php:24
+msgid "Activate scheduled cache preloading"
+msgstr "예약된 캐시 미리 로드 활성화"
+
+#: templates/cache/page-cache-preload.php:18
+msgid "Schedule preloader"
+msgstr "스케줄 프리로더"
+
+#: templates/cache/page-cache-preload.php:14
+msgid "If a sitemap is available, then it will be used to determine which content gets cached."
+msgstr "사이트맵을 사용할 수 있는 경우 캐시할 콘텐츠를 결정하는 데 사용됩니다."
+
+#: templates/cache/page-cache-preload.php:7 templates/minify/preload-tab.php:18
+#: wp-optimize.php:767
+msgid "Run now"
+msgstr "지금 실행"
+
+#: templates/cache/page-cache-preload.php:3 templates/minify/preload-tab.php:12
+msgid "Preload now"
+msgstr "지금 사전 로드"
+
+#: templates/cache/gzip-compression.php:7
+msgid "This option improves the performance of your website and decreases its loading time. When a visitor makes a request, the server compresses the requested resource before sending it leading to smaller file sizes and faster loading."
+msgstr "이 옵션은 웹 사이트의 성능을 향상시키고 로딩 시간을 줄입니다. 방문자가 요청하면 서버는 요청된 리소스를 압축하여 파일 크기를 줄이고 로딩 속도를 높입니다."
+
+#: templates/cache/browser-cache.php:51
+msgid "Empty or 0 values disable the headers."
+msgstr "비어 있거나 0 값은 헤더를 비활성화합니다."
+
+#: templates/admin-metabox-smush.php:92
+msgid "WP-Optimize image settings"
+msgstr "WP-옵티마이즈 이미지 설정"
+
+#: templates/admin-metabox-smush.php:8
+msgid "Restore"
+msgstr "복원하다"
+
+#: templates/images/smush.php:84
+msgid "Hide advanced options"
+msgstr "고급 옵션 숨기기"
+
+#: templates/images/smush.php:63
+msgid "Read our article \"Lossy vs Lossless image compression\""
+msgstr "\"손실 대 무손실 이미지 압축\" 기사 읽기"
+
+#: templates/images/smush.php:63
+msgid "Not sure what to choose?"
+msgstr "무엇을 선택해야 할지 모르겠나요?"
+
+#: templates/images/smush.php:39
+msgid "Compression options"
+msgstr "압축 옵션"
+
+#: templates/images/smush.php:34
+msgid "The image compression metabox allows you to compress specific images from the media library. But if you are using a solution other than WP-Optimize to compress your images, you can hide these metaboxes by disabling this switch."
+msgstr "이미지 압축 메타박스를 사용하면 미디어 라이브러리에서 특정 이미지를 압축할 수 있습니다. 그러나 WP-옵티마이즈 이외의 솔루션을 사용하여 이미지를 압축하는 경우 이 스위치를 비활성화하여 이러한 메타박스를 숨길 수 있습니다."
+
+#: templates/images/smush.php:33
+msgid "Show compression meta-box on an image's dashboard media page."
+msgstr "이미지의 대시보드 미디어 페이지에 압축 메타 박스를 표시합니다."
+
+#: templates/images/unused.php:57
+msgid "Take control of WordPress image sizes with WP-Optimize Premium."
+msgstr "WP-옵티마이즈 프리미엄으로 워드프레스 이미지 크기를 제어하십시오."
+
+#: templates/images/unused.php:54
+msgid "Remove selected sizes"
+msgstr "선택한 크기 제거"
+
+#: templates/images/unused.php:40
+msgid "Read more about custom image sizes here."
+msgstr "사용자 지정 이미지 크기에 대한 자세한 내용은 여기를 참조하세요."
+
+#: templates/images/unused.php:39
+msgid "These image sizes were used by some of the themes or plugins installed previously and they remain within your database."
+msgstr "이러한 이미지 크기는 이전에 설치된 일부 테마 또는 플러그인에서 사용되었으며 데이터베이스 내에 남아 있습니다."
+
+#: templates/images/unused.php:37
+msgid "Unused image sizes"
+msgstr "사용하지 않은 이미지 크기"
+
+#: templates/images/unused.php:25
+msgid "This feature is for experienced users. Don't remove registered image sizes if you are not sure that images with selected sizes are not used on your site."
+msgstr "이 기능은 숙련된 사용자를 위한 것입니다. 선택한 크기의 이미지가 사이트에서 사용되지 않는지 확실하지 않은 경우 등록된 이미지 크기를 제거하지 마십시오."
+
+#: templates/images/unused.php:24
+msgid "Registered image sizes"
+msgstr "등록된 이미지 크기"
+
+#: templates/images/unused.php:22
+msgid "Image sizes"
+msgstr "이미지 크기"
+
+#: templates/images/unused.php:16
+msgid "Manage unused images with WP-Optimize Premium."
+msgstr "WP-옵티마이즈 프리미엄으로 사용하지 않는 이미지를 관리하세요."
+
+#: templates/images/unused.php:4
+msgid "Unused images"
+msgstr "미사용 이미지"
+
+#: templates/images/lazyload.php:33
+msgid "Enable Lazy-loading with WP-Optimize Premium."
+msgstr "WP-옵티마이즈 프리미엄으로 지연 로딩을 활성화하십시오."
+
+#: templates/images/lazyload.php:29
+msgid "Enter the image class or classes comma-separated. Supports wildcards. Example: image-class1, image-class2, thumbnail*, ..."
+msgstr "이미지 클래스를 쉼표로 구분하여 입력하십시오. 와일드카드를 지원합니다. 예: 이미지 클래스1, 이미지 클래스2, 썸네일*, ..."
+
+#: templates/images/lazyload.php:27
+msgid "Skip image classes"
+msgstr "이미지 클래스 건너뛰기"
+
+#: templates/images/lazyload.php:23
+msgid "Iframes and Videos"
+msgstr "Iframe 및 비디오"
+
+#: templates/images/lazyload.php:19
+msgid "Follow this link to read more about lazy-loading images and video"
+msgstr "지연 로딩 이미지 및 비디오에 대한 자세한 내용을 보려면 이 링크를 따르십시오."
+
+#: templates/images/lazyload.php:17
+msgid "Lazy-loading is technique that defers loading of non-critical resources (images, video) at page load time. Instead, these non-critical resources are loaded at the point they are needed (e.g. the user scrolls down to them)."
+msgstr "레이지 로딩은 페이지 로딩 시간에 중요하지 않은 리소스(이미지, 비디오) 로딩을 지연시키는 기술입니다. 대신 이러한 중요하지 않은 리소스는 필요한 시점에 로드됩니다(예: 사용자가 아래로 스크롤)."
+
+#: templates/images/lazyload.php:14
+msgid "Lazy-load images"
+msgstr "지연 로드 이미지"
+
+#: includes/class-updraft-smush-manager-commands.php:176
+msgid "%d image(s) could not be compressed. Please see the logs for more information, or try again later."
+msgstr "%d개의 이미지를 압축할 수 없습니다. 자세한 내용은 로그를 참조하거나 나중에 다시 시도하십시오."
+
+#: includes/class-updraft-smush-manager-commands.php:186
+msgid "A total of %d image(s) were successfully compressed in this iteration. "
+msgstr "이 반복에서 총 %d개의 이미지가 성공적으로 압축되었습니다. "
+
+#: includes/class-updraft-smush-manager-commands.php:175
+msgid "Since your compression statistics were last reset, a total of %d image(s) were compressed on this site, saving approximately %s of space at an average of %02d percent per image."
+msgstr "압축 통계가 마지막으로 재설정된 이후 이 사이트에서 총 %d개의 이미지가 압축되어 이미지당 평균 %02d 퍼센트씩 약 %s의 공간을 절약했습니다."
+
+#: includes/class-updraft-smush-manager.php:744
+msgid "View Image"
+msgstr "이미지 보기"
+
+#: includes/class-updraft-smush-manager.php:741
+msgid "Please select the images you want compressed from the \"Uncompressed images\" panel first"
+msgstr "먼저 \"압축되지 않은 이미지\" 패널에서 압축할 이미지를 선택하세요."
+
+#: includes/class-updraft-smush-manager.php:740
+msgid "There was an error connecting to the image compression server. This could mean either the server is temporarily unavailable or there are connectivity issues with your internet connection. Please try later."
+msgstr "이미지 압축 서버에 연결하는 동안 오류가 발생했습니다. 이는 서버를 일시적으로 사용할 수 없거나 인터넷 연결에 연결 문제가 있음을 의미할 수 있습니다. 나중에 다시 시도 해주세요."
+
+#: includes/class-updraft-smush-manager.php:739
+msgid "Please wait while the request is being processed"
+msgstr "요청을 처리하는 동안 잠시 기다려 주십시오."
+
+#: includes/class-updraft-smush-manager.php:735
+msgid "An unexpected response was received from the server. More information has been logged in the browser console."
+msgstr "서버에서 예기치 않은 응답을 받았습니다. 자세한 정보는 브라우저 콘솔에 기록되었습니다."
+
+#: templates/images/smush.php:217
+msgid "Download log file"
+msgstr "로그 파일 다운로드"
+
+#: templates/images/smush.php:208
+msgid "Clear compression statistics"
+msgstr "명확한 압축 통계"
+
+#: templates/images/smush.php:189
+msgid "Time elapsed"
+msgstr "경과 시간"
+
+#: templates/images/smush.php:185
+msgid "Average savings per image"
+msgstr "이미지당 평균 저장 공간 감소량"
+
+#: templates/images/smush.php:181
+msgid "Size savings"
+msgstr "크기 절약"
+
+#: templates/images/smush.php:177
+msgid "Images completed"
+msgstr "완성된 이미지"
+
+#: templates/images/smush.php:173
+msgid "Images pending"
+msgstr "보류 중인 이미지"
+
+#: templates/images/smush.php:169
+msgid "The selected images are being processed; please do not close the browser"
+msgstr "선택한 이미지를 처리 ​​중입니다. 브라우저를 닫지 마세요"
+
+#: templates/images/smush.php:164
+msgid "Compressing images"
+msgstr "이미지 압축"
+
+#: templates/images/smush.php:157 templates/images/smush.php:207
+msgid "View logs"
+msgstr "로그 보기"
+
+#: templates/images/smush.php:155
+msgid "Compress the selected images"
+msgstr "선택한 이미지 압축"
+
+#: templates/images/smush.php:147
+msgid "Refresh image list"
+msgstr "이미지 목록 새로 고침"
+
+#: templates/images/smush.php:144
+msgid "Select none"
+msgstr "선택하지 않음"
+
+#: templates/images/smush.php:143
+msgid "Select all"
+msgstr "모두 선택"
+
+#: templates/images/smush.php:130
+msgid "Uncompressed images"
+msgstr "압축되지 않은 이미지"
+
+#: templates/images/smush.php:104
+msgid "Preserve EXIF data"
+msgstr "EXIF 데이터 보존"
+
+#: templates/images/smush.php:108
+msgid "The original images are stored alongside the compressed images, you can visit the edit screen of the individual images in the Media Library to restore them."
+msgstr "원본 이미지는 압축된 이미지와 함께 저장되며 미디어 라이브러리에서 개별 이미지의 편집 화면을 방문하여 복원할 수 있습니다."
+
+#: templates/images/smush.php:107
+msgid "Backup original images"
+msgstr "원본 이미지 백업"
+
+#: templates/images/smush.php:96
+msgid "Service provided by reSmush.it"
+msgstr "ReSmush.it에서 제공하는 서비스"
+
+#: templates/images/smush.php:95
+msgid "Can keep EXIF data"
+msgstr "EXIF 데이터 보관 가능"
+
+#: templates/images/smush.php:91
+msgid "Compression service"
+msgstr "압축 서비스"
+
+#: templates/images/smush.php:125
+msgid "Failed to save options"
+msgstr "옵션을 저장하지 못했습니다."
+
+#: templates/images/smush.php:124
+msgid "Saved options"
+msgstr "저장된 옵션"
+
+#: templates/images/smush.php:122
+msgid "Save options"
+msgstr "저장 옵션"
+
+#: templates/images/smush.php:42
+msgid "Uses lossy compression to ensure maximum savings per image. The resulting images are of a slightly lower quality"
+msgstr "손실 압축을 사용하여 이미지당 최대 절약을 보장합니다. 결과 이미지의 품질이 약간 떨어집니다."
+
+#: templates/images/smush.php:22
+msgid "Automatically compress newly-added images"
+msgstr "새로 추가된 이미지 자동 압축"
+
+#: templates/admin-metabox-smush.php:98 templates/cache/page-cache.php:11
+#: templates/images/smush.php:4 templates/images/smush.php:212
+#: templates/images/smush.php:218 templates/images/smush.php:223
+#: templates/minify/status-tab.php:5 templates/modal.php:4
+msgid "Close"
+msgstr "닫기"
+
+#: includes/class-updraft-smush-manager.php:138
+#: templates/admin-metabox-smush.php:68
+msgid "Compress"
+msgstr "압축"
+
+#: templates/admin-metabox-smush.php:58
+msgid "Keep EXIF data"
+msgstr "EXIF 데이터 유지"
+
+#: templates/admin-metabox-smush.php:54
+msgid "Backup original"
+msgstr "원본 백업"
+
+#: templates/admin-metabox-smush.php:50
+msgid "Other options"
+msgstr "다른 옵션"
+
+#: templates/admin-metabox-smush.php:47 templates/images/smush.php:94
+msgid "reSmush.it"
+msgstr "reSmush.it"
+
+#: templates/admin-metabox-smush.php:43
+msgid "Service provider"
+msgstr "서비스 제공자"
+
+#: templates/admin-metabox-smush.php:41 templates/images/smush.php:84
+msgid "Show advanced options"
+msgstr "고급 옵션 표시"
+
+#: templates/admin-metabox-smush.php:38 templates/images/smush.php:61
+msgid "Best image quality"
+msgstr "최고의 이미지 품질"
+
+#: templates/admin-metabox-smush.php:29 templates/images/smush.php:52
+msgid "Maximum compression"
+msgstr "최대 압축"
+
+#: templates/admin-metabox-smush.php:26 templates/images/smush.php:49
+msgid "Custom"
+msgstr "사용자화"
+
+#: templates/admin-metabox-smush.php:22
+msgid "Uses lossless compression, which results in much better image quality but lower filesize savings per image"
+msgstr "무손실 압축을 사용하므로 이미지 품질은 훨씬 향상되지만 이미지당 파일 크기가 줄어듭니다."
+
+#: templates/admin-metabox-smush.php:21 templates/images/smush.php:45
+msgid "Prioritize retention of detail"
+msgstr "세부 정보 보존 우선 순위 지정"
+
+#: templates/admin-metabox-smush.php:17
+msgid "Potentially uses lossy compression to ensure maximum savings per image, the resulting images are of a slightly lower quality"
+msgstr "이미지당 최대 절약을 위해 손실 압축을 사용할 수 있으며, 결과 이미지의 품질이 약간 떨어질 수 있습니다."
+
+#: templates/admin-metabox-smush.php:16 templates/images/smush.php:41
+msgid "Prioritize maximum compression"
+msgstr "최대 압축 우선 순위 지정"
+
+#: templates/admin-metabox-smush.php:6
+msgid "Restore original"
+msgstr "원본 복원"
+
+#: includes/class-wp-optimize-admin.php:621
+#: includes/class-wp-optimize-admin.php:622 templates/images/lazyload.php:22
+msgid "Images"
+msgstr "이미지"
+
+#: includes/class-wp-optimize-admin.php:47
+msgid "Compress images"
+msgstr "이미지 압축"
+
+#: optimizations/orphandata.php:17
+msgid "%s orphaned relationship data deleted"
+msgid_plural "%s orphaned relationship data deleted"
+msgstr[0] "%s 분리된 관계 데이터가 삭제되었습니다."
+
+#: templates/settings/may-also-like.php:159
+msgid "Preview, select and remove data and records available for optimization from the database"
+msgstr "데이터베이스에서 최적화에 사용할 수 있는 데이터 및 레코드 미리보기, 선택 및 제거"
+
+#: templates/settings/may-also-like.php:157
+#: templates/settings/may-also-like.php:158
+msgid "Optimization Preview"
+msgstr "최적화 미리보기"
+
+#: templates/settings/may-also-like.php:146
+msgid "Make your site run faster by only loading parts of a web-page when it is visible to the user"
+msgstr "사용자에게 표시될 때 웹 페이지의 일부만 로드하여 사이트 실행 속도를 높이십시오."
+
+#: templates/settings/may-also-like.php:144
+#: templates/settings/may-also-like.php:145
+msgid "Lazy Loading"
+msgstr "지연 로딩"
+
+#: wp-optimize.php:761
+msgid "%s was not repaired. For more details, please check the logs (configured in your logging destinations settings)."
+msgstr "%s이(가) 복구되지 않았습니다. 자세한 내용은 로그를 확인하십시오(로깅 대상 설정에서 구성됨)."
+
+#: templates/cache/browser-cache.php:55
+msgid "Follow this link to read the article about how to enable browser cache with your server software."
+msgstr "서버 소프트웨어에서 브라우저 캐시를 활성화하는 방법에 대한 문서를 읽으려면 이 링크를 따르십시오."
+
+#: templates/cache/browser-cache.php:47
+msgid "hour(s)"
+msgstr "시간"
+
+#: templates/cache/browser-cache.php:45
+msgid "day(s)"
+msgstr "일"
+
+#: templates/cache/browser-cache.php:43
+msgid "Expiration time:"
+msgstr "만료 시간:"
+
+#: templates/cache/browser-cache.php:20
+msgid "disabled"
+msgstr "허용하지 않음"
+
+#: templates/cache/browser-cache.php:19 templates/cache/browser-cache.php:20
+msgid "Browser static file caching headers are currently %s."
+msgstr "브라우저 정적 파일 캐싱 헤더는 현재 %s입니다."
+
+#: templates/cache/browser-cache.php:7
+msgid "Follow this link to get more information."
+msgstr "자세한 정보를 얻으려면 이 링크를 따르십시오."
+
+#: templates/cache/browser-cache.php:7
+msgid "Browser static file caching uses HTTP response headers to advise a visitor's browser to cache non-changing files for a while, so that it doesn't attempt to retrieve them upon every visit."
+msgstr "브라우저 정적 파일 캐싱은 HTTP 응답 헤더를 사용하여 방문자의 브라우저가 방문할 때마다 파일을 검색하지 않도록 잠시 동안 변경되지 않는 파일을 캐시하도록 조언합니다."
+
+#: templates/cache/gzip-compression.php:58
+msgid "Follow this link to read the article about how to enable Gzip compression with your server software."
+msgstr "서버 소프트웨어로 Gzip 압축을 활성화하는 방법에 대한 기사를 읽으려면 이 링크를 따르십시오."
+
+#: templates/cache/gzip-compression.php:35
+msgid "Gzip compression is currently DISABLED."
+msgstr "Gzip 압축은 현재 비활성화되어 있습니다."
+
+#: templates/cache/gzip-compression.php:34
+msgid "Gzip compression is currently ENABLED."
+msgstr "Gzip 압축이 현재 활성화되었습니다."
+
+#: templates/cache/gzip-compression.php:8
+msgid "Follow this link to get more information about Gzip compression."
+msgstr "Gzip 압축에 대한 자세한 정보를 보려면 이 링크를 따르십시오."
+
+#: templates/admin-page-header-tabs.php:8 templates/pages-menu.php:5
+msgid "Menu"
+msgstr "메뉴"
+
+#: templates/cache/browser-cache.php:19
+#: templates/database/status-box-contents.php:57
+msgid "enabled"
+msgstr "가능"
+
+#: templates/database/status-box-contents.php:56
+msgid "Scheduled cleaning"
+msgstr "정기 청소"
+
+#: templates/settings/support-and-faqs.php:7
+msgid "Read our FAQ here"
+msgstr "여기에서 FAQ 읽기"
+
+#: templates/database/tables-body.php:54
+msgid "inactive"
+msgstr "비활성"
+
+#: templates/database/tables-body.php:52
+msgid "not installed"
+msgstr "설치되지 않음"
+
+#: templates/database/tables-body.php:34
+msgid "Belongs to:"
+msgstr "소속:"
+
+#: templates/database/tables.php:22
+msgid "Take a backup with UpdraftPlus before any actions upon tables (recommended)."
+msgstr "테이블에 대한 조치를 취하기 전에 UpdraftPlus로 백업을 수행하십시오(권장)."
+
+#: templates/admin-page-header.php:18 templates/pages-menu.php:37
+msgid "Team lead"
+msgstr "팀장"
+
+#: templates/admin-page-header.php:5 templates/pages-menu.php:24
+msgid "Useful links"
+msgstr "유용한 링크"
+
+#: includes/class-wp-optimize-admin.php:630
+#: includes/class-wp-optimize-admin.php:631
+msgid "Cache"
+msgstr "캐시"
+
+#: includes/class-wp-optimize-admin.php:663
+msgid "Help"
+msgstr "돕기"
+
+#: includes/class-wp-optimize-admin.php:662
+msgid "Support & FAQs"
+msgstr "지원 및 FAQ"
+
+#: includes/class-wp-optimize-admin.php:612
+#: includes/class-wp-optimize-admin.php:613
+msgid "Database"
+msgstr "데이터베이스"
+
+#: wp-optimize.php:876
+msgid "Remove"
+msgstr "제거하다"
+
+#: templates/cache/browser-cache.php:39 wp-optimize.php:766
+msgid "Update"
+msgstr "업데이트"
+
+#: wp-optimize.php:765
+msgid "Please use valid values."
+msgstr "유효한 값을 사용하십시오."
+
+#: wp-optimize.php:764
+msgid "Please use positive integers."
+msgstr "양의 정수를 사용하십시오."
+
+#: includes/class-wp-optimize-admin.php:72
+msgid "Support / FAQs"
+msgstr "지원 / FAQ"
+
+#: includes/class-wp-optimize-admin.php:55 templates/cache/page-cache.php:6
+msgid "Gzip compression"
+msgstr "Gzip 압축"
+
+#: includes/class-wp-optimize-admin.php:43
+msgid "Tables"
+msgstr "테이블"
+
+#: optimizations/orphanedtables.php:194
+msgid "Delete orphaned database tables"
+msgstr "분리된 데이터베이스 테이블 삭제"
+
+#: optimizations/orphanedtables.php:81
+msgid "Deleting %s orphaned table was unsuccessful"
+msgid_plural "Repairing %s orphaned tables were unsuccessful"
+msgstr[0] "%s 분리된 테이블을 삭제하지 못했습니다."
+
+#: optimizations/orphanedtables.php:78
+msgid "%s orphaned table deleted"
+msgid_plural "%s orphaned tables deleted"
+msgstr[0] "%s 분리된 테이블이 삭제되었습니다."
+
+#: includes/class-wp-optimize-gzip-compression.php:96
+#: includes/class-wp-optimize-gzip-compression.php:100
+msgid "We can't definitely determine Gzip status as API doesn't return correct answer."
+msgstr "API가 정답을 반환하지 않으므로 Gzip 상태를 확실히 확인할 수 없습니다."
+
+#: includes/class-wp-optimize-database-information.php:445
+#: includes/class-wp-optimize-database-information.php:523
+#: includes/class-wp-optimizer.php:402 templates/database/tables-body.php:35
+msgid "WordPress core"
+msgstr "워드프레스 코어"
+
+#: includes/class-wp-optimize-browser-cache.php:195
+#: includes/class-wp-optimize-gzip-compression.php:221
+msgid "We can't update your %s file. Please try to remove following lines manually:"
+msgstr "%s 파일을 업데이트할 수 없습니다. 다음 줄을 수동으로 제거해 보십시오."
+
+#: includes/class-wp-optimize-browser-cache.php:190
+#: includes/class-wp-optimize-gzip-compression.php:223
+msgid "We can't update your %s file. Please try to add following lines manually:"
+msgstr "%s 파일을 업데이트할 수 없습니다. 다음 줄을 수동으로 추가해 보십시오."
+
+#: includes/class-wp-optimize-browser-cache.php:183
+msgid "We successfully updated your .htaccess file."
+msgstr ".htaccess 파일을 성공적으로 업데이트했습니다."
+
+#: includes/class-wp-optimize-browser-cache.php:140
+msgid "Browser static caching settings already exists in the .htaccess file"
+msgstr "브라우저 정적 캐싱 설정이 이미 .htaccess 파일에 있습니다."
+
+#: includes/class-wp-optimize-browser-cache.php:70
+msgid "We successfully updated your .htaccess file. But it seems one of Apache modules - mod_expires or mod_headers is not active."
+msgstr ".htaccess 파일을 성공적으로 업데이트했습니다. 그러나 아파치 모듈 중 하나 인 것 같습니다. mod_expires 또는 mod_headers가 활성화되지 않았습니다."
+
+#: includes/class-wp-optimize-admin.php:712
+msgid "You have no permissions to manage WP-Optimize settings."
+msgstr "WP-옵티마이즈 설정을 관리할 권한이 없습니다."
+
+#: includes/class-wp-optimize-admin.php:703
+msgid "You have no permissions to run optimizations."
+msgstr "최적화를 실행할 권한이 없습니다."
+
+#: templates/take-a-backup.php:91
+msgid "UpdraftPlus is installed but currently not active. Follow this link to activate UpdraftPlus, to take a backup before optimization."
+msgstr "UpdraftPlus가 설치되었지만 현재 활성화되어 있지 않습니다. 이 링크를 따라 UpdraftPlus를 활성화하고 최적화 전에 백업을 수행하십시오."
+
+#: templates/database/status-box-contents.php:124
+msgid "Repair corrupted tables here."
+msgstr "여기에서 손상된 테이블을 복구하십시오."
+
+#: templates/database/status-box-contents.php:123
+msgid "Your database has %s corrupted table."
+msgid_plural "Your database has %s corrupted tables."
+msgstr[0] "데이터베이스에 %s 손상된 테이블이 있습니다."
+
+#: optimizations/transient.php:416
+msgid "Remove all transient options (not only expired)"
+msgstr "모든 임시 옵션 제거(만료된 것 뿐만 아니라)"
+
+#: optimizations/transient.php:404
+msgid "%1$d of %2$d network-wide transient option found"
+msgid_plural "%1$d of %2$d network-wide transient options found"
+msgstr[0] "%2$d개 중 %1$d개 네트워크 전체 임시 옵션을 찾았습니다."
+
+#: optimizations/transient.php:392
+msgid "across %d site"
+msgid_plural "across %d sites"
+msgstr[0] "%d 사이트 전체"
+
+#: optimizations/transient.php:386
+msgid "%1$d of %2$d transient option expired"
+msgid_plural "%1$d of %2$d transient options expired"
+msgstr[0] "%2$d 임시 옵션 중 %1$d 만료됨"
+
+#: optimizations/transient.php:144 optimizations/transient.php:150
+msgid "Value"
+msgstr "값"
+
+#: optimizations/transient.php:143 optimizations/transient.php:149
+msgid "Name"
+msgstr "이름"
+
+#: optimizations/spam.php:93
+msgid "No spam or trashed comments found"
+msgstr "스팸 또는 휴지통 댓글이 없습니다."
+
+#: optimizations/postmeta.php:46
+msgid "Post ID"
+msgstr "게시물 ID"
+
+#: optimizations/pingbacks.php:53 optimizations/spam.php:87
+#: optimizations/trackbacks.php:54 optimizations/unapproved.php:83
+msgid "Comment"
+msgstr "댓글"
+
+#: optimizations/pingbacks.php:52 optimizations/spam.php:86
+#: optimizations/trackbacks.php:53 optimizations/unapproved.php:82
+msgid "Author"
+msgstr "작성자"
+
+#: optimizations/commentmeta.php:77 optimizations/postmeta.php:48
+#: optimizations/usermeta.php:48
+msgid "Meta Value"
+msgstr "메타 값"
+
+#: optimizations/commentmeta.php:76 optimizations/postmeta.php:47
+#: optimizations/usermeta.php:47
+msgid "Meta Key"
+msgstr "메타 키"
+
+#: optimizations/commentmeta.php:75
+msgid "Comment ID"
+msgstr "댓글 ID"
+
+#: optimizations/autodraft.php:68 optimizations/revisions.php:64
+#: optimizations/trash.php:83 optimizations/unapproved.php:85
+msgid "Date"
+msgstr "날짜"
+
+#: optimizations/autodraft.php:67 optimizations/revisions.php:63
+#: optimizations/trash.php:82
+msgid "Title"
+msgstr "제목"
+
+#: optimizations/autodraft.php:66 optimizations/commentmeta.php:74
+#: optimizations/pingbacks.php:51 optimizations/postmeta.php:45
+#: optimizations/revisions.php:62 optimizations/spam.php:85
+#: optimizations/trackbacks.php:52 optimizations/transient.php:142
+#: optimizations/transient.php:148 optimizations/trash.php:81
+#: optimizations/unapproved.php:81 optimizations/usermeta.php:45
+msgid "ID"
+msgstr "ID"
+
+#: optimizations/autodraft.php:54 optimizations/commentmeta.php:51
+#: optimizations/pingbacks.php:37 optimizations/revisions.php:50
+#: optimizations/trackbacks.php:38 optimizations/trash.php:62
+#: optimizations/unapproved.php:59
+msgid "no title"
+msgstr "제목 없음"
+
+#: includes/class-wp-optimization.php:470
+msgid "Preview found items"
+msgstr "찾은 항목 미리보기"
+
+#: includes/class-updraft-smush-task.php:363
+msgid "Successful"
+msgstr "성공적인"
+
+#: includes/class-updraft-smush-task.php:362
+msgid "Saving optimized image"
+msgstr "최적화된 이미지 저장"
+
+#: includes/class-updraft-smush-task.php:361
+msgid "Backing up original image"
+msgstr "원본 이미지 백업"
+
+#: includes/class-updraft-smush-task.php:360
+msgid "Processing response"
+msgstr "처리 응답"
+
+#: includes/class-updraft-smush-task.php:359
+msgid "Connecting to API server"
+msgstr "API 서버에 연결"
+
+#: includes/class-updraft-smush-task.php:332
+msgid "Failed with error code %s - %s"
+msgstr "실패 코드 %s - %s"
+
+#: includes/class-updraft-smush-task.php:293
+msgid "The file was compressed from %s to %s saving %s percent using WP-Optimize"
+msgstr "파일이 %s에서 %s로 압축되어 WP-옵티마이즈를 사용하여 %s 퍼센트를 절약했습니다."
+
+#: includes/class-updraft-smush-manager.php:768
+msgid "Compress Image"
+msgstr "이미지 압축"
+
+#: includes/class-updraft-smush-manager.php:738
+msgid "Connecting to the Smush API server, please wait"
+msgstr "Smush API 서버에 연결 중입니다. 잠시만 기다려 주세요."
+
+#: includes/class-updraft-smush-manager.php:737
+msgid "Please try again later."
+msgstr "나중에 다시 시도 해주십시오."
+
+#: includes/class-updraft-smush-manager.php:736
+msgid "Please wait: compressing the selected image."
+msgstr "잠시만 기다려 주십시오: 선택한 이미지를 압축하는 중입니다."
+
+#: includes/class-updraft-smush-manager-commands.php:440
+msgid "Log file does not exist or could not be read"
+msgstr "로그 파일이 없거나 읽을 수 없습니다."
+
+#: includes/class-updraft-smush-manager-commands.php:297
+msgid "Pending tasks cleared successfully"
+msgstr "보류 중인 작업이 성공적으로 지워졌습니다."
+
+#: includes/class-updraft-smush-manager-commands.php:292
+msgid "Pending tasks could not be cleared"
+msgstr "대기 중인 작업을 지울 수 없습니다."
+
+#: includes/class-updraft-smush-manager-commands.php:252
+msgid "Stats cleared successfully"
+msgstr "통계가 성공적으로 삭제되었습니다."
+
+#: includes/class-updraft-smush-manager-commands.php:247
+msgid "Stats could not be cleared"
+msgstr "통계를 지울 수 없습니다."
+
+#: includes/class-updraft-smush-manager-commands.php:232
+msgid "Options updated successfully"
+msgstr "옵션이 성공적으로 업데이트되었습니다."
+
+#: includes/class-updraft-smush-manager-commands.php:177
+msgid "%d image(s) images were selected for compressing previously, but were not all processed. You can either complete them now or cancel and retry later."
+msgstr "%d개의 이미지가 이전에 압축을 위해 선택되었지만 모두 처리되지 않았습니다. 지금 완료하거나 취소하고 나중에 다시 시도할 수 있습니다."
+
+#: includes/class-updraft-smush-manager-commands.php:190
+msgid "%d selected image(s) could not be compressed. Please see the logs for more information, you may try again later."
+msgstr "%d개의 선택된 이미지를 압축할 수 없습니다. 자세한 내용은 로그를 참조하십시오. 나중에 다시 시도할 수 있습니다."
+
+#: includes/class-updraft-file-logger.php:32
+msgid "Log events into a log file"
+msgstr "로그 파일에 이벤트 기록"
+
+#: templates/database/status-box-contents.php:30
+msgid "There was no scheduled optimization"
+msgstr "예약된 최적화가 없습니다."
+
+#: templates/database/status-box-contents.php:25
+msgid "Last scheduled optimization was at"
+msgstr "마지막으로 예정된 최적화 시간:"
+
+#: wp-optimize.php:867
+msgid "Repair"
+msgstr "복구"
+
+#: wp-optimize.php:762
+msgid "%s was not deleted. For more details, please check your logs configured in logging destinations settings."
+msgstr "%s이(가) 삭제되지 않았습니다. 자세한 내용은 로깅 대상 설정에서 구성된 로그를 확인하십시오."
+
+#: optimizations/repairtables.php:157
+msgid "Repair database tables"
+msgstr "데이터베이스 테이블 복구"
+
+#: optimizations/orphanedtables.php:184 optimizations/repairtables.php:147
+msgid "%s corrupted table found"
+msgid_plural "%s corrupted tables found"
+msgstr[0] "%s 손상된 테이블 발견"
+
+#: optimizations/orphanedtables.php:182 optimizations/repairtables.php:145
+msgid "No corrupted tables found"
+msgstr "손상된 테이블이 없습니다."
+
+#: optimizations/repairtables.php:75
+msgid "Repairing %s table was unsuccessful"
+msgid_plural "Repairing %s tables were unsuccessful"
+msgstr[0] "%s 테이블을 복구하지 못했습니다."
+
+#: optimizations/repairtables.php:72
+msgid "%s table repaired"
+msgid_plural "%s tables repaired"
+msgstr[0] "%s 테이블 복구됨"
+
+#: wp-optimize.php:760
+msgid "Before saving, you need to complete the currently incomplete settings (or remove them)."
+msgstr "저장하기 전에 현재 불완전한 설정을 완료(또는 제거)해야 합니다."
+
+#: wp-optimize.php:759
+msgid "Are you sure you want to remove this logging destination?"
+msgstr "이 로깅 대상을 제거하시겠습니까?"
+
+#: templates/settings/settings-logging.php:43
+msgid "Inactive"
+msgstr "비활성"
+
+#: templates/settings/settings-logging.php:23
+msgid "Options"
+msgstr "옵션"
+
+#: templates/settings/settings-logging.php:22
+msgid "Destination"
+msgstr "목적지"
+
+#: templates/settings/settings-logging.php:11
+msgid "Remember to save your settings so that your changes take effect."
+msgstr "변경 사항이 적용되도록 설정을 저장하는 것을 잊지 마십시오."
+
+#: templates/settings/settings-logging.php:7
+msgid "Add logging destination"
+msgstr "로깅 대상 추가"
+
+#: templates/database/settings-auto-cleanup.php:6
+msgid "Take control of clean-ups: Upgrade to Premium for a more powerful and flexible scheduler"
+msgstr "정리 관리: 더욱 강력하고 유연한 스케줄러를 위해 프리미엄으로 업그레이드"
+
+#: optimizations/usermeta.php:62
+msgid "%s orphaned user meta data deleted"
+msgid_plural "%s orphaned user meta data deleted"
+msgstr[0] "%s 분리된 사용자 메타 데이터가 삭제되었습니다."
+
+#: optimizations/optimizetables.php:167
+msgid "Other tables will be optimized (%s)."
+msgstr "다른 테이블이 최적화됩니다(%s)."
+
+#: optimizations/autodraft.php:164
+msgid "Clean auto draft posts which are older than %s weeks"
+msgstr "%s주보다 오래된 자동 초안 게시물 정리"
+
+#: includes/class-updraft-ring-logger.php:34
+msgid "How many last records store?"
+msgstr "마지막 레코드 저장소는 몇 개입니까?"
+
+#: includes/class-updraft-email-logger.php:37
+msgid "Enter email for logs here"
+msgstr "여기에 로그용 이메일을 입력하세요."
+
+#. Plugin URI of the plugin
+msgid "https://getwpo.com"
+msgstr "https://getwpo.com"
+
+#: includes/class-wpo-activation.php:38
+msgid "go back"
+msgstr "뒤로가기"
+
+#: includes/class-wpo-activation.php:37
+msgid "Only Network Administrator can activate WP-Optimize plugin."
+msgstr "네트워크 관리자만 WP-옵티마이즈 플러그인을 활성화할 수 있습니다."
+
+#: wp-optimize.php:1026
+msgid "Read this page for a guide to possible causes and how to fix it."
+msgstr "가능한 원인과 해결 방법에 대한 가이드는 이 페이지를 읽으십시오."
+
+#: wp-optimize.php:1026
+msgid "WordPress has a number (%d) of scheduled tasks which are overdue. Unless this is a development site, this probably means that the scheduler in your WordPress install is not working."
+msgstr "워드프레스에는 기한이 지난 예약된 작업이 몇 개(%d) 있습니다. 개발 사이트가 아닌 이상 워드프레스 설치의 스케줄러가 작동하지 않는다는 의미일 수 있습니다."
+
+#: wp-optimize.php:1026
+msgid "Warning"
+msgstr "경고"
+
+#: wp-optimize.php:758
+msgid "Please, select settings file."
+msgstr "설정 파일을 선택하십시오."
+
+#: templates/admin-metabox-smush.php:103
+#: templates/cache/page-cache-preload.php:7
+#: templates/database/tables-list-after.php:58 templates/images/smush.php:195
+#: templates/images/smush.php:228 templates/minify/preload-tab.php:18
+#: templates/settings/settings-logging.php:51 wp-optimize.php:754
+msgid "Cancel"
+msgstr "취소"
+
+#: wp-optimize.php:751
+msgid "Run optimizations"
+msgstr "최적화 실행"
+
+#: wp-optimize.php:746
+msgid "Automatic backup before optimizations"
+msgstr "최적화 전 자동 백업"
+
+#: includes/class-wp-optimize-admin.php:73
+msgid "Premium / Plugin family"
+msgstr "프리미엄 / 플러그인 제품군"
+
+#: wp-optimize.php:667
+msgid "New feature: WP-Optimize Premium can now optimize all sites within a multisite install, not just the main one."
+msgstr "새로운 기능: WP-옵티마이즈 프리미엄은 이제 기본 사이트뿐만 아니라 다중 사이트 설치 내의 모든 사이트를 최적화할 수 있습니다."
+
+#: wp-optimize.php:657
+msgid "WP-Optimize (Free) has been de-activated, because WP-Optimize Premium is active."
+msgstr "WP-옵티마이즈 프리미엄이 활성화되어 있으므로 WP-옵티마이즈(무료)가 비활성화되었습니다."
+
+#: templates/database/tables.php:65
+msgid "Tables not found."
+msgstr "테이블을 찾을 수 없습니다."
+
+#: templates/database/tables.php:24
+msgid "Search for table"
+msgstr "테이블 검색"
+
+#: templates/notices/thanks-for-using-main-dash.php:26
+msgid "%s is a highly efficient way to manage, optimize, update and backup multiple websites from one place."
+msgstr "%s는 한 곳에서 여러 웹사이트를 관리, 최적화, 업데이트 및 백업하는 매우 효율적인 방법입니다."
+
+#: templates/notices/thanks-for-using-main-dash.php:22
+msgid "%s simplifies backups and restoration. It is the world's highest ranking and most popular scheduled backup plugin, with over three million currently-active installs."
+msgstr "%s는 백업 및 복원을 단순화합니다. 현재 300만 개가 넘는 설치가 이루어진 세계 최고 순위이자 가장 인기 있는 예약 백업 플러그인입니다."
+
+#: templates/notices/thanks-for-using-main-dash.php:18
+msgid "WP-Optimize Premium:"
+msgstr "WP-옵티마이즈 프리미엄:"
+
+#: templates/notices/thanks-for-using-main-dash.php:18
+msgid "%s offers powerful extra features and flexibility, and WordPress multisite support."
+msgstr "%s는 강력한 추가 기능과 유연성, 워드프레스 다중 사이트 지원을 제공합니다."
+
+#: templates/notices/thanks-for-using-main-dash.php:14
+msgid "Super-charge and secure your WordPress site even more with our other top plugins:"
+msgstr "다른 최고의 플러그인을 사용하여 워드프레스 사이트를 더욱 강화하고 보호하십시오."
+
+#: templates/notices/install-or-update-notice.php:6
+#: templates/notices/thanks-for-using-main-dash.php:7
+msgid "Thank you for installing WP-Optimize!"
+msgstr "WP-옵티마이즈를 설치해 주셔서 감사합니다!"
+
+#: templates/notices/horizontal-notice.php:71
+#: templates/notices/horizontal-notice.php:73
+msgid "Find out more."
+msgstr "더 찾아 봐."
+
+#: templates/settings/may-also-like.php:329
+msgid "With a wide range of useful features, including automated backup schedules and sophisticated one click updates, UpdraftCentral is sure to boost to your productivity and save you time."
+msgstr "자동화된 백업 일정 및 정교한 원클릭 업데이트를 포함한 다양한 유용한 기능을 통해 UpdraftCentral은 생산성을 높이고 시간을 절약할 수 있습니다."
+
+#: templates/settings/may-also-like.php:326
+msgid "UpdraftCentral is a powerful tool that allows you to efficiently manage, update, backup and even restore multiple websites from just one location. You can also manage users and comments on all the sites at once, and through its central login feature, you can access each WP-dashboard with a single click."
+msgstr "UpdraftCentral은 단 한 곳에서 여러 웹사이트를 효율적으로 관리, 업데이트, 백업 및 복원할 수 있는 강력한 도구입니다. 또한 모든 사이트의 사용자 및 댓글을 한 번에 관리할 수 있으며 중앙 로그인 기능을 통해 클릭 한 번으로 각 WP 대시보드에 액세스할 수 있습니다."
+
+#: templates/settings/may-also-like.php:323
+msgid "If you manage a few WordPress sites, you need UpdraftCentral."
+msgstr "몇 개의 워드프레스 사이트를 관리하는 경우 UpdraftCentral이 필요합니다."
+
+#: templates/settings/may-also-like.php:320
+msgid "UpdraftCentral – save hours managing multiple WP sites from one place"
+msgstr "UpdraftCentral – 한 곳에서 여러 WP 사이트 관리 시간 절약"
+
+#: templates/settings/may-also-like.php:318
+msgid "UpdraftCentral Dashboard\n"
+msgstr "UpdraftCentral 대시보드\n"
+
+#: templates/settings/may-also-like.php:314
+#: templates/settings/may-also-like.php:331
+msgid "Try for free"
+msgstr "무료 체험"
+
+#: templates/settings/may-also-like.php:312
+msgid "With a long-standing reputation for excellence and outstanding reviews, it’s no wonder that UpdraftPlus is the world’s most popular WordPress backup plugin."
+msgstr "우수성과 탁월한 리뷰에 대한 오랜 명성을 가진 UpdraftPlus가 세계에서 가장 인기 있는 워드프레스 백업 플러그인인 것은 놀라운 일이 아닙니다."
+
+#: templates/settings/may-also-like.php:309
+msgid "You can also migrate your website with few clicks without hassle."
+msgstr "번거로움 없이 몇 번의 클릭만으로 웹사이트를 마이그레이션할 수도 있습니다."
+
+#: templates/settings/may-also-like.php:306
+msgid "With UpdraftPlus, you can rest assured that if the worst does happen, it's no big deal. rather than losing everything, you can simply restore the backup and be up and running again in no time at all."
+msgstr "UpdraftPlus를 사용하면 최악의 상황이 발생하더라도 별 문제가 되지 않으므로 안심할 수 있습니다. 모든 것을 잃는 대신 백업을 복원하고 즉시 다시 실행할 수 있습니다."
+
+#: templates/settings/may-also-like.php:303
+msgid "Hacking, server crashes, dodgy updates or simple user error can ruin everything."
+msgstr "해킹, 서버 충돌, 잘못된 업데이트 또는 단순한 사용자 오류로 인해 모든 것이 망가질 수 있습니다."
+
+#: templates/settings/may-also-like.php:300
+msgid "If you’ve got a WordPress website, you need a backup."
+msgstr "워드프레스 웹 사이트가 있는 경우 백업이 필요합니다."
+
+#: templates/settings/may-also-like.php:297
+msgid "UpdraftPlus – the ultimate protection for your site, hard work and business"
+msgstr "UpdraftPlus – 귀하의 사이트, 고된 작업 및 비즈니스를 위한 궁극적인 보호"
+
+#: templates/settings/may-also-like.php:286
+msgid "Our other plugins"
+msgstr "우리의 다른 플러그인"
+
+#: templates/settings/may-also-like.php:263
+msgid "Get your specific queries addressed directly by our experts"
+msgstr "전문가가 직접 특정 질문을 처리합니다."
+
+#: templates/settings/may-also-like.php:261
+#: templates/settings/may-also-like.php:262
+msgid "Premium support"
+msgstr "프리미엄 지원"
+
+#: templates/settings/may-also-like.php:185
+msgid "Choose from a number of advanced options, like the ability to optimize individual DB tables"
+msgstr "개별 DB 테이블을 최적화하는 기능과 같은 다양한 고급 옵션 중에서 선택하십시오."
+
+#: templates/settings/may-also-like.php:183
+#: templates/settings/may-also-like.php:184
+msgid "More choice and flexibility"
+msgstr "더 많은 선택과 유연성"
+
+#: templates/settings/may-also-like.php:172
+msgid "Send log messages to three additional locations: Slack, Syslog and Simple History"
+msgstr "Slack, Syslog 및 단순 기록의 세 가지 추가 위치에 로그 메시지 보내기"
+
+#: templates/settings/may-also-like.php:170
+#: templates/settings/may-also-like.php:171
+msgid "Enhanced logging and reporting"
+msgstr "향상된 로깅 및 보고"
+
+#: templates/settings/may-also-like.php:133
+msgid "Save time managing multiple sites from the WP command line"
+msgstr "WP command line에서 여러 사이트를 관리하는 시간 절약"
+
+#: templates/settings/may-also-like.php:131
+#: templates/settings/may-also-like.php:132
+msgid "Control with WP-CLI"
+msgstr "WP-CLI로 제어"
+
+#: templates/settings/may-also-like.php:120
+msgid "A more advanced scheduling system to make regular routine optimizations whenever you prefer"
+msgstr "원할 때마다 정기적인 루틴 최적화를 수행하는 고급 스케줄링 시스템"
+
+#: templates/settings/may-also-like.php:119
+msgid "Sophisticated scheduling"
+msgstr "정교한 스케줄링"
+
+#: templates/settings/may-also-like.php:107
+msgid "Remove images that have been orphaned or are no longer in use"
+msgstr "분리되었거나 더 이상 사용하지 않는 이미지 제거"
+
+#: templates/settings/may-also-like.php:105
+#: templates/settings/may-also-like.php:106
+msgid "Remove unwanted images"
+msgstr "원치 않는 이미지 제거"
+
+#: templates/settings/may-also-like.php:94
+msgid "Perform optimizations on single tables"
+msgstr "단일 테이블에서 최적화 수행"
+
+#: templates/settings/may-also-like.php:92
+#: templates/settings/may-also-like.php:93
+msgid "Optimize individual tables"
+msgstr "개별 테이블 최적화"
+
+#: templates/settings/may-also-like.php:84
+#: templates/settings/may-also-like.php:97
+#: templates/settings/may-also-like.php:110
+#: templates/settings/may-also-like.php:123
+#: templates/settings/may-also-like.php:136
+#: templates/settings/may-also-like.php:149
+#: templates/settings/may-also-like.php:162
+#: templates/settings/may-also-like.php:175
+#: templates/settings/may-also-like.php:188
+#: templates/settings/may-also-like.php:201
+#: templates/settings/may-also-like.php:214
+#: templates/settings/may-also-like.php:227
+#: templates/settings/may-also-like.php:240
+#: templates/settings/may-also-like.php:253
+#: templates/settings/may-also-like.php:266
+msgid "No"
+msgstr "아니요"
+
+#: templates/settings/may-also-like.php:81
+msgid "Optimize any site (or combination of sites) on your WordPress Multisite or network"
+msgstr "워드프레스 Multisite 또는 네트워크에서 모든 사이트(또는 사이트 조합)를 최적화합니다."
+
+#: templates/settings/may-also-like.php:79
+#: templates/settings/may-also-like.php:80
+#: templates/settings/may-also-like.php:118
+msgid "Multisite support"
+msgstr "다중 사이트 지원"
+
+#: templates/settings/may-also-like.php:45
+#: templates/settings/may-also-like.php:48
+#: templates/settings/may-also-like.php:58
+#: templates/settings/may-also-like.php:61
+#: templates/settings/may-also-like.php:71
+#: templates/settings/may-also-like.php:74
+#: templates/settings/may-also-like.php:87
+#: templates/settings/may-also-like.php:100
+#: templates/settings/may-also-like.php:113
+#: templates/settings/may-also-like.php:126
+#: templates/settings/may-also-like.php:139
+#: templates/settings/may-also-like.php:152
+#: templates/settings/may-also-like.php:165
+#: templates/settings/may-also-like.php:178
+#: templates/settings/may-also-like.php:191
+#: templates/settings/may-also-like.php:204
+#: templates/settings/may-also-like.php:217
+#: templates/settings/may-also-like.php:230
+#: templates/settings/may-also-like.php:243
+#: templates/settings/may-also-like.php:256
+#: templates/settings/may-also-like.php:269
+msgid "Yes"
+msgstr "예"
+
+#: templates/settings/may-also-like.php:35
+#: templates/settings/may-also-like.php:278
+msgid "Upgrade now"
+msgstr "지금 업그레이드"
+
+#: templates/settings/may-also-like.php:32
+#: templates/settings/may-also-like.php:275
+msgid "Installed"
+msgstr "설치됨"
+
+#: templates/settings/may-also-like.php:24
+msgid "WP-Optimize Premium"
+msgstr "WP-옵티마이즈 프리미엄"
+
+#: templates/settings/may-also-like.php:21
+msgid "Free"
+msgstr "무료"
+
+#: templates/settings/may-also-like.php:10
+msgid "Ask a pre-sales question"
+msgstr "사전 판매 질문하기"
+
+#: templates/settings/may-also-like.php:4
+msgid "WP-Optimize free / premium comparison"
+msgstr "WP-옵티마이즈 무료/프리미엄 비교"
+
+#: templates/database/settings-auto-cleanup.php:3
+msgid "Scheduled clean-up settings"
+msgstr "예약된 정리 설정"
+
+#: templates/admin-page-header.php:29 templates/settings/may-also-like.php:26
+#: wp-optimize.php:844
+msgid "Premium"
+msgstr "프리미엄"
+
+#: optimizations/trash.php:220
+msgid "Remove trashed posts"
+msgstr "휴지통 게시물 제거"
+
+#: optimizations/trash.php:210
+msgid "Clean all trashed posts"
+msgstr "휴지통 게시물 모두 정리"
+
+#: optimizations/transient.php:407
+msgid "No site-wide transient options found"
+msgstr "사이트 전체 임시 옵션을 찾을 수 없습니다."
+
+#: optimizations/optimizetables.php:172
+msgid "Warning: you should read the FAQ on the risks of this operation first."
+msgstr "경고: 이 작업의 위험에 대한 FAQ를 먼저 읽어야 합니다."
+
+#: optimizations/optimizetables.php:172
+msgid "Optimize InnoDB tables anyway."
+msgstr "어쨌든 InnoDB 테이블을 최적화하십시오."
+
+#: optimizations/commentmeta.php:168
+msgid "No Akismet comment meta rows in your database"
+msgstr "데이터베이스에 아키스밋 댓글 메타 행이 없습니다."
+
+#: optimizations/commentmeta.php:166
+msgid "%s unused Akismet comment meta rows in your database"
+msgid_plural "%s unused Akismet meta rows in your database"
+msgstr[0] "데이터베이스에서 사용되지 않은 Akismet 주석 메타 행 %s개"
+
+#: optimizations/autodraft.php:177
+msgid "Remove auto-draft posts"
+msgstr "자동 저장 임시글 게시물 제거"
+
+#: optimizations/autodraft.php:166
+msgid "Clean all auto-draft posts"
+msgstr "모든 자동 초안 게시물 정리"
+
+#: optimizations/attachments.php:97 optimizations/attachments.php:107
+msgid "Remove orphaned attachments"
+msgstr "분리된 첨부 파일 제거"
+
+#: optimizations/attachments.php:69
+msgid "No orphaned attachments found"
+msgstr "분리된 첨부 파일이 없습니다."
+
+#: optimizations/attachments.php:67
+msgid "%s orphaned attachment found"
+msgid_plural "%s orphaned attachments found"
+msgstr[0] "분리된 첨부 파일 %s개를 찾았습니다."
+
+#: optimizations/attachments.php:33 optimizations/attachments.php:73
+#: optimizations/autodraft.php:85 optimizations/autodraft.php:130
+#: optimizations/commentmeta.php:103 optimizations/commentmeta.php:172
+#: optimizations/orphandata.php:20 optimizations/orphandata.php:48
+#: optimizations/pingbacks.php:70 optimizations/pingbacks.php:117
+#: optimizations/postmeta.php:65 optimizations/postmeta.php:100
+#: optimizations/revisions.php:81 optimizations/revisions.php:169
+#: optimizations/spam.php:114 optimizations/spam.php:201
+#: optimizations/trackbacks.php:71 optimizations/trackbacks.php:119
+#: optimizations/transient.php:180 optimizations/trash.php:100
+#: optimizations/trash.php:173 optimizations/unapproved.php:102
+#: optimizations/unapproved.php:148 optimizations/usermeta.php:65
+#: optimizations/usermeta.php:100
+msgid "across %s site"
+msgid_plural "across %s sites"
+msgstr[0] "%s 사이트 전체"
+
+#: optimizations/attachments.php:30
+msgid "%s orphaned attachment deleted"
+msgid_plural "%s orphaned attachments deleted"
+msgstr[0] "%s 분리된 첨부 파일이 삭제되었습니다."
+
+#: includes/class-wp-optimize-notices.php:123
+msgid "WP-Optimize Premium comes with a feature to easily remove orphaned images, or images that exceed a certain size from your website."
+msgstr "WP-옵티마이즈 프리미엄에는 고아 이미지 또는 웹사이트에서 특정 크기를 초과하는 이미지를 쉽게 제거하는 기능이 있습니다."
+
+#: includes/class-wp-optimize-notices.php:122
+msgid "Remove unwanted images for better site performance."
+msgstr "더 나은 사이트 성능을 위해 원하지 않는 이미지를 제거하십시오."
+
+#: includes/class-wp-optimize-notices.php:112
+msgid "Upgrade today to combine over a dozen optimization options."
+msgstr "지금 업그레이드하여 12개 이상의 최적화 옵션을 결합하세요."
+
+#: includes/class-wp-optimize-notices.php:111
+msgid "WP-Optimize Premium offers unparalleled choice and flexibility"
+msgstr "WP-옵티마이즈 프리미엄은 비교할 수 없는 선택과 유연성을 제공합니다."
+
+#: includes/class-wp-optimize-notices.php:101
+msgid "WP-Optimize Premium's multisite feature includes a locking system that restricts optimization commands to users with the right permissions."
+msgstr "WP-옵티마이즈 프리미엄의 다중 사이트 기능에는 최적화 명령을 올바른 권한이 있는 사용자로 제한하는 잠금 시스템이 포함되어 있습니다."
+
+#: includes/class-wp-optimize-notices.php:100
+msgid "Manage a multisite installation? Need extra control?"
+msgstr "다중 사이트 설치를 관리하시겠습니까? 추가 제어가 필요하십니까?"
+
+#: includes/class-wp-optimize-notices.php:90
+msgid "WP-Optimize Premium features an advanced scheduling system that allows you to run optimizations at the quietest time of day (or night)."
+msgstr "WP-옵티마이즈 프리미엄은 하루 중 가장 조용한 시간(또는 밤)에 최적화를 실행할 수 있는 고급 스케줄링 시스템을 갖추고 있습니다."
+
+#: includes/class-wp-optimize-notices.php:89
+msgid "Perform optimizations while your visitors sleep"
+msgstr "방문자가 자는 동안 최적화 수행"
+
+#: includes/class-wp-optimize-notices.php:59
+msgid "UpdraftCentral is a highly efficient way to take backup, update and manage multiple WP sites from one location."
+msgstr "UpdraftCentral은 한 위치에서 여러 WP 사이트를 백업, 업데이트 및 관리하는 매우 효율적인 방법입니다."
+
+#: includes/class-wp-optimize-notices.php:58
+msgid "Save Time and Money. Manage multiple WordPress sites from one location."
+msgstr "시간과 비용을 절약하십시오. 한 위치에서 여러 워드프레스 사이트를 관리합니다."
+
+#: templates/settings/settings-logging.php:43
+#: templates/settings/settings-logging.php:90
+msgid "Active"
+msgstr "활성"
+
+#: includes/class-updraft-smush-task.php:358
+msgid "Initialised"
+msgstr "초기화됨"
+
+#: includes/class-updraft-ring-logger.php:24
+msgid "Store the most recent log entries in the WordPress database"
+msgstr "최신 로그 항목을 워드프레스 데이터베이스에 저장"
+
+#: includes/class-updraft-email-logger.php:26
+msgid "Log events to email"
+msgstr "이메일에 이벤트 기록"
+
+#: includes/class-wp-optimize-commands.php:461
+#: includes/class-wp-optimize-commands.php:470
+msgid "Please upload a valid settings file."
+msgstr "유효한 설정 파일을 업로드하십시오."
+
+#: wp-optimize.php:748
+msgid "Optimization complete"
+msgstr "최적화 완료"
+
+#: wp-optimize.php:747
+msgid "An unexpected response was received."
+msgstr "예상치 못한 응답을 받았습니다."
+
+#: templates/database/optimize-table.php:54
+msgid "You may wish to run a backup before optimizing."
+msgstr "최적화하기 전에 백업을 실행할 수 있습니다."
+
+#: templates/database/optimize-table.php:54
+msgid "Items marked with this icon perform more intensive database operations. In very rare cases, if your database server happened to crash or be forcibly powered down at the same time as an optimization operation was running, data might be corrupted. "
+msgstr "이 아이콘이 표시된 항목은 보다 집약적인 데이터베이스 작업을 수행합니다. 매우 드문 경우지만 최적화 작업이 실행되는 동시에 데이터베이스 서버가 충돌하거나 강제로 전원이 꺼지면 데이터가 손상될 수 있습니다. "
+
+#: templates/take-a-backup.php:88
+msgid "Please update UpdraftPlus to the latest version."
+msgstr "UpdraftPlus를 최신 버전으로 업데이트하십시오."
+
+#: templates/take-a-backup.php:88
+msgid "UpdraftPlus needs to be updated to 1.12.33 or higher in order to backup the database before optimization."
+msgstr "최적화 전에 데이터베이스를 백업하려면 UpdraftPlus를 1.12.33 이상으로 업데이트해야 합니다."
+
+#: templates/take-a-backup.php:72
+msgid "Follow this link to install UpdraftPlus, to take a backup before optimization"
+msgstr "이 링크를 따라 UpdraftPlus를 설치하고 최적화 전에 백업을 수행하십시오."
+
+#: templates/take-a-backup.php:54
+msgid "Take a backup with UpdraftPlus before doing this"
+msgstr "이 작업을 수행하기 전에 UpdraftPlus로 백업하십시오."
+
+#: templates/take-a-backup.php:17
+msgid "Backup before running optimizations"
+msgstr "최적화 실행 전 백업"
+
+#: includes/class-wp-optimize-notices.php:68
+msgid "here"
+msgstr "여기"
+
+#: templates/settings/settings-logging.php:3
+msgid "Logging settings"
+msgstr "로깅 설정"
+
+#: templates/database/settings-general.php:6
+msgid "Whether manually or on a schedule, these settings apply whenever a relevant optimization is run."
+msgstr "수동으로든 일정에 따라든 이러한 설정은 관련 최적화가 실행될 때마다 적용됩니다."
+
+#: optimizations/spam.php:253 optimizations/spam.php:258
+msgid "Remove spam and trashed comments"
+msgstr "스팸 및 휴지통 댓글 제거"
+
+#: optimizations/spam.php:251
+msgid "Remove spam and trashed comments which are older than %d weeks"
+msgstr "%d주 이상 된 스팸 및 휴지통 댓글 제거"
+
+#: optimizations/optimizetables.php:175
+msgid "Tables will be optimized (%s)."
+msgstr "테이블이 최적화됩니다(%s)."
+
+#: wp-optimize.php:750
+msgid "Optimizing table:"
+msgstr "테이블 최적화:"
+
+#: includes/class-wp-optimize-options.php:157
+msgid "Auto backup option updated."
+msgstr "자동 백업 옵션이 업데이트되었습니다."
+
+#: includes/class-updraft-php-logger.php:24
+msgid "Log events into the PHP error log"
+msgstr "PHP 오류 로그에 이벤트 기록"
+
+#: wp-optimize.php:851
+msgid "Optimize"
+msgstr "최적화"
+
+#: templates/database/optimize-table.php:38
+msgid "Run all selected optimizations"
+msgstr "선택한 모든 최적화 실행"
+
+#: includes/class-wp-optimize-admin.php:42
+#: templates/database/optimize-table.php:34
+msgid "Optimizations"
+msgstr "최적화"
+
+#: templates/database/optimizations-table.php:83
+msgid "Go"
+msgstr "가기"
+
+#: templates/database/optimizations-table.php:81
+msgid "Run optimization"
+msgstr "최적화 실시"
+
+#: templates/database/optimizations-table.php:7
+msgid "Optimization"
+msgstr "최적화"
+
+#: templates/notices/thanks-for-using-main-dash.php:30
+msgid "Premium WooCommerce plugins"
+msgstr "프리미엄 WooCommerce 플러그인"
+
+#: templates/notices/thanks-for-using-main-dash.php:30
+msgid "More quality plugins"
+msgstr "좋은 플러그인"
+
+#: templates/settings/may-also-like.php:296
+msgid "UpdraftPlus"
+msgstr "업드래프트플러스"
+
+#: templates/admin-page-header.php:16 templates/pages-menu.php:35
+msgid "Newsletter"
+msgstr "뉴스 레터"
+
+#: templates/notices/thanks-for-using-main-dash.php:5
+msgid "Dismiss (for %s months)"
+msgstr "닫기(%s개월 동안)"
+
+#: templates/notices/horizontal-notice.php:69
+msgid "Go there"
+msgstr "가기"
+
+#: templates/notices/horizontal-notice.php:67
+msgid "Sign up"
+msgstr "가입하기"
+
+#: templates/notices/horizontal-notice.php:65
+msgid "Get UpdraftPlus"
+msgstr "UpdraftPlus 받기"
+
+#: templates/notices/horizontal-notice.php:63
+msgid "Get UpdraftCentral"
+msgstr "UpdraftCentral 받기"
+
+#: templates/notices/horizontal-notice.php:48
+#: templates/notices/horizontal-notice.php:50
+#: templates/notices/install-or-update-notice.php:27
+#: templates/notices/install-or-update-notice.php:47
+msgid "Dismiss"
+msgstr "무시"
+
+#: templates/notices/horizontal-notice.php:8
+#: templates/notices/horizontal-notice.php:38
+msgid "notice image"
+msgstr "공지 이미지"
+
+#: templates/settings/settings-trackback-and-comments.php:46
+msgid "Use these buttons to enable or disable any future comments on all your previously published posts."
+msgstr "이 버튼을 사용하여 이전에 게시한 모든 게시물에 대한 향후 댓글을 활성화하거나 비활성화합니다."
+
+#: templates/settings/settings-trackback-and-comments.php:42
+msgid "Comments"
+msgstr "댓글"
+
+#: templates/settings/settings-trackback-and-comments.php:14
+msgid "Use these buttons to enable or disable any future trackbacks on all your previously published posts."
+msgstr "이 버튼을 사용하여 이전에 게시한 모든 게시물에 대한 향후 트랙백을 활성화하거나 비활성화합니다."
+
+#: templates/settings/settings-trackback-and-comments.php:9
+msgid "Trackbacks"
+msgstr "트랙백"
+
+#: optimizations/spam.php:197
+msgid "No trashed comments found"
+msgstr "휴지통 댓글이 없습니다."
+
+#: optimizations/spam.php:189
+msgid "%s trashed comment found"
+msgid_plural "%s trashed comments found"
+msgstr[0] "%s개의 휴지통 댓글이 있습니다."
+
+#: optimizations/trash.php:89 optimizations/trash.php:169
+msgid "No trashed posts found"
+msgstr "휴지통 게시물 없음"
+
+#: optimizations/trash.php:167
+msgid "%s trashed post in your database"
+msgid_plural "%s trashed posts in your database"
+msgstr[0] "데이터베이스에서 %s 휴지통 게시물"
+
+#: includes/class-wp-optimize-notices.php:48
+msgid "UpdraftPlus is the world's most trusted backup plugin from the owners of WP-Optimize"
+msgstr "UpdraftPlus는 WP-옵티마이즈 소유자가 제공하는 세계에서 가장 신뢰할 수 있는 백업 플러그인입니다."
+
+#: includes/class-wp-optimize-notices.php:47
+msgid "Make sure you backup before you optimize your database"
+msgstr "데이터베이스를 최적화하기 전에 백업을 확인하십시오"
+
+#: includes/class-wp-optimizer.php:590
+msgid "Trackbacks have now been enabled on all current and previously published posts."
+msgstr "현재 및 이전에 게시된 모든 게시물에서 트랙백이 활성화되었습니다."
+
+#: includes/class-wp-optimizer.php:586
+msgid "Trackbacks have now been disabled on all current and previously published posts."
+msgstr "현재 및 이전에 게시된 모든 게시물에서 트랙백이 비활성화되었습니다."
+
+#: includes/class-wp-optimizer.php:578
+msgid "Comments have now been enabled on all current and previously published posts."
+msgstr "이제 현재 및 이전에 게시된 모든 게시물에 댓글이 활성화되었습니다."
+
+#: includes/class-wp-optimizer.php:574
+msgid "Comments have now been disabled on all current and previously published posts."
+msgstr "이제 현재 및 이전에 게시된 모든 게시물에서 댓글이 비활성화되었습니다."
+
+#: includes/class-wp-optimize-commands.php:221
+#: includes/class-wp-optimize-commands.php:269
+#: includes/class-wp-optimize-commands.php:311
+msgid "No optimization was indicated."
+msgstr "최적화가 표시되지 않았습니다."
+
+#. Author URI of the plugin
+msgid "https://updraftplus.com"
+msgstr "https://updraftplus.com"
+
+#. Author of the plugin
+msgid "David Anderson, Ruhani Rabin, Team Updraft"
+msgstr "데이비드 앤더슨, 루하니 라빈, 팀 업드래프트"
+
+#: wp-optimize.php:1081
+msgid "template not found"
+msgstr "템플릿을 찾을 수 없음"
+
+#: wp-optimize.php:1081
+msgid "Error:"
+msgstr "오류:"
+
+#: templates/settings/support-and-faqs.php:8
+msgid "Support is available here."
+msgstr "여기에서 지원이 가능합니다."
+
+#: templates/settings/support-and-faqs.php:9
+msgid "please tell us why at this link."
+msgstr "이 링크에서 이유를 알려주세요."
+
+#: templates/settings/support-and-faqs.php:9
+msgid "Or, if you did not like it,"
+msgstr "또는 마음에 들지 않으면"
+
+#: templates/settings/support-and-faqs.php:9
+msgid "please give us a positive review, here."
+msgstr "여기에서 긍정적인 평가를 해주세요."
+
+#: templates/settings/support-and-faqs.php:9
+msgid "If you like WP-Optimize,"
+msgstr "WP-옵티마이즈를 좋아한다면,"
+
+#: templates/settings/support-and-faqs.php:3
+msgid "Support and feedback"
+msgstr "지원 및 피드백"
+
+#: templates/database/status-box-contents.php:14
+#: templates/settings/settings-logging.php:24
+msgid "Status"
+msgstr "상태"
+
+#: includes/class-wp-optimize-admin.php:325
+#: templates/database/settings-auto-cleanup.php:30
+msgid "Monthly (approx. - every 30 days)"
+msgstr "매월(약 - 30일마다)"
+
+#: includes/class-wp-optimize-admin.php:324
+#: templates/database/settings-auto-cleanup.php:29
+msgid "Fortnightly"
+msgstr "격주"
+
+#: includes/class-wp-optimize-admin.php:323
+#: templates/database/settings-auto-cleanup.php:28
+msgid "Weekly"
+msgstr "주간"
+
+#: includes/class-wp-optimize-admin.php:322
+#: templates/database/settings-auto-cleanup.php:27
+msgid "Daily"
+msgstr "매일"
+
+#: templates/database/settings.php:19 templates/minify/advanced-tab.php:324
+#: templates/minify/css-settings-tab.php:173
+#: templates/minify/font-settings-tab.php:140
+#: templates/minify/js-settings-tab.php:164
+#: templates/minify/settings-tab.php:108 templates/settings/settings.php:38
+msgid "Save settings"
+msgstr "설정 저장"
+
+#: templates/database/settings-general.php:21
+#: templates/database/settings-general.php:36
+msgid "This will also affect Auto Clean-up process"
+msgstr "이는 자동 정리 프로세스에도 영향을 미칩니다."
+
+#: templates/database/settings-general.php:21
+#: templates/database/settings-general.php:36
+msgid "If the option is not active, then all garbage data will be removed."
+msgstr "옵션이 활성화되어 있지 않으면 모든 가비지 데이터가 제거됩니다."
+
+#: templates/database/settings-general.php:21
+msgid "This option will, where relevant, retain data from the chosen period, and remove any garbage data before that period."
+msgstr "이 옵션은 관련된 경우 선택한 기간의 데이터를 유지하고 해당 기간 이전의 가비지 데이터를 제거합니다."
+
+#: templates/admin-page-header.php:22 templates/pages-menu.php:41
+msgid "More plugins"
+msgstr "더 많은 플러그인"
+
+#: templates/admin-page-header.php:20 templates/pages-menu.php:39
+#: templates/settings/may-also-like.php:8
+msgid "FAQs"
+msgstr "자주 묻는 질문"
+
+#: templates/admin-page-header.php:14
+#: templates/notices/install-or-update-notice.php:52
+#: templates/pages-menu.php:33
+msgid "Support"
+msgstr "지원"
+
+#: templates/admin-page-header.php:12 templates/pages-menu.php:31
+msgid "Twitter"
+msgstr "트위터"
+
+#: templates/admin-page-header.php:10 templates/pages-menu.php:29
+msgid "News"
+msgstr "뉴스"
+
+#: templates/admin-page-header.php:6 templates/pages-menu.php:25
+msgid "Home"
+msgstr "홈"
+
+#: templates/settings/system-status.php:6
+msgid "running on:"
+msgstr "실행 중:"
+
+#: optimizations/transient.php:465 optimizations/transient.php:469
+msgid "Remove expired transient options"
+msgstr "만료된 임시 옵션 제거"
+
+#: optimizations/transient.php:254
+msgid "%s network-wide transient option deleted"
+msgid_plural "%s network-wide transient options deleted"
+msgstr[0] "%s 네트워크 전체 임시 옵션이 삭제되었습니다."
+
+#: optimizations/optimizetables.php:164
+msgid "Tables using the InnoDB engine (%d) will not be optimized."
+msgstr "InnoDB 엔진(%d)을 사용하는 테이블은 최적화되지 않습니다."
+
+#: optimizations/optimizetables.php:159
+msgid "Total gain:"
+msgstr "총 이득:"
+
+#: includes/class-wp-optimizer.php:147 includes/class-wp-optimizer.php:153
+msgid "No such optimization"
+msgstr "해당 최적화 없음"
+
+#: optimizations/orphandata.php:65
+msgid "Clean orphaned relationship data"
+msgstr "분리된 관계데이터를 지웁니다. "
+
+#: optimizations/commentmeta.php:206 optimizations/commentmeta.php:210
+msgid "Clean comment meta data"
+msgstr "댓글 메타 데이터를 지웁니다."
+
+#: optimizations/postmeta.php:122
+msgid "Clean post meta data"
+msgstr "포스트 메타 데이터를 지웁니다."
+
+#: templates/database/optimize-table.php:30
+msgid "Warning: This operation is permanent. Continue?"
+msgstr "경고: 영구적이어서 되돌릴 수 없습니다. 계속할까요?"
+
+#: optimizations/orphandata.php:44
+msgid "No orphaned relationship data in your database"
+msgstr "데이터베이스에서 분리된 데이터를 찾을 수 없습니다. "
+
+#: optimizations/orphandata.php:42
+msgid "%s orphaned relationship data in your database"
+msgid_plural "%s orphaned relationship data in your database"
+msgstr[0] "데이터베이스에 %d 분리된 관계 데이터가 있습니다. "
+
+#: optimizations/commentmeta.php:83 optimizations/commentmeta.php:162
+msgid "No orphaned comment meta data in your database"
+msgstr "데이터베이스에 관계를 잃은 메타데이터가 없습니다. "
+
+#: optimizations/commentmeta.php:160
+msgid "%s orphaned comment meta data in your database"
+msgid_plural "%s orphaned comment meta data in your database"
+msgstr[0] "데이터베이스에 %d 관계를 잃은 댓글 메타가 있습니다."
+
+#: optimizations/postmeta.php:62
+msgid "%s orphaned post meta data deleted"
+msgid_plural "%s orphaned post meta data deleted"
+msgstr[0] "%d 분리된 메타 데이터가 삭제됐습니다."
+
+#: templates/database/settings-general.php:15
+msgid "Keep last %s weeks data"
+msgstr "마지막 %s 주 데이터 보관"
+
+#: templates/database/status-box-contents.php:85
+msgid "Keeping last %s weeks data"
+msgstr "마지막 %s 주 데이터를 유지"
+
+#: optimizations/trackbacks.php:113
+msgid "%s Trackback found"
+msgid_plural "%s Trackbacks found"
+msgstr[0] "%d 트랙백을 찾았습니다."
+
+#: optimizations/pingbacks.php:111
+msgid "%s pingback found"
+msgid_plural "%s pingbacks found"
+msgstr[0] "%d 핑백을 찾았습니다."
+
+#: optimizations/trackbacks.php:68
+msgid "%s trackback deleted"
+msgid_plural "%s trackbacks deleted"
+msgstr[0] "%d 트랙백을 지웠습니다."
+
+#: optimizations/pingbacks.php:67
+msgid "%s pingback deleted"
+msgid_plural "%s pingbacks deleted"
+msgstr[0] "%d 핑백을 지웠습니다."
+
+#: cache/class-wpo-page-cache.php:1346 cache/class-wpo-page-cache.php:1367
+msgid "WP-Optimize:"
+msgstr "WP-옵티마이즈:"
+
+#: templates/database/tables-list-after.php:26
+msgid "Total space saved:"
+msgstr "절약된 총 공간:"
+
+#: templates/database/tables-list-after.php:22
+msgid "Optimization results:"
+msgstr "최적화 결과:"
+
+#: templates/database/tables-list-after.php:10
+msgid "Total size of database:"
+msgstr "데이터베이스의 총 용량"
+
+#: templates/database/tables-body.php:105
+msgid "%s Table"
+msgid_plural "%s Tables"
+msgstr[0] "%s 테이블"
+
+#: templates/database/tables-body.php:104
+msgid "Total:"
+msgstr "총:"
+
+#: templates/database/tables-body.php:70 templates/database/tables-body.php:82
+#: templates/database/tables.php:45
+msgid "Overhead"
+msgstr "간접비"
+
+#: templates/database/tables-body.php:68 templates/database/tables-body.php:81
+#: templates/database/tables.php:44
+msgid "Type"
+msgstr "유형"
+
+#: templates/database/tables-body.php:65 templates/database/tables.php:43
+msgid "Index Size"
+msgstr "인덱스 크기"
+
+#: templates/database/tables-body.php:64 templates/database/tables.php:42
+msgid "Data Size"
+msgstr "데이터 크기"
+
+#: templates/database/tables-body.php:63 templates/database/tables.php:41
+msgid "Records"
+msgstr "기록"
+
+#: templates/database/tables-body.php:29 templates/database/tables.php:39
+msgid "No."
+msgstr "아니요."
+
+#: templates/database/tables.php:13
+msgid "Optimized all the tables found in the database."
+msgstr "데이터베이스에서 찾은 모든 테이블을 최적화했습니다."
+
+#: templates/database/tables.php:24
+msgid "Database name:"
+msgstr "데이터베이스 이름:"
+
+#: optimizations/inactive-tags.php:21
+msgid "Remove unused tags"
+msgstr "사용하지 않는 태그 제거"
+
+#: optimizations/postmeta.php:131
+msgid "Remove orphaned post meta"
+msgstr "고아 게시물 메타 제거"
+
+#: templates/database/settings-auto-cleanup.php:22
+msgid "Select schedule type (default is Weekly)"
+msgstr "일정 유형 선택(기본값은 매주)"
+
+#: templates/cache/browser-cache.php:39 templates/cache/gzip-compression.php:47
+#: templates/settings/settings-trackback-and-comments.php:18
+#: templates/settings/settings-trackback-and-comments.php:49
+#: wp-optimize.php:756
+msgid "Enable"
+msgstr "허용"
+
+#: templates/cache/gzip-compression.php:47
+#: templates/settings/settings-trackback-and-comments.php:20
+#: templates/settings/settings-trackback-and-comments.php:51
+#: wp-optimize.php:757
+msgid "Disable"
+msgstr "허용하지 않음"
+
+#: templates/settings/settings-trackback-and-comments.php:6
+msgid "Trackback/comments actions"
+msgstr "트랙백/댓글 작업"
+
+#: templates/settings/settings-general.php:8
+msgid "Enable admin bar menu"
+msgstr "관리 표시줄 메뉴 활성화"
+
+#: templates/database/settings-general.php:3
+#: templates/settings/settings-general.php:3
+msgid "General settings"
+msgstr "일반 설정"
+
+#: includes/class-wp-optimize-options.php:285
+msgid "Settings updated."
+msgstr "설정이 업데이트되었습니다."
+
+#: templates/database/status-box-contents.php:109
+msgid "Total clean up overall:"
+msgstr "전반적인 정리 정리:"
+
+#: templates/database/status-box-contents.php:88
+msgid "Not keeping recent data"
+msgstr "최근 데이터를 유지하지 않음"
+
+#: templates/database/status-box-contents.php:78
+msgid "Scheduled cleaning disabled"
+msgstr "예약 청소 비활성화"
+
+#: templates/database/status-box-contents.php:74
+msgid "Refresh"
+msgstr "새로 고치다"
+
+#: templates/database/status-box-contents.php:69
+msgid "Next schedule:"
+msgstr "다음 일정:"
+
+#: templates/database/optimize-table.php:54
+msgid "Warning:"
+msgstr "경고:"
+
+#: templates/database/tables.php:31
+msgid "Note:"
+msgstr "메모:"
+
+#: optimizations/optimizetables.php:180 optimizations/optimizetables.php:184
+msgid "Optimize database tables"
+msgstr "데이터베이스 테이블 최적화"
+
+#: templates/database/tables-body.php:89 templates/database/tables-body.php:118
+#: templates/database/tables.php:46 templates/settings/settings-logging.php:25
+msgid "Actions"
+msgstr "액션"
+
+#: optimizations/trackbacks.php:133
+msgid "Remove trackbacks"
+msgstr "트랙백 제거"
+
+#: optimizations/pingbacks.php:139
+msgid "Remove pingbacks"
+msgstr "핑백 제거"
+
+#: optimizations/unapproved.php:178 optimizations/unapproved.php:183
+msgid "Remove unapproved comments"
+msgstr "승인되지 않은 댓글 제거"
+
+#: optimizations/unapproved.php:176
+msgid "Remove unapproved comments which are older than %d weeks"
+msgstr "%d주가 지난 승인되지 않은 댓글을 제거합니다."
+
+#: optimizations/trash.php:208
+msgid "Clean trashed posts which are older than %d weeks"
+msgstr "%d주 이상 지난 휴지통 게시물 정리"
+
+#: optimizations/revisions.php:238 optimizations/revisions.php:242
+msgid "Clean all post revisions"
+msgstr "모든 게시물 개정판 정리"
+
+#: optimizations/revisions.php:231
+msgid "Clean post revisions which are older than %d weeks"
+msgstr "%d 주 보다 오래된 구 버전 포스트 삭제"
+
+#: optimizations/trackbacks.php:60 optimizations/trackbacks.php:115
+msgid "No trackbacks found"
+msgstr "트랙백이 없습니다."
+
+#: optimizations/pingbacks.php:59 optimizations/pingbacks.php:113
+msgid "No pingbacks found"
+msgstr "핑백이 없습니다."
+
+#: optimizations/unapproved.php:91 optimizations/unapproved.php:144
+msgid "No unapproved comments found"
+msgstr "승인되지 않은 댓글이 없습니다."
+
+#: optimizations/unapproved.php:142
+msgid "%s unapproved comment found"
+msgid_plural "%s unapproved comments found"
+msgstr[0] "승인되지 않은 댓글 %s개가 발견되었습니다."
+
+#: optimizations/spam.php:185
+msgid "No spam comments found"
+msgstr "스팸 댓글이 없습니다."
+
+#: optimizations/spam.php:181 optimizations/spam.php:194
+msgid "Review"
+msgstr "검토"
+
+#: optimizations/spam.php:176
+msgid "%s spam comment found"
+msgid_plural "%s spam comments found"
+msgstr[0] "%s 스팸 댓글 발견"
+
+#: optimizations/autodraft.php:74 optimizations/autodraft.php:126
+msgid "No auto draft posts found"
+msgstr "자동 초안 게시물이 없습니다."
+
+#: optimizations/autodraft.php:124
+msgid "%s auto draft post in your database"
+msgid_plural "%s auto draft posts in your database"
+msgstr[0] "데이터베이스에 자동저장된 %d 포스트가 있습니다. "
+
+#: optimizations/revisions.php:70 optimizations/revisions.php:165
+msgid "No post revisions found"
+msgstr "게시물 수정본이 없습니다."
+
+#: optimizations/revisions.php:163
+msgid "%s post revision in your database"
+msgid_plural "%s post revisions in your database"
+msgstr[0] "%s 데이터베이스의 개정판 이후"
+
+#: optimizations/postmeta.php:54 optimizations/postmeta.php:96
+msgid "No orphaned post meta data in your database"
+msgstr "데이터베이스에 고립된 게시물 메타 데이터가 없습니다."
+
+#: optimizations/postmeta.php:94
+msgid "%s orphaned post meta data in your database"
+msgid_plural "%s orphaned post meta data in your database"
+msgstr[0] "%s 데이터베이스의 분리된 게시물 메타 데이터"
+
+#: optimizations/transient.php:161 optimizations/transient.php:388
+msgid "No transient options found"
+msgstr "임시 옵션을 찾을 수 없음"
+
+#: optimizations/unapproved.php:99
+msgid "%s unapproved comment deleted"
+msgid_plural "%s unapproved comments deleted"
+msgstr[0] "승인되지 않은 댓글 %s개가 삭제되었습니다."
+
+#: optimizations/commentmeta.php:100
+msgid "%s unused akismet comment metadata item removed"
+msgid_plural "%s unused akismet comment metadata items removed"
+msgstr[0] "%s 사용하지 않은 akismet 주석 메타데이터 항목이 제거되었습니다."
+
+#: optimizations/commentmeta.php:99
+msgid "%s unused comment metadata item removed"
+msgid_plural "%s unused comment metadata items removed"
+msgstr[0] "%s 사용하지 않은 댓글 메타데이터 항목이 제거되었습니다."
+
+#: optimizations/spam.php:110
+msgid "%s comment removed from Trash"
+msgid_plural "%s comments removed from Trash"
+msgstr[0] "휴지통에 있는 %d 댓글이 삭제됐습니다."
+
+#: optimizations/spam.php:109
+msgid "%s spam comment deleted"
+msgid_plural "%s spam comments deleted"
+msgstr[0] "%s 스팸 댓글이 삭제되었습니다."
+
+#: optimizations/trash.php:97
+msgid "%s post removed from Trash"
+msgid_plural "%s posts removed from Trash"
+msgstr[0] "휴지통에서 삭제된 게시물 %s"
+
+#: optimizations/autodraft.php:82
+msgid "%s auto draft deleted"
+msgid_plural "%s auto drafts deleted"
+msgstr[0] "%s 자동 저장 임시글이 삭제되었습니다."
+
+#: optimizations/revisions.php:78
+msgid "%s post revision deleted"
+msgid_plural "%s post revisions deleted"
+msgstr[0] "%d 포스트 구버전이 삭제됐습니다."
+
+#: optimizations/transient.php:177
+msgid "%s transient option deleted"
+msgid_plural "%s transient options deleted"
+msgstr[0] "%s 임시 옵션이 삭제되었습니다."
+
+#: templates/database/tables-body.php:30 templates/database/tables.php:40
+msgid "Table"
+msgstr "테이블"
+
+#: includes/class-wp-optimize-admin.php:44
+#: includes/class-wp-optimize-admin.php:63
+#: includes/class-wp-optimize-admin.php:69
+#: includes/class-wp-optimize-admin.php:653
+#: includes/class-wp-optimize-admin.php:654 templates/minify/status-tab.php:111
+#: templates/minify/status-tab.php:133 wp-optimize.php:848
+msgid "Settings"
+msgstr "설정"

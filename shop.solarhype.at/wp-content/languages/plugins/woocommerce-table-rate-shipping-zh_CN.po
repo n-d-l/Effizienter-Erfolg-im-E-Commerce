@@ -1,0 +1,667 @@
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-06-15 11:54:03+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: zh_CN\n"
+"Project-Id-Version: WooCommerce - Extensions - woocommerce-table-rate-shipping\n"
+
+#: includes/class-wc-shipping-table-rate.php:259
+msgid "When comparing Min-Max Price Condition for rate in Table Rates, set if price with taxes or without taxes should be used."
+msgstr "当比较费率表中费率的最小-最大价格条件时，请设置应使用含税价格还是不含税价格。"
+
+#: includes/class-wc-shipping-table-rate.php:257
+msgid "Use price with tax when comparing Min-Max Price Conditions."
+msgstr "在比较最小-最大价格条件时，请使用含税的价格。"
+
+#: includes/class-wc-shipping-table-rate.php:256
+msgid "Taxes in Min-Max"
+msgstr "最小-最大税费"
+
+#: includes/class-wc-shipping-table-rate.php:251
+msgid "When comparing Min-Max Price Condition for rate in Table Rates, set if discounted or non-discounted price should be used."
+msgstr "当比较费率表中费率的最小-最大价格条件时，请设置应使用折扣价格还是非折扣价格。"
+
+#: includes/class-wc-shipping-table-rate.php:248
+msgid "Discounts in Min-Max"
+msgstr "最小-最大折扣"
+
+#: includes/class-wc-shipping-table-rate.php:249
+msgid "Use discounted price when comparing Min-Max Price Conditions."
+msgstr "在比较最小-最大价格条件时，请使用折扣价格。"
+
+#: includes/functions-admin.php:49
+msgid "Cost per item."
+msgstr "项目单位成本。"
+
+#: includes/functions-admin.php:45
+msgid "Cost for shipping the order."
+msgstr "订单配送费。"
+
+#. translators: %s: WooCommerce link
+#: woocommerce-table-rate-shipping.php:282
+msgid "WooCommerce Table Rate Shipping requires %s to be installed and active."
+msgstr "WooCommerce Table Rate Shipping 需要安装并激活 %s。"
+
+#: woocommerce-table-rate-shipping.php:208
+msgid "Duplicate the selected rates?"
+msgstr "复制选中的费率？"
+
+#: woocommerce-table-rate-shipping.php:207
+msgid "Delete the selected rates?"
+msgstr "删除选中的费率？"
+
+#: woocommerce-table-rate-shipping.php:205
+msgid "Line Item"
+msgstr "行项目"
+
+#: woocommerce-table-rate-shipping.php:204
+msgid "Item"
+msgstr "项目"
+
+#: woocommerce-table-rate-shipping.php:203
+msgid "Order"
+msgstr "排序"
+
+#: woocommerce-table-rate-shipping.php:183
+msgid "Documentation"
+msgstr "文档"
+
+#: woocommerce-table-rate-shipping.php:183
+msgid "Setup Zones"
+msgstr "设置区域"
+
+#: woocommerce-table-rate-shipping.php:164
+msgid "Premium Support"
+msgstr "付费支持"
+
+#: woocommerce-table-rate-shipping.php:164
+msgid "Visit Premium Customer Support Forum"
+msgstr "访问高级版客户支持论坛"
+
+#: woocommerce-table-rate-shipping.php:163
+msgid "Docs"
+msgstr "文档"
+
+#: woocommerce-table-rate-shipping.php:163
+msgid "View Documentation"
+msgstr "查看文档"
+
+#: includes/legacy/shipping-zones/includes/views/html-zone-methods.php:22
+msgid "Add To Zone"
+msgstr "添加到区域"
+
+#: includes/legacy/shipping-zones/includes/views/html-zone-methods.php:6
+msgid "Choose a shipping method&hellip;"
+msgstr "选择配送方式…"
+
+#: includes/legacy/shipping-zones/includes/views/html-zone-method-settings.php:6
+msgid "Save shipping method"
+msgstr "保存配送方式"
+
+#: includes/legacy/shipping-zones/includes/views/form-edit-shipping-zone.php:95
+msgid "Save changes"
+msgstr "保存修改"
+
+#: includes/legacy/shipping-zones/includes/views/form-edit-shipping-zone.php:43
+msgid "This shipping zone is based on one or more states/counties"
+msgstr "此配送区域基于一个或多个州/县"
+
+#: includes/legacy/shipping-zones/includes/views/form-edit-shipping-zone.php:19
+msgid "Enable this zone"
+msgstr "启用此区域"
+
+#: includes/legacy/shipping-zones/includes/views/form-edit-shipping-zone.php:11
+msgid "Enter a name which describes this zone"
+msgstr "输入用于描述此区域的名称"
+
+#: includes/legacy/shipping-zones/includes/views/form-edit-shipping-zone.php:8
+msgid "Name"
+msgstr "名称"
+
+#: includes/legacy/shipping-zones/includes/views/form-edit-shipping-zone.php:2
+msgid "Edit Shipping Zone"
+msgstr "编辑配送区域"
+
+#: includes/legacy/shipping-zones/includes/views/form-add-shipping-zone.php:74
+msgid "Add shipping zone"
+msgstr "添加配送区域"
+
+#: includes/legacy/shipping-zones/includes/views/form-add-shipping-zone.php:67
+#: includes/legacy/shipping-zones/includes/views/form-edit-shipping-zone.php:81
+msgid "List 1 postcode per line. Wildcards (*) and ranges (for numeric postcodes) are supported."
+msgstr "每行一个邮编。 支持通配符 (*) 和范围（适用于数字邮编）。"
+
+#: includes/legacy/shipping-zones/includes/views/form-add-shipping-zone.php:50
+#: includes/legacy/shipping-zones/includes/views/form-edit-shipping-zone.php:62
+msgid "This shipping zone is based on one or more postcodes/zips"
+msgstr "此配送区域基于一个或多个邮编"
+
+#: includes/legacy/shipping-zones/includes/views/form-add-shipping-zone.php:47
+#: includes/legacy/shipping-zones/includes/views/form-edit-shipping-zone.php:59
+msgid "US States"
+msgstr "美国各州"
+
+#: includes/legacy/shipping-zones/includes/views/form-add-shipping-zone.php:34
+#: includes/legacy/shipping-zones/includes/views/form-edit-shipping-zone.php:46
+msgid "Choose states/counties&hellip;"
+msgstr "选择州/县…"
+
+#: includes/legacy/shipping-zones/includes/views/form-add-shipping-zone.php:31
+msgid "This shipping zone is based on one or more states and counties"
+msgstr "此配送区域基于一个或多个州和县"
+
+#: includes/legacy/shipping-zones/includes/views/form-add-shipping-zone.php:28
+#: includes/legacy/shipping-zones/includes/views/form-add-shipping-zone.php:47
+#: includes/legacy/shipping-zones/includes/views/form-edit-shipping-zone.php:40
+#: includes/legacy/shipping-zones/includes/views/form-edit-shipping-zone.php:59
+msgid "EU States"
+msgstr "欧洲各州"
+
+#: includes/legacy/shipping-zones/includes/views/form-add-shipping-zone.php:28
+#: includes/legacy/shipping-zones/includes/views/form-add-shipping-zone.php:47
+#: includes/legacy/shipping-zones/includes/views/form-edit-shipping-zone.php:40
+#: includes/legacy/shipping-zones/includes/views/form-edit-shipping-zone.php:59
+msgid "All"
+msgstr "全部"
+
+#: includes/legacy/shipping-zones/includes/views/form-add-shipping-zone.php:21
+#: includes/legacy/shipping-zones/includes/views/form-add-shipping-zone.php:53
+#: includes/legacy/shipping-zones/includes/views/form-edit-shipping-zone.php:33
+#: includes/legacy/shipping-zones/includes/views/form-edit-shipping-zone.php:65
+msgid "Choose countries&hellip;"
+msgstr "选择国家/地区…"
+
+#: includes/legacy/shipping-zones/includes/views/form-add-shipping-zone.php:18
+#: includes/legacy/shipping-zones/includes/views/form-edit-shipping-zone.php:30
+msgid "This shipping zone is based on one or more countries"
+msgstr "此配送区域基于一个或多个国家/地区"
+
+#: includes/legacy/shipping-zones/includes/views/form-add-shipping-zone.php:14
+#: includes/legacy/shipping-zones/includes/views/form-add-shipping-zone.php:16
+#: includes/legacy/shipping-zones/includes/views/form-edit-shipping-zone.php:24
+#: includes/legacy/shipping-zones/includes/views/form-edit-shipping-zone.php:28
+msgid "Zone Type"
+msgstr "区域类型"
+
+#: includes/legacy/shipping-zones/includes/views/form-add-shipping-zone.php:10
+msgid "Zone Name"
+msgstr "区域名称"
+
+#: includes/legacy/shipping-zones/includes/views/form-add-shipping-zone.php:5
+msgid "If you wish to disable shipping for a location, add a zone and assign no shipping methods to it."
+msgstr "如果您希望禁用某个位置的配送，请添加一个区域，并且不向其分配配送方式。"
+
+#: includes/legacy/shipping-zones/includes/views/form-add-shipping-zone.php:3
+msgid "Zones cover multiple countries (and states) and can have shipping methods assigned to them. Each customer will be assigned a single matching shipping zone in order of priority, and if no zones apply the \"default zone\" will be used."
+msgstr "区域涵盖多个国家/地区（和州），可以为它们分配运输方式。 按照优先级顺序为每个客户分配一个匹配的配送区域，如果没有应用区域，则使用“默认区域”。"
+
+#: includes/legacy/shipping-zones/includes/views/form-add-shipping-zone.php:1
+msgid "Add Shipping Zone"
+msgstr "添加配送区域"
+
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zones-table.php:288
+msgid "All countries"
+msgstr "所有国家/地区"
+
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zones-table.php:287
+msgid "Default Zone (everywhere else)"
+msgstr "默认区域（任何其他区域）"
+
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zones-table.php:266
+msgid "Shipping zones disabled"
+msgstr "已禁用配送区域"
+
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zones-table.php:250
+msgid "Shipping zones enabled"
+msgstr "已启用配送区域"
+
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zones-table.php:234
+msgid "Shipping zones deleted"
+msgstr "已删除配送区域"
+
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zones-table.php:195
+#: includes/legacy/shipping-zones/includes/views/form-edit-shipping-zone.php:16
+msgid "Enable"
+msgstr "启用"
+
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zones-table.php:194
+msgid "Disable"
+msgstr "停用"
+
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zones-table.php:185
+msgid "Shipping Methods"
+msgstr "配送方式"
+
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zones-table.php:183
+msgid "Zone type"
+msgstr "区域类型"
+
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zones-table.php:182
+msgid "Zone name"
+msgstr "区域的名称"
+
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zones-table.php:115
+#: includes/legacy/shipping-zones/includes/views/form-add-shipping-zone.php:67
+#: includes/legacy/shipping-zones/includes/views/form-edit-shipping-zone.php:81
+msgid "Postcodes"
+msgstr "邮编"
+
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zones-table.php:113
+msgid "Countries and states"
+msgstr "国家/地区和州/省/自治区/直辖市"
+
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zones-table.php:111
+msgid "Countries"
+msgstr "国家/地区"
+
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zones-table.php:99
+msgid "Within %s:"
+msgstr "不超出 %s："
+
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zones-table.php:78
+msgid "and %s others"
+msgstr "和另外 %s 个"
+
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zones-table.php:61
+msgid "Everywhere"
+msgstr "任何地方"
+
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zones-table.php:44
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zones-table.php:46
+msgid "Configure shipping methods"
+msgstr "配置配送方式"
+
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zone-methods-table.php:193
+msgid "No shipping methods found."
+msgstr "找不到配送方式。"
+
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zone-methods-table.php:185
+msgid "Shipping methods deleted"
+msgstr "已删除配送方式"
+
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zone-methods-table.php:146
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zones-table.php:184
+msgid "Enabled"
+msgstr "已启用"
+
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zone-methods-table.php:145
+msgid "Method Type"
+msgstr "方式类型"
+
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zone-methods-table.php:115
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zone-methods-table.php:156
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zones-table.php:197
+msgid "Delete"
+msgstr "删除"
+
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zone-methods-table.php:115
+msgid "Are you sure you want to delete this method?"
+msgstr "是否确定要删除此方式？"
+
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zone-methods-table.php:115
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zones-table.php:44
+msgid "Edit"
+msgstr "编辑"
+
+#: includes/legacy/shipping-zones/includes/class-wc-shipping-zones-admin.php:221
+msgid "Shipping zone saved."
+msgstr "已保存配送区域。"
+
+#: includes/legacy/shipping-zones/includes/class-wc-shipping-zones-admin.php:219
+msgid "Shipping zone saved. <a href=\"%s\">Back to zones.</a>"
+msgstr "已保存配送区域。 <a href=\"%s\">返回区域。</a>"
+
+#: includes/legacy/shipping-zones/includes/class-wc-shipping-zones-admin.php:213
+msgid "Error saving zone."
+msgstr "保存区域时出错。"
+
+#: includes/legacy/shipping-zones/includes/class-wc-shipping-zones-admin.php:110
+msgid "You must choose at least 1 postcode to add postcode zone."
+msgstr "您必须选择至少 1 个邮政编码，才能添加邮政编码区域。"
+
+#: includes/legacy/shipping-zones/includes/class-wc-shipping-zones-admin.php:100
+msgid "You must choose at least 1 country to add a zone."
+msgstr "您必须选择至少 1 个国家/地区，才能添加区域。"
+
+#: includes/legacy/shipping-zones/includes/class-wc-shipping-zones-admin.php:78
+msgid " Zone type is required"
+msgstr " 必须提供区域类型"
+
+#: includes/legacy/shipping-zones/includes/class-wc-shipping-zones-admin.php:72
+#: includes/legacy/shipping-zones/includes/views/form-add-shipping-zone.php:11
+msgid "Zone"
+msgstr "区域"
+
+#: includes/legacy/shipping-zones/includes/class-wc-shipping-zones-admin.php:69
+msgid "Zone name is required"
+msgstr "必须提供区域名称"
+
+#: includes/legacy/shipping-zones/includes/class-wc-shipping-zones-admin.php:39
+msgid "Could not save zone. Please try again."
+msgstr "无法保存区域。 请重试。"
+
+#: includes/legacy/shipping-zones/includes/class-wc-shipping-zone.php:118
+msgid "Everywhere else"
+msgstr "任何其他区域"
+
+#: includes/legacy/shipping-zones/includes/class-wc-shipping-zone-admin.php:109
+msgid "Shipping method saved successfully."
+msgstr "已成功保存配送方式。"
+
+#: includes/legacy/shipping-zones/includes/class-wc-shipping-zone-admin.php:101
+msgid "Edit failed. Please try again."
+msgstr "编辑失败，请重试。"
+
+#: includes/legacy/shipping-zones/includes/class-wc-shipping-zone-admin.php:59
+msgid "Shipping method successfully deleted"
+msgstr "已成功删除配送方式"
+
+#: includes/legacy/shipping-zones/includes/class-wc-shipping-zone-admin.php:46
+msgid "Invalid shipping method"
+msgstr "无效的配送方式"
+
+#: includes/legacy/shipping-zones/includes/class-wc-shipping-zone-admin.php:44
+msgid "Shipping method successfully created. <a href=\"%s\">View method.</a>"
+msgstr "已成功创建配送方式。 <a href=\"%s\">查看方式。</a>"
+
+#: includes/legacy/shipping-zones/includes/class-wc-shipping-zone-admin.php:21
+msgid "Invalid shipping zone. <a href=\"%s\">Back to zones.</a>"
+msgstr "无效的配送区域。 <a href=\"%s\">返回区域。</a>"
+
+#: includes/legacy/shipping-zones/class-wc-shipping-zones.php:35
+#: includes/legacy/shipping-zones/includes/views/html-zone-list.php:2
+#: includes/legacy/shipping-zones/includes/views/html-zone-method-settings.php:3
+#: includes/legacy/shipping-zones/includes/views/html-zone-methods.php:3
+msgid "Shipping Zones"
+msgstr "配送区域"
+
+#: includes/functions-admin.php:161
+msgid "Default"
+msgstr "默认"
+
+#: includes/functions-admin.php:155
+msgid "When calculating shipping, the cart contents will be <strong>searched for all shipping classes</strong>. If all product shipping classes are <strong>identical</strong>, the corresponding class will be used.<br/><strong>If there are a mix of classes</strong> then the class with the <strong>lowest number priority</strong> (defined above) will be used."
+msgstr "计算运费时，将搜索购物车内容以查找<strong>所有配送类别</strong>。 如果所有产品配送类别<strong>相同</strong>，则使用相应的类别。<br/><strong>如果有多个类别</strong>，则使用具有<strong>优先级编号最低</strong>（在上面定义）的类别。"
+
+#: includes/functions-admin.php:149
+msgid "Priority"
+msgstr "优先级"
+
+#: includes/functions-admin.php:148 woocommerce-table-rate-shipping.php:206
+msgid "Class"
+msgstr "类别"
+
+#: includes/functions-admin.php:141
+msgid "No shipping classes exist - you can ignore this option :)"
+msgstr "不存在任何配送类别 - 您可以忽略此选项 :)"
+
+#: includes/functions-admin.php:109
+msgid "Optional abort reason text"
+msgstr "可选的中止原因文本"
+
+#: includes/functions-admin.php:99
+msgid "Item count (same class)"
+msgstr "项目计数（相同类别）"
+
+#: includes/functions-admin.php:97
+msgid "Item count"
+msgstr "项目计数"
+
+#: includes/functions-admin.php:96
+msgid "Weight"
+msgstr "重量"
+
+#: includes/functions-admin.php:95
+msgid "Price"
+msgstr "价格"
+
+#: includes/functions-admin.php:85
+msgid "No class"
+msgstr "无类别"
+
+#: includes/functions-admin.php:84
+msgid "Any class"
+msgstr "任何类别"
+
+#: includes/functions-admin.php:67
+msgid "Delete selected rows"
+msgstr "删除选定的行"
+
+#: includes/functions-admin.php:67
+msgid "Duplicate selected rows"
+msgstr "复制选定的行"
+
+#: includes/functions-admin.php:67
+msgid "Define your table rates here in order of priority."
+msgstr "按照优先级顺序在此处定义表费率。"
+
+#: includes/functions-admin.php:66
+msgid "Add Shipping Rate"
+msgstr "添加配送费率"
+
+#: includes/functions-admin.php:60
+msgid "Label for the shipping method which the user will be presented. "
+msgstr "向用户显示的配送方式的标签。 "
+
+#: includes/functions-admin.php:59
+msgid "Label"
+msgstr "标签"
+
+#: includes/functions-admin.php:57
+msgid "Percentage of total to charge."
+msgstr "占总费用的百分比。"
+
+#: includes/functions-admin.php:56
+msgid "% cost"
+msgstr "成本百分比"
+
+#: includes/functions-admin.php:53
+msgid "Cost per weight unit."
+msgstr "单位重量成本。"
+
+#: includes/functions-admin.php:52
+msgid "cost"
+msgstr "成本"
+
+#: includes/functions-admin.php:48
+msgid "Item cost"
+msgstr "项目成本"
+
+#: includes/functions-admin.php:44
+msgid "Row cost"
+msgstr "行成本"
+
+#: includes/functions-admin.php:41
+msgid "Enable this option to disable all rates/this shipping method if this row matches any item/line/class being quoted."
+msgstr "如果此行匹配任何引用的项目/行/类别，则启用此选项以禁用所有费率/此配送方式。"
+
+#: includes/functions-admin.php:40
+msgid "Abort"
+msgstr "中止"
+
+#: includes/functions-admin.php:37
+msgid "Break at this point. For per-order rates, no rates other than this will be offered. For calculated rates, this will stop any further rates being matched."
+msgstr "在此点中断。 对于单位订单费率，不会提供任何其他费率。 对于计算费率，这样会阻止进一步匹配任何费率。"
+
+#: includes/functions-admin.php:36
+msgid "Break"
+msgstr "中断"
+
+#: includes/functions-admin.php:33
+msgid "Bottom and top range for the selected condition. "
+msgstr "选定条件的底部和顶部范围。 "
+
+#: includes/functions-admin.php:32
+msgid "Min&ndash;Max"
+msgstr "最小–最大"
+
+#: includes/functions-admin.php:29
+msgid "Condition vs. destination"
+msgstr "条件和目的地"
+
+#: includes/functions-admin.php:28
+msgid "Condition"
+msgstr "条件"
+
+#: includes/functions-admin.php:24
+msgid "Shipping class this rate applies to."
+msgstr "此费率适用的配送类别。"
+
+#: includes/functions-admin.php:23
+msgid "Shipping Class"
+msgstr "配送类别"
+
+#: includes/class-wc-shipping-table-rate.php:301
+msgid "Class Priorities"
+msgstr "类别优先级"
+
+#: includes/class-wc-shipping-table-rate.php:294
+msgid "Table Rates"
+msgstr "表费率"
+
+#: includes/class-wc-shipping-table-rate.php:243
+msgid "Maximum cost for this shipping method (optional). If the cost is higher, this maximum cost will be enforced."
+msgstr "此配送方式的最高成本（可选）。 如果成本较高，则强制执行此最高成本。"
+
+#: includes/class-wc-shipping-table-rate.php:240
+msgid "Maximum Cost Per [item]"
+msgstr "最高单位 [项目] 成本"
+
+#: includes/class-wc-shipping-table-rate.php:235
+msgid "Minimum cost for this shipping method (optional). If the cost is lower, this minimum cost will be enforced."
+msgstr "此配送方式的最低成本（可选）。 如果成本较低，则强制执行此最低成本。"
+
+#: includes/class-wc-shipping-table-rate.php:232
+msgid "Minimum Cost Per [item]"
+msgstr "最低单位 [项目] 成本"
+
+#: includes/class-wc-shipping-table-rate.php:227
+msgid "Handling fee. Enter an amount, e.g. %1$s, or a percentage, e.g. 5%%. Leave blank to disable. Applied based on the \"Calculation Type\" chosen below."
+msgstr "手续费。 输入金额（例如 %1$s）或者百分比（例如 5%）%%。 留空以禁用。 根据下面选择的“计算类型”应用。"
+
+#: includes/class-wc-shipping-table-rate.php:224
+msgid "Handling Fee Per [item]"
+msgstr "单位 [项目] 的手续费"
+
+#: includes/class-wc-shipping-table-rate.php:220
+msgid "Calculated rates per shipping class"
+msgstr "单位配送类别的计算费率"
+
+#: includes/class-wc-shipping-table-rate.php:219
+msgid "Calculated rates per line item"
+msgstr "单位行项目的计算费率"
+
+#: includes/class-wc-shipping-table-rate.php:218
+msgid "Calculated rates per item"
+msgstr "单位项目的计算费率"
+
+#: includes/class-wc-shipping-table-rate.php:217
+msgid "Per order"
+msgstr "单位订单"
+
+#: includes/class-wc-shipping-table-rate.php:213
+msgid "Per order rates will offer the customer all matching rates. Calculated rates will sum all matching rates and provide a single total."
+msgstr "单位订单费率将为客户提供所有匹配的费率。 计算费率将合计所有匹配费率，然后提供一个总数。"
+
+#: includes/class-wc-shipping-table-rate.php:211
+msgid "Calculation Type"
+msgstr "计算类型"
+
+#: includes/class-wc-shipping-table-rate.php:207
+msgid "This is where you define your table rates which are applied to an order."
+msgstr "在此处，您可以定义订单所应用的表费率。"
+
+#: includes/class-wc-shipping-table-rate.php:205
+msgid "Rates"
+msgstr "费率"
+
+#: includes/class-wc-shipping-table-rate.php:200
+msgid "Maximum cost that the customer will pay after all the shipping rules have been applied. If the shipping cost calculated is bigger than this value, this cost will be the one shown."
+msgstr "应用所有配送规则后，客户将支付的最高成本。 如果计算的配送成本大于此值，则显示此成本。"
+
+#: includes/class-wc-shipping-table-rate.php:198
+msgid "Maximum Shipping Cost"
+msgstr "最高配送成本"
+
+#: includes/class-wc-shipping-table-rate.php:195
+#: includes/class-wc-shipping-table-rate.php:202
+#: includes/class-wc-shipping-table-rate.php:229
+#: includes/class-wc-shipping-table-rate.php:237
+#: includes/class-wc-shipping-table-rate.php:245
+#: includes/functions-admin.php:104
+msgid "n/a"
+msgstr "不适用"
+
+#: includes/class-wc-shipping-table-rate.php:193
+msgid "Enter an amount, e.g. %s. Leave blank to disable. This cost is applied once for the order as a whole."
+msgstr "输入金额，例如 %s。 留空以禁用。 总体上，订单仅应用此成本一次。"
+
+#: includes/class-wc-shipping-table-rate.php:191
+msgid "Handling Fee"
+msgstr "手续费"
+
+#: includes/class-wc-shipping-table-rate.php:187
+msgid "No, I will enter costs below exclusive of tax"
+msgstr "不，我要在下面输入不含税费的成本"
+
+#: includes/class-wc-shipping-table-rate.php:186
+msgid "Yes, I will enter costs below inclusive of tax"
+msgstr "是，我要在下面输入含税费成本"
+
+#: includes/class-wc-shipping-table-rate.php:179
+msgid "Tax included in shipping costs"
+msgstr "配送成本中包含的税费"
+
+#: includes/class-wc-shipping-table-rate.php:175
+#: includes/functions-admin.php:94
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zones-table.php:156
+#: includes/legacy/shipping-zones/includes/views/form-add-shipping-zone.php:28
+#: includes/legacy/shipping-zones/includes/views/form-add-shipping-zone.php:47
+#: includes/legacy/shipping-zones/includes/views/form-edit-shipping-zone.php:40
+#: includes/legacy/shipping-zones/includes/views/form-edit-shipping-zone.php:59
+msgid "None"
+msgstr "无"
+
+#: includes/class-wc-shipping-table-rate.php:174
+msgid "Taxable"
+msgstr "应纳税"
+
+#: includes/class-wc-shipping-table-rate.php:168
+msgid "Tax Status"
+msgstr "税状态"
+
+#: includes/class-wc-shipping-table-rate.php:164
+msgid "This controls the title which the user sees during checkout."
+msgstr "这控制用户在结帐时看到的标题。"
+
+#: includes/class-wc-shipping-table-rate.php:161
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zone-methods-table.php:144
+msgid "Method Title"
+msgstr "方式标题"
+
+#: includes/class-wc-shipping-table-rate.php:41
+#: includes/class-wc-shipping-table-rate.php:165
+msgid "Table Rate"
+msgstr "表费率"
+
+#: includes/class-wc-shipping-table-rate.php:31
+msgid "Table rates are dynamic rates based on a number of cart conditions."
+msgstr "表费率是基于许多购物车条件的动态费率。"
+
+#: includes/class-wc-shipping-table-rate-privacy.php:20
+msgid "By using this extension, you may be storing personal data or sharing data with an external service. <a href=\"%s\" target=\"_blank\">Learn more about how this works, including what you may want to include in your privacy policy.</a>"
+msgstr "使用此扩展程序，您可以存储个人数据或与外部服务共享数据。 <a href=\"%s\" target=\"_blank\">详细了解该工具的工作原理，包括您可能要在隐私政策中添加的内容。</a>"
+
+#: includes/class-wc-shipping-table-rate-privacy.php:12
+#: includes/class-wc-shipping-table-rate.php:30
+msgid "Table rates"
+msgstr "表费率"
+
+#: includes/functions-admin.php:112 includes/functions-admin.php:115
+#: includes/functions-admin.php:118 includes/functions-admin.php:121
+msgid "0"
+msgstr "0"

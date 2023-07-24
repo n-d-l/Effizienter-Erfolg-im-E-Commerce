@@ -1,0 +1,49 @@
+<div class="question {@eq key="true" type="boolean" value=hidden}hidden{/eq}">
+	<h3><p class="question-title">{title}</p></h3>
+	<button class="editQuestionnaire" type="button">({tr.edit})</button>
+	<div class="description">{description|s}</div>
+	{#options questionId=id questionType=type}
+		{@eq key="yesno" value=questionType}
+		<div class="choiceDiv yesno">
+            <div class="inputDiv">
+                <input id="{questionId}{key}{$idx}-yes" type="radio" rel="{questionType}" value="1" name="{key}" {@eq key="1" value=value}checked="true"{/eq}>
+			</div>
+            <div class="labelDiv">
+                <label for="{questionId}{key}{$idx}-yes">{tr.yes}</label>
+            </div>
+            <div class="inputDiv">
+                <input class="type-no" id="{questionId}{key}{$idx}-no" type="radio" rel="{questionType}" value="0" name="{key}" {@eq key="0" value=value}checked="true"{/eq}>
+			</div>
+            <div class="labelDiv">
+                <label for="{questionId}{key}{$idx}-no">{tr.no}</label>
+            </div>
+		</div>
+		{/eq}
+		{@eq key="radio" value=questionType}
+		<div class="choiceDiv radioList">
+            <div class="inputDiv">
+                <input id="{questionId}{key}{$idx}" type="radio" rel="{questionType}" value="{key}" name="{questionId}" {@eq key="1" value=value}checked="true"{/eq}>
+            </div>
+			<div class="labelDiv">
+                <label for="{questionId}{key}{$idx}">{title|s}</label>
+			</div>
+		</div>
+		{/eq}
+		{@eq key="checkbox" value=questionType}
+		<div class="choiceDiv checkList">
+            <div class="inputDiv">
+                <input id="{questionId}{key}{$idx}" type="checkbox" data-questionId="{questionId}" rel="{questionType}" value="{key}" name="{key}" {@eq key="1" value=value}checked="true"{/eq} onclick="handleCheckBoxClicked(this)">
+			</div>
+            <div class="labelDiv">
+                <label for="{questionId}{key}{$idx}">{title|s}</label>
+			</div>
+		</div>
+		{/eq}
+	{/options}
+	<div class="clear-fix"></div>
+	<div class="questionnaire-error-msg">{tr.pleaseSelect}</div>
+	{@eq key="checkbox" value=type}
+		<button class="saveQuestionnaire" type="button">{tr.save}</button>
+	{/eq}
+	<div class="clear-fix"></div>
+</div>

@@ -1,0 +1,132 @@
+# Translation of Plugins - WooCommerce Cash On Pickup - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - WooCommerce Cash On Pickup - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-11-25 14:23:14+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - WooCommerce Cash On Pickup - Stable (latest release)\n"
+
+#. Translators: %1$s zone name, %2$s shipping method instance name.
+#: classes/class.wc-cop.php:182
+msgid "Other locations"
+msgstr "Andere locaties"
+
+#. Translators: %1$s zone name, %2$s shipping method instance name.
+#: classes/class.wc-cop.php:182
+msgid "%1$s &ndash; %2$s"
+msgstr "%1$s &ndash; %2$s"
+
+#. Translators: %1$s shipping method title, %2$s shipping method id.
+#: classes/class.wc-cop.php:179
+msgid "%1$s (#%2$s)"
+msgstr "%1$s (#%2$s)"
+
+#. Translators: %1$s shipping method name.
+#: classes/class.wc-cop.php:164
+msgid "Any &quot;%1$s&quot; method"
+msgstr "Elke &quot;%1$s&quot; methode"
+
+#. Author URI of the plugin
+msgid "https://kadanka.net/"
+msgstr "https://kadanka.net/"
+
+#: classes/class.wc-cop.php:254
+msgid "Accept COP if the order is virtual"
+msgstr "COP toestaan voor virtuele producten"
+
+#: classes/class.wc-cop.php:253
+msgid "Accept for virtual orders"
+msgstr "Toestaan voor virtuele producten"
+
+#. Author of the plugin
+msgid "Marian Kadanka"
+msgstr "Marian Kadanka"
+
+#. Description of the plugin
+msgid "A WooCommerce Extension that adds the payment gateway \"Cash On Pickup\""
+msgstr "Een WooCommerce extensie die contant betalen bij afhalen toevoegt als betaalmogelijkheid."
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/wc-cash-on-pickup/"
+msgstr "https://wordpress.org/plugins/wc-cash-on-pickup/"
+
+#. Plugin Name of the plugin
+msgid "WooCommerce Cash On Pickup"
+msgstr "WooCommerce Cash On Pickup"
+
+#: wc-cash-on-pickup.php:78
+msgid "Settings"
+msgstr "Instellingen"
+
+#: wc-cash-on-pickup.php:76
+msgid "Donate"
+msgstr "Doneer"
+
+#: classes/class.wc-cop.php:247
+msgid "Cash on pickup will be the only payment method available if local pickup is selected on checkout"
+msgstr "Contant betalen als enige betaalmogelijkheid toestaan indien afhalen is gekozen tijdens het afrekenen."
+
+#: classes/class.wc-cop.php:246
+msgid "Disable other payment methods if local pickup"
+msgstr "Andere betaalmogelijkheden uitschakelen bij zelf afhalen"
+
+#: classes/class.wc-cop.php:240
+msgid "Default order status"
+msgstr "Standaard order status"
+
+#: classes/class.wc-cop.php:235
+msgid "If COP is only available for certain methods, set it up here. Leave blank to enable for all methods."
+msgstr "Indien contante betaling alleen beschikbaar is voor bepaalde methoden, stel dit dan hier in. Laat leeg om in te schakelen voor alle methoden."
+
+#: classes/class.wc-cop.php:230
+msgid "Enable for shipping methods"
+msgstr "Toestaan voor verzendmethoden"
+
+#: classes/class.wc-cop.php:225
+msgid "Instructions that will be added to the thank you page."
+msgstr "Instructies die worden toegevoegd aan de bedank pagina."
+
+#: classes/class.wc-cop.php:223
+msgid "Instructions"
+msgstr "Instructies"
+
+#: classes/class.wc-cop.php:219 classes/class.wc-cop.php:226
+msgid "Pay with cash on pickup."
+msgstr "Contant betalen bij afhalen."
+
+#: classes/class.wc-cop.php:218
+msgid "Payment method description that the customer will see on your website."
+msgstr "Omschrijving van de betaalmogelijkheid die de klant ziet op de site."
+
+#: classes/class.wc-cop.php:216
+msgid "Description"
+msgstr "Beschrijving"
+
+#: classes/class.wc-cop.php:211
+msgid "Payment method description that the customer will see on your checkout."
+msgstr "Beschrijving van de betaalmethode die de klant ziet tijdens het afrekenen."
+
+#: classes/class.wc-cop.php:209
+msgid "Title"
+msgstr "Titel"
+
+#: classes/class.wc-cop.php:203
+msgid "Enable cash on pickup"
+msgstr "Contant betalen toestaan"
+
+#: classes/class.wc-cop.php:202
+msgid "Enable/Disable"
+msgstr "In-/uitschakelen"
+
+#: classes/class.wc-cop.php:137
+msgid "Have your customers pay with cash (or by other means) on pickup."
+msgstr "Laat je klanten contant betalen (of pinnen) bij afhalen."
+
+#: classes/class.wc-cop.php:136 classes/class.wc-cop.php:212
+msgid "Cash on pickup"
+msgstr "Contant betalen"

@@ -1,0 +1,161 @@
+# Translation of Plugins - ManageWP Worker - Development (trunk) in Swedish
+# This file is distributed under the same license as the Plugins - ManageWP Worker - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-07-29 14:03:37+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - ManageWP Worker - Development (trunk)\n"
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:386
+msgid "Disconnect all"
+msgstr "Koppla från alla"
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:283
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:313
+msgid "Click the Add site button."
+msgstr "Klicka på knappen ”Lägg till webbplats”."
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:277
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:308
+msgid "Log into your account."
+msgstr "Logga in på ditt konto."
+
+#: src/MWP/EventListener/PublicRequest/AutomaticLogin.php:137
+msgid "Invalid site connection specified. Please try again, or, if this keeps happening, contact support."
+msgstr "Ogiltig webbplatsanslutning angavs. Försök igen, eller kontakta supporten om detta fortsätter."
+
+#: functions.php:878
+msgid "Every 5 Minutes"
+msgstr "Var 5:e minut"
+
+#: src/MWP/EventListener/PublicRequest/AutomaticLogin.php:151
+msgid "The automatic login token isn't properly signed. Please contact our support for help."
+msgstr "Den automatiska inloggningstoken är inte korrekt signerad. Kontakta vår support för hjälp."
+
+#: functions.php:1150
+msgid "The site is currently in maintenance mode."
+msgstr "Webbplatsen är för närvarande i underhållsläge."
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:421
+msgid "Currently loaded keys:"
+msgstr "Nuvarande laddade nycklar:"
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:404
+msgid "Copy"
+msgstr "Kopiera"
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:396
+msgid "Connection key:"
+msgstr "Anslutningsnyckel:"
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:374
+msgid "Disconnect"
+msgstr "Koppla från"
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:355
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:367
+msgid "N/A"
+msgstr "N/A"
+
+#. translators: the variable is going to contain a human time difference string
+#. like "2 days"
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:352
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:364
+msgid "%s ago"
+msgstr "%s sedan"
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:339
+msgid "Last Used"
+msgstr "Senast använd"
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:335
+msgid "Connected"
+msgstr "Ansluten"
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:331
+msgid "ID"
+msgstr "ID"
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:324
+msgid "Here is the list of currently active connections to this plugin:"
+msgstr "Här är listan över nuvarande anslutningar till detta tillägg:"
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:317
+msgid "Enter this website's URL. When prompted, paste the connection key."
+msgstr "Ange webbplatsens URL. Klistra in anslutningsnyckeln när du uppmanas."
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:303
+msgid "Copy the connection key below."
+msgstr "Kopiera anslutningsnyckeln nedan."
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:299
+msgid "Install and activate the <b>Worker</b> plugin."
+msgstr "Installera och aktivera tillägget <b>Worker</b>."
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:294
+msgid "Manual"
+msgstr "Manuellt"
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:288
+msgid "Enter this website's URL, admin username and password, and the system will take care of everything."
+msgstr "Ange webbplatsens URL, admin användarnamn och lösenord, och systemet tar hand om allt."
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:271
+msgid "Automatic"
+msgstr "Automatisk"
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:266
+msgid "There are two ways to connect your website to the management dashboard:"
+msgstr "Det finns två sätt att ansluta din webbplats till adminpanelen:"
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:219
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:458
+msgid "Connection Management"
+msgstr "Anslutningshantering"
+
+#. Author URI of the plugin
+msgid "https://godaddy.com"
+msgstr "https://godaddy.com"
+
+#. Author of the plugin
+msgid "GoDaddy"
+msgstr "GoDaddy"
+
+#. Description of the plugin
+msgid "We help you efficiently manage all your WordPress websites. <strong>Updates, backups, 1-click login, migrations, security</strong> and more, on one dashboard. This service comes in two versions: standalone <a href=\"https://managewp.com\">ManageWP</a> service that focuses on website management, and <a href=\"https://godaddy.com/pro\">GoDaddy Pro</a> that includes additional tools for hosting, client management, lead generation, and more."
+msgstr "Vi hjälper dig att effektivt hantera alla dina WordPress-webbplatser. <strong>Uppdateringar, säkerhetskopior, inloggning med 1 klick, migrering, säkerhet</strong> med mera, i en adminpanel. Tjänsten finns i två versioner: fristående <a href=\"https://managewp.com\">ManageWP</a>-tjänst som fokuserar på webbplatshantering och <a href=\"https://godaddy.com/pro\">GoDaddy Pro</a> som innehåller ytterligare verktyg för webhotell, kundhantering, lead-generering med mera."
+
+#. Plugin URI of the plugin
+msgid "https://managewp.com"
+msgstr "https://managewp.com"
+
+#. Plugin Name of the plugin
+msgid "ManageWP - Worker"
+msgstr "ManageWP - Worker"
+
+#. translators: the variable in this string is the WordPress username that
+#. could not be found
+#: src/MWP/EventListener/PublicRequest/AutomaticLogin.php:162
+msgid "User <strong>%s</strong> could not be found."
+msgstr "Användare <strong>%s</strong> kunde inte hittas."
+
+#: src/MWP/EventListener/PublicRequest/AutomaticLogin.php:155
+msgid "The automatic login token is invalid. Please check if this website is properly connected with your dashboard, or, if this keeps happening, contact support."
+msgstr "Den automatiska inloggningsmarkören är ogiltig. Kontrollera att webbplatsen är korrekt kopplad till din admin-panel. Kontakta supporten om problemet återkommer."
+
+#: src/MWP/EventListener/PublicRequest/AutomaticLogin.php:125
+msgid "The automatic login token was already used. Please try again, or, if this keeps happening, contact support."
+msgstr "Den automatiska inloggningsmarkören har redan förbrukats. Försök en gång till. Kontakta supporten om problemet återkommer."
+
+#: src/MWP/EventListener/PublicRequest/AutomaticLogin.php:123
+msgid "The automatic login token has expired. Please try again, or, if this keeps happening, contact support."
+msgstr "Den automatiska inloggningsmarkören är utgången. Försök en gång till. Kontakta supporten om problemet återkommer."
+
+#: src/MWP/EventListener/PublicRequest/AutomaticLogin.php:121
+msgid "The automatic login token is invalid. Please try again, or, if this keeps happening, contact support."
+msgstr "Den automatiska inloggningsmarkören är ogiltig. Försök en gång till. Kontakta supporten om problemet återkommer."

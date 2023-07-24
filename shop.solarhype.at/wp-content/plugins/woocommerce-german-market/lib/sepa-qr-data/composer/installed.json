@@ -1,0 +1,53 @@
+{
+    "packages": [
+        {
+            "name": "smhg/sepa-qr-data",
+            "version": "v1.2.0",
+            "version_normalized": "1.2.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/smhg/sepa-qr-data-php.git",
+                "reference": "837d98eae6fdcf61aaffddb5d9c61b535ee7ce1a"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/smhg/sepa-qr-data-php/zipball/837d98eae6fdcf61aaffddb5d9c61b535ee7ce1a",
+                "reference": "837d98eae6fdcf61aaffddb5d9c61b535ee7ce1a",
+                "shasum": ""
+            },
+            "require": {
+                "php": "^7.1||^8"
+            },
+            "require-dev": {
+                "phpmd/phpmd": "^2.8",
+                "phpunit/phpunit": "^7||^9"
+            },
+            "time": "2022-02-15T15:55:30+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "SepaQr\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "smhg",
+                    "email": "sam.hauglustaine@gmail.com"
+                }
+            ],
+            "description": "Generate QR code data for SEPA payments",
+            "support": {
+                "issues": "https://github.com/smhg/sepa-qr-data-php/issues",
+                "source": "https://github.com/smhg/sepa-qr-data-php/tree/v1.2.0"
+            },
+            "install-path": "../smhg/sepa-qr-data"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}

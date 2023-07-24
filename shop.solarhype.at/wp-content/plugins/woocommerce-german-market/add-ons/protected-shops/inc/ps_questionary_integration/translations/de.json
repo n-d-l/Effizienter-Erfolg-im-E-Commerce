@@ -1,0 +1,15 @@
+{
+    "edit": "ändern",
+    "save": "speichern",
+    "back": "zurück",
+    "forward": "weiter",
+    "finish": "beenden",
+    "yes": "Ja",
+    "no": "Nein",
+    "pleaseSelect": "Bitte wählen Sie",
+    "pleaseFill": "Bitte machen Sie die folgenden Angaben",
+    "hideAnsweredQuestions": "Beantwortete Fragen ausblenden",
+    "hiddenQuestionsWarningHeader": "Aktuell werden alle beantworteten Fragen ausgeblendet!",
+    "hiddenQuestionsWarningText": "Sollten Sie Änderungen an bereits beantworteten Fragen vornehmen / Ihre Antworten noch einmal prüfen wollen, müssen Sie den Filter \"Beantwortete Fragen ausblenden\" deaktivieren!",
+    "questionaryBottomWarning": "Prüfen Sie vor Abschluss der Konfiguration Ihre Angaben bitte sorgfältig auf Richtigkeit und Vollständigkeit. Sind Ihre Angaben unvollständig oder fehlerhaft können wir im Falle einer Abmahnung keine Haftung übernehmen."
+}

@@ -1,0 +1,2557 @@
+# Translation of Plugins - Migration, Backup, Staging &#8211; WPvivid - Stable (latest release) in Indonesian
+# This file is distributed under the same license as the Plugins - Migration, Backup, Staging &#8211; WPvivid - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-04-20 14:23:29+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: id\n"
+"Project-Id-Version: Plugins - Migration, Backup, Staging &#8211; WPvivid - Stable (latest release)\n"
+
+#: includes/upload-cleaner/class-wpvivid-uploads-cleaner.php:1074
+msgid ""
+"<div class=\"notice notice-warning inline\" style=\"margin: 10px 0 0 0;\"><p><strong>Warning:</strong> We detected that you use Jet Engine plugin on this site, \n"
+"                                                        it may have compatibility issues with our plugin, which can result in an inaccuracy of the scan result, \n"
+"                                                        so we recommend not using this feature yet.\n"
+"                                                          </p></div>"
+msgstr ""
+"<div class=\"notice notice-warning inline\" style=\"margin: 10px 0 0 0;\"><p><strong>Peringatan:</strong> Kami mendeteksi bahwa Anda menggunakan plugin Jet Engine di situs ini,\n"
+"                                                         mungkin ada kendala kompatibilitas dengan plugin kami, yang dapat mengakibatkan ketidakakuratan hasil pemindaian,\n"
+"                                                         jadi kami sarankan untuk tidak menggunakan fitur ini dulu.\n"
+"                                                           </p></div>"
+
+#: includes/class-wpvivid.php:6412
+msgid "Send backups to remote storage (You can choose whether to keep the backup in localhost after it is uploaded to cloud storage in Settings.)"
+msgstr "Kirim cadangan ke penyimpanan remote (Anda dapat memilih apakah akan menyimpan cadangan di localhost setelah diunggah ke penyimpanan cloud di Pengaturan.)"
+
+#: admin/partials/wpvivid-backup-restore-page-display.php:1139
+msgid "Are you sure to remove this backup? This backup will be deleted permanently."
+msgstr "Apakah Anda yakin untuk menghapus cadangan ini? Cadangan ini akan dihapus secara permanen."
+
+#: admin/partials/wpvivid-backup-restore-page-display.php:1191
+msgid "Are you sure to remove the selected backups? These backups will be deleted permanently."
+msgstr "Apakah Anda yakin untuk menghapus cadangan yang dipilih? Cadangan ini akan dihapus secara permanen."
+
+#: includes/customclass/class-wpvivid-one-drive.php:393
+msgid "To add OneDrive, please get Microsoft authentication first. Once authenticated, you will be redirected to this page, then you can add storage information and save it"
+msgstr "Untuk menambahkan OneDrive, mohon dapatkan autentikasi Microsoft terlebih dahulu. Setelah diautentikasi, Anda akan diarahkan ke halaman ini, kemudian Anda dapat menambahkan informasi penyimpanan dan menyimpannya"
+
+#: includes/customclass/class-wpvivid-google-drive.php:409
+msgid "To add Google Drive, please get Google authentication first. Once authenticated, you will be redirected to this page, then you can add storage information and save it"
+msgstr "Untuk menambahkan Google Drive, mohon dapatkan autentikasi Google terlebih dahulu. Setelah diautentikasi, Anda akan diarahkan ke halaman ini, kemudian Anda dapat menambahkan informasi penyimpanan dan menyimpannya"
+
+#: includes/customclass/class-wpvivid-dropbox.php:717
+msgid "To add Dropbox, please get Dropbox authentication first. Once authenticated, you will be redirected to this page, then you can add storage information and save it"
+msgstr "Untuk menambahkan Dropbox, mohon dapatkan autentikasi Dropbox terlebih dahulu. Setelah diautentikasi, Anda akan diarahkan ke halaman ini, kemudian Anda dapat menambahkan informasi penyimpanan dan menyimpannya"
+
+#: includes/class-wpvivid.php:5334 includes/class-wpvivid.php:5339
+msgid "The value of 'Posts Quantity Processed Per Request' can't be empty."
+msgstr "Nilai ‘Kuantitas Artikel yang Diproses Per Permintaan’ tidak bisa kosong."
+
+#: includes/class-wpvivid.php:5411 includes/class-wpvivid.php:5416
+msgid "The value of 'PHP Scripts Execution Timeout' can't be empty."
+msgstr "Nilai 'Batas Waktu Eksekusi Skrip PHP' tidak bisa kosong."
+
+#: includes/class-wpvivid.php:5262 includes/class-wpvivid.php:5267
+msgid "The value of 'PHP scripts execution timeout for restore' can't be empty."
+msgstr "Nilai batas waktu eksekusi 'skrip PHP untuk pemulihan' tidak bisa kosong."
+
+#: includes/class-wpvivid.php:5248 includes/class-wpvivid.php:5255
+msgid "The value of 'PHP scripts execution timeout for backup' can't be empty."
+msgstr "Nilai 'batas waktu eksekusi skrip PHP untuk cadangan' tidak bisa kosong."
+
+#: includes/class-wpvivid.php:5284 includes/class-wpvivid.php:5289
+msgid "The value of 'PHP memory limit for restoration' can't be empty."
+msgstr "Nilai 'Batas memori PHP untuk pemulihan' tidak bisa kosong."
+
+#: includes/class-wpvivid.php:5273 includes/class-wpvivid.php:5278
+msgid "The value of 'PHP memory limit for backup' can't be empty."
+msgstr "Nilai 'Batas memori PHP untuk cadangan' tidak bisa kosong."
+
+#: includes/class-wpvivid.php:5345 includes/class-wpvivid.php:5350
+msgid "The value of 'Media Files Quantity Processed Per Request' can't be empty."
+msgstr "Nilai ‘Kuantitas File Media yang Diproses Per Permintaan’ tidak bisa kosong."
+
+#: includes/class-wpvivid.php:5378 includes/class-wpvivid.php:5383
+msgid "The value of 'File Copy Count' can't be empty."
+msgstr "Nilai 'Jumlah Salinan File' tidak bisa kosong."
+
+#: includes/class-wpvivid.php:5422 includes/class-wpvivid.php:5427
+msgid "The value of 'Delay Between Requests' can't be empty."
+msgstr "Nilai 'Tunda Antar Permintaan' tidak bisa kosong."
+
+#: includes/class-wpvivid.php:5367 includes/class-wpvivid.php:5372
+msgid "The value of 'DB Replace Count' can't be empty."
+msgstr "Nilai 'DB Replace Count' tidak bisa kosong."
+
+#: includes/class-wpvivid.php:5356 includes/class-wpvivid.php:5361
+msgid "The value of 'DB Copy Count' can't be empty."
+msgstr "Nilai 'DB Copy Count' tidak bisa kosong."
+
+#: includes/class-wpvivid.php:5221 includes/class-wpvivid.php:5229
+msgid "The value of 'Compress file every' can't be empty."
+msgstr "Nilai 'Kompres setiap file' tidak bisa kosong."
+
+#: includes/class-wpvivid.php:5295 includes/class-wpvivid.php:5300
+msgid "The value of 'Chunk Size' can't be empty."
+msgstr "Nilai ‘Ukuran Potongan’ tidak bisa kosong."
+
+#: includes/customclass/class-wpvivid-one-drive.php:405
+msgid "Click to get Microsoft authentication."
+msgstr "Klik untuk mendapatkan autentikasi Microsoft."
+
+#: includes/customclass/class-wpvivid-google-drive.php:421
+msgid "Click to get Google authentication."
+msgstr "Klik untuk mendapatkan autentikasi Google."
+
+#: includes/customclass/class-wpvivid-dropbox.php:692
+msgid "Click to get Dropbox authentication."
+msgstr "Klik untuk mendapatkan autentikasi Dropbox."
+
+#: includes/customclass/class-wpvivid-dropbox.php:566
+#: includes/customclass/class-wpvivid-google-drive.php:292
+#: includes/customclass/class-wpvivid-one-drive.php:276
+msgid "Click the button to add the storage."
+msgstr "Klik tombol untuk menambahkan penyimpanan."
+
+#: includes/customclass/class-wpvivid-dropbox.php:561
+#: includes/customclass/class-wpvivid-google-drive.php:287
+#: includes/customclass/class-wpvivid-one-drive.php:271
+msgid "Add Now"
+msgstr "Tambahkan Sekarang"
+
+#: includes/customclass/class-wpvivid-google-drive.php:190
+msgid "<div class=\"notice notice-error\"><p>"
+msgstr "<div class=\"notice notice-error\"><p>"
+
+#: includes/class-wpvivid-export-import.php:1565
+msgid "Back"
+msgstr "Kembali"
+
+#: admin/class-wpvivid-admin.php:805
+msgid "Because Dropbox has upgraded their API on September 30, 2021, the new API is no longer compatible with the previous app's settings. Please re-add your Dropbox storage to ensure that it works properly."
+msgstr "Karena Dropbox telah meningkatkan API mereka pada 30 September 2021, API baru tidak lagi kompatibel dengan pengaturan aplikasi sebelumnya. Mohon tambahkan kembali penyimpanan Dropbox Anda untuk memastikannya berfungsi dengan baik."
+
+#: admin/class-wpvivid-admin.php:868
+msgid "In order to execute the scheduled backups properly, please set the DISABLE_WP_CRON constant to false. If you are using an external cron system, simply click 'X' to dismiss this message."
+msgstr "Untuk menjalankan pencadangan terjadwal dengan benar, harap setel konstanta DISABLE_WP_CRON ke false. Jika Anda menggunakan sistem cron eksternal, cukup klik ‘X’ untuk mengabaikan pesan ini."
+
+#: admin/class-wpvivid-admin.php:916
+msgid "We detected that you are using a lower version of %s Pro, please update it to 2.0.23 or higher to ensure backing up to Google Drive works properly."
+msgstr "Kami mendeteksi bahwa Anda menggunakan versi %s Pro yang lebih rendah, mohon perbarui ke 2.0.23 atau lebih tinggi untuk memastikan pencadangan ke Google Drive berfungsi dengan baik."
+
+#: includes/class-wpvivid-migrate.php:1141
+msgid "<strong>Tips: </strong>Some web hosts may restrict the connection between the two sites, so you may get a 403 error or unstable connection issue when performing auto migration. In that case, it is recommended to manually transfer the site."
+msgstr "<strong>Tips: </strong> Beberapa host web dapat membatasi koneksi antara kedua situs, sehingga Anda mungkin mendapatkan kesalahan 403 atau masalah koneksi yang tidak stabil saat melakukan migrasi otomatis. Dalam hal ini, disarankan untuk mentransfer situs secara manual."
+
+#: includes/staging/class-wpvivid-staging-ui-display.php:1302
+msgid "WPvivid Plugins - Staging"
+msgstr "Plugin WPvivid - Staging"
+
+#: includes/staging/class-wpvivid-staging-setting.php:144
+#: includes/staging/class-wpvivid-staging-setting.php:323
+msgid ""
+"The time-out is not your server PHP time-out. With the execution time exhausted, our plugin will shut down the progress of \n"
+"                creating a staging site. If the progress  encounters a time-out, that means you have a medium or large sized website. Please try to \n"
+"                scale the value bigger."
+msgstr ""
+"Time-out bukan time-out PHP server Anda. Dengan waktu eksekusi habis, plugin kami akan mematikan kemajuan \n"
+"                membuat situs staging. Jika kemajuan menemui batas waktu, itu berarti Anda memiliki situs web berukuran sedang atau besar. Mohon coba untuk \n"
+"                skala nilai yang lebih besar."
+
+#: includes/staging/class-wpvivid-staging-sites-list.php:401
+#: includes/staging/class-wpvivid-staging-sites-list.php:820
+msgid "Subsite URL"
+msgstr "URL subsitus"
+
+#: includes/staging/class-wpvivid-staging-sites-list.php:403
+#: includes/staging/class-wpvivid-staging-sites-list.php:822
+msgid "Subsite Title"
+msgstr "Judul Subsitus"
+
+#: includes/staging/class-wpvivid-staging-sites-list.php:402
+msgid "Subsite Tables/Folders"
+msgstr "Tabel/Folder Subsitus"
+
+#: includes/staging/class-wpvivid-staging-sites-list.php:404
+#: includes/staging/class-wpvivid-staging-sites-list.php:823
+msgid "Subsite Description"
+msgstr "Deskripsi Subsitus"
+
+#: includes/staging/class-wpvivid-staging.php:255
+#: includes/staging/class-wpvivid-staging.php:268
+msgid "Staging"
+msgstr "Staging"
+
+#: includes/staging/class-wpvivid-staging-sites-list.php:437
+#: includes/staging/class-wpvivid-staging-sites-list.php:856
+msgid "Select %s"
+msgstr "Pilih %s"
+
+#: includes/staging/class-wpvivid-staging-setting.php:138
+#: includes/staging/class-wpvivid-staging-setting.php:317
+msgid "PHP Script Execution Timeout"
+msgstr "Batas Waktu Eksekusi Skrip PHP"
+
+#: includes/staging/class-wpvivid-staging-setting.php:199
+#: includes/staging/class-wpvivid-staging-setting.php:378
+msgid "Keep staging sites when deleting the plugin"
+msgstr "Pertahankan situs staging saat menghapus plugin"
+
+#: includes/staging/class-wpvivid-staging-setting.php:188
+#: includes/staging/class-wpvivid-staging-setting.php:367
+msgid "Keep permalink when transferring website"
+msgstr "Simpan permalink saat mentransfer situs web"
+
+#: includes/staging/class-wpvivid-staging-setting.php:149
+#: includes/staging/class-wpvivid-staging-setting.php:328
+msgid "Delay Between Requests"
+msgstr "Penundaan Antar Permintaan"
+
+#: includes/staging/class-wpvivid-staging.php:99
+msgid "Create A Staging Site"
+msgstr "Buat Situs Staging"
+
+#: includes/staging/class-wpvivid-staging.php:100
+msgid "Create A Fresh WordPress Install"
+msgstr "Buat Instalasi WordPress Baru"
+
+#: includes/staging/class-wpvivid-staging-setting.php:177
+#: includes/staging/class-wpvivid-staging-setting.php:356
+msgid "Anyone can visit the staging site"
+msgstr "Siapa pun dapat mengunjungi situs staging"
+
+#: includes/staging/class-wpvivid-staging-setting.php:133
+#: includes/staging/class-wpvivid-staging-setting.php:312
+msgid ""
+"Adjust this value to apply for a temporary PHP memory limit for the plugin to create a staging site. \n"
+"                We set this value to 256M by default. Increase the value if you encounter a memory exhausted error. Note: some \n"
+"                web hosting providers may not support this."
+msgstr ""
+"Sesuaikan nilai ini untuk menerapkan batas memori PHP sementara bagi plugin untuk membuat situs staging.\n"
+"                 Kami menetapkan nilai ini ke 256M secara default. Tingkatkan nilainya jika Anda menemukan eror kehabisan memori. Catatan: beberapa\n"
+"                 penyedia hosting web mungkin tidak mendukung ini."
+
+#: includes/staging/class-wpvivid-staging-setting.php:155
+#: includes/staging/class-wpvivid-staging-setting.php:334
+msgid "A lower value will help speed up the process of creating a staging site. However, if your server has a limit on the number of requests, a higher value is recommended."
+msgstr "Nilai yang lebih rendah akan membantu mempercepat proses pembuatan situs staging. Namun, jika server Anda memiliki batasan jumlah permintaan, disarankan nilai yang lebih tinggi."
+
+#: includes/staging/class-wpvivid-staging-setting.php:167
+#: includes/staging/class-wpvivid-staging-setting.php:346
+msgid "<option value=\""
+msgstr "<option value=\""
+
+#: includes/staging/class-wpvivid-staging-setting.php:164
+#: includes/staging/class-wpvivid-staging-setting.php:343
+msgid "<option selected=\"selected\" value=\""
+msgstr "<option selected=\"selected\" value=\""
+
+#: includes/staging/class-wpvivid-staging-ui-display.php:1256
+msgid ""
+"<div class=\"notice notice-warning inline\"><p><strong>Warning:</strong> An inconsistency was detected between the site url, home url of the database and the actual website url. \n"
+"                                        This can cause inappropriate staging site url issues. Please change the site url and home url in the Options table of the database to the actual \n"
+"                                        url of your website. For example, if the site url and home url of the database is http://test.com, but the actual url of your website is https://test.com. \n"
+"                                        You’ll need to change the http to https.\n"
+"                                                                  </p></div>"
+msgstr ""
+"<div class=\"notice notice-warning inline\"><p><strong>Peringatan:</strong> Ketidakkonsistenan terdeteksi antara URL situs, URL beranda database dan URL situs web yang sebenarnya. \n"
+"                                        Hal ini dapat menyebabkan masalah URL situs staging yang tidak sesuai. Mohon ubah URL situs dan URL beranda di tabel Opsi database ke yang sebenarnya \n"
+"                                        URL dari website Anda. Misalnya, jika URL situs dan URL beranda database http://test.com, tetapi URL sebenarnya dari situs web Anda https://test.com. \n"
+"                                        Anda harus mengubah http ke https.                                                                  </p></div>"
+
+#: includes/staging/class-wpvivid-staging-setting.php:171
+#: includes/staging/class-wpvivid-staging-setting.php:350
+msgid " times when encountering a time-out error"
+msgstr " saat ketika menghadapi eror waktu habis"
+
+#: includes/staging/class-wpvivid-staging-setting.php:29
+msgid "Staging Settings"
+msgstr "Pengaturan Staging"
+
+#: includes/staging/class-wpvivid-staging-setting.php:127
+#: includes/staging/class-wpvivid-staging-setting.php:306
+msgid "Staging Memory Limit"
+msgstr "Batas Memori Staging"
+
+#: includes/staging/class-wpvivid-staging-log-page.php:343
+msgid "Staging Logs"
+msgstr "Log Staging"
+
+#: includes/staging/class-wpvivid-staging-setting.php:104
+#: includes/staging/class-wpvivid-staging-setting.php:283
+msgid ""
+"Number of DB rows, that are processed within one ajax query. The higher value makes the DB replacement process faster. \n"
+"                If timeout erros occur, decrease the value because this process consumes a lot of memory."
+msgstr ""
+"Jumlah baris DB, yang diproses dalam satu permintaan ajax. Nilai yang lebih tinggi membuat proses penggantian DB lebih cepat. \n"
+"                Jika terjadi kesalahan waktu habis, kurangi nilainya karena proses ini menghabiskan banyak memori."
+
+#: includes/staging/class-wpvivid-staging-setting.php:93
+#: includes/staging/class-wpvivid-staging-setting.php:272
+msgid ""
+"Number of DB rows, that are copied within one ajax query. The higher value makes the database copy process faster. \n"
+"                Please try a high value to find out the highest possible value. If you encounter timeout errors, try lower values until no \n"
+"                more errors occur."
+msgstr ""
+"Jumlah baris DB, yang disalin dalam satu permintaan ajax. Nilai yang lebih tinggi membuat proses penyalinan database lebih cepat. \n"
+"                Mohon coba nilai tinggi untuk mengetahui nilai setinggi mungkin. Jika Anda mengalami eror batas waktu, coba nilai yang lebih rendah hingga tidak \n"
+"                Lebih banyak eror terjadi."
+
+#: includes/staging/class-wpvivid-staging-setting.php:124
+#: includes/staging/class-wpvivid-staging-setting.php:303
+msgid "Maximum size of the files copied to a staging site. All files larger than this value will be ignored. If you set the value of 0 MB, all files will be copied to a staging site."
+msgstr "Ukuran maksimum file yang disalin ke situs staging. Semua file yang lebih besar dari nilai ini akan diabaikan. Jika Anda menetapkan nilai 0 MB, semua file akan disalin ke situs staging."
+
+#: includes/staging/class-wpvivid-staging-setting.php:118
+#: includes/staging/class-wpvivid-staging-setting.php:297
+msgid "Max File Size"
+msgstr "Ukuran File Maks"
+
+#: includes/staging/class-wpvivid-staging-log-page.php:55
+msgid "Log File Name\t"
+msgstr "Nama File Log\t"
+
+#: includes/staging/class-wpvivid-staging-setting.php:108
+#: includes/staging/class-wpvivid-staging-setting.php:287
+msgid "File Copy Count"
+msgstr "Jumlah Salinan File"
+
+#: includes/staging/class-wpvivid-staging-setting.php:98
+#: includes/staging/class-wpvivid-staging-setting.php:277
+msgid "DB Replace Count"
+msgstr "Hitungan Penggantian DB"
+
+#: includes/staging/class-wpvivid-staging-setting.php:87
+#: includes/staging/class-wpvivid-staging-setting.php:266
+msgid "DB Copy Count"
+msgstr "Jumlah Salinan DB"
+
+#: includes/staging/class-wpvivid-staging-log-page.php:56
+msgid "Action\t"
+msgstr "Aksi "
+
+#: admin/class-wpvivid-admin.php:1062
+msgid "Backup Logs"
+msgstr "Log Cadangan"
+
+#: admin/class-wpvivid-admin.php:1651
+msgid "White Label"
+msgstr "Label Putih"
+
+#: admin/class-wpvivid-admin.php:1673
+msgid "Up to 50 domains"
+msgstr "Hingga 50 domain"
+
+#: admin/class-wpvivid-admin.php:1664
+msgid "Up to 10 domains"
+msgstr "Hingga 10 domain"
+
+#: admin/class-wpvivid-admin.php:1650
+msgid "Staging Pro"
+msgstr "Staging Pro"
+
+#: admin/class-wpvivid-admin.php:1639
+msgid "Small Business"
+msgstr "Bisnis Kecil"
+
+#: admin/class-wpvivid-admin.php:1652
+msgid "Roles & Capabilities"
+msgstr "Peran dan Kemampuan"
+
+#: admin/class-wpvivid-admin.php:1649
+msgid "Mulitsite Support"
+msgstr "Dukungan Mulitsite"
+
+#: admin/class-wpvivid-admin.php:1648
+msgid "Image Optimization Pro (Unlimited/domain)"
+msgstr "Pengoptimalan Gambar Pro (Tidak Terbatas/domain)"
+
+#: admin/class-wpvivid-admin.php:1636
+msgid "Features"
+msgstr "Fitur"
+
+#: admin/class-wpvivid-admin.php:1646
+msgid "Domains"
+msgstr "Domain"
+
+#: admin/class-wpvivid-admin.php:1637
+msgid "Blogger"
+msgstr "Blogger"
+
+#: admin/class-wpvivid-admin.php:1647
+msgid "Backup & Migration Pro"
+msgstr "Pencadangan &Migrasi Pro"
+
+#: admin/class-wpvivid-admin.php:1655
+msgid "2 domains"
+msgstr "2 domain"
+
+#: admin/partials/wpvivid-backup-restore-page-display.php:2478
+msgid "Compress images with our image optimization plugin, it's free"
+msgstr "Kompres gambar dengan plugin pengoptimalan gambar kami, gratis"
+
+#: admin/partials/wpvivid-backup-restore-page-display.php:88
+#: admin/partials/wpvivid-backup-restore-page-display.php:96
+#: admin/partials/wpvivid-backup-restore-page-display.php:101
+#: admin/partials/wpvivid-backup-restore-page-display.php:113
+#: admin/partials/wpvivid-backup-restore-page-display.php:122
+#: includes/class-wpvivid.php:2654 includes/class-wpvivid.php:2659
+#: includes/class-wpvivid.php:2668
+msgid "File Size: "
+msgstr "Ukuran file: "
+
+#: admin/partials/wpvivid-backup-restore-page-display.php:92
+msgid "File not found"
+msgstr "Berkas tidak ditemukan"
+
+#: admin/partials/wpvivid-backup-restore-page-display.php:75
+msgid "File"
+msgstr "Berkas"
+
+#: includes/customclass/class-wpvivid-one-drive.php:119
+msgid "<div class=\"notice notice-success is-dismissible\"><p>You have authenticated the Microsoft OneDrive account as your remote storage.</p></div>"
+msgstr "<div class=\"notice notice-success is-dismissible\"><p>Anda telah mengautentikasi akun Microsoft OneDrive sebagai penyimpanan remote Anda.</p></div>"
+
+#: includes/customclass/class-wpvivid-google-drive.php:131
+msgid "<div class=\"notice notice-success is-dismissible\"><p>You have authenticated the Google Drive account as your remote storage.</p></div>"
+msgstr "<div class=\"notice notice-success is-dismissible\"><p>Anda telah mengautentikasi akun Google Drive sebagai penyimpanan remote Anda.</p></div>"
+
+#: includes/customclass/class-wpvivid-dropbox.php:412
+msgid "<div class=\"notice notice-success is-dismissible\"><p>You have authenticated the Dropbox account as your remote storage.</p></div>"
+msgstr "<div class=\"notice notice-success is-dismissible\"><p>Anda telah mengautentikasi akun Dropbox sebagai penyimpanan remote Anda.</p></div>"
+
+#: includes/upload-cleaner/class-wpvivid-uploads-cleaner.php:1105
+msgid "WPvivid Image Cleaner"
+msgstr "Pembersih Gambar WPvivid"
+
+#: includes/upload-cleaner/class-wpvivid-upload-cleaner-setting.php:922
+msgid "With this option checked, when the image is deleted, the corresponding image url in the database that is not used anywhere on your website will also be deleted."
+msgstr "Dengan opsi ini dicentang, saat gambar dihapus, URL gambar terkait di database yang tidak digunakan di mana pun di situs web Anda juga akan dihapus."
+
+#: includes/upload-cleaner/class-wpvivid-uploads-cleaner.php:2439
+#: includes/upload-cleaner/class-wpvivid-uploads-cleaner.php:2581
+msgid "Total Posts:"
+msgstr "Total Artikel:"
+
+#: includes/upload-cleaner/class-wpvivid-uploads-cleaner.php:2668
+#: includes/upload-cleaner/class-wpvivid-uploads-cleaner.php:2755
+#: includes/upload-cleaner/class-wpvivid-uploads-cleaner.php:2811
+msgid "Total Folders:"
+msgstr "Total Folder:"
+
+#: admin/partials/wpvivid-backup-restore-page-display.php:2907
+msgid "Tip:"
+msgstr "Tip:"
+
+#: includes/upload-cleaner/class-wpvivid-uploads-cleaner.php:98
+#: includes/upload-cleaner/class-wpvivid-uploads-cleaner.php:553
+msgid "Thumbnail"
+msgstr "Gambar Mini"
+
+#: includes/upload-cleaner/class-wpvivid-uploads-cleaner.php:101
+#: includes/upload-cleaner/class-wpvivid-uploads-cleaner.php:556
+msgid "Size"
+msgstr "Ukuran"
+
+#: includes/upload-cleaner/class-wpvivid-upload-cleaner-setting.php:932
+msgid "Set how many posts to process per request. The value should be set depending on your server performance and the recommended value is 20."
+msgstr "Atur berapa banyak artikel yang akan diproses per permintaan. Nilai harus ditetapkan tergantung pada kinerja server Anda dan nilai yang disarankan adalah 20."
+
+#: includes/upload-cleaner/class-wpvivid-upload-cleaner-setting.php:939
+msgid "Set how many media files to process per request. The value should be set depending on your server performance and the recommended value is 100."
+msgstr "Atur berapa banyak file media yang akan diproses per permintaan. Nilai harus ditetapkan tergantung pada kinerja server Anda dan nilai yang disarankan adalah 100."
+
+#: includes/upload-cleaner/class-wpvivid-uploads-cleaner.php:2443
+#: includes/upload-cleaner/class-wpvivid-uploads-cleaner.php:2585
+#: includes/upload-cleaner/class-wpvivid-uploads-cleaner.php:2672
+#: includes/upload-cleaner/class-wpvivid-uploads-cleaner.php:2759
+#: includes/upload-cleaner/class-wpvivid-uploads-cleaner.php:2815
+msgid "Scanned:"
+msgstr "Dipindai:"
+
+#: includes/upload-cleaner/class-wpvivid-uploads-cleaner.php:1180
+msgid "Scan"
+msgstr "Pindai"
+
+#: includes/upload-cleaner/class-wpvivid-upload-cleaner-setting.php:927
+msgid "Posts Quantity Processed Per Request"
+msgstr "Kuantitas Artikel Diproses Per Permintaan"
+
+#: includes/upload-cleaner/class-wpvivid-upload-cleaner-setting.php:474
+msgid "Post Type"
+msgstr "Jenis Posting"
+
+#: includes/upload-cleaner/class-wpvivid-uploads-cleaner.php:1192
+msgid "Please don't refresh the page while running a scan."
+msgstr "Mohon jangan me-refresh halaman saat menjalankan pemindaian."
+
+#: includes/upload-cleaner/class-wpvivid-uploads-cleaner.php:99
+#: includes/upload-cleaner/class-wpvivid-uploads-cleaner.php:554
+msgid "Path"
+msgstr "Jalur"
+
+#: includes/upload-cleaner/class-wpvivid-upload-cleaner-setting.php:934
+msgid "Media Files Quantity Processed Per Request"
+msgstr "Kuantitas File Media Diproses Per Permintaan"
+
+#: includes/upload-cleaner/class-wpvivid-upload-cleaner-setting.php:835
+msgid "Media Cleaner Settings"
+msgstr "Pengaturan Pembersih Media"
+
+#: includes/upload-cleaner/class-wpvivid-uploads-cleaner.php:1027
+#: includes/upload-cleaner/class-wpvivid-uploads-cleaner.php:1040
+msgid "Image Cleaner"
+msgstr "Pembersih Gambar"
+
+#: includes/upload-cleaner/class-wpvivid-upload-cleaner-setting.php:96
+msgid "File Regex"
+msgstr "Berkas Regex"
+
+#: includes/upload-cleaner/class-wpvivid-upload-cleaner-setting.php:909
+msgid "Enable Quick Scan"
+msgstr "Aktifkan Pemindaian Cepat"
+
+#: includes/upload-cleaner/class-wpvivid-upload-cleaner-setting.php:918
+msgid "Delete Image URL"
+msgstr "Hapus URL Gambar"
+
+#: includes/upload-cleaner/class-wpvivid-upload-cleaner-setting.php:913
+msgid "Checking this option will speed up your scans but may produce lower accuracy."
+msgstr "Mencentang opsi ini akan mempercepat pemindaian Anda tetapi dapat menghasilkan akurasi yang lebih rendah."
+
+#: includes/staging/class-wpvivid-staging-sites-list.php:819
+#: includes/upload-cleaner/class-wpvivid-upload-cleaner-setting.php:95
+#: includes/upload-cleaner/class-wpvivid-upload-cleaner-setting.php:473
+#: includes/upload-cleaner/class-wpvivid-uploads-cleaner.php:97
+#: includes/upload-cleaner/class-wpvivid-uploads-cleaner.php:552
+msgid " "
+msgstr " "
+
+#: admin/class-wpvivid-admin.php:1301
+msgid "Your email:"
+msgstr "E-mail Anda:"
+
+#: includes/class-wpvivid.php:3044
+#: includes/customclass/class-wpvivid-dropbox.php:864
+#: includes/customclass/class-wpvivid-google-drive.php:1129
+#: includes/customclass/class-wpvivid-one-drive.php:1380
+msgid "You have successfully added a remote storage."
+msgstr "Anda telah berhasil menambahkan penyimpanan remote."
+
+#: includes/customclass/class-wpvivid-one-drive.php:182
+msgid "You have authenticated the Microsoft OneDrive account as your remote storage."
+msgstr "Anda telah mengautentikasi akun Microsoft OneDrive sebagai penyimpanan remote Anda."
+
+#: includes/customclass/class-wpvivid-google-drive.php:198
+msgid "You have authenticated the Google Drive account as your remote storage."
+msgstr "Anda telah mengautentikasi akun Google Drive sebagai penyimpanan remote Anda."
+
+#: includes/customclass/class-wpvivid-dropbox.php:473
+msgid "You have authenticated the Dropbox account as your remote storage."
+msgstr "Anda telah mengautentikasi akun Dropbox sebagai penyimpanan remote Anda."
+
+#. Author of the plugin
+msgid "WPvivid Team"
+msgstr "Tim WPvivid"
+
+#: admin/class-wpvivid-admin.php:1300
+msgid "WPvivid support email:"
+msgstr "Email bantuan WPvivid:"
+
+#: admin/class-wpvivid-admin.php:190
+msgid "WPvivid Backup Settings"
+msgstr "Pengaturan WPvivid Backup"
+
+#. Plugin Name of the plugin
+#: admin/partials/wpvivid-admin-display.php:49
+#: includes/class-wpvivid-export-import.php:94
+msgid "WPvivid Backup Plugin"
+msgstr "Plugin WPvivid Backup"
+
+#: admin/partials/wpvivid-settings-page-display.php:606
+msgid "WPDB option has a better compatibility, but the speed of backup and restore is slower."
+msgstr "Opsi WPDB memiliki kompatibilitas yang lebih baik, tetapi kecepatan pencadangan dan pemulihan lebih lambat."
+
+#: admin/partials/wpvivid-backup-restore-page-display.php:396
+#: admin/partials/wpvivid-schedule-page-display.php:131
+#: includes/class-wpvivid-migrate.php:1158
+msgid "WordPress Files (Exclude Database)"
+msgstr "File WordPress (Kecualikan Basis Data)"
+
+#: includes/class-wpvivid-export-import.php:1562
+msgid "With this option checked, Pages/posts already existing will be overwritten with the updated ones in an import."
+msgstr "Dengan opsi ini dicentang, Halaman/artikel yang sudah ada akan ditimpa dengan yang diperbarui dalam impor."
+
+#: includes/class-wpvivid-schedule.php:46
+#: includes/class-wpvivid-schedule.php:97
+msgid "Weekly"
+msgstr "Mingguan"
+
+#: admin/class-wpvivid-admin.php:1342
+msgid "Website Info Value"
+msgstr "Nilai Info Situs Web"
+
+#: admin/class-wpvivid-admin.php:1341
+msgid "Website Info Key"
+msgstr "Kunci Info Situs Web"
+
+#: admin/partials/wpvivid-settings-page-display.php:308
+msgid "Web-server disk space in use by WPvivid"
+msgstr "Ruang disk server web yang digunakan oleh WPvivid"
+
+#: admin/partials/wpvivid-settings-page-display.php:155
+msgid "Web Server Directory:"
+msgstr "Direktori Server Web:"
+
+#: admin/partials/wpvivid-admin-display.php:63
+msgid "Warning: There is no default remote storage available for the scheduled backups, please set up it first."
+msgstr "Peringatan: Tidak ada penyimpanan remote default yang tersedia untuk pencadangan terjadwal, mohon atur terlebih dahulu."
+
+#: admin/class-wpvivid-admin.php:274
+msgid "Warning: The alias already exists in storage list."
+msgstr "Peringatan: Alias sudah ada di daftar penyimpanan."
+
+#: admin/class-wpvivid-admin.php:273
+#: includes/customclass/class-wpvivid-ftpclass.php:302
+#: includes/customclass/class-wpvivid-ftpclass.php:310
+msgid "Warning: An alias for remote storage is required."
+msgstr "Peringatan: Alias ​​untuk penyimpanan remote diperlukan."
+
+#: admin/class-wpvivid-admin.php:271
+msgid "Warning:"
+msgstr "Peringatan:"
+
+#: admin/partials/wpvivid-settings-page-display.php:643
+msgid "Using the option will ignore the file larger than the certain size in MB when backing up, '0' (zero) means unlimited."
+msgstr "Menggunakan opsi akan mengabaikan berkas yang lebih besar dari ukuran tertentu dalam MB saat mencadangkan, ‘0’ (nol) berarti tidak terbatas."
+
+#: includes/class-wpvivid.php:6580
+msgid "User's email address is required."
+msgstr "Alamat email pengguna diperlukan."
+
+#: includes/customclass/class-wpvivid-sftpclass.php:92
+#: includes/customclass/class-wpvivid-sftpclass.php:207
+msgid "User Password"
+msgstr "Kata Sandi Pengguna"
+
+#: includes/customclass/class-wpvivid-sftpclass.php:80
+#: includes/customclass/class-wpvivid-sftpclass.php:195
+msgid "User Name"
+msgstr "Nama Pengguna"
+
+#: admin/partials/wpvivid-backup-restore-page-display.php:2375
+#: includes/class-wpvivid-migrate.php:1210 includes/class-wpvivid.php:4149
+msgid "Uploaded:"
+msgstr "Diunggah:"
+
+#: includes/class-wpvivid-export-import.php:1538
+msgid "Upload and Import"
+msgstr "Unggah dan Impor"
+
+#: includes/class-wpvivid-migrate.php:1288
+msgid "Upload"
+msgstr "Unggah"
+
+#: includes/class-wpvivid-exporter.php:265
+msgid "Unpublished"
+msgstr "Tidak Diterbitkan"
+
+#: includes/customclass/class-wpvivid-ftpclass.php:139
+#: includes/customclass/class-wpvivid-ftpclass.php:240
+msgid "Uncheck this to enable FTP active mode."
+msgstr "Hapus centang ini untuk mengaktifkan mode aktif FTP."
+
+#: includes/customclass/class-wpvivid-ftpclass.php:145
+#: includes/customclass/class-wpvivid-ftpclass.php:246
+msgid "Uncheck the option to use FTP active mode when transferring files. Make sure the FTP server you are configuring supports the active FTP mode."
+msgstr "Hapus centang opsi untuk menggunakan mode aktif FTP saat mentransfer file. Pastikan server FTP yang Anda konfigurasi mendukung mode FTP aktif."
+
+#: includes/class-wpvivid-mail-report.php:1103 includes/class-wpvivid.php:5615
+msgid "Unable to send email. Please check the configuration of email server."
+msgstr "Tidak dapat mengirim email. Mohon periksa konfigurasi server email."
+
+#: includes/class-wpvivid-interface-mainwp.php:271
+#: includes/class-wpvivid-interface-mainwp.php:342
+#: includes/class-wpvivid-interface-mainwp.php:395
+#: includes/class-wpvivid-public-interface.php:204
+#: includes/class-wpvivid-public-interface.php:234
+#: includes/class-wpvivid-public-interface.php:263
+#: includes/class-wpvivid.php:706 includes/class-wpvivid.php:765
+#: includes/class-wpvivid.php:820 includes/class-wpvivid.php:5956
+#: includes/staging/class-wpvivid-staging-log-page.php:900
+msgid "Unable to open the log file."
+msgstr "Tidak dapat membuka file log."
+
+#: includes/class-wpvivid.php:2941
+msgid "Unable to delete the locked backup. Please unlock it first and try again."
+msgstr "Tidak dapat menghapus cadangan yang terkunci. Mohon buka kuncinya terlebih dahulu dan coba lagi."
+
+#. translators: %s: directory path
+#: includes/class-wpvivid-restore-site.php:276
+#: includes/staging/class-wpvivid-staging.php:2773
+msgid "Unable to create directory %s. Is its parent directory writable by the server?"
+msgstr "Tidak dapat membuat direktori %s. Apakah direktori induknya dapat ditulis oleh server?"
+
+#: admin/class-wpvivid-admin.php:1640
+msgid "Ultimate"
+msgstr "Terakhir"
+
+#: includes/class-wpvivid.php:6254
+msgid "Type:"
+msgstr "Tipe:"
+
+#: includes/class-wpvivid-importer.php:167
+msgid "Type: "
+msgstr "Tipe: "
+
+#: includes/class-wpvivid-export-import.php:125
+msgid "Try to select fewer items when you are facing a shortage of server resources (typically presented as a timeout error)."
+msgstr "Cobalah untuk memilih lebih sedikit item ketika Anda menghadapi kekurangan sumber daya server (biasanya ditampilkan sebagai eror batas waktu)."
+
+#: admin/class-wpvivid-admin.php:171
+#: includes/snapshot/class-wpvivid-snapshot.php:1512
+#: includes/staging/class-wpvivid-staging.php:83
+msgid "Troubleshooting"
+msgstr "Pemecahan Masalah"
+
+#: includes/class-wpvivid-migrate.php:1228
+msgid "Transfer succeeded. Please scan the backup list on the destination site to display the backup, then restore the backup."
+msgstr "Transfer berhasil. Mohon pindai daftar cadangan di situs tujuan untuk menampilkan cadangan, lalu pulihkan cadangan."
+
+#: admin/partials/wpvivid-backup-restore-page-display.php:2374
+#: admin/partials/wpvivid-settings-page-display.php:312
+#: includes/class-wpvivid-migrate.php:1209 includes/class-wpvivid.php:4148
+msgid "Total Size:"
+msgstr "Ukuran Total:"
+
+#: includes/class-wpvivid.php:1559 includes/class-wpvivid.php:1581
+#: includes/class-wpvivid.php:1607 includes/class-wpvivid.php:1732
+#: includes/class-wpvivid.php:1852
+#: includes/new_backup/class-wpvivid-backup2.php:852
+#: includes/new_backup/class-wpvivid-backup2.php:1220
+msgid "Too many resumption attempts."
+msgstr "Terlalu banyak upaya memulai kembali."
+
+#: includes/class-wpvivid-export-import.php:1522
+msgid "To properly display the imported content, please make sure that the importing and exporting sites have the same environment, for example, same theme or pages built with the same page builder."
+msgstr "Untuk menampilkan konten yang diimpor dengan benar, mohon pastikan bahwa situs pengimpor dan pengekspor memiliki lingkungan yang sama, misalnya, tema atau halaman yang sama yang dibuat dengan pembuat halaman yang sama."
+
+#: includes/class-wpvivid-exporter.php:115
+msgctxt "column name"
+msgid "Title"
+msgstr "Judul"
+
+#: includes/class-wpvivid-migrate.php:440
+msgid "Tips: For security reason, please choose an appropriate expiration time for the key."
+msgstr "Tips: Untuk alasan keamanan, mohon pilih waktu kedaluwarsa yang sesuai untuk kunci tersebut."
+
+#: includes/class-wpvivid-backup-uploader.php:647
+msgid "Tips: Click the button below to scan all uploaded or received backups in directory"
+msgstr "Tips: Klik tombol di bawah ini untuk memindai semua cadangan yang diunggah atau diterima di direktori"
+
+#: includes/class-wpvivid-export-import.php:124
+msgid "This will contain all of your posts, pages, comments, terms and images (original images, featured images and thumbnails)."
+msgstr "Ini akan berisi semua artikel, halaman, komentar, istilah, dan gambar Anda (gambar asli, gambar unggulan, dan thumbnail)."
+
+#: admin/partials/wpvivid-backup-restore-page-display.php:1144
+msgid "This request will delete the backup being downloaded, are you sure you want to continue?"
+msgstr "Permintaan ini akan menghapus cadangan yang sedang diunduh, apakah Anda yakin ingin melanjutkan?"
+
+#: admin/partials/wpvivid-backup-restore-page-display.php:1188
+#: admin/partials/wpvivid-backup-restore-page-display.php:2738
+msgid "This request might delete the backup being downloaded, are you sure you want to continue?"
+msgstr "Permintaan ini mungkin menghapus cadangan yang sedang diunduh, apakah Anda yakin ingin melanjutkan?"
+
+#: includes/class-wpvivid-importer.php:1931
+#: includes/class-wpvivid-importer.php:1936
+#: includes/class-wpvivid-importer.php:2161
+#: includes/class-wpvivid-importer.php:2357
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr "Ini sepertinya bukan file WXR, nomor versi WXR hilang/tidak valid"
+
+#: admin/partials/wpvivid-backup-restore-page-display.php:1135
+msgid "This backup is locked, are you sure to remove it? This backup will be deleted permanently from your hosting (localhost) and remote storages."
+msgstr "Cadangan ini terkunci, apakah Anda yakin untuk menghapusnya? Cadangan ini akan dihapus secara permanen dari hosting Anda (localhost) dan penyimpanan remote."
+
+#: admin/partials/wpvivid-backup-restore-page-display.php:2534
+msgid "This backup can only be deleted manually"
+msgstr "Cadangan ini hanya dapat dihapus secara manual"
+
+#: includes/class-wpvivid-importer.php:1882
+#: includes/class-wpvivid-importer.php:1919
+#: includes/class-wpvivid-importer.php:1927
+msgid "There was an error when reading this WXR file"
+msgstr "Ada kesalahan saat membaca file WXR ini"
+
+#: admin/partials/wpvivid-remote-storage-page-display.php:235
+#: admin/partials/wpvivid-schedule-page-display.php:189
+#: includes/class-wpvivid-interface-mainwp.php:143
+#: includes/class-wpvivid.php:593 includes/class-wpvivid.php:5486
+#: includes/new_backup/class-wpvivid-backup2.php:108
+msgid "There is no default remote storage configured. Please set it up first."
+msgstr "Tidak ada penyimpanan remote default yang dikonfigurasi. Mohon atur terlebih dahulu."
+
+#: admin/class-wpvivid-admin.php:1295
+msgid "There are two ways available to send us the debug information. The first one is recommended."
+msgstr "Ada dua cara yang tersedia untuk mengirimkan informasi debug kepada kami. Yang pertama direkomendasikan."
+
+#: admin/partials/wpvivid-settings-page-display.php:673
+msgid "The time-out is not your server PHP time-out. With the execution time exhausted, our plugin will shut the process of restore down. If the progress of restore encounters a time-out, that means you have a medium or large sized website, please try to scale the value bigger."
+msgstr "Time-out bukan time-out server PHP Anda. Dengan waktu eksekusi habis, plugin kami akan menutup proses pemulihan. Jika kemajuan pemulihan menemui batas waktu, itu berarti Anda memiliki situs web berukuran sedang atau besar, mohon coba skala nilai yang lebih besar."
+
+#: admin/partials/wpvivid-settings-page-display.php:648
+msgid "The time-out is not your server PHP time-out. With the execution time exhausted, our plugin will shut the process of backup down. If the progress of backup encounters a time-out, that means you have a medium or large sized website, please try to scale the value bigger."
+msgstr "Time-out bukan time-out server PHP Anda. Dengan waktu eksekusi habis, plugin kami akan mematikan proses pencadangan. Jika kemajuan pencadangan menemui batas waktu, itu berarti Anda memiliki situs web berukuran sedang atau besar, mohon coba skala nilai yang lebih besar."
+
+#: includes/customclass/class-wpvivid-amazons3-plus.php:187
+msgid "The simplexml extension is not detected. Please install the extension first."
+msgstr "Ekstensi simplexml tidak terdeteksi. Mohon instal ekstensinya terlebih dahulu."
+
+#: admin/partials/wpvivid-backup-restore-page-display.php:2907
+msgid "The settings are only for manual backup, which won't affect schedule settings."
+msgstr "Pengaturan hanya untuk pencadangan manual, yang tidak akan memengaruhi pengaturan jadwal."
+
+#: includes/class-wpvivid.php:5585
+msgid "The selected file is not the setting file for WPvivid. Please upload the right file."
+msgstr "File yang dipilih bukan file pengaturan untuk WPvivid. Mohon unggah file yang benar."
+
+#: includes/class-wpvivid.php:3925
+msgid "The restore file not found. Please verify the file exists."
+msgstr "File pemulihan tidak ditemukan. Mohon verifikasi file yang ada."
+
+#: includes/class-wpvivid.php:5460 includes/class-wpvivid.php:5464
+msgid "The pdo_mysql extension is not detected. Please install the extension first or choose wpdb option for Database connection method."
+msgstr "Ekstensi pdo_mysql tidak terdeteksi. Mohon instal ekstensi terlebih dahulu atau pilih opsi wpdb untuk metode koneksi Database."
+
+#: includes/class-wpvivid-function-realize.php:161
+#: includes/class-wpvivid-function-realize.php:173
+#: includes/class-wpvivid-function-realize.php:190
+#: includes/class-wpvivid.php:696 includes/class-wpvivid.php:756
+#: includes/class-wpvivid.php:811 includes/class-wpvivid.php:5947
+#: includes/staging/class-wpvivid-staging-log-page.php:881
+#: includes/staging/class-wpvivid-staging-log-page.php:891
+#: includes/staging/class-wpvivid-staging-log-page.php:1086
+#: includes/staging/class-wpvivid-staging-log-page.php:1100
+msgid "The log not found."
+msgstr "Log tidak ditemukan."
+
+#: includes/class-wpvivid.php:5434 includes/class-wpvivid.php:5441
+msgid "The local storage path is required."
+msgstr "Jalur penyimpanan lokal diperlukan."
+
+#: includes/class-wpvivid.php:4045 includes/class-wpvivid.php:4071
+msgid "The last backup message not found."
+msgstr "Pesan cadangan terakhir tidak ditemukan."
+
+#: includes/class-wpvivid-migrate.php:433
+msgid "The key will expire in "
+msgstr "Kunci akan kedaluwarsa di "
+
+#: includes/class-wpvivid-export-import.php:1546
+msgid "The importing file info"
+msgstr "Info file pengimpor"
+
+#: includes/class-wpvivid-migrate.php:1026
+msgid "The feature can help you transfer a Wordpress site to a new domain(site). It would be a convenient way to migrate your WP site from dev environment to live server or from old server to the new."
+msgstr "Fitur ini dapat membantu Anda mentransfer situs WordPress ke domain (situs) baru. Ini akan menjadi cara yang nyaman untuk memigrasikan situs WP Anda dari lingkungan dev ke server langsung atau dari server lama ke yang baru."
+
+#: includes/class-wpvivid-export-import.php:1317
+msgid "The export task is not responding."
+msgstr "Tugas ekspor tidak merespons."
+
+#: includes/class-wpvivid-migrate.php:1298
+msgid "The backups will be uploaded to %s directory."
+msgstr "Cadangan akan diunggah ke direktori %s."
+
+#: includes/class-wpvivid-backup.php:1160
+#: includes/class-wpvivid-backup.php:1177
+#: includes/class-wpvivid-function-realize.php:56
+#: includes/new_backup/class-wpvivid-backup-task_2.php:2671
+#: includes/new_backup/class-wpvivid-backup-task_2.php:2691
+msgid "The backup will be canceled after backing up the current chunk ends."
+msgstr "Pencadangan akan dibatalkan setelah pencadangan potongan saat ini berakhir."
+
+#: admin/partials/wpvivid-backup-restore-page-display.php:1295
+msgid "The backup is stored on the remote storage, click on the button to download it to localhost."
+msgstr "Cadangan disimpan di penyimpanan remote, klik tombol untuk mengunduhnya ke localhost."
+
+#: admin/partials/wpvivid-settings-page-display.php:169
+msgid "The action is irreversible! It will remove all backups are out-of-date (including local web server and remote storage) if they exist."
+msgstr "Tindakannya tidak dapat diubah! Ini akan menghapus semua cadangan yang kedaluwarsa (termasuk server web lokal dan penyimpanan remote) jika ada."
+
+#: admin/class-wpvivid-admin.php:857
+msgid "The %s extensions are not detected. Please install the extensions first."
+msgstr "Ekstensi %s tidak terdeteksi. Mohon instal ekstensi terlebih dahulu."
+
+#: admin/class-wpvivid-admin.php:854
+msgid "The %s extension is not detected. Please install the extension first."
+msgstr "Ekstensi %s tidak terdeteksi. Mohon instal ekstensi terlebih dahulu."
+
+#: admin/partials/wpvivid-settings-page-display.php:248
+msgid "Test Email"
+msgstr "Tes Email"
+
+#: includes/customclass/class-wpvivid-amazons3-plus.php:173
+#: includes/customclass/class-wpvivid-ftpclass.php:153
+#: includes/customclass/class-wpvivid-s3compat.php:517
+#: includes/customclass/class-wpvivid-sftpclass.php:143
+msgid "Test and Add"
+msgstr "Uji dan Tambahkan"
+
+#: includes/class-wpvivid.php:1740 includes/class-wpvivid.php:1860
+#: includes/new_backup/class-wpvivid-backup2.php:861
+#: includes/new_backup/class-wpvivid-backup2.php:1228
+msgid "Task timed out."
+msgstr "Waktu tugas sudah habis."
+
+#: includes/class-wpvivid-export-import.php:1376
+msgid "Task time out."
+msgstr "Waktu tugas habis."
+
+#: admin/partials/wpvivid-remote-storage-page-display.php:6
+#: admin/partials/wpvivid-remote-storage-page-display.php:318
+msgid "Storages"
+msgstr "Penyimpanan"
+
+#: admin/partials/wpvivid-remote-storage-page-display.php:34
+#: admin/partials/wpvivid-remote-storage-page-display.php:335
+msgid "Storage Provider"
+msgstr "Penyedia Penyimpanan"
+
+#: admin/partials/wpvivid-remote-storage-page-display.php:14
+#: admin/partials/wpvivid-remote-storage-page-display.php:320
+msgid "Storage Edit"
+msgstr "Edit Penyimpanan"
+
+#: includes/customclass/class-wpvivid-amazons3-plus.php:145
+#: includes/customclass/class-wpvivid-amazons3-plus.php:269
+msgid "Storage class: Standard (infrequent access)."
+msgstr "Kelas penyimpanan: Standar (akses jarang)."
+
+#: admin/partials/wpvivid-backup-restore-page-display.php:587
+msgid "Storage"
+msgstr "Penyimpanan"
+
+#: admin/class-wpvivid-admin.php:277
+msgid "Step Two: Choose an option to complete restore, if any"
+msgstr "Langkah Kedua: Pilih opsi untuk menyelesaikan pemulihan, jika ada"
+
+#: admin/class-wpvivid-admin.php:278
+msgid "Step Three: Click 'Restore' button"
+msgstr "Langkah Ketiga: Klik tombol 'Pulihkan"
+
+#: admin/class-wpvivid-admin.php:276
+msgid "Step One: In the backup list, click the 'Restore' button on the backup you want to restore. This will bring up the restore tab"
+msgstr "Langkah Kesatu: Dalam daftar cadangan, klik tombol 'Pulihkan' pada cadangan yang ingin Anda pulihkan. Ini akan memunculkan tab pemulihan"
+
+#: includes/class-wpvivid-backup.php:2333
+#: includes/new_backup/class-wpvivid-backup-task_2.php:484
+msgid "Start backing up %s."
+msgstr "Mulai mencadangkan %s."
+
+#: admin/partials/wpvivid-backup-restore-page-display.php:2376
+#: includes/class-wpvivid-migrate.php:1211 includes/class-wpvivid.php:4150
+msgid "Speed:"
+msgstr "Kecepatan:"
+
+#: includes/customclass/class-wpvivid-s3compat.php:466
+#: includes/customclass/class-wpvivid-s3compat.php:581
+msgid "Space Name(e.g. test)"
+msgstr "Nama Ruang (misalnya tes)"
+
+#: includes/class-wpvivid-importer.php:1681
+#: includes/class-wpvivid-importer.php:1782
+msgid "Sorry, this file type is not permitted for security reasons."
+msgstr "Maaf, jenis file ini tidak diizinkan untuk alasan keamanan."
+
+#: admin/partials/wpvivid-settings-page-display.php:638
+msgid "Some web hosting providers limit large zip files (e.g. 200MB), and therefore splitting your backup into many parts is an ideal way to avoid hitting the limitation if you are running a big website.  Please try to adjust the value if you are encountering backup errors. If you use a value of 0 MB, any backup files won't be split."
+msgstr "Beberapa penyedia web hosting membatasi file zip besar (misalnya 200MB), dan karena itu membagi cadangan Anda menjadi beberapa bagian adalah cara ideal untuk menghindari pembatasan jika Anda Anda menjalankan situs web besar.  Mohon coba sesuaikan nilainya jika Anda mengalami eror pencadangan. Jika Anda menggunakan nilai 0 MB, file cadangan apa pun tidak akan dibagi."
+
+#: admin/partials/wpvivid-settings-page-display.php:114
+msgid "Show WPvivid backup plugin on top admin bar"
+msgstr "Tampilkan plugin WPvivid backup di bilah admin atas"
+
+#: includes/customclass/class-wpvivid-sftpclass.php:38
+msgid "SFTP"
+msgstr "SFTP"
+
+#: admin/class-wpvivid-admin.php:137 admin/class-wpvivid-admin.php:500
+#: admin/class-wpvivid-admin.php:506 admin/class-wpvivid-admin.php:515
+#: admin/class-wpvivid-admin.php:521 admin/class-wpvivid-admin.php:1050
+msgid "Settings"
+msgstr "Pengaturan"
+
+#: includes/customclass/class-wpvivid-amazons3-plus.php:131
+#: includes/customclass/class-wpvivid-dropbox.php:548
+#: includes/customclass/class-wpvivid-ftpclass.php:125
+#: includes/customclass/class-wpvivid-google-drive.php:274
+#: includes/customclass/class-wpvivid-one-drive.php:258
+#: includes/customclass/class-wpvivid-s3compat.php:503
+#: includes/customclass/class-wpvivid-sftpclass.php:129
+msgid "Set as the default remote storage."
+msgstr "Atur sebagai penyimpanan remote default."
+
+#: includes/customclass/class-wpvivid-amazons3-plus.php:159
+#: includes/customclass/class-wpvivid-amazons3-plus.php:283
+msgid "Server-side encryption."
+msgstr "Enkripsi sisi server."
+
+#: admin/partials/wpvivid-backup-restore-page-display.php:2930
+msgid "Server Time: "
+msgstr "Waktu Server: "
+
+#: includes/customclass/class-wpvivid-sftpclass.php:68
+#: includes/customclass/class-wpvivid-sftpclass.php:183
+msgid "Server Address"
+msgstr "Alamat Server"
+
+#: admin/class-wpvivid-admin.php:1330
+msgid "Send Debug Information to Us"
+msgstr "Kirim Informasi Debug ke Kami"
+
+#: admin/partials/wpvivid-backup-restore-page-display.php:2516
+msgid "Send Backup to Remote Storage:"
+msgstr "Kirim Cadangan ke Penyimpanan Remote:"
+
+#: includes/class-wpvivid-backup-uploader.php:705
+msgid "Select Files"
+msgstr "Pilih File"
+
+#: includes/class-wpvivid-export-import.php:1551
+msgid "Select an existing author:"
+msgstr "Pilih penulis yang sudah ada:"
+
+#: admin/partials/wpvivid-backup-restore-page-display.php:35
+#: includes/class-wpvivid-exporter.php:71
+#: includes/class-wpvivid-importer.php:50
+#: includes/staging/class-wpvivid-staging-sites-list.php:360
+#: includes/upload-cleaner/class-wpvivid-upload-cleaner-setting.php:53
+#: includes/upload-cleaner/class-wpvivid-upload-cleaner-setting.php:431
+#: includes/upload-cleaner/class-wpvivid-uploads-cleaner.php:55
+#: includes/upload-cleaner/class-wpvivid-uploads-cleaner.php:510
+msgid "Select All"
+msgstr "Pilih Semua"
+
+#: includes/class-wpvivid-export-import.php:777
+msgid "Search for %s according to the above rules."
+msgstr "Cari %s menurut aturan di atas."
+
+#: admin/partials/wpvivid-schedule-page-display.php:117
+msgid "Scheduled job will start at <strong>UTC</strong> time:"
+msgstr "Pekerjaan terjadwal akan dimulai pada waktu <strong>UTC</strong> :"
+
+#: includes/class-wpvivid-exporter.php:287
+msgid "Scheduled"
+msgstr "Dijadwalkan"
+
+#: admin/partials/wpvivid-backup-restore-page-display.php:2928
+msgid "Schedule Status: "
+msgstr "Status Jadwal: "
+
+#: admin/partials/wpvivid-schedule-page-display.php:7
+msgid "Schedule Settings"
+msgstr "Pengaturan Jadwal"
+
+#: admin/class-wpvivid-admin.php:1038
+msgid "Schedule"
+msgstr "Jadwalkan"
+
+#: includes/class-wpvivid-export-import.php:1542
+msgid "Scan Uploaded Exports"
+msgstr "Pindai Ekspor yang Diunggah"
+
+#: includes/class-wpvivid-backup-uploader.php:650
+msgid "Scan uploaded backup or received backup"
+msgstr "Pindai cadangan yang diunggah atau cadangan yang diterima"
+
+#: admin/partials/wpvivid-backup-restore-page-display.php:2512
+msgid "Save Backups to Local"
+msgstr "Simpan Cadangan ke Lokal"
+
+#: includes/class-wpvivid.php:6408
+msgid "Save backups on localhost (web server)"
+msgstr "Simpan cadangan di localhost (server web)"
+
+#: includes/class-wpvivid-export-import.php:803
+msgid "Sample:"
+msgstr "Contoh:"
+
+#: includes/class-wpvivid-backup.php:1141
+#: includes/class-wpvivid-backup.php:1154
+#: includes/class-wpvivid-export-import.php:1309
+#: includes/new_backup/class-wpvivid-backup-task_2.php:2652
+#: includes/new_backup/class-wpvivid-backup-task_2.php:2665
+msgid "running time: "
+msgstr "waktu berjalan: "
+
+#: admin/class-wpvivid-admin.php:1132 admin/class-wpvivid-admin.php:1219
+#: admin/partials/wpvivid-remote-storage-page-display.php:48
+#: admin/partials/wpvivid-remote-storage-page-display.php:345
+#: includes/customclass/class-wpvivid-amazons3-plus.php:297
+#: includes/customclass/class-wpvivid-dropbox.php:736
+#: includes/customclass/class-wpvivid-ftpclass.php:254
+#: includes/customclass/class-wpvivid-google-drive.php:466
+#: includes/customclass/class-wpvivid-one-drive.php:449
+#: includes/customclass/class-wpvivid-s3compat.php:618
+#: includes/customclass/class-wpvivid-sftpclass.php:244
+#: includes/staging/class-wpvivid-staging-setting.php:386
+#: includes/upload-cleaner/class-wpvivid-upload-cleaner-setting.php:855
+msgid "Save Changes"
+msgstr "Simpan Perubahan"
+
+#: includes/class-wpvivid.php:2931
+msgid "Retrieving the backup(s) information failed while deleting the selected backup(s). Please try again later."
+msgstr "Gagal mengambil informasi cadangan saat menghapus cadangan yang dipilih. Mohon coba lagi nanti."
+
+#: includes/class-wpvivid-function-realize.php:156
+#: includes/class-wpvivid-function-realize.php:184
+#: includes/class-wpvivid.php:688 includes/class-wpvivid.php:802
+msgid "Retrieving the backup information failed while showing log. Please try again later."
+msgstr "Mengambil informasi cadangan gagal saat menampilkan log. Mohon coba lagi nanti."
+
+#: admin/partials/wpvivid-backup-restore-page-display.php:1294
+msgid "Retrieve the backup to localhost"
+msgstr "Ambil cadangan ke localhost"
+
+#: admin/class-wpvivid-admin.php:192
+msgid "Restore Your Site from a Backup"
+msgstr "Pulihkan Situs Anda dari Cadangan"
+
+#: admin/partials/wpvivid-backup-restore-page-display.php:1290
+msgid "Restore function will replace the current site's themes, plugins, uploads, database and/or other content directories with the existing equivalents in the selected backup."
+msgstr "Fungsi pemulihan akan menggantikan tema, plugin, unggahan, database, dan/atau direktori konten situs saat ini dengan padanan yang ada di cadangan yang dipilih."
+
+#: includes/class-wpvivid.php:3876
+msgid "restore failed error unknown"
+msgstr "memulihkan eror yang gagal tidak diketahui"
+
+#: admin/class-wpvivid-admin.php:588
+#: admin/partials/wpvivid-backup-restore-page-display.php:1712
+#: admin/partials/wpvivid-backup-restore-page-display.php:1725
+#: admin/partials/wpvivid-backup-restore-page-display.php:1736
+msgid "Restore completed successfully."
+msgstr "Pemulihan berhasil diselesaikan."
+
+#: admin/partials/wpvivid-backup-restore-page-display.php:1288
+msgid "Restore backup from:"
+msgstr "Pulihkan cadangan dari:"
+
+#: admin/partials/wpvivid-backup-restore-page-display.php:540
+#: admin/partials/wpvivid-backup-restore-page-display.php:589
+#: admin/partials/wpvivid-backup-restore-page-display.php:1292
+#: includes/class-wpvivid.php:6273
+msgid "Restore"
+msgstr "Restore"
+
+#: admin/partials/wpvivid-backup-restore-page-display.php:2483
+msgid "rename directory"
+msgstr "ganti nama direktori"
+
+#: admin/partials/wpvivid-settings-page-display.php:151
+msgid "Remove out-of-date backups"
+msgstr "Hapus cadangan yang kedaluwarsa"
+
+#: admin/partials/wpvivid-settings-page-display.php:168
+msgid "Remove"
+msgstr "Hapus"
+
+#: admin/partials/wpvivid-settings-page-display.php:156
+msgid "Remote Storage Directory:"
+msgstr "Direktori Penyimpanan Remote:"
+
+#: admin/partials/wpvivid-remote-storage-page-display.php:35
+#: admin/partials/wpvivid-remote-storage-page-display.php:336
+msgid "Remote Storage Alias"
+msgstr "Alias Penyimpanan Remote"
+
+#: admin/class-wpvivid-admin.php:1044
+msgid "Remote Storage"
+msgstr "Penyimpanan Remote"
+
+#: includes/customclass/class-wpvivid-s3compat.php:490
+#: includes/customclass/class-wpvivid-s3compat.php:605
+msgid "region.digitaloceanspaces.com"
+msgstr "region.digitaloceanspaces.com"
+
+#: includes/class-wpvivid-export-import.php:1305
+msgid "Ready to export. Progress: 0%, running time: 0second."
+msgstr "Siap ekspor. Kemajuan: 0%, waktu berjalan: 0 detik."
+
+#: includes/class-wpvivid-backup.php:1106
+#: includes/new_backup/class-wpvivid-backup-task_2.php:2616
+msgid "Ready to backup. Progress: 0%, running time: 0second."
+msgstr "Siap untuk cadangan. Kemajuan: 0%, waktu berjalan: 0 detik."
+
+#: includes/class-wpvivid-interface-mainwp.php:333
+#: includes/class-wpvivid-public-interface.php:225
+#: includes/class-wpvivid.php:723 includes/class-wpvivid.php:747
+#: includes/class-wpvivid.php:836 includes/class-wpvivid.php:5972
+#: includes/staging/class-wpvivid-staging-log-page.php:916
+#: includes/staging/class-wpvivid-staging-log-page.php:1163
+msgid "Reading the log failed. Please try again."
+msgstr "Gagal membaca log. Mohon coba lagi."
+
+#: admin/class-wpvivid-admin.php:176
+#: includes/staging/class-wpvivid-staging.php:88
+msgid "Read <a href=\"https://docs.wpvivid.com/troubleshooting-issues-wpvivid-backup-plugin.html\" target=\"_blank\">Troubleshooting page</a> for faster solutions."
+msgstr "Baca <a href=\"https://docs.wpvivid.com/troubleshooting-issues-wpvivid-backup-plugin.html\" target=\"_blank\">halaman Pemecahan Masalah</a> untuk solusi yang lebih cepat."
+
+#: includes/class-wpvivid-exporter.php:282
+msgid "Published"
+msgstr "Telah Terbit"
+
+#: includes/class-wpvivid-backup.php:1141
+#: includes/class-wpvivid-backup.php:1154
+#: includes/class-wpvivid-export-import.php:1309
+#: includes/new_backup/class-wpvivid-backup-task_2.php:2652
+#: includes/new_backup/class-wpvivid-backup-task_2.php:2665
+msgid "Progress: "
+msgstr "Kemajuan: "
+
+#: admin/partials/wpvivid-settings-page-display.php:103
+msgid "Pro feature: Retain more backups"
+msgstr "Fitur Pro: Pertahankan lebih banyak cadangan"
+
+#: admin/partials/wpvivid-backup-restore-page-display.php:408
+#: admin/partials/wpvivid-schedule-page-display.php:24
+#: admin/partials/wpvivid-schedule-page-display.php:36
+#: admin/partials/wpvivid-schedule-page-display.php:98
+#: admin/partials/wpvivid-schedule-page-display.php:146
+#: includes/class-wpvivid-migrate.php:1170
+#: includes/class-wpvivid-schedule.php:117
+msgid "Pro feature: learn more"
+msgstr "Fitur Pro: pelajari lebih lanjut"
+
+#: includes/customclass/class-wpvivid-dropbox.php:540
+#: includes/customclass/class-wpvivid-google-drive.php:266
+#: includes/customclass/class-wpvivid-one-drive.php:250
+msgid "Pro feature: Create a directory for storing the backups of the site"
+msgstr "Fitur Pro: Buat direktori untuk menyimpan cadangan situs"
+
+#: includes/customclass/class-wpvivid-ftpclass.php:81
+msgid "Pro feature: Change the FTP default port number"
+msgstr "Fitur Pro: Ubah nomor port default FTP"
+
+#: admin/partials/wpvivid-settings-page-display.php:261
+msgid "Pro feature: Add another email address to get report"
+msgstr "Fitur Pro: Tambahkan alamat email lain untuk mendapatkan laporan"
+
+#: admin/partials/wpvivid-backup-restore-page-display.php:274
+#: includes/class-wpvivid-exporter.php:559
+#: includes/class-wpvivid-importer.php:315
+#: includes/snapshot/class-wpvivid-snapshots-list.php:226
+#: includes/staging/class-wpvivid-staging-log-page.php:243
+#: includes/staging/class-wpvivid-staging-sites-list.php:616
+#: includes/staging/class-wpvivid-staging-sites-list.php:1035
+#: includes/upload-cleaner/class-wpvivid-upload-cleaner-setting.php:251
+#: includes/upload-cleaner/class-wpvivid-upload-cleaner-setting.php:629
+#: includes/upload-cleaner/class-wpvivid-uploads-cleaner.php:316
+#: includes/upload-cleaner/class-wpvivid-uploads-cleaner.php:771
+msgid "Previous page"
+msgstr "Halaman sebelumnya"
+
+#: admin/class-wpvivid-admin.php:1090
+msgid "Premium"
+msgstr "Premium"
+
+#: includes/class-wpvivid-importer.php:87
+msgid "Post Types"
+msgstr "Jenis Pos"
+
+#: includes/class-wpvivid-export-import.php:147
+msgid "Post"
+msgstr "Tulisan"
+
+#: includes/customclass/class-wpvivid-sftpclass.php:104
+#: includes/customclass/class-wpvivid-sftpclass.php:219
+msgid "Port"
+msgstr "Port"
+
+#: admin/partials/wpvivid-backup-restore-page-display.php:1183
+#: includes/class-wpvivid-export-import.php:395
+#: includes/snapshot/class-wpvivid-snapshot.php:1038
+msgid "Please select at least one item."
+msgstr "Mohon pilih setidaknya satu item."
+
+#: includes/customclass/class-wpvivid-one-drive.php:208
+#: includes/customclass/class-wpvivid-one-drive.php:390
+msgid "Please read <a target=\"_blank\" href=\"https://wpvivid.com/privacy-policy\" style=\"text-decoration: none;\">this privacy policy</a> for use of our Microsoft OneDrive authorization app (none of your backup data is sent to us)."
+msgstr "Mohon baca <a target=\"_blank\" href=\"https://wpvivid.com/privacy-policy\" style=\"text-decoration: none;\">kebijakan privasi ini</a> untuk penggunaan aplikasi otorisasi Microsoft OneDrive kami (tidak ada data cadangan Anda yang dikirimkan kepada kami)."
+
+#: includes/customclass/class-wpvivid-google-drive.php:224
+#: includes/customclass/class-wpvivid-google-drive.php:406
+msgid "Please read <a target=\"_blank\" href=\"https://wpvivid.com/privacy-policy\" style=\"text-decoration: none;\">this privacy policy</a> for use of our Google Drive authorization app (none of your backup data is sent to us)."
+msgstr "Mohon baca <a target=\"_blank\" href=\"https://wpvivid.com/privacy-policy\" style=\"text-decoration: none;\">kebijakan privasi ini</a> untuk penggunaan aplikasi otorisasi Google Drive kami (tidak ada data cadangan Anda yang dikirimkan kepada kami)."
+
+#: includes/customclass/class-wpvivid-dropbox.php:498
+#: includes/customclass/class-wpvivid-dropbox.php:677
+msgid "Please read <a target=\"_blank\" href=\"https://wpvivid.com/privacy-policy\" style=\"text-decoration: none;\">this privacy policy</a> for use of our Dropbox authorization app (none of your backup data is sent to us)."
+msgstr "Mohon baca <a target=\"_blank\" href=\"https://wpvivid.com/privacy-policy\" style=\"text-decoration: none;\">kebijakan privasi ini</a> untuk penggunaan aplikasi otorisasi Dropbox kami ( tidak ada data cadangan Anda yang dikirimkan kepada kami)."
+
+#: includes/class-wpvivid-migrate.php:891
+msgid "Please paste the key below."
+msgstr "Mohon tempelkan kunci di bawah ini."
+
+#: includes/class-wpvivid.php:6585
+msgid "Please enter a valid email address."
+msgstr "Silakan masukkan alamat email yang valid."
+
+#: admin/partials/wpvivid-backup-restore-page-display.php:1289
+msgid "Please do not close the page or switch to other pages when a restore task is running, as it could trigger some unexpected errors."
+msgstr "Mohon jangan menutup halaman atau beralih ke halaman lain saat tugas pemulihan sedang berjalan, karena dapat memicu beberapa eror tak terduga."
+
+#: admin/class-wpvivid-admin.php:1327
+msgid "Please describe your problem here."
+msgstr "Mohon jelaskan masalah Anda di sini."
+
+#: admin/partials/wpvivid-remote-storage-page-display.php:26
+#: admin/partials/wpvivid-remote-storage-page-display.php:327
+msgid "Please choose one storage to save your backups (remote storage)"
+msgstr "Mohon pilih satu penyimpanan untuk menyimpan cadangan Anda (penyimpanan remote)"
+
+#: admin/partials/wpvivid-settings-page-display.php:670
+msgid "PHP script execution timeout for restore"
+msgstr "Batas waktu eksekusi skrip PHP untuk pemulihan"
+
+#: admin/partials/wpvivid-settings-page-display.php:645
+msgid "PHP script execution timeout for backup"
+msgstr "Batas waktu eksekusi skrip PHP untuk pencadangan"
+
+#: admin/partials/wpvivid-settings-page-display.php:675
+msgid "PHP Memory Limit for restoration"
+msgstr "Batas Memori PHP untuk pemulihan"
+
+#: admin/partials/wpvivid-settings-page-display.php:650
+msgid "PHP Memory Limit for backup"
+msgstr "Batas Memori PHP untuk cadangan"
+
+#: includes/class-wpvivid-export-import.php:150
+msgid "Page"
+msgstr "Halaman"
+
+#: includes/class-wpvivid-export-import.php:1558
+msgid "Overwrite existing pages"
+msgstr "Timpa halaman yang ada"
+
+#: includes/class-wpvivid-export-import.php:1541
+msgid "Or you can use ftp to upload the export to the directory %s. Then click the button below to scan the file to import."
+msgstr "Atau Anda dapat menggunakan ftp untuk mengunggah hasil ekspor ke direktori %s. Kemudian klik tombol di bawah untuk memindai file yang akan diimpor."
+
+#: includes/class-wpvivid-backup-uploader.php:704
+msgctxt "Uploader: Drop files here - or - Select Files"
+msgid "or"
+msgstr "atau"
+
+#: admin/partials/wpvivid-settings-page-display.php:257
+msgid "Only send an email notification when a backup fails"
+msgstr "Hanya kirim pemberitahuan email saat pencadangan gagal"
+
+#: includes/class-wpvivid-export-import.php:799
+msgid "Only letters (except for wpvivid) and numbers are allowed."
+msgstr "Hanya huruf (kecuali wpvivid) dan angka yang diperbolehkan."
+
+#: admin/partials/wpvivid-backup-restore-page-display.php:400
+#: admin/partials/wpvivid-schedule-page-display.php:136
+#: includes/class-wpvivid-migrate.php:1162
+msgid "Only Database"
+msgstr "Hanya Database"
+
+#: includes/customclass/class-wpvivid-amazons3-plus.php:137
+#: includes/customclass/class-wpvivid-dropbox.php:554
+#: includes/customclass/class-wpvivid-ftpclass.php:131
+#: includes/customclass/class-wpvivid-google-drive.php:280
+#: includes/customclass/class-wpvivid-one-drive.php:264
+#: includes/customclass/class-wpvivid-s3compat.php:509
+#: includes/customclass/class-wpvivid-sftpclass.php:135
+msgid "Once checked, all this sites backups sent to a remote storage destination will be uploaded to this storage by default."
+msgstr "Setelah dicentang, semua cadangan situs ini yang dikirim ke tujuan penyimpanan remote akan diunggah ke penyimpanan ini secara default."
+
+#: includes/class-wpvivid-migrate.php:1301
+msgid "Note: The files you want to upload must be a backup created by WPvivid backup plugin. Make sure that uploading every part of a backup to the directory if the backup is split into many parts"
+msgstr "Catatan: File yang ingin Anda unggah harus merupakan cadangan yang dibuat oleh plugin WPvivid backup. Pastikan bahwa mengunggah setiap bagian dari cadangan ke direktori jika cadangan dipecah menjadi banyak bagian"
+
+#: includes/class-wpvivid-migrate.php:1133
+#: includes/upload-cleaner/class-wpvivid-uploads-cleaner.php:864
+#: includes/upload-cleaner/class-wpvivid-uploads-cleaner.php:902
+#: includes/upload-cleaner/class-wpvivid-uploads-cleaner.php:1191
+msgid "Note: "
+msgstr "Catatan: "
+
+#: includes/class-wpvivid-export-import.php:125
+#: includes/class-wpvivid-export-import.php:1521
+msgid "Note:"
+msgstr "Catatan:"
+
+#: includes/class-wpvivid-export-import.php:158
+#: includes/class-wpvivid-export-import.php:181
+msgid "Next Step"
+msgstr "Langkah berikutnya"
+
+#: admin/partials/wpvivid-backup-restore-page-display.php:299
+#: includes/class-wpvivid-exporter.php:584
+#: includes/class-wpvivid-importer.php:340
+#: includes/snapshot/class-wpvivid-snapshots-list.php:251
+#: includes/staging/class-wpvivid-staging-log-page.php:268
+#: includes/staging/class-wpvivid-staging-sites-list.php:641
+#: includes/staging/class-wpvivid-staging-sites-list.php:1060
+#: includes/upload-cleaner/class-wpvivid-upload-cleaner-setting.php:276
+#: includes/upload-cleaner/class-wpvivid-upload-cleaner-setting.php:654
+#: includes/upload-cleaner/class-wpvivid-uploads-cleaner.php:341
+#: includes/upload-cleaner/class-wpvivid-uploads-cleaner.php:796
+msgid "Next page"
+msgstr "Halaman selanjutnya"
+
+#: admin/partials/wpvivid-backup-restore-page-display.php:2932
+msgid "Next Backup: "
+msgstr "Cadangan Berikutnya: "
+
+#: admin/partials/wpvivid-backup-restore-page-display.php:2379
+#: includes/class-wpvivid-migrate.php:1214 includes/class-wpvivid.php:4153
+msgid "Network Connection:"
+msgstr "Koneksi Jaringan:"
+
+#: admin/partials/wpvivid-settings-page-display.php:139
+msgid "Name your folder, this folder must be writable for creating backup files."
+msgstr "Beri nama folder Anda, folder ini harus dapat ditulis untuk membuat file cadangan."
+
+#: admin/class-wpvivid-admin.php:1318
+msgid "My web hosting provider is:"
+msgstr "Penyedia hosting web saya adalah:"
+
+#: includes/class-wpvivid-export-import.php:153
+msgid "More post types coming soon..."
+msgstr "Jenis artikel lainnya segera hadir…"
+
+#: includes/class-wpvivid-schedule.php:58
+#: includes/class-wpvivid-schedule.php:103
+msgid "Monthly"
+msgstr "Bulanan"
+
+#: includes/class-wpvivid-exporter.php:285
+msgid "Missed schedule"
+msgstr "Missed schedule"
+
+#: admin/class-wpvivid-admin.php:567
+msgid "Migration is complete and htaccess file is replaced. In order to successfully complete the migration, you'd better reinstall 301 redirect plugin, firewall and security plugin, and caching plugin if they exist."
+msgstr "Migrasi selesai dan file htaccess diganti. Agar berhasil menyelesaikan migrasi, Anda sebaiknya menginstal ulang plugin pengalihan 301, firewall dan plugin keamanan, dan plugin caching jika ada."
+
+#: admin/class-wpvivid-admin.php:193
+msgid "Migrate WordPress"
+msgstr "Migrasi WordPress"
+
+#: includes/customclass/class-wpvivid-one-drive.php:194
+msgid "Microsoft OneDrive"
+msgstr "Microsoft OneDrive"
+
+#: admin/class-wpvivid-admin.php:1334
+msgid "Method 2."
+msgstr "Metode 2."
+
+#: admin/class-wpvivid-admin.php:1297
+msgid "Method 1."
+msgstr "Metode 1."
+
+#: admin/partials/wpvivid-settings-page-display.php:120
+msgid "Merge all the backup files into single package when a backup completes. This will save great disk spaces, though takes longer time. We recommended you check the option especially on sites with insufficient server resources."
+msgstr "Gabungkan semua file cadangan menjadi satu paket saat pencadangan selesai. Ini akan menghemat ruang disk yang besar, meskipun membutuhkan waktu lebih lama. Kami menyarankan Anda memeriksa opsi ini terutama di situs dengan sumber daya server yang tidak mencukupi."
+
+#: includes/class-wpvivid-importer.php:89
+msgid "Media Files Size"
+msgstr "Ukuran File Media"
+
+#: admin/class-wpvivid-admin.php:1080
+msgid "MainWP"
+msgstr "MainWP"
+
+#: admin/class-wpvivid-admin.php:1264
+msgid "Logs"
+msgstr "Log"
+
+#: admin/class-wpvivid-admin.php:1456
+#: includes/staging/class-wpvivid-staging-log-page.php:54
+#: includes/staging/class-wpvivid-staging-log-page.php:359
+msgid "Log Type"
+msgstr "Tipe Log"
+
+#: admin/class-wpvivid-admin.php:1457
+#: includes/staging/class-wpvivid-staging-log-page.php:360
+msgid "Log File Name"
+msgstr "Nama File Log"
+
+#: admin/class-wpvivid-admin.php:1069
+#: admin/partials/wpvivid-backup-restore-page-display.php:529
+#: admin/partials/wpvivid-backup-restore-page-display.php:2386
+#: includes/class-wpvivid.php:6255
+msgid "Log"
+msgstr "Log"
+
+#: admin/partials/wpvivid-settings-page-display.php:141
+msgid "Local storage directory:"
+msgstr "Direktori penyimpanan lokal:"
+
+#: admin/partials/wpvivid-backup-restore-page-display.php:2481
+msgid "Local Storage Directory:"
+msgstr "Direktori Penyimpanan Lokal:"
+
+#: includes/class-wpvivid-export-import.php:121
+#: includes/class-wpvivid-export-import.php:1518
+msgid "Learn more"
+msgstr "Pelajari lebih lanjut"
+
+#: admin/partials/wpvivid-backup-restore-page-display.php:309
+#: includes/class-wpvivid-exporter.php:594
+#: includes/class-wpvivid-importer.php:350
+#: includes/snapshot/class-wpvivid-snapshots-list.php:261
+#: includes/staging/class-wpvivid-staging-log-page.php:278
+#: includes/staging/class-wpvivid-staging-sites-list.php:651
+#: includes/staging/class-wpvivid-staging-sites-list.php:1070
+#: includes/upload-cleaner/class-wpvivid-upload-cleaner-setting.php:286
+#: includes/upload-cleaner/class-wpvivid-upload-cleaner-setting.php:664
+#: includes/upload-cleaner/class-wpvivid-uploads-cleaner.php:351
+#: includes/upload-cleaner/class-wpvivid-uploads-cleaner.php:806
+msgid "Last page"
+msgstr "Halaman terakhir"
+
+#: includes/class-wpvivid-exporter.php:290
+msgid "Last Modified"
+msgstr "Terakhir Dimodifikasi"
+
+#: includes/class-wpvivid.php:4074
+msgid "Last Backup: "
+msgstr "Pencadangan Terakhir: "
+
+#: includes/class-wpvivid-migrate.php:56
+msgid "Key"
+msgstr "Kunci"
+
+#: admin/partials/wpvivid-settings-page-display.php:126
+msgid "Keep storing the backups in localhost after uploading to remote storage"
+msgstr "Tetap simpan cadangan di localhost setelah mengunggah ke penyimpanan remote"
+
+#: admin/partials/wpvivid-settings-page-display.php:612
+msgid "It is recommended to choose PDO option if pdo_mysql extension is installed on your server, which lets you backup and restore your site faster."
+msgstr "Disarankan untuk memilih opsi PDO jika ekstensi pdo_mysql diinstal di server Anda, yang memungkinkan Anda membuat cadangan dan memulihkan situs Anda lebih cepat."
+
+#: includes/class-wpvivid-importer.php:1742
+msgid "Invalid file type"
+msgstr "Jenis file tidak valid"
+
+#: includes/class-wpvivid.php:5607
+msgid "Invalid email address"
+msgstr "Alamat email tidak valid"
+
+#: includes/class-wpvivid-migrate.php:431
+msgid "In order to allow another site to send a backup to this site, please generate a key below. Once the key is generated, this site is ready to receive a backup from another site. Then, please copy and paste the key in sending site and save it."
+msgstr "Untuk memungkinkan situs lain mengirim cadangan ke situs ini, mohon buat kunci di bawah ini. Setelah kunci dihasilkan, situs ini siap menerima cadangan dari situs lain. Kemudian, mohon salin dan tempel kunci di situs pengirim dan simpan."
+
+#: admin/partials/wpvivid-settings-page-display.php:455
+msgid "Importing the json file can help you set WPvivid's configuration on another wordpress site quickly."
+msgstr "Mengimpor file json dapat membantu Anda mengatur konfigurasi WPvivid di situs wordpress lain dengan cepat."
+
+#: includes/class-wpvivid-export-import.php:1554
+msgid "Import Setting"
+msgstr "Pengaturan Impor"
+
+#: includes/class-wpvivid-export-import.php:1516
+msgid "Import posts or pages with images in bulk."
+msgstr "Impor artikel atau halaman dengan gambar secara massal."
+
+#: admin/partials/wpvivid-settings-page-display.php:454
+#: includes/class-wpvivid-export-import.php:1564
+#: includes/class-wpvivid-importer.php:194
+msgid "Import"
+msgstr "Impor"
+
+#: admin/class-wpvivid-admin.php:1297
+msgid "If you have configured SMTP on your site, enter your email address and click the button below to send us the relevant information (website info and errors logs) when you are encountering errors. This will help us figure out what happened. Once the issue is resolved, we will inform you by your email address."
+msgstr "Jika Anda telah mengonfigurasi SMTP di situs Anda, masukkan alamat email Anda dan klik tombol di bawah ini untuk mengirimi kami informasi yang relevan (info situs web dan log eror) ketika Anda menemukan eror. Ini akan membantu kita mengetahui apa yang terjadi. Setelah masalah teratasi, kami akan memberi tahu Anda melalui alamat email Anda."
+
+#: admin/class-wpvivid-admin.php:1334
+msgid "If you didn’t configure SMTP on your site, click the button below to download the relevant information (website info and error logs) to your PC when you are encountering some errors. Sending the files to us will help us diagnose what happened."
+msgstr "Jika Anda tidak mengonfigurasi SMTP di situs Anda, klik tombol di bawah ini untuk mengunduh informasi yang relevan (info situs web dan log eror) ke PC Anda ketika Anda mengalami beberapa eror. Mengirim file kepada kami akan membantu kami mendiagnosis apa yang terjadi."
+
+#: admin/class-wpvivid-admin.php:1589
+msgid "If you are a MainWP user, you can set up and control WPvivid Backup Free and Pro for every child site directly from your MainWP dashboard, using our WPvivid Backup for MainWP extension."
+msgstr "Jika Anda adalah pengguna MainWP, Anda dapat mengatur dan mengontrol WPvivid Backup Free dan Pro untuk setiap situs anak langsung dari dasbor MainWP Anda, menggunakan WPvivid Backup untuk ekstensi MainWP kami."
+
+#: admin/class-wpvivid-admin.php:1306
+msgid "I am using:"
+msgstr "Saya menggunakan:"
+
+#. Author URI of the plugin
+msgid "https://wpvivid.com"
+msgstr "https://wpvivid.com"
+
+#: admin/class-wpvivid-admin.php:186
+#: includes/staging/class-wpvivid-staging.php:95
+msgid "How-to"
+msgstr "Bagaimana caranya"
+
+#: admin/partials/wpvivid-backup-restore-page-display.php:507
+msgid "How to restore your website from a backup(scheduled, manual, uploaded and received backup)"
+msgstr "Cara memulihkan situs web Anda dari cadangan (dijadwalkan, manual, diunggah dan menerima cadangan)"
+
+#: includes/class-wpvivid-migrate.php:1142
+msgid "How to migrate Wordpress site manually to a new domain(site) with WPvivid backup plugin?"
+msgstr "Bagaimana cara memigrasikan situs WordPress secara manual ke domain (situs) baru dengan plugin cadangan WPvivid?"
+
+#: includes/customclass/class-wpvivid-amazons3-plus.php:87
+#: includes/customclass/class-wpvivid-amazons3-plus.php:225
+msgid "How to get an AmazonS3 access key."
+msgstr "Cara mendapatkan kunci akses AmazonS3."
+
+#: includes/class-wpvivid-migrate.php:891
+msgid "How to get a site key?"
+msgstr "Bagaimana cara mendapatkan kunci situs?"
+
+#: admin/partials/wpvivid-schedule-page-display.php:85
+msgid "Highlighted icon illuminates that you have choosed a remote storage to store backups"
+msgstr "Ikon yang disorot menunjukkan bahwa Anda telah memilih penyimpanan remote untuk menyimpan cadangan"
+
+#: includes/customclass/class-wpvivid-google-drive.php:210
+msgid "Google Drive"
+msgstr "Google Drive"
+
+#: includes/class-wpvivid.php:4265
+msgid "Getting backup directory failed. Please try again later."
+msgstr "Gagal mendapatkan direktori cadangan. Mohon coba lagi nanti."
+
+#: includes/class-wpvivid-migrate.php:442
+msgid "Generate"
+msgstr "Menghasilkan"
+
+#: admin/partials/wpvivid-settings-page-display.php:730
+msgid "General Settings"
+msgstr "Pengaturan Umum"
+
+#: includes/customclass/class-wpvivid-ftpclass.php:64
+#: includes/customclass/class-wpvivid-ftpclass.php:191
+msgid "FTP server (server's port 21)"
+msgstr "Server FTP (port server 21)"
+
+#: includes/customclass/class-wpvivid-ftpclass.php:100
+#: includes/customclass/class-wpvivid-ftpclass.php:215
+msgid "FTP password"
+msgstr "Kata sandi FTP"
+
+#: includes/customclass/class-wpvivid-ftpclass.php:88
+#: includes/customclass/class-wpvivid-ftpclass.php:203
+msgid "FTP login"
+msgstr "Login FTP"
+
+#: includes/customclass/class-wpvivid-ftpclass.php:36
+msgid "FTP"
+msgstr "FTP"
+
+#: admin/class-wpvivid-admin.php:1638
+msgid "Freelancer"
+msgstr "Pekerja lepas"
+
+#: includes/class-wpvivid-schedule.php:52
+#: includes/class-wpvivid-schedule.php:100
+msgid "Fortnightly"
+msgstr "Dua minggu sekali"
+
+#: admin/partials/wpvivid-backup-restore-page-display.php:263
+#: includes/class-wpvivid-exporter.php:548
+#: includes/class-wpvivid-importer.php:304
+#: includes/snapshot/class-wpvivid-snapshots-list.php:215
+#: includes/staging/class-wpvivid-staging-log-page.php:232
+#: includes/staging/class-wpvivid-staging-sites-list.php:605
+#: includes/staging/class-wpvivid-staging-sites-list.php:1024
+#: includes/upload-cleaner/class-wpvivid-upload-cleaner-setting.php:240
+#: includes/upload-cleaner/class-wpvivid-upload-cleaner-setting.php:618
+#: includes/upload-cleaner/class-wpvivid-uploads-cleaner.php:305
+#: includes/upload-cleaner/class-wpvivid-uploads-cleaner.php:760
+msgid "First page"
+msgstr "Halaman pertama"
+
+#: includes/class-wpvivid-export-import.php:632
+msgid "Filter Posts/Pages"
+msgstr "Filter Artikel/Halaman"
+
+#: admin/partials/wpvivid-backup-restore-page-display.php:2371
+msgid "File Size:"
+msgstr "Ukuran file:"
+
+#: includes/class-wpvivid-export-import.php:1485
+msgid "File size not match. please retry again."
+msgstr "Ukuran file tidak cocok. Mohon coba lagi."
+
+#: includes/class-wpvivid-importer.php:1674
+#: includes/class-wpvivid-importer.php:1787
+msgid "File not exist, file:"
+msgstr "File tidak ada, file:"
+
+#: includes/class-wpvivid-importer.php:86
+msgid "File Name"
+msgstr "Nama File"
+
+#: includes/class-wpvivid-importer.php:1729
+msgid "Fetching attachments is not enabled"
+msgstr "Mengambil lampiran tidak diaktifkan"
+
+#: includes/class-wpvivid.php:3124
+msgid "Failed to get the remote storage information. Please try again later."
+msgstr "Gagal mendapatkan informasi penyimpanan remote. Mohon coba lagi nanti."
+
+#: includes/class-wpvivid-export-import.php:135
+msgid "Exported files will be temporarily stored in %s directory"
+msgstr "File yang diekspor akan disimpan sementara di direktori %s"
+
+#: includes/class-wpvivid-export-import.php:119
+msgid "Export posts or pages with images in bulk."
+msgstr "Ekspor artikel atau halaman dengan gambar secara massal."
+
+#: includes/class-wpvivid-export-import.php:1342
+msgid "Export error:"
+msgstr "Eror ekspor:"
+
+#: includes/class-wpvivid-export-import.php:812
+msgid "Export and Download"
+msgstr "Ekspor dan Unduh"
+
+#: includes/class-wpvivid-export-import.php:65
+#: includes/class-wpvivid-export-import.php:78
+msgid "Export & Import"
+msgstr "Ekspor &Impor"
+
+#: includes/class-wpvivid-export-import.php:734
+msgid "Export %s published before this date."
+msgstr "Ekspor %s diterbitkan sebelum tanggal ini."
+
+#: includes/class-wpvivid-export-import.php:713
+msgid "Export %s published after this date."
+msgstr "Ekspor %s diterbitkan setelah tanggal ini."
+
+#: includes/class-wpvivid-export-import.php:661
+msgid "Export %s of all categories or a specific category."
+msgstr "Ekspor %s dari semua kategori atau kategori tertentu."
+
+#: includes/class-wpvivid-export-import.php:692
+msgid "Export %s of all authors or a specific author."
+msgstr "Ekspor %s dari semua penulis atau penulis tertentu."
+
+#: admin/partials/wpvivid-settings-page-display.php:449
+msgid "Export"
+msgstr "Ekspor"
+
+#: admin/partials/wpvivid-settings-page-display.php:640
+msgid "Exclude the files which are larger than"
+msgstr "Kecualikan file yang lebih besar dari"
+
+#: admin/class-wpvivid-admin.php:272
+msgid "Error:"
+msgstr "Kesalahan:"
+
+#: includes/class-wpvivid-export-import.php:1150
+msgid "Error occurred while parsing the request data. Please try to run export task again."
+msgstr "Terjadi eror saat menguraikan data permintaan. Mohon coba jalankan tugas ekspor lagi."
+
+#: includes/class-wpvivid-interface-mainwp.php:182
+#: includes/class-wpvivid-migrate.php:753
+#: includes/class-wpvivid-public-interface.php:60
+#: includes/class-wpvivid.php:636
+msgid "Error occurred while parsing the request data. Please try to run backup again."
+msgstr "Terjadi eror saat menguraikan data permintaan. Mohon coba jalankan cadangan lagi."
+
+#: includes/customclass/class-wpvivid-sftpclass.php:48
+#: includes/customclass/class-wpvivid-sftpclass.php:163
+msgid "Enter Your SFTP Account"
+msgstr "Masukkan Akun SFTP Anda"
+
+#: includes/customclass/class-wpvivid-one-drive.php:214
+#: includes/customclass/class-wpvivid-one-drive.php:430
+msgid "Enter Your Microsoft OneDrive Information"
+msgstr "Masukkan Informasi Microsoft OneDrive Anda"
+
+#: includes/customclass/class-wpvivid-google-drive.php:230
+#: includes/customclass/class-wpvivid-google-drive.php:447
+msgid "Enter Your Google Drive Information"
+msgstr "Masukkan Informasi Google Drive Anda"
+
+#: includes/customclass/class-wpvivid-ftpclass.php:93
+#: includes/customclass/class-wpvivid-ftpclass.php:208
+msgid "Enter your FTP server user name."
+msgstr "Masukkan nama pengguna server FTP Anda."
+
+#: includes/customclass/class-wpvivid-ftpclass.php:45
+#: includes/customclass/class-wpvivid-ftpclass.php:172
+msgid "Enter Your FTP Account"
+msgstr "Masukkan Akun FTP Anda"
+
+#: includes/customclass/class-wpvivid-dropbox.php:504
+msgid "Enter Your Dropbox Information"
+msgstr "Masukkan Informasi Dropbox Anda"
+
+#: includes/customclass/class-wpvivid-s3compat.php:459
+#: includes/customclass/class-wpvivid-s3compat.php:574
+msgid "Enter your DigitalOcean Spaces secret key"
+msgstr "Masukkan kunci rahasia DigitalOcean Spaces Anda"
+
+#: includes/customclass/class-wpvivid-s3compat.php:422
+#: includes/customclass/class-wpvivid-s3compat.php:537
+msgid "Enter Your DigitalOcean Spaces Account"
+msgstr "Masukkan Akun DigitalOcean Spaces Anda"
+
+#: includes/customclass/class-wpvivid-s3compat.php:447
+#: includes/customclass/class-wpvivid-s3compat.php:562
+msgid "Enter your DigitalOcean Spaces access key"
+msgstr "Masukkan kunci akses DigitalOcean Spaces Anda"
+
+#: includes/customclass/class-wpvivid-amazons3-plus.php:99
+#: includes/customclass/class-wpvivid-amazons3-plus.php:237
+msgid "Enter your Amazon S3 secret key."
+msgstr "Masukkan kunci rahasia Amazon S3 Anda."
+
+#: includes/customclass/class-wpvivid-amazons3-plus.php:62
+#: includes/customclass/class-wpvivid-amazons3-plus.php:200
+msgid "Enter Your Amazon S3 Account"
+msgstr "Masukkan Akun Amazon S3 Anda"
+
+#: includes/customclass/class-wpvivid-amazons3-plus.php:87
+#: includes/customclass/class-wpvivid-amazons3-plus.php:225
+msgid "Enter your Amazon S3 access key."
+msgstr "Masukkan kunci akses Amazon S3 Anda."
+
+#: includes/customclass/class-wpvivid-sftpclass.php:97
+#: includes/customclass/class-wpvivid-sftpclass.php:212
+msgid "Enter the user password."
+msgstr "Masukkan kata sandi pengguna."
+
+#: includes/customclass/class-wpvivid-sftpclass.php:85
+#: includes/customclass/class-wpvivid-sftpclass.php:200
+msgid "Enter the user name."
+msgstr "Masukkan nama pengguna."
+
+#: includes/customclass/class-wpvivid-sftpclass.php:109
+#: includes/customclass/class-wpvivid-sftpclass.php:224
+msgid "Enter the server port."
+msgstr "Masukkan port server."
+
+#: includes/customclass/class-wpvivid-sftpclass.php:73
+#: includes/customclass/class-wpvivid-sftpclass.php:188
+msgid "Enter the server address."
+msgstr "Masukkan alamat server."
+
+#: includes/customclass/class-wpvivid-ftpclass.php:69
+#: includes/customclass/class-wpvivid-ftpclass.php:196
+msgid "Enter the FTP server."
+msgstr "Masukkan server FTP."
+
+#: includes/customclass/class-wpvivid-ftpclass.php:105
+#: includes/customclass/class-wpvivid-ftpclass.php:220
+msgid "Enter the FTP server password."
+msgstr "Masukkan kata sandi server FTP."
+
+#: includes/customclass/class-wpvivid-s3compat.php:495
+#: includes/customclass/class-wpvivid-s3compat.php:610
+msgid "Enter the DigitalOcean Endpoint for the storage"
+msgstr "Masukkan DigitalOcean Endpoint untuk penyimpanan"
+
+#: includes/customclass/class-wpvivid-ftpclass.php:52
+#: includes/customclass/class-wpvivid-ftpclass.php:179
+msgid "Enter an unique alias: e.g. FTP-001"
+msgstr "Masukkan alias unik: misalnya FTP-001"
+
+#: includes/customclass/class-wpvivid-s3compat.php:471
+#: includes/customclass/class-wpvivid-s3compat.php:586
+msgid "Enter an existed Space to create a custom backup storage directory."
+msgstr "Masukkan Space yang sudah ada untuk membuat direktori penyimpanan cadangan khusus."
+
+#: includes/customclass/class-wpvivid-amazons3-plus.php:111
+#: includes/customclass/class-wpvivid-amazons3-plus.php:249
+msgid "Enter an existed Bucket to create a custom backup storage directory."
+msgstr "Masukkan Bucket yang sudah ada untuk membuat direktori penyimpanan cadangan khusus."
+
+#: includes/customclass/class-wpvivid-sftpclass.php:121
+#: includes/customclass/class-wpvivid-sftpclass.php:236
+msgid "Enter an absolute path and a custom subdirectory (optional) for holding the backups of current website. For example, /var/customfolder/"
+msgstr "Masukkan jalur absolut dan subdirektori khusus (opsional) untuk menyimpan cadangan situs web saat ini. Misalnya, /var/customfolder/"
+
+#: includes/customclass/class-wpvivid-ftpclass.php:117
+#: includes/customclass/class-wpvivid-ftpclass.php:232
+msgid "Enter an absolute path and a custom subdirectory (optional) for holding the backups of current website. For example, /home/username/customfolder"
+msgstr "Masukkan jalur absolut dan subdirektori khusus (opsional) untuk menyimpan cadangan situs web saat ini. Misalnya, /home/nama pengguna/folder khusus"
+
+#: includes/customclass/class-wpvivid-sftpclass.php:56
+#: includes/customclass/class-wpvivid-sftpclass.php:171
+msgid "Enter a unique alias: e.g. SFTP-001"
+msgstr "Masukkan alias unik: misalnya SFTP-001"
+
+#: includes/customclass/class-wpvivid-one-drive.php:221
+#: includes/customclass/class-wpvivid-one-drive.php:437
+msgid "Enter a unique alias: e.g. OneDrive-001"
+msgstr "Masukkan alias unik: misalnya OneDrive-001"
+
+#: includes/customclass/class-wpvivid-google-drive.php:237
+#: includes/customclass/class-wpvivid-google-drive.php:454
+msgid "Enter a unique alias: e.g. Google Drive-001"
+msgstr "Masukkan alias unik: misalnya Google Drive-001"
+
+#: includes/customclass/class-wpvivid-dropbox.php:511
+#: includes/customclass/class-wpvivid-dropbox.php:724
+msgid "Enter a unique alias: e.g. Dropbox-001"
+msgstr "Masukkan alias unik: misalnya Dropbox-001"
+
+#: includes/customclass/class-wpvivid-s3compat.php:430
+#: includes/customclass/class-wpvivid-s3compat.php:545
+msgid "Enter a unique alias: e.g. DOS-001"
+msgstr "Masukkan alias unik: misalnya DOS-001"
+
+#: includes/customclass/class-wpvivid-amazons3-plus.php:70
+#: includes/customclass/class-wpvivid-amazons3-plus.php:208
+msgid "Enter a unique alias: e.g. Amazon S3-001"
+msgstr "Masukkan alias unik: misalnya Amazon S3-001"
+
+#: admin/partials/wpvivid-schedule-page-display.php:20
+msgid "Enable Incremental Backup"
+msgstr "Aktifkan Pencadangan Tambahan"
+
+#: admin/partials/wpvivid-settings-page-display.php:234
+msgid "Enable email report"
+msgstr "Aktifkan laporan email"
+
+#: admin/partials/wpvivid-schedule-page-display.php:15
+msgid "Enable backup schedule"
+msgstr "Aktifkan jadwal pencadangan"
+
+#: includes/class-wpvivid-export-import.php:1117
+msgid "Empty post id"
+msgstr "ID artikel kosong"
+
+#: admin/partials/wpvivid-settings-page-display.php:340
+msgid "Empty"
+msgstr "Kosong"
+
+#: admin/partials/wpvivid-settings-page-display.php:668
+msgid "e.g.  if you choose a chunk size of 2MB, a 8MB file will use 4 chunks. Decreasing this value will break the ISP's transmission limit, for example:512KB"
+msgstr "misalnya  jika Anda memilih ukuran potongan 2MB, file 8MB akan menggunakan 4 potongan. Penurunan nilai ini akan melanggar batas transmisi ISP, misalnya: 512KB"
+
+#: includes/customclass/class-wpvivid-dropbox.php:484
+msgid "Dropbox"
+msgstr "Dropbox"
+
+#: includes/class-wpvivid-backup-uploader.php:703
+msgid "Drop files here"
+msgstr "Drop berkas di sini"
+
+#: admin/class-wpvivid-admin.php:1592
+msgid "Download WPvivid Backup for MainWP"
+msgstr "Unduh WPvivid Backup untuk MainWP"
+
+#: admin/class-wpvivid-admin.php:1337
+#: admin/partials/wpvivid-backup-restore-page-display.php:88
+#: admin/partials/wpvivid-backup-restore-page-display.php:551
+#: admin/partials/wpvivid-backup-restore-page-display.php:588
+#: includes/class-wpvivid.php:2659 includes/class-wpvivid.php:6265
+#: includes/staging/class-wpvivid-staging-log-page.php:57
+msgid "Download"
+msgstr "Unduh"
+
+#: admin/partials/wpvivid-settings-page-display.php:146
+msgid "Display domain(url) of current site in backup name. (e.g. domain_wpvivid-5ceb938b6dca9_2019-05-27-07-36_backup_all.zip)"
+msgstr "Tampilkan domain (url) situs saat ini dengan nama cadangan. (mis. domain_wpvivid-5ceb938b6dca9_2019-05-27-07-36_backup_all.zip)"
+
+#: includes/customclass/class-wpvivid-s3compat.php:454
+#: includes/customclass/class-wpvivid-s3compat.php:569
+msgid "DigitalOcean Spaces secret key"
+msgstr "Kunci rahasia DigitalOcean Spaces"
+
+#: includes/customclass/class-wpvivid-s3compat.php:442
+#: includes/customclass/class-wpvivid-s3compat.php:557
+msgid "DigitalOcean Spaces access key"
+msgstr "Kunci akses DigitalOcean Spaces"
+
+#: includes/customclass/class-wpvivid-s3compat.php:413
+msgid "DigitalOcean Spaces"
+msgstr "DigitalOcean Spaces"
+
+#: includes/class-wpvivid-importer.php:1883
+msgid "Details are shown above. The importer will now try again with a different parser..."
+msgstr "Details are shown above. The importer will now try again with a different parser..."
+
+#: admin/partials/wpvivid-backup-restore-page-display.php:603
+msgid "Delete the selected backups"
+msgstr "Hapus cadangan yang dipilih"
+
+#: includes/class-wpvivid-export-import.php:1532
+#: includes/class-wpvivid-export-import.php:1785
+#: includes/class-wpvivid-export-import.php:2083
+msgid "Delete Exported Files In Folder"
+msgstr "Hapus File yang Diekspor Dalam Folder"
+
+#: admin/partials/wpvivid-backup-restore-page-display.php:590
+#: includes/class-wpvivid-migrate.php:915
+msgid "Delete"
+msgstr "Hapus"
+
+#: admin/class-wpvivid-admin.php:1056
+msgid "Debug"
+msgstr "Debug"
+
+#: admin/class-wpvivid-admin.php:1455 includes/class-wpvivid-exporter.php:152
+#: includes/staging/class-wpvivid-staging-log-page.php:53
+#: includes/staging/class-wpvivid-staging-log-page.php:358
+msgid "Date"
+msgstr "Tanggal"
+
+#: admin/partials/wpvivid-backup-restore-page-display.php:2370
+msgid "Database Size:"
+msgstr "Ukuran Basis Data:"
+
+#: admin/partials/wpvivid-settings-page-display.php:601
+msgid "Database access method."
+msgstr "Metode akses basis data."
+
+#: admin/partials/wpvivid-backup-restore-page-display.php:392
+#: admin/partials/wpvivid-schedule-page-display.php:126
+#: includes/class-wpvivid-migrate.php:1154
+msgid "Database + Files (WordPress Files)"
+msgstr "Basis Data + Berkas (Berkas WordPress)"
+
+#: includes/class-wpvivid-schedule.php:40
+#: includes/class-wpvivid-schedule.php:94
+msgid "Daily"
+msgstr "Harian"
+
+#: includes/customclass/class-wpvivid-s3compat.php:483
+#: includes/customclass/class-wpvivid-s3compat.php:598
+msgid "Customize the directory where you want to store backups within the Space."
+msgstr "Sesuaikan direktori tempat Anda ingin menyimpan cadangan di dalam Space."
+
+#: includes/customclass/class-wpvivid-amazons3-plus.php:123
+#: includes/customclass/class-wpvivid-amazons3-plus.php:261
+msgid "Customize the directory where you want to store backups within the Bucket."
+msgstr "Sesuaikan direktori tempat Anda ingin menyimpan cadangan di dalam Bucket."
+
+#: includes/customclass/class-wpvivid-amazons3-plus.php:118
+#: includes/customclass/class-wpvivid-amazons3-plus.php:256
+#: includes/customclass/class-wpvivid-s3compat.php:478
+#: includes/customclass/class-wpvivid-s3compat.php:593
+msgid "Custom Path"
+msgstr "Jalur Khusus"
+
+#: admin/partials/wpvivid-backup-restore-page-display.php:405
+#: admin/partials/wpvivid-schedule-page-display.php:142
+#: includes/class-wpvivid-schedule.php:113
+msgid "Custom"
+msgstr "Khusus"
+
+#: admin/partials/wpvivid-backup-restore-page-display.php:281
+#: admin/partials/wpvivid-backup-restore-page-display.php:285
+#: includes/class-wpvivid-exporter.php:566
+#: includes/class-wpvivid-exporter.php:570
+#: includes/class-wpvivid-importer.php:322
+#: includes/class-wpvivid-importer.php:326
+#: includes/snapshot/class-wpvivid-snapshots-list.php:233
+#: includes/snapshot/class-wpvivid-snapshots-list.php:237
+#: includes/staging/class-wpvivid-staging-log-page.php:250
+#: includes/staging/class-wpvivid-staging-log-page.php:254
+#: includes/staging/class-wpvivid-staging-sites-list.php:623
+#: includes/staging/class-wpvivid-staging-sites-list.php:627
+#: includes/staging/class-wpvivid-staging-sites-list.php:1042
+#: includes/staging/class-wpvivid-staging-sites-list.php:1046
+#: includes/upload-cleaner/class-wpvivid-upload-cleaner-setting.php:258
+#: includes/upload-cleaner/class-wpvivid-upload-cleaner-setting.php:262
+#: includes/upload-cleaner/class-wpvivid-upload-cleaner-setting.php:636
+#: includes/upload-cleaner/class-wpvivid-upload-cleaner-setting.php:640
+#: includes/upload-cleaner/class-wpvivid-uploads-cleaner.php:323
+#: includes/upload-cleaner/class-wpvivid-uploads-cleaner.php:327
+#: includes/upload-cleaner/class-wpvivid-uploads-cleaner.php:778
+#: includes/upload-cleaner/class-wpvivid-uploads-cleaner.php:782
+msgid "Current Page"
+msgstr "Halaman saat ini"
+
+#: includes/class-wpvivid-schedule.php:282
+#: includes/class-wpvivid-schedule.php:296
+msgid "Creating scheduled tasks failed. Please try again later."
+msgstr "Gagal membuat tugas terjadwal. Mohon coba lagi nanti."
+
+#: admin/class-wpvivid-admin.php:191
+msgid "Create a Manual Backup"
+msgstr "Buat Pencadangan Manual"
+
+#: includes/class-wpvivid-importer.php:88
+msgid "Count"
+msgstr "Jumlah"
+
+#: admin/partials/wpvivid-settings-page-display.php:635
+msgid "Compress Files Every"
+msgstr "Kompres File Setiap"
+
+#: includes/class-wpvivid-exporter.php:150
+msgid "Comments"
+msgstr "Komentar"
+
+#: includes/class-wpvivid-export-import.php:795
+msgid "Comment the export: "
+msgstr "Komentari ekspor: "
+
+#: includes/class-wpvivid-export-import.php:790
+msgid "Comment the export (optional)"
+msgstr "Komentari ekspor (opsional)"
+
+#. Description of the plugin
+msgid "Clone or copy WP sites then move or migrate them to new host (new domain), schedule backups, transfer backups to leading remote storage. All in one."
+msgstr "Kloning atau salin situs WP lalu pindahkan atau migrasikan ke host baru (domain baru), jadwalkan cadangan, transfer cadangan ke penyimpanan remote terkemuka. Semua dalam satu."
+
+#: includes/customclass/class-wpvivid-amazons3-plus.php:302
+#: includes/customclass/class-wpvivid-dropbox.php:741
+#: includes/customclass/class-wpvivid-ftpclass.php:259
+#: includes/customclass/class-wpvivid-google-drive.php:471
+#: includes/customclass/class-wpvivid-one-drive.php:454
+#: includes/customclass/class-wpvivid-s3compat.php:623
+#: includes/customclass/class-wpvivid-sftpclass.php:249
+msgid "Click the button to save the changes."
+msgstr "Klik tombol untuk menyimpan perubahan."
+
+#: includes/customclass/class-wpvivid-sftpclass.php:148
+msgid "Click the button to connect to SFTP server and add it to the storage list below."
+msgstr "Klik tombol untuk terhubung ke server SFTP dan tambahkan ke daftar penyimpanan di bawah ini."
+
+#: includes/customclass/class-wpvivid-ftpclass.php:158
+msgid "Click the button to connect to FTP server and add it to the storage list below."
+msgstr "Klik tombol untuk terhubung ke server FTP dan tambahkan ke daftar penyimpanan di bawah ini."
+
+#: includes/customclass/class-wpvivid-s3compat.php:522
+msgid "Click the button to connect to DigitalOcean Spaces storage and add it to the storage list below."
+msgstr "Klik tombol untuk terhubung ke penyimpanan DigitalOcean Spaces dan tambahkan ke daftar penyimpanan di bawah ini."
+
+#: includes/customclass/class-wpvivid-amazons3-plus.php:178
+msgid "Click the button to connect to Amazon S3 storage and add it to the storage list below."
+msgstr "Klik tombol untuk terhubung ke penyimpanan Amazon S3 dan tambahkan ke daftar penyimpanan di bawah ini."
+
+#: admin/partials/wpvivid-settings-page-display.php:450
+msgid "Click 'Export' button to save WPvivid settings on your local computer."
+msgstr "Klik tombol 'Ekspor' untuk menyimpan pengaturan WPvivid di komputer lokal Anda."
+
+#: admin/class-wpvivid-admin.php:863
+msgid "Class PclZip is not detected. Please update or reinstall your WordPress."
+msgstr "Class PclZip tidak terdeteksi. Mohon perbarui atau instal ulang WordPress Anda."
+
+#: admin/partials/wpvivid-settings-page-display.php:665
+msgid "Chunk Size"
+msgstr "Ukuran Potongan"
+
+#: includes/class-wpvivid-migrate.php:1167
+msgid "Choose what to migrate"
+msgstr "Pilih apa yang akan dimigrasi"
+
+#: includes/class-wpvivid-export-import.php:624
+msgid "Choose what to export"
+msgstr "Pilih apa yang akan diekspor"
+
+#: includes/class-wpvivid-migrate.php:1036
+msgid "Choose the content you want to transfer"
+msgstr "Pilih konten yang ingin Anda transfer"
+
+#: includes/class-wpvivid-export-import.php:141
+msgid "Choose post type"
+msgstr "Pilih tipe artikel"
+
+#: includes/class-wpvivid.php:4951
+msgid "Choose one storage from the list to be the default storage."
+msgstr "Pilih satu penyimpanan dari daftar untuk menjadi penyimpanan default."
+
+#: includes/class-wpvivid.php:4706
+msgid "Choose at least one type of junk files for deleting."
+msgstr "Pilih setidaknya satu jenis file sampah untuk dihapus."
+
+#: includes/class-wpvivid-interface-mainwp.php:126
+#: includes/class-wpvivid-interface-mainwp.php:133
+#: includes/class-wpvivid.php:573 includes/class-wpvivid.php:582
+#: includes/new_backup/class-wpvivid-backup2.php:89
+#: includes/new_backup/class-wpvivid-backup2.php:97
+msgid "Choose at least one storage location for backups."
+msgstr "Pilih setidaknya satu lokasi penyimpanan untuk pencadangan."
+
+#: includes/class-wpvivid-export-import.php:1537
+msgid "Choose an export from your computer to import: "
+msgstr "Pilih ekspor dari komputer Anda untuk diimpor: "
+
+#: admin/class-wpvivid-admin.php:582
+msgid "Cheers! WPvivid Backup plugin has restored successfully your website. If you found WPvivid Backup plugin helpful, a 5-star rating would be highly appreciated, which motivates us to keep providing new features."
+msgstr "Bersulang! Plugin WPvivid Backup telah berhasil memulihkan situs web Anda. Jika Anda merasa plugin Cadangan WPvivid bermanfaat, peringkat bintang 5 akan sangat dihargai, yang memotivasi kami untuk terus menyediakan fitur baru."
+
+#: includes/customclass/class-wpvivid-amazons3-plus.php:151
+#: includes/customclass/class-wpvivid-amazons3-plus.php:275
+msgid "Check the option to use Amazon S3 Standard-Infrequent Access (S3 Standard-IA) storage class for data transfer."
+msgstr "Centang opsi untuk menggunakan kelas penyimpanan Amazon S3 Standard-In Frequent Access (IA-Standar S3) untuk transfer data."
+
+#: includes/customclass/class-wpvivid-amazons3-plus.php:165
+#: includes/customclass/class-wpvivid-amazons3-plus.php:289
+msgid "Check the option to use Amazon S3 server-side encryption to protect data."
+msgstr "Centang opsi untuk menggunakan enkripsi sisi server Amazon S3 untuk melindungi data."
+
+#: admin/class-wpvivid-admin.php:157
+#: includes/snapshot/class-wpvivid-snapshot.php:1505
+#: includes/staging/class-wpvivid-staging.php:76
+msgid "ChangeLog"
+msgstr "Log Perubahan"
+
+#: admin/partials/wpvivid-backup-restore-page-display.php:2385
+#: includes/class-wpvivid-migrate.php:400
+#: includes/class-wpvivid-migrate.php:1220
+msgid "Cancel"
+msgstr "Batalkan"
+
+#: admin/class-wpvivid-admin.php:275
+msgid "Calculating the size of files, folder and database timed out. If you continue to receive this error, please go to the plugin settings, uncheck 'Calculate the size of files, folder and database before backing up', save changes, then try again."
+msgstr "Menghitung ukuran file, folder, dan database yang habis waktunya. Jika Anda terus menerima eror ini, mohon buka pengaturan plugin, hapus centang 'Hitung ukuran file, folder, dan database sebelum mencadangkan', simpan perubahan, lalu coba lagi."
+
+#: admin/partials/wpvivid-settings-page-display.php:108
+msgid "Calculate the size of files, folder and database before backing up"
+msgstr "Hitung ukuran file, folder, dan basis data sebelum mencadangkan"
+
+#: admin/partials/wpvivid-settings-page-display.php:316
+msgid "Calculate Sizes"
+msgstr "Hitung Ukuran"
+
+#: admin/partials/wpvivid-schedule-page-display.php:118
+msgid "Being subjected to mechanisms of PHP, a scheduled backup task for your site will be triggered only when the site receives at least a visit at any page."
+msgstr "Karena tunduk pada mekanisme PHP, tugas pencadangan terjadwal untuk situs Anda akan dipicu hanya ketika situs menerima setidaknya kunjungan di halaman mana pun."
+
+#: admin/partials/wpvivid-settings-page-display.php:103
+msgid "backups retained"
+msgstr "cadangan dipertahankan"
+
+#: admin/partials/wpvivid-backup-restore-page-display.php:522
+msgid "Backups"
+msgstr "Cadangan"
+
+#: admin/partials/wpvivid-backup-restore-page-display.php:2926
+msgid "Backup Schedule"
+msgstr "Jadwal Pencadangan"
+
+#: admin/partials/wpvivid-backup-restore-page-display.php:2529
+msgid "Backup Now"
+msgstr "Cadangkan Sekarang"
+
+#: admin/partials/wpvivid-settings-page-display.php:137
+msgid "Backup Folder"
+msgstr "Folder Cadangan"
+
+#: admin/class-wpvivid-admin.php:114 admin/class-wpvivid-admin.php:128
+#: admin/class-wpvivid-admin.php:1032
+msgid "Backup & Restore"
+msgstr "Pencadangan &Pemulihan"
+
+#: admin/partials/wpvivid-backup-restore-page-display.php:586
+msgid "Backup"
+msgstr "Cadangan"
+
+#: includes/class-wpvivid-backup.php:2341
+#: includes/new_backup/class-wpvivid-backup-task_2.php:527
+msgid "Backing up %s finished."
+msgstr "Pencadangan %s selesai."
+
+#: admin/partials/wpvivid-backup-restore-page-display.php:2476
+msgid "Back Up Manually"
+msgstr "Cadangkan Secara Manual"
+
+#: includes/class-wpvivid-migrate.php:49
+msgid "Auto-Migration"
+msgstr "Migrasi Otomatis"
+
+#: includes/class-wpvivid-exporter.php:118
+msgid "Author"
+msgstr "Penulis"
+
+#: includes/customclass/class-wpvivid-google-drive.php:108
+msgid "Authentication failed, the format of the client_secrets.json file is incorrect. Please delete and re-install the plugin to recreate the file."
+msgstr "Otentikasi gagal, format file client_secrets.json salah. Mohon hapus dan instal ulang plugin untuk membuat ulang file."
+
+#: includes/customclass/class-wpvivid-google-drive.php:104
+msgid "Authentication failed, the client_secrets.json file is missing. Please make sure the client_secrets.json file is in wpvivid-backuprestore\\includes\\customclass directory."
+msgstr "Otentikasi gagal, file client_secrets.json hilang. Pastikan file client_secrets.json ada di direktori wpvivid-backuprestore\\includes\\customclass."
+
+#: includes/customclass/class-wpvivid-one-drive.php:400
+msgid "Authenticate with Microsoft OneDrive"
+msgstr "Autentikasi dengan Microsoft OneDrive"
+
+#: includes/customclass/class-wpvivid-google-drive.php:416
+msgid "Authenticate with Google Drive"
+msgstr "Autentikasi dengan Google Drive"
+
+#: includes/customclass/class-wpvivid-dropbox.php:687
+msgid "Authenticate with Dropbox"
+msgstr "Autentikasi dengan Dropbox"
+
+#: includes/class-wpvivid-export-import.php:1549
+msgid "Assign author"
+msgstr "Tetapkan penulis"
+
+#: admin/class-wpvivid-admin.php:732
+msgid "As Amazon S3 and DigitalOcean Space have upgraded their connection methods, please delete the previous connections and re-add your Amazon S3/DigitalOcean Space accounts to make sure the connections work."
+msgstr "Karena Amazon S3 dan DigitalOcean Space telah meningkatkan metode koneksi mereka, harap hapus koneksi sebelumnya dan tambahkan kembali akun Amazon S3/DigitalOcean Space Anda untuk memastikan koneksi berfungsi."
+
+#: includes/class-wpvivid.php:5451
+msgid "An email address is required."
+msgstr "Alamat email diperlukan."
+
+#: includes/customclass/class-wpvivid-amazons3-plus.php:94
+#: includes/customclass/class-wpvivid-amazons3-plus.php:232
+msgid "Amazon S3 secret key"
+msgstr "Kunci rahasia Amazon S3"
+
+#: includes/customclass/class-wpvivid-amazons3-plus.php:106
+#: includes/customclass/class-wpvivid-amazons3-plus.php:244
+msgid "Amazon S3 Bucket Name(e.g. test)"
+msgstr "Amazon S3 Bucket Name (misalnya tes)"
+
+#: includes/customclass/class-wpvivid-amazons3-plus.php:82
+#: includes/customclass/class-wpvivid-amazons3-plus.php:220
+msgid "Amazon S3 access key"
+msgstr "Kunci akses Amazon S3"
+
+#: includes/customclass/class-wpvivid-amazons3-plus.php:44
+msgid "Amazon S3"
+msgstr "Amazon S3"
+
+#: admin/partials/wpvivid-settings-page-display.php:253
+msgid "Always send an email notification when a backup is complete"
+msgstr "Selalu kirim notifikasi e-mail saat pencadangan selesai"
+
+#: includes/class-wpvivid-export-import.php:651
+msgid "All Categories"
+msgstr "Semua Kategori"
+
+#: includes/customclass/class-wpvivid-dropbox.php:528
+#: includes/customclass/class-wpvivid-google-drive.php:254
+#: includes/customclass/class-wpvivid-one-drive.php:238
+msgid "All backups will be uploaded to this directory."
+msgstr "Semua cadangan akan diunggah ke direktori ini."
+
+#: includes/class-wpvivid-export-import.php:681
+msgid "All Authors"
+msgstr "Semua Penulis"
+
+#: admin/partials/wpvivid-settings-page-display.php:736
+msgid "Advanced Settings"
+msgstr "Pengaturan Lanjutan"
+
+#: admin/partials/wpvivid-schedule-page-display.php:32
+msgid "Advanced Schedule"
+msgstr "Jadwal Lanjutan"
+
+#: admin/partials/wpvivid-settings-page-display.php:653
+msgid "Adjust this value to apply for a temporary PHP memory limit for WPvivid backup plugin to run a backup. We set this value to 256M by default. Increase the value if you encounter a memory exhausted error. Note: some web hosting providers may not support this."
+msgstr "Sesuaikan nilai ini untuk menerapkan batas memori PHP sementara untuk plugin WPvivid backup untuk menjalankan cadangan. Kami menetapkan nilai ini ke 256M secara default. Tingkatkan nilainya jika Anda menemukan eror kehabisan memori. Catatan: beberapa penyedia hosting web mungkin tidak mendukung ini."
+
+#: admin/partials/wpvivid-settings-page-display.php:678
+msgid "Adjust this value to apply for a temporary PHP memory limit for WPvivid backup plugin in restore process. We set this value to 256M by default. Increase the value if you encounter a memory exhausted error. Note: some web hosting providers may not support this."
+msgstr "Sesuaikan nilai ini untuk menerapkan batas memori PHP sementara untuk plugin WPvivid backup dalam proses pemulihan. Kami menetapkan nilai ini ke 256M secara default. Tingkatkan nilainya jika Anda menemukan eror kehabisan memori. Catatan: beberapa penyedia hosting web mungkin tidak mendukung ini."
+
+#: admin/class-wpvivid-admin.php:179
+msgid "Adjust <a href=\"https://docs.wpvivid.com/wpvivid-backup-free-advanced-settings.html\" target=\"_blank\">Advanced Settings</a> for higher task success rate."
+msgstr "Sesuaikan <a href=\"https://docs.wpvivid.com/wpvivid-backup-free-advanced-settings.html\" target=\"_blank\">Pengaturan Lanjutan</a> untuk tingkat keberhasilan tugas yang lebih tinggi."
+
+#: admin/partials/wpvivid-remote-storage-page-display.php:36
+#: admin/partials/wpvivid-remote-storage-page-display.php:337
+#: includes/snapshot/class-wpvivid-snapshots-list.php:42
+msgid "Actions"
+msgstr "Aksi"
+
+#: admin/class-wpvivid-admin.php:1458 includes/class-wpvivid-importer.php:90
+#: includes/staging/class-wpvivid-staging-log-page.php:361
+msgid "Action"
+msgstr "Aksi"
+
+#: includes/customclass/class-wpvivid-sftpclass.php:116
+#: includes/customclass/class-wpvivid-sftpclass.php:231
+msgid "Absolute path must exist(e.g. /var)"
+msgstr "Jalur absolut harus ada (misalnya /var)"
+
+#: includes/customclass/class-wpvivid-ftpclass.php:112
+#: includes/customclass/class-wpvivid-ftpclass.php:227
+msgid "Absolute path must exist(e.g. /home/username)"
+msgstr "Jalur absolut harus ada (misalnya /home/username)"
+
+#: admin/partials/wpvivid-backup-restore-page-display.php:498
+msgid "About backup download"
+msgstr "Tentang unduhan cadangan"
+
+#: includes/class-wpvivid-export-import.php:1124
+#: includes/class-wpvivid-export-import.php:1160
+#: includes/class-wpvivid-interface-mainwp.php:157
+#: includes/class-wpvivid-migrate.php:708 includes/class-wpvivid.php:645
+#: includes/class-wpvivid.php:966 includes/class-wpvivid.php:1193
+#: includes/new_backup/class-wpvivid-backup2.php:123
+#: includes/new_backup/class-wpvivid-backup2.php:1552
+msgid "A task is already running. Please wait until the running task is complete, and try again."
+msgstr "Sebuah tugas sudah berjalan. Mohon tunggu sampai tugas yang sedang berjalan selesai, dan coba lagi."
+
+#: includes/customclass/class-wpvivid-amazons3-plus.php:75
+#: includes/customclass/class-wpvivid-amazons3-plus.php:213
+#: includes/customclass/class-wpvivid-dropbox.php:516
+#: includes/customclass/class-wpvivid-dropbox.php:729
+#: includes/customclass/class-wpvivid-ftpclass.php:57
+#: includes/customclass/class-wpvivid-ftpclass.php:184
+#: includes/customclass/class-wpvivid-google-drive.php:242
+#: includes/customclass/class-wpvivid-google-drive.php:459
+#: includes/customclass/class-wpvivid-one-drive.php:226
+#: includes/customclass/class-wpvivid-one-drive.php:442
+#: includes/customclass/class-wpvivid-s3compat.php:435
+#: includes/customclass/class-wpvivid-s3compat.php:550
+#: includes/customclass/class-wpvivid-sftpclass.php:61
+#: includes/customclass/class-wpvivid-sftpclass.php:176
+msgid "A name to help you identify the storage if you have multiple remote storage connected."
+msgstr "Nama untuk membantu Anda mengidentifikasi penyimpanan jika Anda memiliki beberapa penyimpanan remote yang terhubung."
+
+#: includes/class-wpvivid-interface-mainwp.php:119
+#: includes/class-wpvivid.php:559 includes/class-wpvivid.php:567
+#: includes/new_backup/class-wpvivid-backup2.php:81
+msgid "A backup type is required."
+msgstr "Diperlukan jenis cadangan."
+
+#: admin/partials/wpvivid-settings-page-display.php:702
+msgid "<strong>Retrying </strong>%s<strong> times when encountering a time-out error</strong>"
+msgstr "<strong>Mencoba kembali </strong>%s <strong> saat menghadapi eror waktu habis</strong>"
+
+#: admin/class-wpvivid-admin.php:1612
+msgid "5. Set up remote storage for child sites in bulk (for WPvivid Backup Pro only)"
+msgstr "5. Siapkan penyimpanan remote untuk situs anak secara massal (hanya untuk WPvivid Backup Pro)"
+
+#: admin/class-wpvivid-admin.php:1607
+msgid "4. Install, claim and update WPvivid Backup Pro for child sites in bulk"
+msgstr "4. Instal, klaim, dan perbarui WPvivid Backup Pro untuk situs anak secara massal"
+
+#: admin/class-wpvivid-admin.php:1602
+msgid "3. Set WPvivid Backup Free and Pro settings for all child sites"
+msgstr "3. Atur pengaturan WPvivid Backup Gratis dan Pro untuk semua situs anak"
+
+#: includes/class-wpvivid-migrate.php:1147
+msgid "3. Once done, the backup appears in backups list. Then, restore the backup."
+msgstr "3. Setelah selesai, cadangan muncul di daftar cadangan. Kemudian, pulihkan cadangan."
+
+#: admin/class-wpvivid-admin.php:281
+msgid "3. Go back to this page and paste the key in key box below. Lastly, click Save button."
+msgstr "3. Kembali ke halaman ini dan tempel kunci di kotak kunci di bawah. Terakhir, klik tombol Simpan."
+
+#: includes/class-wpvivid-migrate.php:1146
+msgid "2.2 Upload the backup with FTP client to backup directory %s in destination site, then click <strong>Scan uploaded backup or received backup</strong> button."
+msgstr "2.2 Unggah cadangan dengan klien FTP ke direktori %s cadangan di situs tujuan, lalu klik <strong>Pindai cadangan yang diunggah atau tombol cadangan yang diterima</strong> ."
+
+#: includes/class-wpvivid-migrate.php:1145
+msgid "2.1 Upload the backup to the upload section of WPvivid backup plugin in destination site."
+msgstr "2.1 Unggah cadangan ke bagian unggah plugin WPvivid backup di situs tujuan."
+
+#: includes/class-wpvivid-migrate.php:1144
+msgid "2. Upload the backup to destination site. There are two ways available to use:"
+msgstr "2. Unggah cadangan ke situs tujuan. Ada dua cara yang tersedia untuk digunakan:"
+
+#: admin/class-wpvivid-admin.php:1598
+msgid "2. Set backup schedules for all child sites"
+msgstr "2. Atur jadwal pencadangan untuk semua situs anak"
+
+#: includes/class-wpvivid-migrate.php:1135
+msgid "2. Please migrate website with the manual way when using <strong>Local by Flywheel</strong> environment."
+msgstr "2. Mohon migrasikan situs web dengan cara manual saat menggunakan lingkungan <strong>Lokal dengan Flywheel</strong>."
+
+#: admin/class-wpvivid-admin.php:280
+msgid "2. Generate a key by clicking Generate button and copy it."
+msgstr "2. Buat kunci dengan mengklik tombol Buat dan salin."
+
+#: includes/class-wpvivid-schedule.php:91
+msgid "12Hours"
+msgstr "12 Jam"
+
+#: includes/class-wpvivid-schedule.php:34
+msgid "12 Hours"
+msgstr "12 Jam"
+
+#: admin/class-wpvivid-admin.php:279
+msgid "1. Visit Key tab page of WPvivid backup plugin of destination site."
+msgstr "1. Kunjungi halaman tab kunci plugin WPvivid backup dari situs tujuan."
+
+#: includes/class-wpvivid-migrate.php:1143
+msgid "1. Download a backup in backups list to your computer."
+msgstr "1. Unduh cadangan dalam daftar cadangan ke komputer Anda."
+
+#: admin/class-wpvivid-admin.php:1595
+msgid "1. Create and download backups for a specific child site"
+msgstr "1. Buat dan unduh cadangan untuk situs anak tertentu"
+
+#: includes/class-wpvivid-migrate.php:1134
+msgid "1. In order to successfully complete the migration, you'd better deactivate <a href=\"https://wpvivid.com/best-redirect-plugins.html\" target=\"_blank\" style=\"text-decoration: none;\">301 redirect plugin</a>, <a href=\"https://wpvivid.com/8-best-wordpress-firewall-plugins.html\" target=\"_blank\" style=\"text-decoration: none;\">firewall and security plugin</a>, and <a href=\"https://wpvivid.com/best-free-wordpress-caching-plugins.html\" target=\"_blank\" style=\"text-decoration: none;\">caching plugin</a> (if they exist) before transferring website."
+msgstr "1. Agar berhasil menyelesaikan migrasi, Anda sebaiknya menonaktifkan <a href=\"https://wpvivid.com/best-redirect-plugins.html\" target=\"_blank\" style=\"text-decoration: none;\">plugin pengalihan 301</a>, <a href=\"https://wpvivid.com/8-best-wordpress-firewall-plugins.html\" target=\"_blank\" style=\"text-decoration: none;\">firewall dan plugin keamanan</a>, dan <a href=\"https://wpvivid.com/best-free-wordpress-caching-plugins.html\" target=\"_blank\" style=\"text-decoration: none;\">plugin caching</a> (jika ada) sebelum mentransfer situs web."
+
+#: admin/partials/wpvivid-backup-restore-page-display.php:501
+msgid "->If backups are stored in web server, the plugin will list all relevant files immediately."
+msgstr "-> Jika cadangan disimpan di server web, plugin akan segera mencantumkan semua file yang relevan."
+
+#: admin/partials/wpvivid-backup-restore-page-display.php:500
+msgid "->If backups are stored in remote storage, our plugin will retrieve the backup to your web server first. This may take a little time depending on the size of backup files. Please be patient. Then you can download them to your PC."
+msgstr "->Jika cadangan disimpan di penyimpanan remote, plugin kami akan mengambil cadangan ke server web Anda terlebih dahulu. Ini mungkin memerlukan sedikit waktu tergantung pada ukuran file cadangan. Mohon bersabar. Kemudian Anda dapat mengunduhnya ke PC Anda."
+
+#: includes/class-wpvivid-export-import.php:1552
+msgid "- Select -"
+msgstr "- Pilih -"
+
+#: admin/partials/wpvivid-schedule-page-display.php:95
+msgid "+ Add another schedule"
+msgstr "+ Tambahkan jadwal lain"
+
+#: includes/class-wpvivid-export-import.php:704
+#: includes/class-wpvivid-export-import.php:725
+msgid "&mdash; Select &mdash;"
+msgstr "&mdash; Pilih &mdash;"
+
+#: admin/partials/wpvivid-backup-restore-page-display.php:232
+#: includes/class-wpvivid-exporter.php:512
+#: includes/class-wpvivid-importer.php:268
+#: includes/snapshot/class-wpvivid-snapshots-list.php:184
+#: includes/staging/class-wpvivid-staging-log-page.php:201
+#: includes/staging/class-wpvivid-staging-sites-list.php:574
+#: includes/staging/class-wpvivid-staging-sites-list.php:993
+#: includes/upload-cleaner/class-wpvivid-upload-cleaner-setting.php:209
+#: includes/upload-cleaner/class-wpvivid-upload-cleaner-setting.php:587
+#: includes/upload-cleaner/class-wpvivid-uploads-cleaner.php:274
+#: includes/upload-cleaner/class-wpvivid-uploads-cleaner.php:729
+msgid "%s item"
+msgid_plural "%s items"
+msgstr[0] "%s item"
+msgstr[1] "%s item"
+
+#: includes/class-wpvivid-exporter.php:275
+msgid "%s ago"
+msgstr "%s yang lalu"
+
+#: includes/class-wpvivid.php:4171
+msgid "%d backup tasks have been completed. Please switch to <a href=\"#\" onclick=\"wpvivid_click_switch_page('wrap', 'wpvivid_tab_log', true);\">Log</a> page to check the details."
+msgstr "%d tugas pencadangan telah selesai. Mohon beralih ke halaman <a href=\"#\" onclick=\"wpvivid_click_switch_page('wrap', 'wpvivid_tab_log', true);\">Log</a> untuk memeriksa detailnya."
+
+#: admin/partials/wpvivid-backup-restore-page-display.php:291
+#: includes/class-wpvivid-exporter.php:576
+#: includes/class-wpvivid-importer.php:332
+#: includes/snapshot/class-wpvivid-snapshots-list.php:243
+#: includes/staging/class-wpvivid-staging-log-page.php:260
+#: includes/staging/class-wpvivid-staging-sites-list.php:633
+#: includes/staging/class-wpvivid-staging-sites-list.php:1052
+#: includes/upload-cleaner/class-wpvivid-upload-cleaner-setting.php:268
+#: includes/upload-cleaner/class-wpvivid-upload-cleaner-setting.php:646
+#: includes/upload-cleaner/class-wpvivid-uploads-cleaner.php:333
+#: includes/upload-cleaner/class-wpvivid-uploads-cleaner.php:788
+msgctxt "paging"
+msgid "%1$s of %2$s"
+msgstr "%1$s dari %2$s"
+
+#: admin/class-wpvivid-admin.php:1481
+#: includes/staging/class-wpvivid-staging-log-page.php:384
+msgid " Next page > "
+msgstr " Halaman selanjutnya > "
+
+#: admin/class-wpvivid-admin.php:1470
+#: includes/staging/class-wpvivid-staging-log-page.php:373
+msgid " < Pre page "
+msgstr " Halaman sebelumnya < "
+
+#: admin/partials/wpvivid-settings-page-display.php:229
+msgid "In order to use this function, please install a <strong><a target=\"_blank\" href=\"https://wpvivid.com/8-best-smtp-plugins-for-wordpress.html\" style=\"text-decoration: none;\">WordPress SMTP plugin</a></strong> of your preference and configure your SMTP server first. This is because WordPress uses the PHP Mail function to send its emails by default, which is not supported by many hosts and can cause issues if it is not set properly."
+msgstr "Untuk menggunakan fungsi ini, mohon menginstal <strong><a target=\"_blank\" href=\"https://wpvivid.com/8-best-smtp-plugins-for-wordpress.html\" style=\"text- decoration: none;\">Plugin SMTP WordPress</a></strong> sesuai keinginan Anda dan konfigurasikan server SMTP Anda terlebih dahulu. Ini karena WordPress menggunakan fungsi PHP Mail untuk kirim e-mailnya secara standar, yang tidak didukung oleh banyak host dan dapat menyebabkan kendala jika tidak diatur dengan benar."

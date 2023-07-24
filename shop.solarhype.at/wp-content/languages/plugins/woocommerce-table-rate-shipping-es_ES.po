@@ -1,0 +1,667 @@
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-06-15 11:54:03+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: WooCommerce - Extensions - woocommerce-table-rate-shipping\n"
+
+#: includes/class-wc-shipping-table-rate.php:259
+msgid "When comparing Min-Max Price Condition for rate in Table Rates, set if price with taxes or without taxes should be used."
+msgstr "Al comparar las condiciones del precio mínimo y máximo para la tarifa en la tabla de tarifas, establece si se debe utilizar el precio con impuestos o sin ellos."
+
+#: includes/class-wc-shipping-table-rate.php:257
+msgid "Use price with tax when comparing Min-Max Price Conditions."
+msgstr "Usa el precio con impuestos para comparar las condiciones del precio mínimo y máximo."
+
+#: includes/class-wc-shipping-table-rate.php:256
+msgid "Taxes in Min-Max"
+msgstr "Impuestos aplicables en el precio mínimo y máximo"
+
+#: includes/class-wc-shipping-table-rate.php:251
+msgid "When comparing Min-Max Price Condition for rate in Table Rates, set if discounted or non-discounted price should be used."
+msgstr "Al comparar las condiciones del precio mínimo y máximo para la tarifa en la tabla de tarifas, establece si se debe utilizar el precio con descuentos o sin ellos."
+
+#: includes/class-wc-shipping-table-rate.php:248
+msgid "Discounts in Min-Max"
+msgstr "Descuentos aplicables en el precio mínimo y máximo"
+
+#: includes/class-wc-shipping-table-rate.php:249
+msgid "Use discounted price when comparing Min-Max Price Conditions."
+msgstr "Usa el precio con descuento para comparar las condiciones del precio mínimo y máximo."
+
+#: includes/functions-admin.php:49
+msgid "Cost per item."
+msgstr "Coste por artículo."
+
+#: includes/functions-admin.php:45
+msgid "Cost for shipping the order."
+msgstr "Coste por envío de pedido."
+
+#. translators: %s: WooCommerce link
+#: woocommerce-table-rate-shipping.php:282
+msgid "WooCommerce Table Rate Shipping requires %s to be installed and active."
+msgstr "Se debe %s instalar y activar WooCommerce Table Rate Shipping."
+
+#: woocommerce-table-rate-shipping.php:208
+msgid "Duplicate the selected rates?"
+msgstr "¿Duplicar las tarifas seleccionadas?"
+
+#: woocommerce-table-rate-shipping.php:207
+msgid "Delete the selected rates?"
+msgstr "¿Eliminar las tarifas seleccionadas?"
+
+#: woocommerce-table-rate-shipping.php:205
+msgid "Line Item"
+msgstr "Partida"
+
+#: woocommerce-table-rate-shipping.php:204
+msgid "Item"
+msgstr "Elemento"
+
+#: woocommerce-table-rate-shipping.php:203
+msgid "Order"
+msgstr "Pedido"
+
+#: woocommerce-table-rate-shipping.php:183
+msgid "Documentation"
+msgstr "Documentación"
+
+#: woocommerce-table-rate-shipping.php:183
+msgid "Setup Zones"
+msgstr "Configurar zonas"
+
+#: woocommerce-table-rate-shipping.php:164
+msgid "Premium Support"
+msgstr "Soporte premium"
+
+#: woocommerce-table-rate-shipping.php:164
+msgid "Visit Premium Customer Support Forum"
+msgstr "Visita el foro de soporte del cliente premium"
+
+#: woocommerce-table-rate-shipping.php:163
+msgid "Docs"
+msgstr "Documentos"
+
+#: woocommerce-table-rate-shipping.php:163
+msgid "View Documentation"
+msgstr "Ver la documentación"
+
+#: includes/legacy/shipping-zones/includes/views/html-zone-methods.php:22
+msgid "Add To Zone"
+msgstr "Añadir a zona"
+
+#: includes/legacy/shipping-zones/includes/views/html-zone-methods.php:6
+msgid "Choose a shipping method&hellip;"
+msgstr "Elige un método de envío…"
+
+#: includes/legacy/shipping-zones/includes/views/html-zone-method-settings.php:6
+msgid "Save shipping method"
+msgstr "Guarda el método de envío"
+
+#: includes/legacy/shipping-zones/includes/views/form-edit-shipping-zone.php:95
+msgid "Save changes"
+msgstr "Guardar cambios"
+
+#: includes/legacy/shipping-zones/includes/views/form-edit-shipping-zone.php:43
+msgid "This shipping zone is based on one or more states/counties"
+msgstr "Esta zona de envío se basa en uno o varios estados o condados"
+
+#: includes/legacy/shipping-zones/includes/views/form-edit-shipping-zone.php:19
+msgid "Enable this zone"
+msgstr "Activa esta zona"
+
+#: includes/legacy/shipping-zones/includes/views/form-edit-shipping-zone.php:11
+msgid "Enter a name which describes this zone"
+msgstr "Introduce un nombre que describa esta zona"
+
+#: includes/legacy/shipping-zones/includes/views/form-edit-shipping-zone.php:8
+msgid "Name"
+msgstr "Nombre"
+
+#: includes/legacy/shipping-zones/includes/views/form-edit-shipping-zone.php:2
+msgid "Edit Shipping Zone"
+msgstr "Editar zona de envío"
+
+#: includes/legacy/shipping-zones/includes/views/form-add-shipping-zone.php:74
+msgid "Add shipping zone"
+msgstr "Añadir zona de envío"
+
+#: includes/legacy/shipping-zones/includes/views/form-add-shipping-zone.php:67
+#: includes/legacy/shipping-zones/includes/views/form-edit-shipping-zone.php:81
+msgid "List 1 postcode per line. Wildcards (*) and ranges (for numeric postcodes) are supported."
+msgstr "Inserta 1 código postal por línea. Se admiten comodines (*) y rangos (de códigos postales numéricos)."
+
+#: includes/legacy/shipping-zones/includes/views/form-add-shipping-zone.php:50
+#: includes/legacy/shipping-zones/includes/views/form-edit-shipping-zone.php:62
+msgid "This shipping zone is based on one or more postcodes/zips"
+msgstr "Esta zona de envío se basa en uno o varios códigos postales"
+
+#: includes/legacy/shipping-zones/includes/views/form-add-shipping-zone.php:47
+#: includes/legacy/shipping-zones/includes/views/form-edit-shipping-zone.php:59
+msgid "US States"
+msgstr "Estados de EE. UU."
+
+#: includes/legacy/shipping-zones/includes/views/form-add-shipping-zone.php:34
+#: includes/legacy/shipping-zones/includes/views/form-edit-shipping-zone.php:46
+msgid "Choose states/counties&hellip;"
+msgstr "Elige los estados o condados…"
+
+#: includes/legacy/shipping-zones/includes/views/form-add-shipping-zone.php:31
+msgid "This shipping zone is based on one or more states and counties"
+msgstr "Esta zona de envío se basa en uno o varios estados o condados"
+
+#: includes/legacy/shipping-zones/includes/views/form-add-shipping-zone.php:28
+#: includes/legacy/shipping-zones/includes/views/form-add-shipping-zone.php:47
+#: includes/legacy/shipping-zones/includes/views/form-edit-shipping-zone.php:40
+#: includes/legacy/shipping-zones/includes/views/form-edit-shipping-zone.php:59
+msgid "EU States"
+msgstr "Estados de la UE"
+
+#: includes/legacy/shipping-zones/includes/views/form-add-shipping-zone.php:28
+#: includes/legacy/shipping-zones/includes/views/form-add-shipping-zone.php:47
+#: includes/legacy/shipping-zones/includes/views/form-edit-shipping-zone.php:40
+#: includes/legacy/shipping-zones/includes/views/form-edit-shipping-zone.php:59
+msgid "All"
+msgstr "Todas"
+
+#: includes/legacy/shipping-zones/includes/views/form-add-shipping-zone.php:21
+#: includes/legacy/shipping-zones/includes/views/form-add-shipping-zone.php:53
+#: includes/legacy/shipping-zones/includes/views/form-edit-shipping-zone.php:33
+#: includes/legacy/shipping-zones/includes/views/form-edit-shipping-zone.php:65
+msgid "Choose countries&hellip;"
+msgstr "Elige los países…"
+
+#: includes/legacy/shipping-zones/includes/views/form-add-shipping-zone.php:18
+#: includes/legacy/shipping-zones/includes/views/form-edit-shipping-zone.php:30
+msgid "This shipping zone is based on one or more countries"
+msgstr "Esta zona de envío se basa en uno o varios países"
+
+#: includes/legacy/shipping-zones/includes/views/form-add-shipping-zone.php:14
+#: includes/legacy/shipping-zones/includes/views/form-add-shipping-zone.php:16
+#: includes/legacy/shipping-zones/includes/views/form-edit-shipping-zone.php:24
+#: includes/legacy/shipping-zones/includes/views/form-edit-shipping-zone.php:28
+msgid "Zone Type"
+msgstr "Tipo de zona"
+
+#: includes/legacy/shipping-zones/includes/views/form-add-shipping-zone.php:10
+msgid "Zone Name"
+msgstr "Nombre de la zona"
+
+#: includes/legacy/shipping-zones/includes/views/form-add-shipping-zone.php:5
+msgid "If you wish to disable shipping for a location, add a zone and assign no shipping methods to it."
+msgstr "Si quieres desactivar el envío para una ubicación, añade una zona y no le asignes ningún método de envío."
+
+#: includes/legacy/shipping-zones/includes/views/form-add-shipping-zone.php:3
+msgid "Zones cover multiple countries (and states) and can have shipping methods assigned to them. Each customer will be assigned a single matching shipping zone in order of priority, and if no zones apply the \"default zone\" will be used."
+msgstr "Las zonas cubren diversos países (y estados) y pueden tener asignados métodos de envío. A cada cliente se le asignará, por orden de prioridad, una única zona de envío que coincida y, si no se aplica ninguna, se utilizará la \"zona por defecto\"."
+
+#: includes/legacy/shipping-zones/includes/views/form-add-shipping-zone.php:1
+msgid "Add Shipping Zone"
+msgstr "Añadir zona de envío"
+
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zones-table.php:288
+msgid "All countries"
+msgstr "Todos los países"
+
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zones-table.php:287
+msgid "Default Zone (everywhere else)"
+msgstr "Zona por defecto (cualquier otro lugar)"
+
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zones-table.php:266
+msgid "Shipping zones disabled"
+msgstr "Se han desactivado las zonas de envío"
+
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zones-table.php:250
+msgid "Shipping zones enabled"
+msgstr "Se han activado las zonas de envío"
+
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zones-table.php:234
+msgid "Shipping zones deleted"
+msgstr "Se han eliminado las zonas de envío"
+
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zones-table.php:195
+#: includes/legacy/shipping-zones/includes/views/form-edit-shipping-zone.php:16
+msgid "Enable"
+msgstr "Activar"
+
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zones-table.php:194
+msgid "Disable"
+msgstr "Desactivar"
+
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zones-table.php:185
+msgid "Shipping Methods"
+msgstr "Métodos de envío"
+
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zones-table.php:183
+msgid "Zone type"
+msgstr "Tipo de zona"
+
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zones-table.php:182
+msgid "Zone name"
+msgstr "Nombre de la zona"
+
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zones-table.php:115
+#: includes/legacy/shipping-zones/includes/views/form-add-shipping-zone.php:67
+#: includes/legacy/shipping-zones/includes/views/form-edit-shipping-zone.php:81
+msgid "Postcodes"
+msgstr "Códigos postales"
+
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zones-table.php:113
+msgid "Countries and states"
+msgstr "Países y estados"
+
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zones-table.php:111
+msgid "Countries"
+msgstr "Países"
+
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zones-table.php:99
+msgid "Within %s:"
+msgstr "Dentro de %s:"
+
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zones-table.php:78
+msgid "and %s others"
+msgstr "y otros %s"
+
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zones-table.php:61
+msgid "Everywhere"
+msgstr "Por todas partes"
+
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zones-table.php:44
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zones-table.php:46
+msgid "Configure shipping methods"
+msgstr "Configura los métodos de envío"
+
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zone-methods-table.php:193
+msgid "No shipping methods found."
+msgstr "No se han encontrado métodos de envío."
+
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zone-methods-table.php:185
+msgid "Shipping methods deleted"
+msgstr "Se han eliminado los métodos de envío"
+
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zone-methods-table.php:146
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zones-table.php:184
+msgid "Enabled"
+msgstr "Activado"
+
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zone-methods-table.php:145
+msgid "Method Type"
+msgstr "Tipo de método"
+
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zone-methods-table.php:115
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zone-methods-table.php:156
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zones-table.php:197
+msgid "Delete"
+msgstr "Eliminar"
+
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zone-methods-table.php:115
+msgid "Are you sure you want to delete this method?"
+msgstr "¿Estás seguro de que quieres eliminar este método?"
+
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zone-methods-table.php:115
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zones-table.php:44
+msgid "Edit"
+msgstr "Editar"
+
+#: includes/legacy/shipping-zones/includes/class-wc-shipping-zones-admin.php:221
+msgid "Shipping zone saved."
+msgstr "Se ha guardado la zona de envío."
+
+#: includes/legacy/shipping-zones/includes/class-wc-shipping-zones-admin.php:219
+msgid "Shipping zone saved. <a href=\"%s\">Back to zones.</a>"
+msgstr "Se ha guardado la zona de envío. <a href=\"%s\">Volver a las zonas.</a>"
+
+#: includes/legacy/shipping-zones/includes/class-wc-shipping-zones-admin.php:213
+msgid "Error saving zone."
+msgstr "Se ha producido un error al guardar la zona."
+
+#: includes/legacy/shipping-zones/includes/class-wc-shipping-zones-admin.php:110
+msgid "You must choose at least 1 postcode to add postcode zone."
+msgstr "Debes elegir al menos 1 código postal para añadir la zona del código postal."
+
+#: includes/legacy/shipping-zones/includes/class-wc-shipping-zones-admin.php:100
+msgid "You must choose at least 1 country to add a zone."
+msgstr "Debes elegir al menos 1 país para añadir una zona."
+
+#: includes/legacy/shipping-zones/includes/class-wc-shipping-zones-admin.php:78
+msgid " Zone type is required"
+msgstr " Se requiere el tipo de zona"
+
+#: includes/legacy/shipping-zones/includes/class-wc-shipping-zones-admin.php:72
+#: includes/legacy/shipping-zones/includes/views/form-add-shipping-zone.php:11
+msgid "Zone"
+msgstr "Zona"
+
+#: includes/legacy/shipping-zones/includes/class-wc-shipping-zones-admin.php:69
+msgid "Zone name is required"
+msgstr "Se requiere el nombre de la zona"
+
+#: includes/legacy/shipping-zones/includes/class-wc-shipping-zones-admin.php:39
+msgid "Could not save zone. Please try again."
+msgstr "No se ha podido guardar la zona. Inténtalo de nuevo."
+
+#: includes/legacy/shipping-zones/includes/class-wc-shipping-zone.php:118
+msgid "Everywhere else"
+msgstr "Cualquier otro lugar"
+
+#: includes/legacy/shipping-zones/includes/class-wc-shipping-zone-admin.php:109
+msgid "Shipping method saved successfully."
+msgstr "El método de envío se ha guardado correctamente."
+
+#: includes/legacy/shipping-zones/includes/class-wc-shipping-zone-admin.php:101
+msgid "Edit failed. Please try again."
+msgstr "La edición falló. Por favor inténtalo de nuevo."
+
+#: includes/legacy/shipping-zones/includes/class-wc-shipping-zone-admin.php:59
+msgid "Shipping method successfully deleted"
+msgstr "El método de envío se ha eliminado correctamente"
+
+#: includes/legacy/shipping-zones/includes/class-wc-shipping-zone-admin.php:46
+msgid "Invalid shipping method"
+msgstr "El método de envío no es válido"
+
+#: includes/legacy/shipping-zones/includes/class-wc-shipping-zone-admin.php:44
+msgid "Shipping method successfully created. <a href=\"%s\">View method.</a>"
+msgstr "El método de envío se ha creado correctamente. <a href=\"%s\">Ver método.</a>"
+
+#: includes/legacy/shipping-zones/includes/class-wc-shipping-zone-admin.php:21
+msgid "Invalid shipping zone. <a href=\"%s\">Back to zones.</a>"
+msgstr "La zona de envío no es válida. <a href=\"%s\">Volver a las zonas.</a>"
+
+#: includes/legacy/shipping-zones/class-wc-shipping-zones.php:35
+#: includes/legacy/shipping-zones/includes/views/html-zone-list.php:2
+#: includes/legacy/shipping-zones/includes/views/html-zone-method-settings.php:3
+#: includes/legacy/shipping-zones/includes/views/html-zone-methods.php:3
+msgid "Shipping Zones"
+msgstr "Zonas de envío"
+
+#: includes/functions-admin.php:161
+msgid "Default"
+msgstr "Por Defecto"
+
+#: includes/functions-admin.php:155
+msgid "When calculating shipping, the cart contents will be <strong>searched for all shipping classes</strong>. If all product shipping classes are <strong>identical</strong>, the corresponding class will be used.<br/><strong>If there are a mix of classes</strong> then the class with the <strong>lowest number priority</strong> (defined above) will be used."
+msgstr "Al calcular el envío, se <strong>buscará el contenido del carrito para todas las clases de envío</strong>. Si todas las clases de envío del producto son <strong>idénticas</strong>, se utilizará la clase correspondiente.<br/><strong>Si hay diferentes clases</strong>, se utilizará la clase con el <strong>número de prioridad más bajo</strong> (definido con anterioridad)."
+
+#: includes/functions-admin.php:149
+msgid "Priority"
+msgstr "Prioridad"
+
+#: includes/functions-admin.php:148 woocommerce-table-rate-shipping.php:206
+msgid "Class"
+msgstr "Clase"
+
+#: includes/functions-admin.php:141
+msgid "No shipping classes exist - you can ignore this option :)"
+msgstr "No existen clases de envío: puedes ignorar esta opción :)"
+
+#: includes/functions-admin.php:109
+msgid "Optional abort reason text"
+msgstr "Texto opcional de motivo de interrupción"
+
+#: includes/functions-admin.php:99
+msgid "Item count (same class)"
+msgstr "Número de artículos (de la misma clase)"
+
+#: includes/functions-admin.php:97
+msgid "Item count"
+msgstr "Número de artículos"
+
+#: includes/functions-admin.php:96
+msgid "Weight"
+msgstr "Peso"
+
+#: includes/functions-admin.php:95
+msgid "Price"
+msgstr "Precio"
+
+#: includes/functions-admin.php:85
+msgid "No class"
+msgstr "Sin clase"
+
+#: includes/functions-admin.php:84
+msgid "Any class"
+msgstr "Cualquier clase"
+
+#: includes/functions-admin.php:67
+msgid "Delete selected rows"
+msgstr "Eliminar las filas seleccionadas"
+
+#: includes/functions-admin.php:67
+msgid "Duplicate selected rows"
+msgstr "Duplicar las filas seleccionadas"
+
+#: includes/functions-admin.php:67
+msgid "Define your table rates here in order of priority."
+msgstr "Define aquí tus tarifas por orden de prioridad."
+
+#: includes/functions-admin.php:66
+msgid "Add Shipping Rate"
+msgstr "Añadir tarifa de envío"
+
+#: includes/functions-admin.php:60
+msgid "Label for the shipping method which the user will be presented. "
+msgstr "Etiqueta para el método de envío que se presentará al usuario. "
+
+#: includes/functions-admin.php:59
+msgid "Label"
+msgstr "Etiqueta"
+
+#: includes/functions-admin.php:57
+msgid "Percentage of total to charge."
+msgstr "Porcentaje del total a cobrar."
+
+#: includes/functions-admin.php:56
+msgid "% cost"
+msgstr "Coste de %"
+
+#: includes/functions-admin.php:53
+msgid "Cost per weight unit."
+msgstr "Coste por unidad de peso."
+
+#: includes/functions-admin.php:52
+msgid "cost"
+msgstr "coste"
+
+#: includes/functions-admin.php:48
+msgid "Item cost"
+msgstr "Coste del artículo"
+
+#: includes/functions-admin.php:44
+msgid "Row cost"
+msgstr "Coste de fila"
+
+#: includes/functions-admin.php:41
+msgid "Enable this option to disable all rates/this shipping method if this row matches any item/line/class being quoted."
+msgstr "Activa esta opción para desactivar todas las tarifas o este método de envío, si esta fila coincide con algún artículo, línea o clase cotizada."
+
+#: includes/functions-admin.php:40
+msgid "Abort"
+msgstr "Abortar"
+
+#: includes/functions-admin.php:37
+msgid "Break at this point. For per-order rates, no rates other than this will be offered. For calculated rates, this will stop any further rates being matched."
+msgstr "Parar en este punto. Para las tarifas por pedido, no se ofrecerán tarifas distintas a esta. Para las tarifas calculadas, esto evitará que coincidan con ninguna otra tarifa."
+
+#: includes/functions-admin.php:36
+msgid "Break"
+msgstr "Parar"
+
+#: includes/functions-admin.php:33
+msgid "Bottom and top range for the selected condition. "
+msgstr "Rango inferior y superior de la condición seleccionada. "
+
+#: includes/functions-admin.php:32
+msgid "Min&ndash;Max"
+msgstr "Mínimo y máximo"
+
+#: includes/functions-admin.php:29
+msgid "Condition vs. destination"
+msgstr "Condición o destino"
+
+#: includes/functions-admin.php:28
+msgid "Condition"
+msgstr "Condición"
+
+#: includes/functions-admin.php:24
+msgid "Shipping class this rate applies to."
+msgstr "Clase de envío a la que se aplica esta tarifa."
+
+#: includes/functions-admin.php:23
+msgid "Shipping Class"
+msgstr "Clase de envío"
+
+#: includes/class-wc-shipping-table-rate.php:301
+msgid "Class Priorities"
+msgstr "Prioridades de clase"
+
+#: includes/class-wc-shipping-table-rate.php:294
+msgid "Table Rates"
+msgstr "Tabla de tarifas"
+
+#: includes/class-wc-shipping-table-rate.php:243
+msgid "Maximum cost for this shipping method (optional). If the cost is higher, this maximum cost will be enforced."
+msgstr "Coste máximo para este método de envío (opcional). Si el coste es superior, se aplicará el coste máximo."
+
+#: includes/class-wc-shipping-table-rate.php:240
+msgid "Maximum Cost Per [item]"
+msgstr "Coste máximo por [artículo]"
+
+#: includes/class-wc-shipping-table-rate.php:235
+msgid "Minimum cost for this shipping method (optional). If the cost is lower, this minimum cost will be enforced."
+msgstr "Coste mínimo para este método de envío (opcional). Si el coste es inferior, se aplicará el coste mínimo."
+
+#: includes/class-wc-shipping-table-rate.php:232
+msgid "Minimum Cost Per [item]"
+msgstr "Coste mínimo por [artículo]"
+
+#: includes/class-wc-shipping-table-rate.php:227
+msgid "Handling fee. Enter an amount, e.g. %1$s, or a percentage, e.g. 5%%. Leave blank to disable. Applied based on the \"Calculation Type\" chosen below."
+msgstr "Cargo por manipulación. Introduce una cantidad, por ejemplo, %1$s, o un porcentaje, por ejemplo, 5 %%. Déjalo en blanco para desactivarlo. Se aplica según el \"Tipo de cálculo\" elegido a continuación."
+
+#: includes/class-wc-shipping-table-rate.php:224
+msgid "Handling Fee Per [item]"
+msgstr "Cargo por manipulación por [artículo]"
+
+#: includes/class-wc-shipping-table-rate.php:220
+msgid "Calculated rates per shipping class"
+msgstr "Tarifas calculadas por clase de envío"
+
+#: includes/class-wc-shipping-table-rate.php:219
+msgid "Calculated rates per line item"
+msgstr "Tarifas calculadas por partida"
+
+#: includes/class-wc-shipping-table-rate.php:218
+msgid "Calculated rates per item"
+msgstr "Tarifas calculadas por artículo"
+
+#: includes/class-wc-shipping-table-rate.php:217
+msgid "Per order"
+msgstr "Por pedido"
+
+#: includes/class-wc-shipping-table-rate.php:213
+msgid "Per order rates will offer the customer all matching rates. Calculated rates will sum all matching rates and provide a single total."
+msgstr "Las tarifas por pedido ofrecerán al cliente todas las tarifas que coincidan. Las tarifas calculadas sumarán todas las tarifas que coincidan y proporcionarán un único total."
+
+#: includes/class-wc-shipping-table-rate.php:211
+msgid "Calculation Type"
+msgstr "Tipo de cálculo"
+
+#: includes/class-wc-shipping-table-rate.php:207
+msgid "This is where you define your table rates which are applied to an order."
+msgstr "Aquí debes definir las tarifas que se aplican a un pedido."
+
+#: includes/class-wc-shipping-table-rate.php:205
+msgid "Rates"
+msgstr "Tarifas"
+
+#: includes/class-wc-shipping-table-rate.php:200
+msgid "Maximum cost that the customer will pay after all the shipping rules have been applied. If the shipping cost calculated is bigger than this value, this cost will be the one shown."
+msgstr "Coste máximo que pagará el cliente después de que se hayan aplicado todas las reglas de envío. Si el coste de envío que se ha calculado es superior a este valor, se mostrará este coste."
+
+#: includes/class-wc-shipping-table-rate.php:198
+msgid "Maximum Shipping Cost"
+msgstr "Coste máximo de envío"
+
+#: includes/class-wc-shipping-table-rate.php:195
+#: includes/class-wc-shipping-table-rate.php:202
+#: includes/class-wc-shipping-table-rate.php:229
+#: includes/class-wc-shipping-table-rate.php:237
+#: includes/class-wc-shipping-table-rate.php:245
+#: includes/functions-admin.php:104
+msgid "n/a"
+msgstr "n/d"
+
+#: includes/class-wc-shipping-table-rate.php:193
+msgid "Enter an amount, e.g. %s. Leave blank to disable. This cost is applied once for the order as a whole."
+msgstr "Introduce una cantidad, por ejemplo, %s. Déjalo en blanco para desactivarlo. Este coste se aplica una vez para todo el pedido."
+
+#: includes/class-wc-shipping-table-rate.php:191
+msgid "Handling Fee"
+msgstr "Cargo por manipulación"
+
+#: includes/class-wc-shipping-table-rate.php:187
+msgid "No, I will enter costs below exclusive of tax"
+msgstr "No, introduciré los costes a continuación sin incluir impuestos"
+
+#: includes/class-wc-shipping-table-rate.php:186
+msgid "Yes, I will enter costs below inclusive of tax"
+msgstr "Sí, introduciré los costes a continuación con impuestos incluidos"
+
+#: includes/class-wc-shipping-table-rate.php:179
+msgid "Tax included in shipping costs"
+msgstr "Impuestos incluidos en los costes de envío"
+
+#: includes/class-wc-shipping-table-rate.php:175
+#: includes/functions-admin.php:94
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zones-table.php:156
+#: includes/legacy/shipping-zones/includes/views/form-add-shipping-zone.php:28
+#: includes/legacy/shipping-zones/includes/views/form-add-shipping-zone.php:47
+#: includes/legacy/shipping-zones/includes/views/form-edit-shipping-zone.php:40
+#: includes/legacy/shipping-zones/includes/views/form-edit-shipping-zone.php:59
+msgid "None"
+msgstr "Nada"
+
+#: includes/class-wc-shipping-table-rate.php:174
+msgid "Taxable"
+msgstr "Imponible"
+
+#: includes/class-wc-shipping-table-rate.php:168
+msgid "Tax Status"
+msgstr "Estado del impuesto"
+
+#: includes/class-wc-shipping-table-rate.php:164
+msgid "This controls the title which the user sees during checkout."
+msgstr "Esto controla el título que el usuario ve al terminar la compra."
+
+#: includes/class-wc-shipping-table-rate.php:161
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zone-methods-table.php:144
+msgid "Method Title"
+msgstr "Título del método"
+
+#: includes/class-wc-shipping-table-rate.php:41
+#: includes/class-wc-shipping-table-rate.php:165
+msgid "Table Rate"
+msgstr "Tabla de tarifas"
+
+#: includes/class-wc-shipping-table-rate.php:31
+msgid "Table rates are dynamic rates based on a number of cart conditions."
+msgstr "La tabla de tarifas recoge tarifas dinámicas basadas en una serie de condiciones del carrito."
+
+#: includes/class-wc-shipping-table-rate-privacy.php:20
+msgid "By using this extension, you may be storing personal data or sharing data with an external service. <a href=\"%s\" target=\"_blank\">Learn more about how this works, including what you may want to include in your privacy policy.</a>"
+msgstr "Al usar esta extensión, puede que almacenes o compartas datos personales con un servicio externo. <a href=\"%s\" target=\"_blank\">Obtén más información sobre cómo funciona, incluyendo lo que quieras incluir en tu política de privacidad.</a>"
+
+#: includes/class-wc-shipping-table-rate-privacy.php:12
+#: includes/class-wc-shipping-table-rate.php:30
+msgid "Table rates"
+msgstr "Tabla de tarifas"
+
+#: includes/functions-admin.php:112 includes/functions-admin.php:115
+#: includes/functions-admin.php:118 includes/functions-admin.php:121
+msgid "0"
+msgstr "0"

@@ -1,0 +1,8 @@
+2023-06-29T03:37:44+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 1972): ["Balkonkraftwerke"].
+2023-06-29T03:37:44+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 1977): ["Balkonkraftwerke"].
+2023-06-29T03:37:44+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 1982): ["Balkonkraftwerke"].
+2023-06-29T03:37:44+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 1984): ["Balkonkraftwerke"].
+2023-06-29T03:37:44+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 1985): ["Balkonkraftwerke"].
+2023-06-29T03:37:45+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 5 products:
+[{"woocommerce_id":1972,"google_id":"online:de:AT:gla_1972"},{"woocommerce_id":1977,"google_id":"online:de:AT:gla_1977"},{"woocommerce_id":1982,"google_id":"online:de:AT:gla_1982"},{"woocommerce_id":1984,"google_id":"online:de:AT:gla_1984"},{"woocommerce_id":1985,"google_id":"online:de:AT:gla_1985"}]
+2023-06-29T08:04:01+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Coupon\CouponHelper::get_channel_visibility Channel visibility forced to "dont-sync-and-show" for visibility unknown (Post ID: 1158).

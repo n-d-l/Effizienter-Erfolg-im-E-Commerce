@@ -1,0 +1,10 @@
+2023-07-20T03:05:26+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 949): ["Stromspeicher"].
+2023-07-20T03:05:26+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 975): ["Stromspeicher"].
+2023-07-20T03:05:26+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 1013): ["Zubeh\u00f6r"].
+2023-07-20T03:05:26+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 1053): ["Zubeh\u00f6r"].
+2023-07-20T03:05:26+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 1054): ["Zubeh\u00f6r"].
+2023-07-20T03:05:27+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 5 products:
+[{"woocommerce_id":949,"google_id":"online:de:AT:gla_949"},{"woocommerce_id":975,"google_id":"online:de:AT:gla_975"},{"woocommerce_id":1013,"google_id":"online:de:AT:gla_1013"},{"woocommerce_id":1053,"google_id":"online:de:AT:gla_1053"},{"woocommerce_id":1054,"google_id":"online:de:AT:gla_1054"}]
+2023-07-20T22:35:40+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2339): ["Solarmodule"].
+2023-07-20T22:35:43+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2339,"google_id":"online:de:AT:gla_2339"}]

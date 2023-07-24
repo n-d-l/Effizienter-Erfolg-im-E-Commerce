@@ -1,0 +1,695 @@
+2023-07-05T06:21:23+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2339): ["Solarmodule"].
+2023-07-05T06:21:24+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2339,"google_id":"online:de:AT:gla_2339"}]
+2023-07-05T06:23:20+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2339): ["Solarmodule"].
+2023-07-05T06:23:22+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2339,"google_id":"online:de:AT:gla_2339"}]
+2023-07-05T06:42:12+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 1656): ["Solarmodule"].
+2023-07-05T06:42:14+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":1656,"google_id":"online:de:AT:gla_1656"}]
+2023-07-05T06:44:23+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2189): ["Solarmodule"].
+2023-07-05T06:44:24+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2189,"google_id":"online:de:AT:gla_2189"}]
+2023-07-05T06:47:46+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 1108): ["Solarmodule"].
+2023-07-05T06:47:47+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":1108,"google_id":"online:de:AT:gla_1108"}]
+2023-07-05T06:49:59+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 1083): ["Solarmodule"].
+2023-07-05T06:50:00+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":1083,"google_id":"online:de:AT:gla_1083"}]
+2023-07-05T07:42:52+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::delete_by_batch_requests Deleted 1 products:
+[{"woocommerce_id":2576}]
+2023-07-05T07:42:53+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:42:53+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:42:53+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:42:53+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:42:53+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:42:53+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:42:53+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:42:53+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:42:53+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:42:53+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:42:53+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:42:53+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:42:53+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:42:53+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:42:53+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:42:53+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:42:53+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:42:53+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:42:53+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:42:53+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:42:55+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 20 products:
+[{"woocommerce_id":2571,"google_id":"online:de:AT:gla_2571"},{"woocommerce_id":2572,"google_id":"online:de:AT:gla_2572"},{"woocommerce_id":2573,"google_id":"online:de:AT:gla_2573"},{"woocommerce_id":2574,"google_id":"online:de:AT:gla_2574"},{"woocommerce_id":2575,"google_id":"online:de:AT:gla_2575"},{"woocommerce_id":2577,"google_id":"online:de:AT:gla_2577"},{"woocommerce_id":2578,"google_id":"online:de:AT:gla_2578"},{"woocommerce_id":2579,"google_id":"online:de:AT:gla_2579"},{"woocommerce_id":2580,"google_id":"online:de:AT:gla_2580"},{"woocommerce_id":2581,"google_id":"online:de:AT:gla_2581"},{"woocommerce_id":2582,"google_id":"online:de:AT:gla_2582"},{"woocommerce_id":2583,"google_id":"online:de:AT:gla_2583"},{"woocommerce_id":2584,"google_id":"online:de:AT:gla_2584"},{"woocommerce_id":2585,"google_id":"online:de:AT:gla_2585"},{"woocommerce_id":2586,"google_id":"online:de:AT:gla_2586"},{"woocommerce_id":2587,"google_id":"online:de:AT:gla_2587"},{"woocommerce_id":2588,"google_id":"online:de:AT:gla_2588"},{"woocommerce_id":2589,"google_id":"online:de:AT:gla_2589"},{"woocommerce_id":2590,"google_id":"online:de:AT:gla_2590"},{"woocommerce_id":2591,"google_id":"online:de:AT:gla_2591"}]
+2023-07-05T07:44:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:44:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:44:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:44:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:44:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:44:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:44:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:44:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:44:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:44:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:44:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:44:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:44:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:44:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:44:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:44:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:44:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:44:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:44:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:44:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:44:19+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 20 products:
+[{"woocommerce_id":2571,"google_id":"online:de:AT:gla_2571"},{"woocommerce_id":2572,"google_id":"online:de:AT:gla_2572"},{"woocommerce_id":2573,"google_id":"online:de:AT:gla_2573"},{"woocommerce_id":2574,"google_id":"online:de:AT:gla_2574"},{"woocommerce_id":2575,"google_id":"online:de:AT:gla_2575"},{"woocommerce_id":2577,"google_id":"online:de:AT:gla_2577"},{"woocommerce_id":2578,"google_id":"online:de:AT:gla_2578"},{"woocommerce_id":2579,"google_id":"online:de:AT:gla_2579"},{"woocommerce_id":2580,"google_id":"online:de:AT:gla_2580"},{"woocommerce_id":2581,"google_id":"online:de:AT:gla_2581"},{"woocommerce_id":2582,"google_id":"online:de:AT:gla_2582"},{"woocommerce_id":2583,"google_id":"online:de:AT:gla_2583"},{"woocommerce_id":2584,"google_id":"online:de:AT:gla_2584"},{"woocommerce_id":2585,"google_id":"online:de:AT:gla_2585"},{"woocommerce_id":2586,"google_id":"online:de:AT:gla_2586"},{"woocommerce_id":2587,"google_id":"online:de:AT:gla_2587"},{"woocommerce_id":2588,"google_id":"online:de:AT:gla_2588"},{"woocommerce_id":2589,"google_id":"online:de:AT:gla_2589"},{"woocommerce_id":2590,"google_id":"online:de:AT:gla_2590"},{"woocommerce_id":2591,"google_id":"online:de:AT:gla_2591"}]
+2023-07-05T07:45:22+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:45:22+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:45:22+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:45:22+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:45:22+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:45:22+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:45:22+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:45:22+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:45:22+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:45:22+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:45:22+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:45:22+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:45:22+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:45:22+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:45:22+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:45:22+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:45:22+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:45:22+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:45:22+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:45:22+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:45:24+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 20 products:
+[{"woocommerce_id":2571,"google_id":"online:de:AT:gla_2571"},{"woocommerce_id":2572,"google_id":"online:de:AT:gla_2572"},{"woocommerce_id":2573,"google_id":"online:de:AT:gla_2573"},{"woocommerce_id":2574,"google_id":"online:de:AT:gla_2574"},{"woocommerce_id":2575,"google_id":"online:de:AT:gla_2575"},{"woocommerce_id":2577,"google_id":"online:de:AT:gla_2577"},{"woocommerce_id":2578,"google_id":"online:de:AT:gla_2578"},{"woocommerce_id":2579,"google_id":"online:de:AT:gla_2579"},{"woocommerce_id":2580,"google_id":"online:de:AT:gla_2580"},{"woocommerce_id":2581,"google_id":"online:de:AT:gla_2581"},{"woocommerce_id":2582,"google_id":"online:de:AT:gla_2582"},{"woocommerce_id":2583,"google_id":"online:de:AT:gla_2583"},{"woocommerce_id":2584,"google_id":"online:de:AT:gla_2584"},{"woocommerce_id":2585,"google_id":"online:de:AT:gla_2585"},{"woocommerce_id":2586,"google_id":"online:de:AT:gla_2586"},{"woocommerce_id":2587,"google_id":"online:de:AT:gla_2587"},{"woocommerce_id":2588,"google_id":"online:de:AT:gla_2588"},{"woocommerce_id":2589,"google_id":"online:de:AT:gla_2589"},{"woocommerce_id":2590,"google_id":"online:de:AT:gla_2590"},{"woocommerce_id":2591,"google_id":"online:de:AT:gla_2591"}]
+2023-07-05T07:52:19+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:52:19+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:52:19+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:52:19+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:52:19+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:52:19+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:52:19+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:52:19+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:52:19+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:52:19+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:52:19+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:52:19+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:52:19+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:52:19+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:52:19+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:52:19+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:52:19+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:52:19+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:52:19+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:52:19+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:52:21+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 20 products:
+[{"woocommerce_id":2571,"google_id":"online:de:AT:gla_2571"},{"woocommerce_id":2572,"google_id":"online:de:AT:gla_2572"},{"woocommerce_id":2573,"google_id":"online:de:AT:gla_2573"},{"woocommerce_id":2574,"google_id":"online:de:AT:gla_2574"},{"woocommerce_id":2575,"google_id":"online:de:AT:gla_2575"},{"woocommerce_id":2577,"google_id":"online:de:AT:gla_2577"},{"woocommerce_id":2578,"google_id":"online:de:AT:gla_2578"},{"woocommerce_id":2579,"google_id":"online:de:AT:gla_2579"},{"woocommerce_id":2580,"google_id":"online:de:AT:gla_2580"},{"woocommerce_id":2581,"google_id":"online:de:AT:gla_2581"},{"woocommerce_id":2582,"google_id":"online:de:AT:gla_2582"},{"woocommerce_id":2583,"google_id":"online:de:AT:gla_2583"},{"woocommerce_id":2584,"google_id":"online:de:AT:gla_2584"},{"woocommerce_id":2585,"google_id":"online:de:AT:gla_2585"},{"woocommerce_id":2586,"google_id":"online:de:AT:gla_2586"},{"woocommerce_id":2587,"google_id":"online:de:AT:gla_2587"},{"woocommerce_id":2588,"google_id":"online:de:AT:gla_2588"},{"woocommerce_id":2589,"google_id":"online:de:AT:gla_2589"},{"woocommerce_id":2590,"google_id":"online:de:AT:gla_2590"},{"woocommerce_id":2591,"google_id":"online:de:AT:gla_2591"}]
+2023-07-05T07:52:22+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:52:23+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2597,"google_id":"online:de:AT:gla_2597"}]
+2023-07-05T07:52:23+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:52:25+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2598,"google_id":"online:de:AT:gla_2598"}]
+2023-07-05T07:52:25+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:52:27+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2599,"google_id":"online:de:AT:gla_2599"}]
+2023-07-05T07:52:27+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:52:27+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:52:27+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:52:27+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:52:27+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:52:27+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:52:27+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:52:27+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:52:27+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:52:27+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:52:27+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:52:27+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:52:27+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:52:27+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:52:27+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:52:27+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:52:27+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:52:27+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:52:27+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:52:27+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:52:27+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:52:27+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:52:27+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:52:28+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 23 products:
+[{"woocommerce_id":2571,"google_id":"online:de:AT:gla_2571"},{"woocommerce_id":2572,"google_id":"online:de:AT:gla_2572"},{"woocommerce_id":2573,"google_id":"online:de:AT:gla_2573"},{"woocommerce_id":2574,"google_id":"online:de:AT:gla_2574"},{"woocommerce_id":2575,"google_id":"online:de:AT:gla_2575"},{"woocommerce_id":2577,"google_id":"online:de:AT:gla_2577"},{"woocommerce_id":2578,"google_id":"online:de:AT:gla_2578"},{"woocommerce_id":2579,"google_id":"online:de:AT:gla_2579"},{"woocommerce_id":2580,"google_id":"online:de:AT:gla_2580"},{"woocommerce_id":2581,"google_id":"online:de:AT:gla_2581"},{"woocommerce_id":2582,"google_id":"online:de:AT:gla_2582"},{"woocommerce_id":2583,"google_id":"online:de:AT:gla_2583"},{"woocommerce_id":2584,"google_id":"online:de:AT:gla_2584"},{"woocommerce_id":2585,"google_id":"online:de:AT:gla_2585"},{"woocommerce_id":2586,"google_id":"online:de:AT:gla_2586"},{"woocommerce_id":2587,"google_id":"online:de:AT:gla_2587"},{"woocommerce_id":2588,"google_id":"online:de:AT:gla_2588"},{"woocommerce_id":2589,"google_id":"online:de:AT:gla_2589"},{"woocommerce_id":2590,"google_id":"online:de:AT:gla_2590"},{"woocommerce_id":2591,"google_id":"online:de:AT:gla_2591"},{"woocommerce_id":2597,"google_id":"online:de:AT:gla_2597"},{"woocommerce_id":2598,"google_id":"online:de:AT:gla_2598"},{"woocommerce_id":2599,"google_id":"online:de:AT:gla_2599"}]
+2023-07-05T07:54:28+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::delete_by_batch_requests Deleted 1 products:
+[{"woocommerce_id":2571}]
+2023-07-05T07:54:28+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:54:28+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:54:28+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:54:28+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:54:28+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:54:28+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:54:28+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:54:28+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:54:28+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:54:28+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:54:28+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:54:28+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:54:28+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:54:28+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:54:28+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:54:28+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:54:28+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:54:28+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:54:28+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:54:28+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:54:28+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:54:28+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:54:29+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 22 products:
+[{"woocommerce_id":2572,"google_id":"online:de:AT:gla_2572"},{"woocommerce_id":2573,"google_id":"online:de:AT:gla_2573"},{"woocommerce_id":2574,"google_id":"online:de:AT:gla_2574"},{"woocommerce_id":2575,"google_id":"online:de:AT:gla_2575"},{"woocommerce_id":2577,"google_id":"online:de:AT:gla_2577"},{"woocommerce_id":2578,"google_id":"online:de:AT:gla_2578"},{"woocommerce_id":2579,"google_id":"online:de:AT:gla_2579"},{"woocommerce_id":2580,"google_id":"online:de:AT:gla_2580"},{"woocommerce_id":2581,"google_id":"online:de:AT:gla_2581"},{"woocommerce_id":2582,"google_id":"online:de:AT:gla_2582"},{"woocommerce_id":2583,"google_id":"online:de:AT:gla_2583"},{"woocommerce_id":2584,"google_id":"online:de:AT:gla_2584"},{"woocommerce_id":2585,"google_id":"online:de:AT:gla_2585"},{"woocommerce_id":2586,"google_id":"online:de:AT:gla_2586"},{"woocommerce_id":2587,"google_id":"online:de:AT:gla_2587"},{"woocommerce_id":2588,"google_id":"online:de:AT:gla_2588"},{"woocommerce_id":2589,"google_id":"online:de:AT:gla_2589"},{"woocommerce_id":2590,"google_id":"online:de:AT:gla_2590"},{"woocommerce_id":2591,"google_id":"online:de:AT:gla_2591"},{"woocommerce_id":2597,"google_id":"online:de:AT:gla_2597"},{"woocommerce_id":2598,"google_id":"online:de:AT:gla_2598"},{"woocommerce_id":2599,"google_id":"online:de:AT:gla_2599"}]
+2023-07-05T07:55:19+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:19+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:19+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:19+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:19+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:19+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:19+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:19+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:19+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:19+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:19+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:19+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:19+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:19+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:19+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:19+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:19+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:19+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:19+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:19+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:19+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:21+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 21 products:
+[{"woocommerce_id":2572,"google_id":"online:de:AT:gla_2572"},{"woocommerce_id":2573,"google_id":"online:de:AT:gla_2573"},{"woocommerce_id":2574,"google_id":"online:de:AT:gla_2574"},{"woocommerce_id":2575,"google_id":"online:de:AT:gla_2575"},{"woocommerce_id":2578,"google_id":"online:de:AT:gla_2578"},{"woocommerce_id":2579,"google_id":"online:de:AT:gla_2579"},{"woocommerce_id":2580,"google_id":"online:de:AT:gla_2580"},{"woocommerce_id":2581,"google_id":"online:de:AT:gla_2581"},{"woocommerce_id":2582,"google_id":"online:de:AT:gla_2582"},{"woocommerce_id":2583,"google_id":"online:de:AT:gla_2583"},{"woocommerce_id":2584,"google_id":"online:de:AT:gla_2584"},{"woocommerce_id":2585,"google_id":"online:de:AT:gla_2585"},{"woocommerce_id":2586,"google_id":"online:de:AT:gla_2586"},{"woocommerce_id":2587,"google_id":"online:de:AT:gla_2587"},{"woocommerce_id":2588,"google_id":"online:de:AT:gla_2588"},{"woocommerce_id":2589,"google_id":"online:de:AT:gla_2589"},{"woocommerce_id":2590,"google_id":"online:de:AT:gla_2590"},{"woocommerce_id":2591,"google_id":"online:de:AT:gla_2591"},{"woocommerce_id":2597,"google_id":"online:de:AT:gla_2597"},{"woocommerce_id":2598,"google_id":"online:de:AT:gla_2598"},{"woocommerce_id":2599,"google_id":"online:de:AT:gla_2599"}]
+2023-07-05T07:55:22+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::delete_by_batch_requests Deleted 1 products:
+[{"woocommerce_id":2577}]
+2023-07-05T07:55:22+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:22+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:22+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:22+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:22+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:22+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:22+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:22+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:22+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:22+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:22+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:22+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:22+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:22+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:22+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:22+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:22+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:22+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:22+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:22+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:22+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:24+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 21 products:
+[{"woocommerce_id":2572,"google_id":"online:de:AT:gla_2572"},{"woocommerce_id":2573,"google_id":"online:de:AT:gla_2573"},{"woocommerce_id":2574,"google_id":"online:de:AT:gla_2574"},{"woocommerce_id":2575,"google_id":"online:de:AT:gla_2575"},{"woocommerce_id":2578,"google_id":"online:de:AT:gla_2578"},{"woocommerce_id":2579,"google_id":"online:de:AT:gla_2579"},{"woocommerce_id":2580,"google_id":"online:de:AT:gla_2580"},{"woocommerce_id":2581,"google_id":"online:de:AT:gla_2581"},{"woocommerce_id":2582,"google_id":"online:de:AT:gla_2582"},{"woocommerce_id":2583,"google_id":"online:de:AT:gla_2583"},{"woocommerce_id":2584,"google_id":"online:de:AT:gla_2584"},{"woocommerce_id":2585,"google_id":"online:de:AT:gla_2585"},{"woocommerce_id":2586,"google_id":"online:de:AT:gla_2586"},{"woocommerce_id":2587,"google_id":"online:de:AT:gla_2587"},{"woocommerce_id":2588,"google_id":"online:de:AT:gla_2588"},{"woocommerce_id":2589,"google_id":"online:de:AT:gla_2589"},{"woocommerce_id":2590,"google_id":"online:de:AT:gla_2590"},{"woocommerce_id":2591,"google_id":"online:de:AT:gla_2591"},{"woocommerce_id":2597,"google_id":"online:de:AT:gla_2597"},{"woocommerce_id":2598,"google_id":"online:de:AT:gla_2598"},{"woocommerce_id":2599,"google_id":"online:de:AT:gla_2599"}]
+2023-07-05T07:55:45+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::delete_by_batch_requests Deleted 1 products:
+[{"woocommerce_id":2572}]
+2023-07-05T07:55:45+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:45+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:45+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:45+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:46+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:46+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:46+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:46+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:46+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:46+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:46+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:46+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:46+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:46+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:46+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:46+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:46+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:46+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:46+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:47+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 19 products:
+[{"woocommerce_id":2574,"google_id":"online:de:AT:gla_2574"},{"woocommerce_id":2575,"google_id":"online:de:AT:gla_2575"},{"woocommerce_id":2578,"google_id":"online:de:AT:gla_2578"},{"woocommerce_id":2579,"google_id":"online:de:AT:gla_2579"},{"woocommerce_id":2580,"google_id":"online:de:AT:gla_2580"},{"woocommerce_id":2581,"google_id":"online:de:AT:gla_2581"},{"woocommerce_id":2582,"google_id":"online:de:AT:gla_2582"},{"woocommerce_id":2583,"google_id":"online:de:AT:gla_2583"},{"woocommerce_id":2584,"google_id":"online:de:AT:gla_2584"},{"woocommerce_id":2585,"google_id":"online:de:AT:gla_2585"},{"woocommerce_id":2586,"google_id":"online:de:AT:gla_2586"},{"woocommerce_id":2587,"google_id":"online:de:AT:gla_2587"},{"woocommerce_id":2588,"google_id":"online:de:AT:gla_2588"},{"woocommerce_id":2589,"google_id":"online:de:AT:gla_2589"},{"woocommerce_id":2590,"google_id":"online:de:AT:gla_2590"},{"woocommerce_id":2591,"google_id":"online:de:AT:gla_2591"},{"woocommerce_id":2597,"google_id":"online:de:AT:gla_2597"},{"woocommerce_id":2598,"google_id":"online:de:AT:gla_2598"},{"woocommerce_id":2599,"google_id":"online:de:AT:gla_2599"}]
+2023-07-05T07:55:48+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::delete_by_batch_requests Deleted 1 products:
+[{"woocommerce_id":2573}]
+2023-07-05T07:55:48+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:48+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:48+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:48+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:48+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:48+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:48+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:48+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:48+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:48+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:48+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:48+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:48+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:48+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:48+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:48+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:48+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:48+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:48+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:55:50+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 19 products:
+[{"woocommerce_id":2574,"google_id":"online:de:AT:gla_2574"},{"woocommerce_id":2575,"google_id":"online:de:AT:gla_2575"},{"woocommerce_id":2578,"google_id":"online:de:AT:gla_2578"},{"woocommerce_id":2579,"google_id":"online:de:AT:gla_2579"},{"woocommerce_id":2580,"google_id":"online:de:AT:gla_2580"},{"woocommerce_id":2581,"google_id":"online:de:AT:gla_2581"},{"woocommerce_id":2582,"google_id":"online:de:AT:gla_2582"},{"woocommerce_id":2583,"google_id":"online:de:AT:gla_2583"},{"woocommerce_id":2584,"google_id":"online:de:AT:gla_2584"},{"woocommerce_id":2585,"google_id":"online:de:AT:gla_2585"},{"woocommerce_id":2586,"google_id":"online:de:AT:gla_2586"},{"woocommerce_id":2587,"google_id":"online:de:AT:gla_2587"},{"woocommerce_id":2588,"google_id":"online:de:AT:gla_2588"},{"woocommerce_id":2589,"google_id":"online:de:AT:gla_2589"},{"woocommerce_id":2590,"google_id":"online:de:AT:gla_2590"},{"woocommerce_id":2591,"google_id":"online:de:AT:gla_2591"},{"woocommerce_id":2597,"google_id":"online:de:AT:gla_2597"},{"woocommerce_id":2598,"google_id":"online:de:AT:gla_2598"},{"woocommerce_id":2599,"google_id":"online:de:AT:gla_2599"}]
+2023-07-05T07:56:22+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::delete_by_batch_requests Deleted 1 products:
+[{"woocommerce_id":2578}]
+2023-07-05T07:56:22+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:22+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:22+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:22+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:22+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:22+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:22+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:22+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:22+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:22+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:22+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:22+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:22+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:22+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:22+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:22+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:24+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 16 products:
+[{"woocommerce_id":2574,"google_id":"online:de:AT:gla_2574"},{"woocommerce_id":2575,"google_id":"online:de:AT:gla_2575"},{"woocommerce_id":2579,"google_id":"online:de:AT:gla_2579"},{"woocommerce_id":2580,"google_id":"online:de:AT:gla_2580"},{"woocommerce_id":2583,"google_id":"online:de:AT:gla_2583"},{"woocommerce_id":2584,"google_id":"online:de:AT:gla_2584"},{"woocommerce_id":2585,"google_id":"online:de:AT:gla_2585"},{"woocommerce_id":2586,"google_id":"online:de:AT:gla_2586"},{"woocommerce_id":2587,"google_id":"online:de:AT:gla_2587"},{"woocommerce_id":2588,"google_id":"online:de:AT:gla_2588"},{"woocommerce_id":2589,"google_id":"online:de:AT:gla_2589"},{"woocommerce_id":2590,"google_id":"online:de:AT:gla_2590"},{"woocommerce_id":2591,"google_id":"online:de:AT:gla_2591"},{"woocommerce_id":2597,"google_id":"online:de:AT:gla_2597"},{"woocommerce_id":2598,"google_id":"online:de:AT:gla_2598"},{"woocommerce_id":2599,"google_id":"online:de:AT:gla_2599"}]
+2023-07-05T07:56:25+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::delete_by_batch_requests Deleted 1 products:
+[{"woocommerce_id":2581}]
+2023-07-05T07:56:25+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:25+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:25+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:25+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:25+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:25+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:25+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:25+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:25+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:25+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:25+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:25+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:25+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:25+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:25+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:25+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:26+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 16 products:
+[{"woocommerce_id":2574,"google_id":"online:de:AT:gla_2574"},{"woocommerce_id":2575,"google_id":"online:de:AT:gla_2575"},{"woocommerce_id":2579,"google_id":"online:de:AT:gla_2579"},{"woocommerce_id":2580,"google_id":"online:de:AT:gla_2580"},{"woocommerce_id":2583,"google_id":"online:de:AT:gla_2583"},{"woocommerce_id":2584,"google_id":"online:de:AT:gla_2584"},{"woocommerce_id":2585,"google_id":"online:de:AT:gla_2585"},{"woocommerce_id":2586,"google_id":"online:de:AT:gla_2586"},{"woocommerce_id":2587,"google_id":"online:de:AT:gla_2587"},{"woocommerce_id":2588,"google_id":"online:de:AT:gla_2588"},{"woocommerce_id":2589,"google_id":"online:de:AT:gla_2589"},{"woocommerce_id":2590,"google_id":"online:de:AT:gla_2590"},{"woocommerce_id":2591,"google_id":"online:de:AT:gla_2591"},{"woocommerce_id":2597,"google_id":"online:de:AT:gla_2597"},{"woocommerce_id":2598,"google_id":"online:de:AT:gla_2598"},{"woocommerce_id":2599,"google_id":"online:de:AT:gla_2599"}]
+2023-07-05T07:56:27+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::delete_by_batch_requests Deleted 1 products:
+[{"woocommerce_id":2582}]
+2023-07-05T07:56:27+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:27+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:27+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:27+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:27+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:27+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:27+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:27+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:27+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:27+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:27+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:27+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:27+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:27+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:27+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:27+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:29+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 16 products:
+[{"woocommerce_id":2574,"google_id":"online:de:AT:gla_2574"},{"woocommerce_id":2575,"google_id":"online:de:AT:gla_2575"},{"woocommerce_id":2579,"google_id":"online:de:AT:gla_2579"},{"woocommerce_id":2580,"google_id":"online:de:AT:gla_2580"},{"woocommerce_id":2583,"google_id":"online:de:AT:gla_2583"},{"woocommerce_id":2584,"google_id":"online:de:AT:gla_2584"},{"woocommerce_id":2585,"google_id":"online:de:AT:gla_2585"},{"woocommerce_id":2586,"google_id":"online:de:AT:gla_2586"},{"woocommerce_id":2587,"google_id":"online:de:AT:gla_2587"},{"woocommerce_id":2588,"google_id":"online:de:AT:gla_2588"},{"woocommerce_id":2589,"google_id":"online:de:AT:gla_2589"},{"woocommerce_id":2590,"google_id":"online:de:AT:gla_2590"},{"woocommerce_id":2591,"google_id":"online:de:AT:gla_2591"},{"woocommerce_id":2597,"google_id":"online:de:AT:gla_2597"},{"woocommerce_id":2598,"google_id":"online:de:AT:gla_2598"},{"woocommerce_id":2599,"google_id":"online:de:AT:gla_2599"}]
+2023-07-05T07:56:46+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::delete_by_batch_requests Deleted 1 products:
+[{"woocommerce_id":2583}]
+2023-07-05T07:56:46+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:46+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:46+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:46+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:46+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:46+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:46+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:46+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:46+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:46+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:46+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:46+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:46+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:46+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:48+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 14 products:
+[{"woocommerce_id":2574,"google_id":"online:de:AT:gla_2574"},{"woocommerce_id":2575,"google_id":"online:de:AT:gla_2575"},{"woocommerce_id":2579,"google_id":"online:de:AT:gla_2579"},{"woocommerce_id":2580,"google_id":"online:de:AT:gla_2580"},{"woocommerce_id":2584,"google_id":"online:de:AT:gla_2584"},{"woocommerce_id":2585,"google_id":"online:de:AT:gla_2585"},{"woocommerce_id":2587,"google_id":"online:de:AT:gla_2587"},{"woocommerce_id":2588,"google_id":"online:de:AT:gla_2588"},{"woocommerce_id":2589,"google_id":"online:de:AT:gla_2589"},{"woocommerce_id":2590,"google_id":"online:de:AT:gla_2590"},{"woocommerce_id":2591,"google_id":"online:de:AT:gla_2591"},{"woocommerce_id":2597,"google_id":"online:de:AT:gla_2597"},{"woocommerce_id":2598,"google_id":"online:de:AT:gla_2598"},{"woocommerce_id":2599,"google_id":"online:de:AT:gla_2599"}]
+2023-07-05T07:56:49+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::delete_by_batch_requests Deleted 1 products:
+[{"woocommerce_id":2586}]
+2023-07-05T07:56:49+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:49+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:49+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:49+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:49+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:49+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:49+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:49+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:49+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:49+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:49+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:49+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:49+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:49+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:50+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 14 products:
+[{"woocommerce_id":2574,"google_id":"online:de:AT:gla_2574"},{"woocommerce_id":2575,"google_id":"online:de:AT:gla_2575"},{"woocommerce_id":2579,"google_id":"online:de:AT:gla_2579"},{"woocommerce_id":2580,"google_id":"online:de:AT:gla_2580"},{"woocommerce_id":2584,"google_id":"online:de:AT:gla_2584"},{"woocommerce_id":2585,"google_id":"online:de:AT:gla_2585"},{"woocommerce_id":2587,"google_id":"online:de:AT:gla_2587"},{"woocommerce_id":2588,"google_id":"online:de:AT:gla_2588"},{"woocommerce_id":2589,"google_id":"online:de:AT:gla_2589"},{"woocommerce_id":2590,"google_id":"online:de:AT:gla_2590"},{"woocommerce_id":2591,"google_id":"online:de:AT:gla_2591"},{"woocommerce_id":2597,"google_id":"online:de:AT:gla_2597"},{"woocommerce_id":2598,"google_id":"online:de:AT:gla_2598"},{"woocommerce_id":2599,"google_id":"online:de:AT:gla_2599"}]
+2023-07-05T07:56:52+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::delete_by_batch_requests Deleted 1 products:
+[{"woocommerce_id":2587}]
+2023-07-05T07:56:52+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:52+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:52+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:52+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:52+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:52+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:52+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:52+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:52+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:52+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:52+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:52+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:52+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:56:53+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 13 products:
+[{"woocommerce_id":2574,"google_id":"online:de:AT:gla_2574"},{"woocommerce_id":2575,"google_id":"online:de:AT:gla_2575"},{"woocommerce_id":2579,"google_id":"online:de:AT:gla_2579"},{"woocommerce_id":2580,"google_id":"online:de:AT:gla_2580"},{"woocommerce_id":2584,"google_id":"online:de:AT:gla_2584"},{"woocommerce_id":2585,"google_id":"online:de:AT:gla_2585"},{"woocommerce_id":2588,"google_id":"online:de:AT:gla_2588"},{"woocommerce_id":2589,"google_id":"online:de:AT:gla_2589"},{"woocommerce_id":2590,"google_id":"online:de:AT:gla_2590"},{"woocommerce_id":2591,"google_id":"online:de:AT:gla_2591"},{"woocommerce_id":2597,"google_id":"online:de:AT:gla_2597"},{"woocommerce_id":2598,"google_id":"online:de:AT:gla_2598"},{"woocommerce_id":2599,"google_id":"online:de:AT:gla_2599"}]
+2023-07-05T07:57:28+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::delete_by_batch_requests Deleted 1 products:
+[{"woocommerce_id":2588}]
+2023-07-05T07:57:29+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:57:29+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:57:29+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:57:29+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:57:29+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:57:29+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:57:29+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:57:29+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:57:29+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:57:29+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:57:29+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:57:29+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T07:57:30+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 12 products:
+[{"woocommerce_id":2574,"google_id":"online:de:AT:gla_2574"},{"woocommerce_id":2575,"google_id":"online:de:AT:gla_2575"},{"woocommerce_id":2579,"google_id":"online:de:AT:gla_2579"},{"woocommerce_id":2580,"google_id":"online:de:AT:gla_2580"},{"woocommerce_id":2584,"google_id":"online:de:AT:gla_2584"},{"woocommerce_id":2585,"google_id":"online:de:AT:gla_2585"},{"woocommerce_id":2589,"google_id":"online:de:AT:gla_2589"},{"woocommerce_id":2590,"google_id":"online:de:AT:gla_2590"},{"woocommerce_id":2591,"google_id":"online:de:AT:gla_2591"},{"woocommerce_id":2597,"google_id":"online:de:AT:gla_2597"},{"woocommerce_id":2598,"google_id":"online:de:AT:gla_2598"},{"woocommerce_id":2599,"google_id":"online:de:AT:gla_2599"}]
+2023-07-05T08:06:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T08:06:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T08:06:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T08:06:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T08:06:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T08:06:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T08:06:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T08:06:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T08:06:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T08:06:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T08:06:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T08:06:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T08:06:20+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 12 products:
+[{"woocommerce_id":2574,"google_id":"online:de:AT:gla_2574"},{"woocommerce_id":2575,"google_id":"online:de:AT:gla_2575"},{"woocommerce_id":2579,"google_id":"online:de:AT:gla_2579"},{"woocommerce_id":2580,"google_id":"online:de:AT:gla_2580"},{"woocommerce_id":2584,"google_id":"online:de:AT:gla_2584"},{"woocommerce_id":2585,"google_id":"online:de:AT:gla_2585"},{"woocommerce_id":2589,"google_id":"online:de:AT:gla_2589"},{"woocommerce_id":2590,"google_id":"online:de:AT:gla_2590"},{"woocommerce_id":2591,"google_id":"online:de:AT:gla_2591"},{"woocommerce_id":2597,"google_id":"online:de:AT:gla_2597"},{"woocommerce_id":2598,"google_id":"online:de:AT:gla_2598"},{"woocommerce_id":2599,"google_id":"online:de:AT:gla_2599"}]
+2023-07-05T08:18:20+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T08:18:20+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T08:18:20+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T08:18:20+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T08:18:20+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T08:18:20+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T08:18:20+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T08:18:20+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T08:18:20+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T08:18:20+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T08:18:20+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T08:18:20+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T08:18:21+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 12 products:
+[{"woocommerce_id":2574,"google_id":"online:de:AT:gla_2574"},{"woocommerce_id":2575,"google_id":"online:de:AT:gla_2575"},{"woocommerce_id":2579,"google_id":"online:de:AT:gla_2579"},{"woocommerce_id":2580,"google_id":"online:de:AT:gla_2580"},{"woocommerce_id":2584,"google_id":"online:de:AT:gla_2584"},{"woocommerce_id":2585,"google_id":"online:de:AT:gla_2585"},{"woocommerce_id":2589,"google_id":"online:de:AT:gla_2589"},{"woocommerce_id":2590,"google_id":"online:de:AT:gla_2590"},{"woocommerce_id":2591,"google_id":"online:de:AT:gla_2591"},{"woocommerce_id":2597,"google_id":"online:de:AT:gla_2597"},{"woocommerce_id":2598,"google_id":"online:de:AT:gla_2598"},{"woocommerce_id":2599,"google_id":"online:de:AT:gla_2599"}]
+2023-07-05T08:56:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T08:56:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T08:56:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T08:56:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T08:56:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T08:56:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T08:56:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T08:56:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T08:56:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T08:56:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T08:56:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T08:56:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T08:56:20+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 12 products:
+[{"woocommerce_id":2574,"google_id":"online:de:AT:gla_2574"},{"woocommerce_id":2575,"google_id":"online:de:AT:gla_2575"},{"woocommerce_id":2579,"google_id":"online:de:AT:gla_2579"},{"woocommerce_id":2580,"google_id":"online:de:AT:gla_2580"},{"woocommerce_id":2584,"google_id":"online:de:AT:gla_2584"},{"woocommerce_id":2585,"google_id":"online:de:AT:gla_2585"},{"woocommerce_id":2589,"google_id":"online:de:AT:gla_2589"},{"woocommerce_id":2590,"google_id":"online:de:AT:gla_2590"},{"woocommerce_id":2591,"google_id":"online:de:AT:gla_2591"},{"woocommerce_id":2597,"google_id":"online:de:AT:gla_2597"},{"woocommerce_id":2598,"google_id":"online:de:AT:gla_2598"},{"woocommerce_id":2599,"google_id":"online:de:AT:gla_2599"}]
+2023-07-05T08:56:30+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T08:56:30+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T08:56:30+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T08:56:30+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T08:56:30+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T08:56:30+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T08:56:30+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T08:56:30+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T08:56:30+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T08:56:31+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T08:56:31+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T08:56:31+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T08:56:32+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 12 products:
+[{"woocommerce_id":2574,"google_id":"online:de:AT:gla_2574"},{"woocommerce_id":2575,"google_id":"online:de:AT:gla_2575"},{"woocommerce_id":2579,"google_id":"online:de:AT:gla_2579"},{"woocommerce_id":2580,"google_id":"online:de:AT:gla_2580"},{"woocommerce_id":2584,"google_id":"online:de:AT:gla_2584"},{"woocommerce_id":2585,"google_id":"online:de:AT:gla_2585"},{"woocommerce_id":2589,"google_id":"online:de:AT:gla_2589"},{"woocommerce_id":2590,"google_id":"online:de:AT:gla_2590"},{"woocommerce_id":2591,"google_id":"online:de:AT:gla_2591"},{"woocommerce_id":2597,"google_id":"online:de:AT:gla_2597"},{"woocommerce_id":2598,"google_id":"online:de:AT:gla_2598"},{"woocommerce_id":2599,"google_id":"online:de:AT:gla_2599"}]
+2023-07-05T09:03:31+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2603): ["Komplett-Pakete"].
+2023-07-05T09:03:31+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2603): ["Komplett-Pakete"].
+2023-07-05T09:03:31+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2603): ["Komplett-Pakete"].
+2023-07-05T09:03:31+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2603): ["Komplett-Pakete"].
+2023-07-05T09:03:31+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2603): ["Komplett-Pakete"].
+2023-07-05T09:03:31+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2603): ["Komplett-Pakete"].
+2023-07-05T09:03:31+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2603): ["Komplett-Pakete"].
+2023-07-05T09:03:31+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2603): ["Komplett-Pakete"].
+2023-07-05T09:03:31+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2603): ["Komplett-Pakete"].
+2023-07-05T09:03:31+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2603): ["Komplett-Pakete"].
+2023-07-05T09:03:31+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2603): ["Komplett-Pakete"].
+2023-07-05T09:03:31+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2603): ["Komplett-Pakete"].
+2023-07-05T09:03:34+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 12 products:
+[{"woocommerce_id":2604,"google_id":"online:de:AT:gla_2604"},{"woocommerce_id":2605,"google_id":"online:de:AT:gla_2605"},{"woocommerce_id":2606,"google_id":"online:de:AT:gla_2606"},{"woocommerce_id":2607,"google_id":"online:de:AT:gla_2607"},{"woocommerce_id":2608,"google_id":"online:de:AT:gla_2608"},{"woocommerce_id":2609,"google_id":"online:de:AT:gla_2609"},{"woocommerce_id":2610,"google_id":"online:de:AT:gla_2610"},{"woocommerce_id":2611,"google_id":"online:de:AT:gla_2611"},{"woocommerce_id":2612,"google_id":"online:de:AT:gla_2612"},{"woocommerce_id":2613,"google_id":"online:de:AT:gla_2613"},{"woocommerce_id":2614,"google_id":"online:de:AT:gla_2614"},{"woocommerce_id":2615,"google_id":"online:de:AT:gla_2615"}]
+2023-07-05T09:09:42+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 1083): ["Solarmodule"].
+2023-07-05T09:09:43+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":1083,"google_id":"online:de:AT:gla_1083"}]
+2023-07-05T09:13:33+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 1108): ["Solarmodule"].
+2023-07-05T09:13:35+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":1108,"google_id":"online:de:AT:gla_1108"}]
+2023-07-05T09:13:36+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2617): ["Komplett-Pakete"].
+2023-07-05T09:13:36+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2617): ["Komplett-Pakete"].
+2023-07-05T09:13:36+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2617): ["Komplett-Pakete"].
+2023-07-05T09:13:36+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2617): ["Komplett-Pakete"].
+2023-07-05T09:13:36+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2617): ["Komplett-Pakete"].
+2023-07-05T09:13:36+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2617): ["Komplett-Pakete"].
+2023-07-05T09:13:36+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2617): ["Komplett-Pakete"].
+2023-07-05T09:13:36+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2617): ["Komplett-Pakete"].
+2023-07-05T09:13:36+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2617): ["Komplett-Pakete"].
+2023-07-05T09:13:36+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2617): ["Komplett-Pakete"].
+2023-07-05T09:13:36+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2617): ["Komplett-Pakete"].
+2023-07-05T09:13:36+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2617): ["Komplett-Pakete"].
+2023-07-05T09:13:38+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 12 products:
+[{"woocommerce_id":2618,"google_id":"online:de:AT:gla_2618"},{"woocommerce_id":2619,"google_id":"online:de:AT:gla_2619"},{"woocommerce_id":2620,"google_id":"online:de:AT:gla_2620"},{"woocommerce_id":2621,"google_id":"online:de:AT:gla_2621"},{"woocommerce_id":2622,"google_id":"online:de:AT:gla_2622"},{"woocommerce_id":2623,"google_id":"online:de:AT:gla_2623"},{"woocommerce_id":2624,"google_id":"online:de:AT:gla_2624"},{"woocommerce_id":2625,"google_id":"online:de:AT:gla_2625"},{"woocommerce_id":2626,"google_id":"online:de:AT:gla_2626"},{"woocommerce_id":2627,"google_id":"online:de:AT:gla_2627"},{"woocommerce_id":2628,"google_id":"online:de:AT:gla_2628"},{"woocommerce_id":2629,"google_id":"online:de:AT:gla_2629"}]
+2023-07-05T09:15:27+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 1108): ["Solarmodule"].
+2023-07-05T09:15:28+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":1108,"google_id":"online:de:AT:gla_1108"}]
+2023-07-05T09:20:32+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 1108): ["Solarmodule"].
+2023-07-05T09:20:33+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":1108,"google_id":"online:de:AT:gla_1108"}]
+2023-07-05T09:20:44+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 1656): ["Solarmodule"].
+2023-07-05T09:20:45+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":1656,"google_id":"online:de:AT:gla_1656"}]
+2023-07-05T09:21:51+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 1656): ["Solarmodule"].
+2023-07-05T09:21:53+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":1656,"google_id":"online:de:AT:gla_1656"}]
+2023-07-05T09:24:07+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2632): ["Komplett-Pakete"].
+2023-07-05T09:24:09+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2632,"google_id":"online:de:AT:gla_2632"}]
+2023-07-05T09:24:23+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2189): ["Solarmodule"].
+2023-07-05T09:24:24+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2189,"google_id":"online:de:AT:gla_2189"}]
+2023-07-05T09:26:43+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2632): ["Komplett-Pakete"].
+2023-07-05T09:26:44+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2632,"google_id":"online:de:AT:gla_2632"}]
+2023-07-05T09:27:19+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2339): ["Solarmodule"].
+2023-07-05T09:27:20+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2339,"google_id":"online:de:AT:gla_2339"}]
+2023-07-05T09:28:53+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2339): ["Solarmodule"].
+2023-07-05T09:28:54+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2339,"google_id":"online:de:AT:gla_2339"}]
+2023-07-05T09:47:05+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2650): ["Komplett-Pakete"].
+2023-07-05T09:47:07+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2650,"google_id":"online:de:AT:gla_2650"}]
+2023-07-05T09:48:10+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2650): ["Komplett-Pakete"].
+2023-07-05T09:48:11+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2650,"google_id":"online:de:AT:gla_2650"}]
+2023-07-05T09:48:19+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 1977): ["Balkonkraftwerke"].
+2023-07-05T09:48:20+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":1977,"google_id":"online:de:AT:gla_1977"}]
+2023-07-05T09:52:26+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2650): ["Komplett-Pakete"].
+2023-07-05T09:52:27+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2650,"google_id":"online:de:AT:gla_2650"}]
+2023-07-05T09:55:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2652): ["Komplett-Pakete"].
+2023-07-05T09:55:19+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2652,"google_id":"online:de:AT:gla_2652"}]
+2023-07-05T10:04:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 873): ["Wechselrichter"].
+2023-07-05T10:04:19+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":873,"google_id":"online:de:AT:gla_873"}]
+2023-07-05T10:07:50+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 843): ["Wechselrichter"].
+2023-07-05T10:07:51+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":843,"google_id":"online:de:AT:gla_843"}]
+2023-07-05T10:12:36+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 897): ["Wechselrichter"].
+2023-07-05T10:12:37+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":897,"google_id":"online:de:AT:gla_897"}]
+2023-07-05T10:13:23+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 869): ["Wechselrichter"].
+2023-07-05T10:13:24+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":869,"google_id":"online:de:AT:gla_869"}]
+2023-07-05T10:14:25+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 870): ["Wechselrichter"].
+2023-07-05T10:14:27+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":870,"google_id":"online:de:AT:gla_870"}]
+2023-07-05T10:14:47+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 871): ["Wechselrichter"].
+2023-07-05T10:14:48+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":871,"google_id":"online:de:AT:gla_871"}]
+2023-07-05T10:15:58+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 872): ["Wechselrichter"].
+2023-07-05T10:15:59+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":872,"google_id":"online:de:AT:gla_872"}]
+2023-07-05T10:17:07+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 874): ["Wechselrichter"].
+2023-07-05T10:17:08+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":874,"google_id":"online:de:AT:gla_874"}]
+2023-07-05T10:18:13+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 898): ["Wechselrichter"].
+2023-07-05T10:18:14+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":898,"google_id":"online:de:AT:gla_898"}]
+2023-07-05T10:19:16+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 899): ["Wechselrichter"].
+2023-07-05T10:19:17+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":899,"google_id":"online:de:AT:gla_899"}]
+2023-07-05T10:19:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 900): ["Wechselrichter"].
+2023-07-05T10:19:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":900,"google_id":"online:de:AT:gla_900"}]
+2023-07-05T10:20:25+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 915): ["Wechselrichter"].
+2023-07-05T10:20:26+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":915,"google_id":"online:de:AT:gla_915"}]
+2023-07-05T10:21:22+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 1961): ["Wechselrichter"].
+2023-07-05T10:21:23+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":1961,"google_id":"online:de:AT:gla_1961"}]
+2023-07-05T10:36:44+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2658): ["Komplett-Pakete"].
+2023-07-05T10:36:46+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2658,"google_id":"online:de:AT:gla_2658"}]
+2023-07-05T10:38:51+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2658): ["Komplett-Pakete"].
+2023-07-05T10:38:52+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2658,"google_id":"online:de:AT:gla_2658"}]
+2023-07-05T11:31:20+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2603): ["Komplett-Pakete"].
+2023-07-05T11:31:20+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2603): ["Komplett-Pakete"].
+2023-07-05T11:31:20+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2603): ["Komplett-Pakete"].
+2023-07-05T11:31:20+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2603): ["Komplett-Pakete"].
+2023-07-05T11:31:20+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2603): ["Komplett-Pakete"].
+2023-07-05T11:31:20+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2603): ["Komplett-Pakete"].
+2023-07-05T11:31:20+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2603): ["Komplett-Pakete"].
+2023-07-05T11:31:20+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2603): ["Komplett-Pakete"].
+2023-07-05T11:31:20+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2603): ["Komplett-Pakete"].
+2023-07-05T11:31:20+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2603): ["Komplett-Pakete"].
+2023-07-05T11:31:20+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2603): ["Komplett-Pakete"].
+2023-07-05T11:31:20+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2603): ["Komplett-Pakete"].
+2023-07-05T11:31:22+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 12 products:
+[{"woocommerce_id":2604,"google_id":"online:de:AT:gla_2604"},{"woocommerce_id":2605,"google_id":"online:de:AT:gla_2605"},{"woocommerce_id":2606,"google_id":"online:de:AT:gla_2606"},{"woocommerce_id":2607,"google_id":"online:de:AT:gla_2607"},{"woocommerce_id":2608,"google_id":"online:de:AT:gla_2608"},{"woocommerce_id":2609,"google_id":"online:de:AT:gla_2609"},{"woocommerce_id":2610,"google_id":"online:de:AT:gla_2610"},{"woocommerce_id":2611,"google_id":"online:de:AT:gla_2611"},{"woocommerce_id":2612,"google_id":"online:de:AT:gla_2612"},{"woocommerce_id":2613,"google_id":"online:de:AT:gla_2613"},{"woocommerce_id":2614,"google_id":"online:de:AT:gla_2614"},{"woocommerce_id":2615,"google_id":"online:de:AT:gla_2615"}]
+2023-07-05T11:34:28+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2603): ["Komplett-Pakete"].
+2023-07-05T11:34:28+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2603): ["Komplett-Pakete"].
+2023-07-05T11:34:28+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2603): ["Komplett-Pakete"].
+2023-07-05T11:34:28+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2603): ["Komplett-Pakete"].
+2023-07-05T11:34:28+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2603): ["Komplett-Pakete"].
+2023-07-05T11:34:28+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2603): ["Komplett-Pakete"].
+2023-07-05T11:34:28+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2603): ["Komplett-Pakete"].
+2023-07-05T11:34:28+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2603): ["Komplett-Pakete"].
+2023-07-05T11:34:28+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2603): ["Komplett-Pakete"].
+2023-07-05T11:34:28+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2603): ["Komplett-Pakete"].
+2023-07-05T11:34:28+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2603): ["Komplett-Pakete"].
+2023-07-05T11:34:28+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2603): ["Komplett-Pakete"].
+2023-07-05T11:34:31+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 12 products:
+[{"woocommerce_id":2604,"google_id":"online:de:AT:gla_2604"},{"woocommerce_id":2605,"google_id":"online:de:AT:gla_2605"},{"woocommerce_id":2606,"google_id":"online:de:AT:gla_2606"},{"woocommerce_id":2607,"google_id":"online:de:AT:gla_2607"},{"woocommerce_id":2608,"google_id":"online:de:AT:gla_2608"},{"woocommerce_id":2609,"google_id":"online:de:AT:gla_2609"},{"woocommerce_id":2610,"google_id":"online:de:AT:gla_2610"},{"woocommerce_id":2611,"google_id":"online:de:AT:gla_2611"},{"woocommerce_id":2612,"google_id":"online:de:AT:gla_2612"},{"woocommerce_id":2613,"google_id":"online:de:AT:gla_2613"},{"woocommerce_id":2614,"google_id":"online:de:AT:gla_2614"},{"woocommerce_id":2615,"google_id":"online:de:AT:gla_2615"}]
+2023-07-05T11:36:04+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T11:36:04+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T11:36:04+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T11:36:04+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T11:36:04+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T11:36:04+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T11:36:04+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T11:36:04+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T11:36:04+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T11:36:04+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T11:36:04+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T11:36:04+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-05T11:36:06+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 12 products:
+[{"woocommerce_id":2574,"google_id":"online:de:AT:gla_2574"},{"woocommerce_id":2575,"google_id":"online:de:AT:gla_2575"},{"woocommerce_id":2579,"google_id":"online:de:AT:gla_2579"},{"woocommerce_id":2580,"google_id":"online:de:AT:gla_2580"},{"woocommerce_id":2584,"google_id":"online:de:AT:gla_2584"},{"woocommerce_id":2585,"google_id":"online:de:AT:gla_2585"},{"woocommerce_id":2589,"google_id":"online:de:AT:gla_2589"},{"woocommerce_id":2590,"google_id":"online:de:AT:gla_2590"},{"woocommerce_id":2591,"google_id":"online:de:AT:gla_2591"},{"woocommerce_id":2597,"google_id":"online:de:AT:gla_2597"},{"woocommerce_id":2598,"google_id":"online:de:AT:gla_2598"},{"woocommerce_id":2599,"google_id":"online:de:AT:gla_2599"}]
+2023-07-05T11:37:20+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2617): ["Komplett-Pakete"].
+2023-07-05T11:37:20+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2617): ["Komplett-Pakete"].
+2023-07-05T11:37:20+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2617): ["Komplett-Pakete"].
+2023-07-05T11:37:20+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2617): ["Komplett-Pakete"].
+2023-07-05T11:37:20+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2617): ["Komplett-Pakete"].
+2023-07-05T11:37:20+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2617): ["Komplett-Pakete"].
+2023-07-05T11:37:20+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2617): ["Komplett-Pakete"].
+2023-07-05T11:37:20+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2617): ["Komplett-Pakete"].
+2023-07-05T11:37:20+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2617): ["Komplett-Pakete"].
+2023-07-05T11:37:20+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2617): ["Komplett-Pakete"].
+2023-07-05T11:37:20+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2617): ["Komplett-Pakete"].
+2023-07-05T11:37:20+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2617): ["Komplett-Pakete"].
+2023-07-05T11:37:23+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 12 products:
+[{"woocommerce_id":2618,"google_id":"online:de:AT:gla_2618"},{"woocommerce_id":2619,"google_id":"online:de:AT:gla_2619"},{"woocommerce_id":2620,"google_id":"online:de:AT:gla_2620"},{"woocommerce_id":2621,"google_id":"online:de:AT:gla_2621"},{"woocommerce_id":2622,"google_id":"online:de:AT:gla_2622"},{"woocommerce_id":2623,"google_id":"online:de:AT:gla_2623"},{"woocommerce_id":2624,"google_id":"online:de:AT:gla_2624"},{"woocommerce_id":2625,"google_id":"online:de:AT:gla_2625"},{"woocommerce_id":2626,"google_id":"online:de:AT:gla_2626"},{"woocommerce_id":2627,"google_id":"online:de:AT:gla_2627"},{"woocommerce_id":2628,"google_id":"online:de:AT:gla_2628"},{"woocommerce_id":2629,"google_id":"online:de:AT:gla_2629"}]
+2023-07-05T11:39:24+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2632): ["Komplett-Pakete"].
+2023-07-05T11:39:25+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2632,"google_id":"online:de:AT:gla_2632"}]
+2023-07-05T11:40:19+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2650): ["Komplett-Pakete"].
+2023-07-05T11:40:20+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2650,"google_id":"online:de:AT:gla_2650"}]
+2023-07-05T11:41:32+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2652): ["Komplett-Pakete"].
+2023-07-05T11:41:33+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2652,"google_id":"online:de:AT:gla_2652"}]
+2023-07-05T11:42:34+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2658): ["Komplett-Pakete"].
+2023-07-05T11:42:35+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2658,"google_id":"online:de:AT:gla_2658"}]
+2023-07-05T12:57:21+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2496): ["Unterkonstruktion","Unterkonstruktion > Unterkonstruktion f\u00fcr Eternit","Unterkonstruktion > Unterkonstruktion f\u00fcr Trapezblech"].
+2023-07-05T12:57:22+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2496,"google_id":"online:de:AT:gla_2496"}]
+2023-07-05T12:57:55+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2493): ["Unterkonstruktion","Unterkonstruktion > Unterkonstruktion f\u00fcr Eternit","Unterkonstruktion > Unterkonstruktion f\u00fcr Trapezblech"].
+2023-07-05T12:57:57+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2493,"google_id":"online:de:AT:gla_2493"}]
+2023-07-05T12:58:25+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2492): ["Unterkonstruktion","Unterkonstruktion > Unterkonstruktion f\u00fcr Eternit","Unterkonstruktion > Unterkonstruktion f\u00fcr Trapezblech"].
+2023-07-05T12:58:27+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2492,"google_id":"online:de:AT:gla_2492"}]
+2023-07-05T12:58:27+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2485): ["Unterkonstruktion","Unterkonstruktion > Unterkonstruktion f\u00fcr Trapezblech"].
+2023-07-05T12:58:28+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2485,"google_id":"online:de:AT:gla_2485"}]
+2023-07-05T12:58:59+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2483): ["Unterkonstruktion","Unterkonstruktion > Unterkonstruktion f\u00fcr Trapezblech"].
+2023-07-05T12:59:00+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2483,"google_id":"online:de:AT:gla_2483"}]
+2023-07-05T12:59:00+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2479): ["Unterkonstruktion","Unterkonstruktion > Unterkonstruktion f\u00fcr Trapezblech"].
+2023-07-05T12:59:01+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2479,"google_id":"online:de:AT:gla_2479"}]
+2023-07-05T13:00:13+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2477): ["Unterkonstruktion","Unterkonstruktion > Unterkonstruktion f\u00fcr Eternit","Unterkonstruktion > Unterkonstruktion f\u00fcr Flachdach","Unterkonstruktion > Unterkonstruktion f\u00fcr Trapezblech","Unterkonstruktion > Unterkonstruktion f\u00fcr Ziegeldach","Zubeh\u00f6r"].
+2023-07-05T13:00:13+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\BatchProductHelper::validate_and_generate_update_request_entries Skipping product (ID: 2477) because it does not pass validation: {"woocommerce_id":2477,"errors":["[description] This value should not be blank."]}
+2023-07-05T13:00:13+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2470): ["Unterkonstruktion","Unterkonstruktion > Unterkonstruktion f\u00fcr Eternit","Unterkonstruktion > Unterkonstruktion f\u00fcr Flachdach","Unterkonstruktion > Unterkonstruktion f\u00fcr Trapezblech","Unterkonstruktion > Unterkonstruktion f\u00fcr Ziegeldach"].
+2023-07-05T13:00:15+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2470,"google_id":"online:de:AT:gla_2470"}]
+2023-07-05T13:00:15+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2466): ["Unterkonstruktion","Unterkonstruktion > Unterkonstruktion f\u00fcr Eternit","Unterkonstruktion > Unterkonstruktion f\u00fcr Flachdach","Unterkonstruktion > Unterkonstruktion f\u00fcr Trapezblech","Unterkonstruktion > Unterkonstruktion f\u00fcr Ziegeldach"].
+2023-07-05T13:00:16+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2466,"google_id":"online:de:AT:gla_2466"}]
+2023-07-05T13:00:16+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2464): ["Unterkonstruktion","Unterkonstruktion > Unterkonstruktion f\u00fcr Eternit","Unterkonstruktion > Unterkonstruktion f\u00fcr Flachdach","Unterkonstruktion > Unterkonstruktion f\u00fcr Trapezblech","Unterkonstruktion > Unterkonstruktion f\u00fcr Ziegeldach"].
+2023-07-05T13:00:17+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2464,"google_id":"online:de:AT:gla_2464"}]
+2023-07-05T13:01:28+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2461): ["Unterkonstruktion","Unterkonstruktion > Unterkonstruktion f\u00fcr Eternit","Unterkonstruktion > Unterkonstruktion f\u00fcr Flachdach","Unterkonstruktion > Unterkonstruktion f\u00fcr Trapezblech","Unterkonstruktion > Unterkonstruktion f\u00fcr Ziegeldach"].
+2023-07-05T13:01:30+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2461,"google_id":"online:de:AT:gla_2461"}]
+2023-07-05T13:01:30+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2460): ["Unterkonstruktion","Unterkonstruktion > Unterkonstruktion f\u00fcr Eternit","Unterkonstruktion > Unterkonstruktion f\u00fcr Flachdach","Unterkonstruktion > Unterkonstruktion f\u00fcr Trapezblech","Unterkonstruktion > Unterkonstruktion f\u00fcr Ziegeldach"].
+2023-07-05T13:01:31+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2460,"google_id":"online:de:AT:gla_2460"}]
+2023-07-05T13:01:31+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2456): ["Unterkonstruktion","Unterkonstruktion > Unterkonstruktion f\u00fcr Eternit","Unterkonstruktion > Unterkonstruktion f\u00fcr Flachdach","Unterkonstruktion > Unterkonstruktion f\u00fcr Trapezblech","Unterkonstruktion > Unterkonstruktion f\u00fcr Ziegeldach"].
+2023-07-05T13:01:32+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2456,"google_id":"online:de:AT:gla_2456"}]
+2023-07-05T13:01:32+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2455): ["Unterkonstruktion","Unterkonstruktion > Unterkonstruktion f\u00fcr Eternit","Unterkonstruktion > Unterkonstruktion f\u00fcr Ziegeldach"].
+2023-07-05T13:01:33+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2455,"google_id":"online:de:AT:gla_2455"}]
+2023-07-05T13:02:28+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2452): ["Unterkonstruktion","Unterkonstruktion > Unterkonstruktion f\u00fcr Eternit","Unterkonstruktion > Unterkonstruktion f\u00fcr Ziegeldach"].
+2023-07-05T13:02:29+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2452,"google_id":"online:de:AT:gla_2452"}]
+2023-07-05T13:03:23+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2448): ["Unterkonstruktion","Unterkonstruktion > Unterkonstruktion f\u00fcr Eternit","Unterkonstruktion > Unterkonstruktion f\u00fcr Flachdach","Unterkonstruktion > Unterkonstruktion f\u00fcr Ziegeldach"].
+2023-07-05T13:03:24+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2448,"google_id":"online:de:AT:gla_2448"}]
+2023-07-05T13:03:47+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2447): ["Unterkonstruktion","Unterkonstruktion > Unterkonstruktion f\u00fcr Ziegeldach"].
+2023-07-05T13:03:48+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2447,"google_id":"online:de:AT:gla_2447"}]
+2023-07-05T13:03:48+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2444): ["Unterkonstruktion","Unterkonstruktion > Unterkonstruktion f\u00fcr Ziegeldach"].
+2023-07-05T13:03:49+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2444,"google_id":"online:de:AT:gla_2444"}]
+2023-07-05T13:04:26+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2284): ["Unterkonstruktion","Unterkonstruktion > Unterkonstruktion f\u00fcr Ziegeldach"].
+2023-07-05T13:04:27+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2284,"google_id":"online:de:AT:gla_2284"}]
+2023-07-05T13:38:47+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2692): ["Zubeh\u00f6r"].
+2023-07-05T13:38:50+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2692,"google_id":"online:de:AT:gla_2692"}]

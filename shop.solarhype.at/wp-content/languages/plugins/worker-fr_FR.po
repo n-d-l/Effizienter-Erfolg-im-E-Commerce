@@ -1,0 +1,161 @@
+# Translation of Plugins - ManageWP Worker - Development (trunk) in French (France)
+# This file is distributed under the same license as the Plugins - ManageWP Worker - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-11-23 20:35:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - ManageWP Worker - Development (trunk)\n"
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:386
+msgid "Disconnect all"
+msgstr "Déconnecter tout"
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:283
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:313
+msgid "Click the Add site button."
+msgstr "Cliquez sur le bouton « Ajouter un site »."
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:277
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:308
+msgid "Log into your account."
+msgstr "Connectez-vous à votre compte."
+
+#: src/MWP/EventListener/PublicRequest/AutomaticLogin.php:137
+msgid "Invalid site connection specified. Please try again, or, if this keeps happening, contact support."
+msgstr "Connexion de site non valide spécifiée. Veuillez réessayer, ou, si cela continue à se produire, contactez le support."
+
+#: functions.php:878
+msgid "Every 5 Minutes"
+msgstr "Toutes les 5 minutes"
+
+#: src/MWP/EventListener/PublicRequest/AutomaticLogin.php:151
+msgid "The automatic login token isn't properly signed. Please contact our support for help."
+msgstr "Le jeton de connexion automatique n’est pas correctement signé. Veuillez contacter notre support pour obtenir de l’aide."
+
+#: functions.php:1150
+msgid "The site is currently in maintenance mode."
+msgstr "Ce site est actuellement en maintenance."
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:421
+msgid "Currently loaded keys:"
+msgstr "Clés actuellement chargées :"
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:404
+msgid "Copy"
+msgstr "Copier"
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:396
+msgid "Connection key:"
+msgstr "Clé de connexion :"
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:374
+msgid "Disconnect"
+msgstr "Déconnecter"
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:355
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:367
+msgid "N/A"
+msgstr "N/A"
+
+#. translators: the variable is going to contain a human time difference string
+#. like "2 days"
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:352
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:364
+msgid "%s ago"
+msgstr "il y a %s"
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:339
+msgid "Last Used"
+msgstr "Dernière utilisation"
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:335
+msgid "Connected"
+msgstr "Connecté"
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:331
+msgid "ID"
+msgstr "ID"
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:324
+msgid "Here is the list of currently active connections to this plugin:"
+msgstr "Voici la liste des connexion actuellement actives pour cette extension :"
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:317
+msgid "Enter this website's URL. When prompted, paste the connection key."
+msgstr "Saisir l’URL de ce site. Collez la clé de connexion lorsque cela sera demandé."
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:303
+msgid "Copy the connection key below."
+msgstr "Copier la clé de connexion ci-dessous."
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:299
+msgid "Install and activate the <b>Worker</b> plugin."
+msgstr "Installer et activer l’extension <b>Worker</b>."
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:294
+msgid "Manual"
+msgstr "Manuel"
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:288
+msgid "Enter this website's URL, admin username and password, and the system will take care of everything."
+msgstr "Saisir l’URL de ce site, l’identifiant et le mot de passe administrateur, et le système s’occupera de tout."
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:271
+msgid "Automatic"
+msgstr "Automatique"
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:266
+msgid "There are two ways to connect your website to the management dashboard:"
+msgstr "Il y a deux façons de connecter votre site web au tableau de bord de gestion :"
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:219
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:458
+msgid "Connection Management"
+msgstr "Gestion de la connexion"
+
+#. Author URI of the plugin
+msgid "https://godaddy.com"
+msgstr "https://godaddy.com"
+
+#. Author of the plugin
+msgid "GoDaddy"
+msgstr "GoDaddy"
+
+#. Description of the plugin
+msgid "We help you efficiently manage all your WordPress websites. <strong>Updates, backups, 1-click login, migrations, security</strong> and more, on one dashboard. This service comes in two versions: standalone <a href=\"https://managewp.com\">ManageWP</a> service that focuses on website management, and <a href=\"https://godaddy.com/pro\">GoDaddy Pro</a> that includes additional tools for hosting, client management, lead generation, and more."
+msgstr "Nous vous aidons à gérer efficacement tous vos sites WordPress. <strong>Mises à jour, sauvegardes, connexion en un clic, migrations, sécurité</strong> et bien plus, sur un seul tableau de bord. Ce service dispose de deux versions : le service <a href=\"https://managewp.com\">ManageWP</a> standard qui se concentre sur la gestion de sites, et <a href=\"https://godaddy.com/pro\">GoDaddy Pro</a> qui inclue des outils additionnels pour l’hébergement, la gestion des clients, la génération de prospects et bien plus."
+
+#. Plugin URI of the plugin
+msgid "https://managewp.com"
+msgstr "https://managewp.com"
+
+#. Plugin Name of the plugin
+msgid "ManageWP - Worker"
+msgstr "ManageWP - Worker"
+
+#. translators: the variable in this string is the WordPress username that
+#. could not be found
+#: src/MWP/EventListener/PublicRequest/AutomaticLogin.php:162
+msgid "User <strong>%s</strong> could not be found."
+msgstr "L’utilisateur <strong>%s</strong> n’a pas pu être trouvé."
+
+#: src/MWP/EventListener/PublicRequest/AutomaticLogin.php:155
+msgid "The automatic login token is invalid. Please check if this website is properly connected with your dashboard, or, if this keeps happening, contact support."
+msgstr "Le jeton de connexion automatique n’est pas valide. Veuillez vérifier si le site web est correctement connecté à votre tableau de bord, ou, si l’incident se répète, contactez le support."
+
+#: src/MWP/EventListener/PublicRequest/AutomaticLogin.php:125
+msgid "The automatic login token was already used. Please try again, or, if this keeps happening, contact support."
+msgstr "Le jeton de connexion automatique est déjà utilisé. Veuillez réessayer, ou, si l’incident se répète, contactez le support."
+
+#: src/MWP/EventListener/PublicRequest/AutomaticLogin.php:123
+msgid "The automatic login token has expired. Please try again, or, if this keeps happening, contact support."
+msgstr "Le jeton de connexion automatique a expiré. Veuillez réessayer, ou, si l’incident se répète, contactez le support."
+
+#: src/MWP/EventListener/PublicRequest/AutomaticLogin.php:121
+msgid "The automatic login token is invalid. Please try again, or, if this keeps happening, contact support."
+msgstr "Le jeton de connexion automatique n’est pas valide. Veuillez réessayer, ou, si l’incident se répète, contactez le support."

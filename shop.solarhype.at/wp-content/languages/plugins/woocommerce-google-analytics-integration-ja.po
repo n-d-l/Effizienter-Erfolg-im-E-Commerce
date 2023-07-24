@@ -1,0 +1,159 @@
+# Translation of Plugins - WooCommerce Google Analytics Integration - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - WooCommerce Google Analytics Integration - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-10-11 07:31:44+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - WooCommerce Google Analytics Integration - Stable (latest release)\n"
+
+#. translators: 1: href link to GA pro
+#: woocommerce-google-analytics-integration.php:202
+msgid "Add advanced tracking for your sales funnel, coupons and more. [<a href=\"%s\" target=\"_blank\">Learn more</a> &gt;]"
+msgstr "セールスファネル、クーポンなどの高度な追跡を追加します。[<a href=\"%s\" target=\"_blank\">詳細はこちら</a> &gt;]"
+
+#: woocommerce-google-analytics-integration.php:199
+msgid "Get detailed insights into your sales with Google Analytics Pro"
+msgstr "Google AnalyticsPro で売り上げに関する詳細な洞察を得る"
+
+#. Author URI of the plugin
+msgid "https://woocommerce.com"
+msgstr "https://woocommerce.com"
+
+#: woocommerce-google-analytics-integration.php:111
+msgid "Support"
+msgstr "サポート"
+
+#: woocommerce-google-analytics-integration.php:110
+msgid "Settings"
+msgstr "設定"
+
+#: includes/class-wc-google-analytics.php:485
+msgid "ID:"
+msgstr "ID:"
+
+#: includes/class-wc-google-analytics.php:199
+msgid "Use Enhanced Link Attribution"
+msgstr "拡張リンクアトリビューションを使用する"
+
+#: includes/class-wc-google-analytics.php:191
+msgid "\"Display Advertising\" Support"
+msgstr "「ディスプレイ広告」のサポート"
+
+#: includes/class-wc-google-analytics.php:223
+msgid "Purchase Transactions"
+msgstr "購買取引"
+
+#: includes/class-wc-google-analytics.php:224
+msgid "This requires a payment gateway that redirects to the thank you/order received page after payment. Orders paid with gateways which do not do this will not be tracked."
+msgstr "これは、支払い後、注文完了ページ（サンクスページ）にリダイレクトする支払方法には必須です。これをしておかないと、決済方法で支払った注文が分析できなくなります。"
+
+#: includes/class-wc-google-analytics.php:230
+msgid "Add to Cart Events"
+msgstr "カートに追加イベント"
+
+#: includes/class-wc-google-analytics.php:264
+msgid "Remove from Cart Events"
+msgstr "カートからの削除イベント"
+
+#: includes/class-wc-google-analytics.php:272
+msgid "Product Impressions from Listing Pages"
+msgstr "リスティングページからの商品のインプレション"
+
+#: includes/class-wc-google-analytics.php:280
+msgid "Product Clicks from Listing Pages"
+msgstr "リスティングページからの商品のクリック"
+
+#: includes/class-wc-google-analytics.php:288
+msgid "Product Detail Views"
+msgstr "商品詳細表示回数"
+
+#: includes/class-wc-google-analytics.php:296
+msgid "Checkout Process Initiated"
+msgstr "支払プロセスの開始"
+
+#: includes/class-wc-google-analytics.php:175
+msgid "Enable Universal Analytics"
+msgstr "ユニバーサル解析の有効化"
+
+#: includes/class-wc-google-analytics.php:251
+msgid "Enhanced eCommerce"
+msgstr "電子商取引に拡張"
+
+#: includes/class-wc-google-analytics.php:252
+msgid "Enable Enhanced eCommerce "
+msgstr "電子商取引拡張の有効化"
+
+#: includes/class-wc-google-analytics.php:312
+msgid "Please note, for transaction tracking to work properly, you will need to use a payment gateway that redirects the customer back to a WooCommerce order received/thank you page."
+msgstr "適切に動作するトランザクション追跡のためには、WooCommerce の注文完了/サンキューページに戻って顧客をリダイレクトする支払いゲートウェイを使用する必要があります、ご注意ください。"
+
+#: includes/class-wc-google-analytics.php:309
+msgid "Please allow Google Analytics 24 hours to start displaying results."
+msgstr "結果の表示を開始するまで、Google アナリティクスを24時間ほどお待ち下さい。"
+
+#: includes/class-wc-google-analytics.php:165
+msgid "Tracking Options"
+msgstr "トラッキングオプション"
+
+#: includes/class-wc-google-analytics.php:184
+msgid "Enable Standard Tracking"
+msgstr "標準トラッキングを有効"
+
+#: includes/class-wc-google-analytics-info-banner.php:69
+msgid "(Dismiss)"
+msgstr "(非表示)"
+
+#: includes/class-wc-google-analytics.php:185
+msgid "This tracks session data such as demographics, system, etc. You don't need to enable this if you are using a 3rd party Google analytics plugin."
+msgstr "これは、人口統計など、システム、などのセッションデータを追跡します。サードパーティの Google アナリティクスのプラグインを使用している場合は、これを有効にする必要はありません。"
+
+#: includes/class-wc-google-analytics-info-banner.php:64
+msgid "Google Analytics &amp; WooCommerce"
+msgstr "Google アナリティクス &amp; WooCommerce"
+
+#: includes/class-wc-google-analytics-info-banner.php:69
+msgid "Dismiss this notice."
+msgstr "通知を非表示にする。"
+
+#: includes/class-wc-google-analytics-info-banner.php:65
+msgid "<a href=\"%s\">Connect WooCommerce to Google Analytics</a> to finish setting up this integration."
+msgstr "この統合の設定を完了するために、<a href=\"%s\">WooCommerce に Google アナリティクスを接続します</a>。"
+
+#: includes/class-wc-google-analytics.php:484
+#: includes/class-wc-google-analytics.php:562
+msgid "Add to Cart"
+msgstr "カートに追加"
+
+#. Author of the plugin
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: includes/class-wc-google-analytics.php:483
+#: includes/class-wc-google-analytics.php:561
+msgid "Products"
+msgstr "商品"
+
+#. Plugin Name of the plugin
+msgid "WooCommerce Google Analytics Integration"
+msgstr "WooCommerce Google Analytics Integration"
+
+#: includes/class-wc-google-analytics.php:156
+msgid "Set Domain Name"
+msgstr "ドメイン名を設定"
+
+#: includes/class-wc-google-analytics.php:58
+msgid "Google Analytics"
+msgstr "Google アナリティクス"
+
+#. Description of the plugin
+msgid "Allows Google Analytics tracking code to be inserted into WooCommerce store pages."
+msgstr "Google アナリティクスのトラッキングコードを WooCommerce ストアのページに挿入できるようにします。"
+
+#: includes/class-wc-google-analytics.php:59
+msgid "Google Analytics is a free service offered by Google that generates detailed statistics about the visitors to a website."
+msgstr "Google アナリティクスは、ウェブサイトへの訪問者に関する詳細な統計情報を生成する Google が提供する無料サービスです。"

@@ -1,0 +1,667 @@
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-06-15 09:54:06+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ko_KR\n"
+"Project-Id-Version: WooCommerce - Extensions - woocommerce-table-rate-shipping\n"
+
+#: includes/class-wc-shipping-table-rate.php:259
+msgid "When comparing Min-Max Price Condition for rate in Table Rates, set if price with taxes or without taxes should be used."
+msgstr "요금표의 요금을 최소-최대 가격 조건과 비교할 때 세금 포함 가격 또는 세금 미포함 가격이 사용되는지 설정하세요."
+
+#: includes/class-wc-shipping-table-rate.php:257
+msgid "Use price with tax when comparing Min-Max Price Conditions."
+msgstr "최소-최대 가격 조건을 비교할 때 세금 포함 가격을 사용하세요."
+
+#: includes/class-wc-shipping-table-rate.php:256
+msgid "Taxes in Min-Max"
+msgstr "최소-최대의 세금"
+
+#: includes/class-wc-shipping-table-rate.php:251
+msgid "When comparing Min-Max Price Condition for rate in Table Rates, set if discounted or non-discounted price should be used."
+msgstr "요금표의 요금을 최소-최대 가격 조건과 비교할 때 할인된 가격 또는 할인되지 않은 가격이 사용되는지 설정하세요."
+
+#: includes/class-wc-shipping-table-rate.php:248
+msgid "Discounts in Min-Max"
+msgstr "최소-최대의 할인 가격"
+
+#: includes/class-wc-shipping-table-rate.php:249
+msgid "Use discounted price when comparing Min-Max Price Conditions."
+msgstr "최소-최대 가격 조건을 비교할 때 할인된 가격을 사용하세요."
+
+#: includes/functions-admin.php:49
+msgid "Cost per item."
+msgstr "아이템당 비용입니다."
+
+#: includes/functions-admin.php:45
+msgid "Cost for shipping the order."
+msgstr "주문을 배송하는 비용입니다."
+
+#. translators: %s: WooCommerce link
+#: woocommerce-table-rate-shipping.php:282
+msgid "WooCommerce Table Rate Shipping requires %s to be installed and active."
+msgstr "WooCommerce 배열 요금 배송에는 %s 설치 및 활성화가 필요합니다."
+
+#: woocommerce-table-rate-shipping.php:208
+msgid "Duplicate the selected rates?"
+msgstr "선택한 요금을 복제하시나요?"
+
+#: woocommerce-table-rate-shipping.php:207
+msgid "Delete the selected rates?"
+msgstr "선택한 요금을 삭제하시나요?"
+
+#: woocommerce-table-rate-shipping.php:205
+msgid "Line Item"
+msgstr "라인 항목"
+
+#: woocommerce-table-rate-shipping.php:204
+msgid "Item"
+msgstr "항목"
+
+#: woocommerce-table-rate-shipping.php:203
+msgid "Order"
+msgstr "순서"
+
+#: woocommerce-table-rate-shipping.php:183
+msgid "Documentation"
+msgstr "문서"
+
+#: woocommerce-table-rate-shipping.php:183
+msgid "Setup Zones"
+msgstr "영역 설정"
+
+#: woocommerce-table-rate-shipping.php:164
+msgid "Premium Support"
+msgstr "프리미엄 지원"
+
+#: woocommerce-table-rate-shipping.php:164
+msgid "Visit Premium Customer Support Forum"
+msgstr "프리미엄 고객 지원 포럼 방문"
+
+#: woocommerce-table-rate-shipping.php:163
+msgid "Docs"
+msgstr "문서"
+
+#: woocommerce-table-rate-shipping.php:163
+msgid "View Documentation"
+msgstr "설명서 보기"
+
+#: includes/legacy/shipping-zones/includes/views/html-zone-methods.php:22
+msgid "Add To Zone"
+msgstr "영역에 추가"
+
+#: includes/legacy/shipping-zones/includes/views/html-zone-methods.php:6
+msgid "Choose a shipping method&hellip;"
+msgstr "배송 방법 선택…"
+
+#: includes/legacy/shipping-zones/includes/views/html-zone-method-settings.php:6
+msgid "Save shipping method"
+msgstr "배송 방법 저장"
+
+#: includes/legacy/shipping-zones/includes/views/form-edit-shipping-zone.php:95
+msgid "Save changes"
+msgstr "변경 사항 저장"
+
+#: includes/legacy/shipping-zones/includes/views/form-edit-shipping-zone.php:43
+msgid "This shipping zone is based on one or more states/counties"
+msgstr "이 배송 영역의 기준은 하나 이상의 주/국가입니다."
+
+#: includes/legacy/shipping-zones/includes/views/form-edit-shipping-zone.php:19
+msgid "Enable this zone"
+msgstr "이 영역 사용"
+
+#: includes/legacy/shipping-zones/includes/views/form-edit-shipping-zone.php:11
+msgid "Enter a name which describes this zone"
+msgstr "이 영역을 설명하는 이름 입력"
+
+#: includes/legacy/shipping-zones/includes/views/form-edit-shipping-zone.php:8
+msgid "Name"
+msgstr "이름"
+
+#: includes/legacy/shipping-zones/includes/views/form-edit-shipping-zone.php:2
+msgid "Edit Shipping Zone"
+msgstr "배송 영역 편집"
+
+#: includes/legacy/shipping-zones/includes/views/form-add-shipping-zone.php:74
+msgid "Add shipping zone"
+msgstr "배송 구역 추가하기"
+
+#: includes/legacy/shipping-zones/includes/views/form-add-shipping-zone.php:67
+#: includes/legacy/shipping-zones/includes/views/form-edit-shipping-zone.php:81
+msgid "List 1 postcode per line. Wildcards (*) and ranges (for numeric postcodes) are supported."
+msgstr "라인당 우편번호 1개 나열 와일드카드(*)와 범위(숫자 우편번호의 경우)가 지원됩니다."
+
+#: includes/legacy/shipping-zones/includes/views/form-add-shipping-zone.php:50
+#: includes/legacy/shipping-zones/includes/views/form-edit-shipping-zone.php:62
+msgid "This shipping zone is based on one or more postcodes/zips"
+msgstr "이 배송 영역의 기준은 하나 이상의 우편번호입니다."
+
+#: includes/legacy/shipping-zones/includes/views/form-add-shipping-zone.php:47
+#: includes/legacy/shipping-zones/includes/views/form-edit-shipping-zone.php:59
+msgid "US States"
+msgstr "미국 주"
+
+#: includes/legacy/shipping-zones/includes/views/form-add-shipping-zone.php:34
+#: includes/legacy/shipping-zones/includes/views/form-edit-shipping-zone.php:46
+msgid "Choose states/counties&hellip;"
+msgstr "주/국가 선택…"
+
+#: includes/legacy/shipping-zones/includes/views/form-add-shipping-zone.php:31
+msgid "This shipping zone is based on one or more states and counties"
+msgstr "이 배송 영역의 기준은 하나 이상의 주/국가입니다."
+
+#: includes/legacy/shipping-zones/includes/views/form-add-shipping-zone.php:28
+#: includes/legacy/shipping-zones/includes/views/form-add-shipping-zone.php:47
+#: includes/legacy/shipping-zones/includes/views/form-edit-shipping-zone.php:40
+#: includes/legacy/shipping-zones/includes/views/form-edit-shipping-zone.php:59
+msgid "EU States"
+msgstr "유럽 주"
+
+#: includes/legacy/shipping-zones/includes/views/form-add-shipping-zone.php:28
+#: includes/legacy/shipping-zones/includes/views/form-add-shipping-zone.php:47
+#: includes/legacy/shipping-zones/includes/views/form-edit-shipping-zone.php:40
+#: includes/legacy/shipping-zones/includes/views/form-edit-shipping-zone.php:59
+msgid "All"
+msgstr "전체"
+
+#: includes/legacy/shipping-zones/includes/views/form-add-shipping-zone.php:21
+#: includes/legacy/shipping-zones/includes/views/form-add-shipping-zone.php:53
+#: includes/legacy/shipping-zones/includes/views/form-edit-shipping-zone.php:33
+#: includes/legacy/shipping-zones/includes/views/form-edit-shipping-zone.php:65
+msgid "Choose countries&hellip;"
+msgstr "국가 선택..."
+
+#: includes/legacy/shipping-zones/includes/views/form-add-shipping-zone.php:18
+#: includes/legacy/shipping-zones/includes/views/form-edit-shipping-zone.php:30
+msgid "This shipping zone is based on one or more countries"
+msgstr "이 배송 영역의 기준은 하나 이상의 국가입니다."
+
+#: includes/legacy/shipping-zones/includes/views/form-add-shipping-zone.php:14
+#: includes/legacy/shipping-zones/includes/views/form-add-shipping-zone.php:16
+#: includes/legacy/shipping-zones/includes/views/form-edit-shipping-zone.php:24
+#: includes/legacy/shipping-zones/includes/views/form-edit-shipping-zone.php:28
+msgid "Zone Type"
+msgstr "영역 유형"
+
+#: includes/legacy/shipping-zones/includes/views/form-add-shipping-zone.php:10
+msgid "Zone Name"
+msgstr "영역 이름"
+
+#: includes/legacy/shipping-zones/includes/views/form-add-shipping-zone.php:5
+msgid "If you wish to disable shipping for a location, add a zone and assign no shipping methods to it."
+msgstr "배송을 해제하려는 위치가 있으면 영역을 추가하고 배송 방법 없음을 지정합니다."
+
+#: includes/legacy/shipping-zones/includes/views/form-add-shipping-zone.php:3
+msgid "Zones cover multiple countries (and states) and can have shipping methods assigned to them. Each customer will be assigned a single matching shipping zone in order of priority, and if no zones apply the \"default zone\" will be used."
+msgstr "영역은 여러 국가(및 주)에 해당하며 배송 방법이 지정되었을 수 있습니다. 고객마다 우선순위 순서로 일치하는 배송 영역 하나가 지정되며, 적용되는 영역이 없으면 \"기본 영역\"이 사용됩니다."
+
+#: includes/legacy/shipping-zones/includes/views/form-add-shipping-zone.php:1
+msgid "Add Shipping Zone"
+msgstr "배송 영역 추가"
+
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zones-table.php:288
+msgid "All countries"
+msgstr "모든 국가"
+
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zones-table.php:287
+msgid "Default Zone (everywhere else)"
+msgstr "기본 영역(나머지 모든 영역)"
+
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zones-table.php:266
+msgid "Shipping zones disabled"
+msgstr "배송 영역 해제됨"
+
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zones-table.php:250
+msgid "Shipping zones enabled"
+msgstr "배송 영역 사용됨"
+
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zones-table.php:234
+msgid "Shipping zones deleted"
+msgstr "배송 영역 삭제됨"
+
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zones-table.php:195
+#: includes/legacy/shipping-zones/includes/views/form-edit-shipping-zone.php:16
+msgid "Enable"
+msgstr "활성"
+
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zones-table.php:194
+msgid "Disable"
+msgstr "비활성"
+
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zones-table.php:185
+msgid "Shipping Methods"
+msgstr "배송 방법"
+
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zones-table.php:183
+msgid "Zone type"
+msgstr "영역 유형"
+
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zones-table.php:182
+msgid "Zone name"
+msgstr "구역 명"
+
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zones-table.php:115
+#: includes/legacy/shipping-zones/includes/views/form-add-shipping-zone.php:67
+#: includes/legacy/shipping-zones/includes/views/form-edit-shipping-zone.php:81
+msgid "Postcodes"
+msgstr "우편번호"
+
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zones-table.php:113
+msgid "Countries and states"
+msgstr "국가 및 주"
+
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zones-table.php:111
+msgid "Countries"
+msgstr "국가"
+
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zones-table.php:99
+msgid "Within %s:"
+msgstr "%s 이내:"
+
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zones-table.php:78
+msgid "and %s others"
+msgstr "및 기타 %s"
+
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zones-table.php:61
+msgid "Everywhere"
+msgstr "모든 곳"
+
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zones-table.php:44
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zones-table.php:46
+msgid "Configure shipping methods"
+msgstr "배송 방법 구성"
+
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zone-methods-table.php:193
+msgid "No shipping methods found."
+msgstr "배송 방법을 찾을 수 없습니다."
+
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zone-methods-table.php:185
+msgid "Shipping methods deleted"
+msgstr "배송 방법 삭제됨"
+
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zone-methods-table.php:146
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zones-table.php:184
+msgid "Enabled"
+msgstr "켜짐"
+
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zone-methods-table.php:145
+msgid "Method Type"
+msgstr "방법 유형"
+
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zone-methods-table.php:115
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zone-methods-table.php:156
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zones-table.php:197
+msgid "Delete"
+msgstr "삭제"
+
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zone-methods-table.php:115
+msgid "Are you sure you want to delete this method?"
+msgstr "이 방법을 삭제하시겠어요?"
+
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zone-methods-table.php:115
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zones-table.php:44
+msgid "Edit"
+msgstr "편집"
+
+#: includes/legacy/shipping-zones/includes/class-wc-shipping-zones-admin.php:221
+msgid "Shipping zone saved."
+msgstr "배송 영역이 저장되었습니다."
+
+#: includes/legacy/shipping-zones/includes/class-wc-shipping-zones-admin.php:219
+msgid "Shipping zone saved. <a href=\"%s\">Back to zones.</a>"
+msgstr "배송 영역이 저장되었습니다. <a href=\"%s\">영역으로 돌아갑니다.</a>"
+
+#: includes/legacy/shipping-zones/includes/class-wc-shipping-zones-admin.php:213
+msgid "Error saving zone."
+msgstr "영역 저장 중 오류가 발생했습니다."
+
+#: includes/legacy/shipping-zones/includes/class-wc-shipping-zones-admin.php:110
+msgid "You must choose at least 1 postcode to add postcode zone."
+msgstr "우편번호 영역을 추가하려면 우편번호를 1개 이상 선택해야 합니다."
+
+#: includes/legacy/shipping-zones/includes/class-wc-shipping-zones-admin.php:100
+msgid "You must choose at least 1 country to add a zone."
+msgstr "영역을 추가하려면 국가를 1개 이상 선택해야 합니다."
+
+#: includes/legacy/shipping-zones/includes/class-wc-shipping-zones-admin.php:78
+msgid " Zone type is required"
+msgstr " 영역 유형이 필요합니다."
+
+#: includes/legacy/shipping-zones/includes/class-wc-shipping-zones-admin.php:72
+#: includes/legacy/shipping-zones/includes/views/form-add-shipping-zone.php:11
+msgid "Zone"
+msgstr "구역"
+
+#: includes/legacy/shipping-zones/includes/class-wc-shipping-zones-admin.php:69
+msgid "Zone name is required"
+msgstr "영역 이름이 필요합니다."
+
+#: includes/legacy/shipping-zones/includes/class-wc-shipping-zones-admin.php:39
+msgid "Could not save zone. Please try again."
+msgstr "영역을 저장할 수 없습니다. 다시 시도하세요."
+
+#: includes/legacy/shipping-zones/includes/class-wc-shipping-zone.php:118
+msgid "Everywhere else"
+msgstr "나머지 모든 영역"
+
+#: includes/legacy/shipping-zones/includes/class-wc-shipping-zone-admin.php:109
+msgid "Shipping method saved successfully."
+msgstr "배송 방법이 저장되었습니다."
+
+#: includes/legacy/shipping-zones/includes/class-wc-shipping-zone-admin.php:101
+msgid "Edit failed. Please try again."
+msgstr "수정에 실패했습니다. 다시 시도해 주세요."
+
+#: includes/legacy/shipping-zones/includes/class-wc-shipping-zone-admin.php:59
+msgid "Shipping method successfully deleted"
+msgstr "배송 방법이 삭제되었음"
+
+#: includes/legacy/shipping-zones/includes/class-wc-shipping-zone-admin.php:46
+msgid "Invalid shipping method"
+msgstr "유효하지 않은 배송 방법"
+
+#: includes/legacy/shipping-zones/includes/class-wc-shipping-zone-admin.php:44
+msgid "Shipping method successfully created. <a href=\"%s\">View method.</a>"
+msgstr "배송 방법이 생성되었습니다. <a href=\"%s\">방법 보기입니다.</a>"
+
+#: includes/legacy/shipping-zones/includes/class-wc-shipping-zone-admin.php:21
+msgid "Invalid shipping zone. <a href=\"%s\">Back to zones.</a>"
+msgstr "유효하지 않은 배송 영역입니다. <a href=\"%s\">영역으로 돌아갑니다.</a>"
+
+#: includes/legacy/shipping-zones/class-wc-shipping-zones.php:35
+#: includes/legacy/shipping-zones/includes/views/html-zone-list.php:2
+#: includes/legacy/shipping-zones/includes/views/html-zone-method-settings.php:3
+#: includes/legacy/shipping-zones/includes/views/html-zone-methods.php:3
+msgid "Shipping Zones"
+msgstr "배송 영역"
+
+#: includes/functions-admin.php:161
+msgid "Default"
+msgstr "기본"
+
+#: includes/functions-admin.php:155
+msgid "When calculating shipping, the cart contents will be <strong>searched for all shipping classes</strong>. If all product shipping classes are <strong>identical</strong>, the corresponding class will be used.<br/><strong>If there are a mix of classes</strong> then the class with the <strong>lowest number priority</strong> (defined above) will be used."
+msgstr "배송을 계산할 때 장바구니 내용물에 대한 <strong>모든 배송 클래스를 검색</strong>합니다. 모든 제품 배송 클래스가 <strong>동일한</strong> 경우 해당 클래스가 사용됩니다.<br/><strong>클래스가 혼합되어 있으면</strong> <strong>우선순위 번호가 가장 낮은</strong>(위에 정의되어 있음) 클래스가 사용됩니다. "
+
+#: includes/functions-admin.php:149
+msgid "Priority"
+msgstr "우선순위"
+
+#: includes/functions-admin.php:148 woocommerce-table-rate-shipping.php:206
+msgid "Class"
+msgstr "클래스"
+
+#: includes/functions-admin.php:141
+msgid "No shipping classes exist - you can ignore this option :)"
+msgstr "존재하는 배송 클래스 없음 - 이 옵션은 무시해도 됩니다 :)"
+
+#: includes/functions-admin.php:109
+msgid "Optional abort reason text"
+msgstr "중단 사유 텍스트(선택 사항)"
+
+#: includes/functions-admin.php:99
+msgid "Item count (same class)"
+msgstr "아이템 수(같은 클래스)"
+
+#: includes/functions-admin.php:97
+msgid "Item count"
+msgstr "아이템 수"
+
+#: includes/functions-admin.php:96
+msgid "Weight"
+msgstr "무게"
+
+#: includes/functions-admin.php:95
+msgid "Price"
+msgstr "금액"
+
+#: includes/functions-admin.php:85
+msgid "No class"
+msgstr "클래스 없음"
+
+#: includes/functions-admin.php:84
+msgid "Any class"
+msgstr "임의의 클래스"
+
+#: includes/functions-admin.php:67
+msgid "Delete selected rows"
+msgstr "선택한 행 삭제"
+
+#: includes/functions-admin.php:67
+msgid "Duplicate selected rows"
+msgstr "선택한 행 복제"
+
+#: includes/functions-admin.php:67
+msgid "Define your table rates here in order of priority."
+msgstr "여기에서 우선순위 순서로 배열 요금을 정의합니다."
+
+#: includes/functions-admin.php:66
+msgid "Add Shipping Rate"
+msgstr "배송비 추가"
+
+#: includes/functions-admin.php:60
+msgid "Label for the shipping method which the user will be presented. "
+msgstr "사용자에게 표시되는 배송 방법 레이블입니다.  "
+
+#: includes/functions-admin.php:59
+msgid "Label"
+msgstr "라벨"
+
+#: includes/functions-admin.php:57
+msgid "Percentage of total to charge."
+msgstr "청구할 합계 중 비율입니다."
+
+#: includes/functions-admin.php:56
+msgid "% cost"
+msgstr "% 비용"
+
+#: includes/functions-admin.php:53
+msgid "Cost per weight unit."
+msgstr "무게 단위당 비용입니다."
+
+#: includes/functions-admin.php:52
+msgid "cost"
+msgstr "비용"
+
+#: includes/functions-admin.php:48
+msgid "Item cost"
+msgstr "아이템 비용"
+
+#: includes/functions-admin.php:44
+msgid "Row cost"
+msgstr "행 비용"
+
+#: includes/functions-admin.php:41
+msgid "Enable this option to disable all rates/this shipping method if this row matches any item/line/class being quoted."
+msgstr "이 행과 일치하는 아이템/라인/클래스를 견적 중인 경우 모든 요금/이 배송 방법을 해제하려면 이 옵션을 사용합니다."
+
+#: includes/functions-admin.php:40
+msgid "Abort"
+msgstr "중단"
+
+#: includes/functions-admin.php:37
+msgid "Break at this point. For per-order rates, no rates other than this will be offered. For calculated rates, this will stop any further rates being matched."
+msgstr "이 지점에서 중단합니다. 주문당 요금의 경우 이 요금 외에 다른 요금은 제안되지 않습니다. 요금을 계산한 경우 일치하는 나머지 요금이 모두 중지됩니다."
+
+#: includes/functions-admin.php:36
+msgid "Break"
+msgstr "중단"
+
+#: includes/functions-admin.php:33
+msgid "Bottom and top range for the selected condition. "
+msgstr "선택한 조건의 아래쪽과 위쪽 범위입니다. "
+
+#: includes/functions-admin.php:32
+msgid "Min&ndash;Max"
+msgstr "최소–최대"
+
+#: includes/functions-admin.php:29
+msgid "Condition vs. destination"
+msgstr "조건과 목적지 비교"
+
+#: includes/functions-admin.php:28
+msgid "Condition"
+msgstr "조건"
+
+#: includes/functions-admin.php:24
+msgid "Shipping class this rate applies to."
+msgstr "이 요금이 적용되는 배송 클래스입니다."
+
+#: includes/functions-admin.php:23
+msgid "Shipping Class"
+msgstr "배송 클래스"
+
+#: includes/class-wc-shipping-table-rate.php:301
+msgid "Class Priorities"
+msgstr "클래스 우선순위"
+
+#: includes/class-wc-shipping-table-rate.php:294
+msgid "Table Rates"
+msgstr "배열 요금"
+
+#: includes/class-wc-shipping-table-rate.php:243
+msgid "Maximum cost for this shipping method (optional). If the cost is higher, this maximum cost will be enforced."
+msgstr "이 배송 방법의 최대 비용입니다(선택 사항). 비용이 더 많으면 이 최대 비용이 강제로 적용됩니다."
+
+#: includes/class-wc-shipping-table-rate.php:240
+msgid "Maximum Cost Per [item]"
+msgstr "[아이템]당 최대 비용"
+
+#: includes/class-wc-shipping-table-rate.php:235
+msgid "Minimum cost for this shipping method (optional). If the cost is lower, this minimum cost will be enforced."
+msgstr "이 배송 방법의 최소 비용입니다(선택 사항). 비용이 더 적으면 이 최소 비용이 강제로 적용됩니다."
+
+#: includes/class-wc-shipping-table-rate.php:232
+msgid "Minimum Cost Per [item]"
+msgstr "[아이템]당 최소 비용"
+
+#: includes/class-wc-shipping-table-rate.php:227
+msgid "Handling fee. Enter an amount, e.g. %1$s, or a percentage, e.g. 5%%. Leave blank to disable. Applied based on the \"Calculation Type\" chosen below."
+msgstr "취급 수수료입니다. 금액(예: %1$s) 또는 비율(예: 5%%)을 입력하세요. 비활성화하려면 비워 두세요. 아래에 선택된 \"계산 유형\"에 따라 적용됩니다."
+
+#: includes/class-wc-shipping-table-rate.php:224
+msgid "Handling Fee Per [item]"
+msgstr "[아이템]당 취급 수수료입니다."
+
+#: includes/class-wc-shipping-table-rate.php:220
+msgid "Calculated rates per shipping class"
+msgstr "계산한 배송 클래스당 요금"
+
+#: includes/class-wc-shipping-table-rate.php:219
+msgid "Calculated rates per line item"
+msgstr "계산한 라인 항목당 요금"
+
+#: includes/class-wc-shipping-table-rate.php:218
+msgid "Calculated rates per item"
+msgstr "계산한 아이템당 요금"
+
+#: includes/class-wc-shipping-table-rate.php:217
+msgid "Per order"
+msgstr "주문당"
+
+#: includes/class-wc-shipping-table-rate.php:213
+msgid "Per order rates will offer the customer all matching rates. Calculated rates will sum all matching rates and provide a single total."
+msgstr "주문당 요금에서는 일치하는 모든 요금이 고객에게 제안됩니다. 계산한 요금에서는 일치하는 모든 요금을 집계하고 하나의 합계를 제공합니다."
+
+#: includes/class-wc-shipping-table-rate.php:211
+msgid "Calculation Type"
+msgstr "계산 유형"
+
+#: includes/class-wc-shipping-table-rate.php:207
+msgid "This is where you define your table rates which are applied to an order."
+msgstr "주문에 적용되는 배열 요금을 여기에서 정의합니다."
+
+#: includes/class-wc-shipping-table-rate.php:205
+msgid "Rates"
+msgstr "요금"
+
+#: includes/class-wc-shipping-table-rate.php:200
+msgid "Maximum cost that the customer will pay after all the shipping rules have been applied. If the shipping cost calculated is bigger than this value, this cost will be the one shown."
+msgstr "모든 배송 규칙이 적용된 후 고객이 결제할 최대 비용입니다. 계산된 배송 비용이 이 값보다 클 경우 이 비용이 표시됩니다."
+
+#: includes/class-wc-shipping-table-rate.php:198
+msgid "Maximum Shipping Cost"
+msgstr "최대 배송 비용"
+
+#: includes/class-wc-shipping-table-rate.php:195
+#: includes/class-wc-shipping-table-rate.php:202
+#: includes/class-wc-shipping-table-rate.php:229
+#: includes/class-wc-shipping-table-rate.php:237
+#: includes/class-wc-shipping-table-rate.php:245
+#: includes/functions-admin.php:104
+msgid "n/a"
+msgstr "n/a"
+
+#: includes/class-wc-shipping-table-rate.php:193
+msgid "Enter an amount, e.g. %s. Leave blank to disable. This cost is applied once for the order as a whole."
+msgstr "금액(예: %s)을 입력하세요. 비활성화하려면 비워 두세요. 이 비용은 주문에 대해 전체적으로 한 번 적용됩니다."
+
+#: includes/class-wc-shipping-table-rate.php:191
+msgid "Handling Fee"
+msgstr "취급 수수료"
+
+#: includes/class-wc-shipping-table-rate.php:187
+msgid "No, I will enter costs below exclusive of tax"
+msgstr "아니요. 세금을 제외한 비용을 입력하겠습니다."
+
+#: includes/class-wc-shipping-table-rate.php:186
+msgid "Yes, I will enter costs below inclusive of tax"
+msgstr "예. 세금을 포함한 비용을 입력하겠습니다."
+
+#: includes/class-wc-shipping-table-rate.php:179
+msgid "Tax included in shipping costs"
+msgstr "배송 비용에 포함된 세금"
+
+#: includes/class-wc-shipping-table-rate.php:175
+#: includes/functions-admin.php:94
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zones-table.php:156
+#: includes/legacy/shipping-zones/includes/views/form-add-shipping-zone.php:28
+#: includes/legacy/shipping-zones/includes/views/form-add-shipping-zone.php:47
+#: includes/legacy/shipping-zones/includes/views/form-edit-shipping-zone.php:40
+#: includes/legacy/shipping-zones/includes/views/form-edit-shipping-zone.php:59
+msgid "None"
+msgstr "없습니다"
+
+#: includes/class-wc-shipping-table-rate.php:174
+msgid "Taxable"
+msgstr "과세 가능"
+
+#: includes/class-wc-shipping-table-rate.php:168
+msgid "Tax Status"
+msgstr "세금 상태"
+
+#: includes/class-wc-shipping-table-rate.php:164
+msgid "This controls the title which the user sees during checkout."
+msgstr "이것은 사용자가 결제시 보는 제목을 제어합니다."
+
+#: includes/class-wc-shipping-table-rate.php:161
+#: includes/legacy/shipping-zones/includes/list-tables/class-wc-shipping-zone-methods-table.php:144
+msgid "Method Title"
+msgstr "방법 제목"
+
+#: includes/class-wc-shipping-table-rate.php:41
+#: includes/class-wc-shipping-table-rate.php:165
+msgid "Table Rate"
+msgstr "배열 요금"
+
+#: includes/class-wc-shipping-table-rate.php:31
+msgid "Table rates are dynamic rates based on a number of cart conditions."
+msgstr "배열 요금은 수많은 장바구니 조건에 따라 달라지는 동적인 요금입니다."
+
+#: includes/class-wc-shipping-table-rate-privacy.php:20
+msgid "By using this extension, you may be storing personal data or sharing data with an external service. <a href=\"%s\" target=\"_blank\">Learn more about how this works, including what you may want to include in your privacy policy.</a>"
+msgstr "이 확장을 사용하면 개인 데이터를 저장하거나 외부 서비스와 데이터를 공유할 수 있습니다. <a href=\"%s\" target=\"_blank\">개인정보 취급방침에 포함하면 좋을 내용을 포함하여 작동 방식에 대해 자세히 알아보세요.</a>"
+
+#: includes/class-wc-shipping-table-rate-privacy.php:12
+#: includes/class-wc-shipping-table-rate.php:30
+msgid "Table rates"
+msgstr "배열 요금"
+
+#: includes/functions-admin.php:112 includes/functions-admin.php:115
+#: includes/functions-admin.php:118 includes/functions-admin.php:121
+msgid "0"
+msgstr "0"

@@ -1,0 +1,3 @@
+/* Update notices */
+.wrap .notice p.marketpress-update-notice:before{ content: ''; margin-right: 0; }
+hr.marketpress-update-notice { border-top: 1px solid #ffb900; border-bottom: none; }

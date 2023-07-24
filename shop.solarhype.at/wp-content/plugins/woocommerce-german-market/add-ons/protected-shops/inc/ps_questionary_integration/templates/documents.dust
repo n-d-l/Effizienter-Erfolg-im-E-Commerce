@@ -1,0 +1,19 @@
+<ul class="properties-list">
+{#documents}
+	<li class="property-item">
+		<span class="property-title">{name}</span>
+		<span class="property-icons-holder">
+
+			<a href="{downloadUrl}?documentType={type}&format=pdf" title="Download PDF-Version">
+				<img alt="PDF" src="../questionary/images/icon_pdf16.png">
+			</a>
+			<a href="{downloadUrl}?documentType={type}&format=html-snippet" title="Download HTML-Version">
+				<img alt="HTML" src="../questionary/images/icon_html16.png">
+			</a>
+			<a href="{downloadUrl}?documentType={type}&format=text" title="Download Text-Version">
+				<img alt="Plain text" src="../questionary/images/icon_txt16.png">
+			</a>
+		</span>
+	</li>
+{/documents}
+</ul>

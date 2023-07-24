@@ -1,0 +1,4851 @@
+# Translation of Plugins - Complianz &#8211; GDPR/CCPA Cookie Consent - Stable (latest release) in Danish
+# This file is distributed under the same license as the Plugins - Complianz &#8211; GDPR/CCPA Cookie Consent - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-11-09 14:17:04+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: da_DK\n"
+"Project-Id-Version: Plugins - Complianz &#8211; GDPR/CCPA Cookie Consent - Stable (latest release)\n"
+
+#: templates/dashboard/tools-conditional.php:37
+msgid "Records of consent"
+msgstr "Registreringer af samtykke"
+
+#: DNSMPD/class-DNSMPD-table.php:168 DNSMPD/csv.php:60
+msgid "Date"
+msgstr "Dato"
+
+#: DNSMPD/class-DNSMPD-table.php:165
+msgid "Region"
+msgstr "Region"
+
+#: config/documents/documents.php:132
+msgid "Privacy Statement (ZA)"
+msgstr "Erklæring om beskyttelse af personlige oplysninger (ZA)"
+
+#: config/documents/documents.php:114
+msgid "Privacy Statement (AU)"
+msgstr "Erklæring om beskyttelse af personlige oplysninger (AU)"
+
+#: config/documents/documents.php:96
+msgid "Privacy Statement (CA)"
+msgstr "Fortrolighedserklæring (CA)"
+
+#: config/documents/documents.php:59
+msgid "Privacy Statement (US)"
+msgstr "Fortrolighedserklæring (US)"
+
+#: config/documents/documents.php:41
+msgid "Privacy Statement (EU)"
+msgstr "Fortrolighedserklæring (EU)"
+
+#: cookiebanner/settings.php:656 cookiebanner/settings.php:657
+#: cookiebanner/settings.php:658
+msgid "View preferences"
+msgstr "Se præferencer"
+
+#: templates/dashboard/documents-conditional.php:22
+msgid "Opt-out preferences"
+msgstr "Præferencer for opt-out"
+
+#: integrations/settings.php:28
+msgid "Whitelist a script, iframe or plugin"
+msgstr "Whiteliste et script, iframe eller plugin"
+
+#: integrations/settings.php:21
+msgid "Block a script, iframe or plugin"
+msgstr "Blokere et script, en iframe eller et plugin"
+
+#: integrations/settings.php:14
+msgid "Add a third-party script"
+msgstr "Tilføj et script fra en tredjepart"
+
+#: functions.php:121
+msgid "Based on your Analytics configuration you should fire Analytics on event cmplz_statistics."
+msgstr "Baseret på din Analytics-konfiguration skal du affyre Analytics på hændelsen cmplz_statistics."
+
+#: functions.php:119
+msgid "Based on your Analytics configuration you should fire Analytics on event cmplz_functional."
+msgstr "Baseret på din Analytics-konfiguration skal du affyre Analytics på hændelsen cmplz_functional."
+
+#: cookiebanner/templates/cookiebanner.php:123
+msgid "Read more about these purposes"
+msgstr "Læs mere om disse formål"
+
+#: cookiebanner/templates/cookiebanner.php:122
+msgid "Manage vendors"
+msgstr "Vælg forhandler"
+
+#: cookiebanner/templates/cookiebanner.php:120
+msgid "Manage options"
+msgstr "Vælg muligheder"
+
+#: cookiebanner/templates/cookiebanner.php:35
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-category-widget.php:552
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-category-widget.php:697
+msgid "Always active"
+msgstr "Altid aktiv"
+
+#: cookiebanner/settings.php:804
+msgid "Marketing description"
+msgstr "Beskrivelse af markedsføring"
+
+#: cookiebanner/settings.php:803
+msgid "The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes."
+msgstr "Den tekniske lagring eller adgang er nødvendig for at oprette brugerprofiler med henblik på at sende reklamer eller for at spore brugeren på et websted eller på tværs af flere websteder med henblik på lignende markedsføringsformål."
+
+#: cookiebanner/settings.php:778
+msgid "Anonymous statistics description"
+msgstr "Beskrivelse af anonyme statistikker"
+
+#: cookiebanner/settings.php:777
+msgid "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you."
+msgstr "Den tekniske lagring eller adgang, der udelukkende anvendes til anonyme statistiske formål. Uden en stævning, frivillig overholdelse fra din internetudbyders side eller yderligere optegnelser fra en tredjepart kan oplysninger, der er gemt eller hentet til dette formål alene, normalt ikke bruges til at identificere dig."
+
+#: cookiebanner/settings.php:764
+msgid "Statistics description"
+msgstr "Statistik script"
+
+#: cookiebanner/settings.php:763
+msgid "The technical storage or access that is used exclusively for statistical purposes."
+msgstr "Den tekniske lagring eller adgang, der udelukkende anvendes til statistiske formål."
+
+#: cookiebanner/settings.php:744
+msgid "Preferences description"
+msgstr "Beskrivelse af præferencer"
+
+#: cookiebanner/settings.php:743
+msgid "The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user."
+msgstr "Den tekniske lagring eller adgang er nødvendig for det legitime formål at lagre præferencer, som abonnenten eller brugeren ikke har anmodet om."
+
+#: cookiebanner/settings.php:724
+msgid "Functional description"
+msgstr "Funktionel beskrivelse"
+
+#: cookiebanner/settings.php:723
+msgid "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network."
+msgstr "Den tekniske lagring eller adgang er strengt nødvendig med det legitime formål at muliggøre brugen af en specifik tjeneste, som abonnenten eller brugeren udtrykkeligt har anmodet om, eller udelukkende med det formål at overføre en kommunikation via et elektronisk kommunikationsnet."
+
+#: cookiebanner/settings.php:78
+msgid "To provide the best experiences, we use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site. Not consenting or withdrawing consent, may adversely affect certain features and functions."
+msgstr "For at give dig de bedste oplevelser bruger vi teknologier som cookies til at gemme og/eller få adgang til enhedsoplysninger. Hvis du giver dit samtykke til disse teknologier, kan vi behandle data som f.eks. browsingadfærd eller unikke ID'er på dette websted. Hvis du ikke giver dit samtykke eller trækker dit samtykke tilbage, kan det have en negativ indvirkning på visse funktioner og egenskaber."
+
+#: cookiebanner/settings.php:643
+msgid "Deny button"
+msgstr "Knappen \"Afvise"
+
+#: cookiebanner/settings.php:617 cookiebanner/settings.php:630
+msgid "Accept button"
+msgstr "Accepter-knappen"
+
+#: cookiebanner/settings.php:606
+msgid "Header"
+msgstr "Header"
+
+#: cookiebanner/settings.php:316
+msgid "Box shadow on header and footer"
+msgstr "Skygge i boks på overskrift og sidefod"
+
+#: cookiebanner/settings.php:299
+msgid "If enabled, a close icon will be shown on your cookie banner."
+msgstr "Hvis den er aktiveret, vises et lukkeikon på dit cookie-banner."
+
+#: cookiebanner/settings.php:298
+msgid "Close button"
+msgstr "Luk knap"
+
+#: cookiebanner/settings.php:287
+msgid "Upload your custom logo for use on the banner."
+msgstr "Upload dit brugerdefinerede logo til brug på banneret."
+
+#: cookiebanner/settings.php:276
+msgid "The site logo is the default logo set in your theme's site identity."
+msgstr "Webstedslogoet er det standardlogo, der er indstillet i dit temas websideidentitet."
+
+#: cookiebanner/settings.php:257
+msgid "Upload Custom Logo"
+msgstr "Upload brugerdefineret logo"
+
+#: cookiebanner/settings.php:256
+msgid "Use \"Powered by Complianz\""
+msgstr "Brug \"Powered by Complianz\""
+
+#: cookiebanner/settings.php:255
+msgid "Use Site Logo"
+msgstr "Brug webstedets logo"
+
+#: cookiebanner/settings.php:254
+msgid "Hide"
+msgstr "Skjul"
+
+#: cookiebanner/settings.php:252
+msgid "Logo"
+msgstr "Logo"
+
+#: cookiebanner/settings.php:221
+msgid "Accept - Deny"
+msgstr "Accepter / Afvis"
+
+#: cookiebanner/settings.php:220
+msgid "Accept - Deny - Save Preferences"
+msgstr "Accepter - Afvis - Gem præferencer"
+
+#: cookiebanner/settings.php:219
+msgid "Accept - Deny - View Preferences"
+msgstr "Accepter alle + visningspræferencer"
+
+#: cookiebanner/settings.php:208
+msgid "Width of the banner in pixels"
+msgstr "Banneret bredde i pixels"
+
+#: cookiebanner/settings.php:181
+msgid "Bottom right"
+msgstr "Nederst til højre"
+
+#: cookiebanner/settings.php:180
+msgid "Bottom left"
+msgstr "Nederst til venstre"
+
+#: cookiebanner/settings.php:166
+msgid "Texts will also get reset."
+msgstr "Tekster vil også blive nulstillet."
+
+#: cookiebanner/settings.php:166
+msgid "If you want to start from the default values, you can use the reset button."
+msgstr "Hvis du vil starte med standardværdierne, kan du bruge nulstillingsknappen."
+
+#: cookiebanner/settings.php:165
+msgid "Reset to default values"
+msgstr "Nulstilling til standardværdier"
+
+#: config/questions-wizard.php:487
+msgid "Optional, this will be fired on marketing consent."
+msgstr "Valgfrit, dette vil blive affyret efter samtykke til markedsføring."
+
+#: config/questions-wizard.php:486
+msgid "Conversion ID"
+msgstr "ID for omdannelse"
+
+#: config/general-settings.php:400
+msgid "Enable migrate.js"
+msgstr "Aktiver migrate.js"
+
+#: config/general-settings.php:169
+msgid "Enable if you want to add custom CSS for the documents, or enable migrate.js for Complianz"
+msgstr "Aktiver hvis du vil tilføje brugerdefineret CSS til dokumenterne, eller aktiver migrate.js for Complianz"
+
+#: config/general-settings.php:167
+msgid "Enable advanced features"
+msgstr "Aktivere avancerede funktioner"
+
+#: class-field.php:3097
+msgid "No site logo configured."
+msgstr "Der er ikke konfigureret noget logo for webstedet."
+
+#: class-field.php:3026
+msgid "URLs that should be whitelisted."
+msgstr "URL'er, der bør være whitelisted."
+
+#: class-field.php:2937
+msgid "waits for %s"
+msgstr "venter på %s"
+
+#: class-field.php:2931
+msgid "No dependency"
+msgstr "Ingen afhængighed"
+
+#: class-field.php:2908
+msgid "Enable dependency"
+msgstr "Aktiver afhængighed"
+
+#: class-field.php:2904
+msgid "Dependency"
+msgstr "Afhængighed"
+
+#: class-field.php:2868
+msgid "The blocked content is an iframe"
+msgstr "Det blokerede indhold er en iframe"
+
+#: class-field.php:2795
+msgid "URLs that should be blocked before consent."
+msgstr "URL'er, der skal blokeres før samtykke."
+
+#: config/class-config.php:660
+msgid "Enable"
+msgstr "Aktivér"
+
+#: class-field.php:2517 class-field.php:2852
+msgid "Enable placeholder"
+msgstr "Aktiver stedholder"
+
+#: class-field.php:2487 class-field.php:2822
+msgid "Category"
+msgstr "Kategori"
+
+#: class-field.php:2470
+msgid "This script contains an async attribute."
+msgstr "Dette script indeholder en async-attribut."
+
+#: class-field.php:2380 class-field.php:2727 class-field.php:2981
+msgid "Example"
+msgstr "Eksempel"
+
+#: class-document.php:2353
+msgid "Click to accept the cookies for this service"
+msgstr "Klik for at acceptere cookies for denne tjeneste"
+
+#: class-admin.php:992
+msgid "Advanced features"
+msgstr "Avancerede funktioner"
+
+#: callback-notices.php:228
+msgid "You're using Google Tag Manager. This means you need to configure Tag Manager to use the below categories."
+msgstr "Du bruger Google Tag Manager. Det betyder, at du skal konfigurere Tag Manager til at bruge nedenstående kategorier."
+
+#: functions.php:1552
+msgid "For more information, please read this %sarticle%s."
+msgstr "Du kan få flere oplysninger i denne %sarticle%s."
+
+#: config/class-config.php:709
+msgid "Learn more."
+msgstr "Lær mere."
+
+#: config/class-config.php:709
+msgid "Black Friday sale! Get 40% Off Complianz GDPR/CCPA premium!"
+msgstr "Black Friday udsalg! Få 40% rabat på Complianz GDPR/CCPA premium!"
+
+#: shepherd/tour.php:81
+msgid "This is where everything regarding cookies is configured. We will come back to the Wizard soon."
+msgstr "Det er her, alt vedrørende cookies konfigureres. Vi vender snart tilbage til guiden."
+
+#: functions.php:235
+msgid "Not found"
+msgstr "Ikke fundet"
+
+#: config/steps.php:111
+msgid "It's possible to use region redirect when GEO IP is enabled, and you have multiple policies and statements."
+msgstr "Det er muligt at bruge regionsomdirigering, når GEO IP er aktiveret, og du har flere politikker og erklæringer."
+
+#: config/questions-wizard.php:900
+msgid "Do you want to use region redirect on the relevant documents?"
+msgstr "Ønsker du at bruge regionsomdirigering på de relevante dokumenter?"
+
+#: config/questions-wizard.php:892
+msgid "No, choose a menu per document"
+msgstr "Nej, vælg en menu pr. dokument"
+
+#: config/questions-wizard.php:891
+msgid "Yes, redirect based on GEO IP"
+msgstr "Ja, omdirigering baseret på GEO IP"
+
+#: config/questions-wizard.php:698
+msgid "Did you enable the consent module in your HubSpot account?"
+msgstr "Har du aktiveret samtykke-modulet i din HubSpot-konto?"
+
+#: config/questions-wizard.php:609
+msgid "Do you want to enable the Yandex ecommerce datalayer?"
+msgstr "Ønsker du at aktivere Yandex ecommerce datalayeren?"
+
+#: config/questions-wizard.php:594
+msgid "Enter your Yandex ID"
+msgstr "Indtast dit Yandex-id"
+
+#: config/questions-wizard.php:470
+msgid "Please enter your GTM container ID"
+msgstr "Indtast venligst dit GTM container ID"
+
+#: config/questions-wizard.php:433
+msgid "Do you want to enable Google Consent Mode?"
+msgstr "Ønsker du at aktivere Google Consent Mode?"
+
+#: config/questions-wizard.php:415
+msgid "Do you want Complianz to add %s to your website?"
+msgstr "Ønsker du, at Complianz tilføjer %s til dit websted?"
+
+#: config/questions-wizard.php:405
+msgid "We will add the needed snippets and control consent at the same time."
+msgstr "Vi tilføjer de nødvendige udklip og kontrollerer samtidig samtykke."
+
+#: config/questions-wizard.php:404
+msgid "Below you can choose to implement your statistics script with Complianz."
+msgstr "Nedenfor kan du vælge at implementere dit statistikscript med Complianz."
+
+#: config/questions-wizard.php:398
+msgid "Controlling your statistics script"
+msgstr "Styring af dit statistik-script"
+
+#: config/questions-wizard.php:352
+msgid "You can configure Google Tag Manager for Complianz, and, if applicable, adjust configuration for Google Analytics for GDPR and other opt-in based privacy laws."
+msgstr "Du kan konfigurere Google Tag Manager til Complianz og, hvis det er relevant, justere konfigurationen af Google Analytics til GDPR og andre opt-in-baserede love om beskyttelse af personlige oplysninger."
+
+#: config/questions-wizard.php:332
+msgid "If you select the option that IP addresses are anonymized, and let Complianz handle the statistics, Complianz will ensure that ip addresses are anonymized by default, unless consent is given for statistics."
+msgstr "Hvis du vælger indstillingen, at IP-adresser anonymiseres, og lader Complianz håndtere statistikken, vil Complianz sikre, at IP-adresser som standard anonymiseres, medmindre der gives samtykke til statistik."
+
+#: config/questions-wizard.php:324 config/questions-wizard.php:346
+msgid "Does the following apply to your website?"
+msgstr "Gælder følgende for dit websted?"
+
+#: config/questions-wizard.php:312
+msgid "Yes, but not with any of the above services"
+msgstr "Ja, men ikke med nogen af de ovennævnte tjenester"
+
+#: config/questions-wizard.php:310
+msgid "Yes, with Yandex"
+msgstr "Ja, med Yandex"
+
+#: config/questions-wizard.php:305
+msgid "Yes, and Google Tag Manager fires this script"
+msgstr "Ja, og Google Tag Manager affyrer dette script"
+
+#: config/general-settings.php:283
+msgid "If you select custom, you need to add your custom image to your site."
+msgstr "Hvis du vælger brugerdefineret, skal du tilføje dit brugerdefinerede billede til dit websted."
+
+#: config/general-settings.php:257
+msgid "You can change your placeholders manually or use Premium to do it for you."
+msgstr "Du kan ændre dine pladsholdere manuelt eller bruge Premium til at gøre det for dig."
+
+#: config/general-settings.php:256
+msgid "You can choose your favorite placeholder style here."
+msgstr "Du kan vælge din foretrukne stil for pladsholdere her."
+
+#: config/general-settings.php:254
+msgid "Placeholder style"
+msgstr "Stil med pladsholder"
+
+#: config/general-settings.php:245 config/general-settings.php:271
+msgid "Custom"
+msgstr "Tilpasset"
+
+#: config/general-settings.php:244
+msgid "Dark Mode"
+msgstr "Mørk tilstand"
+
+#: config/general-settings.php:243
+msgid "Full Color"
+msgstr "Fuld farve"
+
+#: config/general-settings.php:242
+msgid "Light"
+msgstr "Lys"
+
+#: class-admin.php:329
+msgid "Important: Please %sread about%s Complianz 6.0 before updating. This is a major release and includes changes and new features that might need your attention."
+msgstr "Vigtigt: Læs venligst %som%s Complianz 6.0 før du opdaterer. Dette er en større version og indeholder ændringer og nye funktioner, som kan kræve din opmærksomhed."
+
+#: config/general-settings.php:90
+msgid "If enabled, all the Complianz pages within the WordPress admin will be in high contrast."
+msgstr "Hvis den er aktiveret, vil alle Complianz-siderne i WordPress-administrationen være i høj kontrast."
+
+#: config/general-settings.php:89
+msgid "Enable High Contrast mode"
+msgstr "Aktiver højkontrasttilstand"
+
+#: config/documents/documents.php:142
+msgid "Cookie Policy (BR)"
+msgstr "Politik for cookies (BR)"
+
+#: config/documents/cookie-policy-br.php:185
+msgctxt "Legal document cookie policy"
+msgid "To exercise these rights, please contact us. Please refer to the contact details at the bottom of this Cookie Policy. If you have a complaint about how we handle your data, we would like to hear from you, but you also have the right to submit a complaint to the National Data Protection Authority (ANPD):"
+msgstr "Hvis du ønsker at udøve disse rettigheder, bedes du kontakte os. Se venligst kontaktoplysningerne nederst i denne cookiepolitik. Hvis du har en klage over, hvordan vi håndterer dine data, vil vi gerne høre fra dig, men du har også ret til at indgive en klage til den nationale databeskyttelsesmyndighed (ANPD):"
+
+#: config/documents/cookie-policy-br.php:180
+msgctxt "Legal document cookie policy"
+msgid "information on the possibility of not providing consent and on the consequences of denial."
+msgstr "information om muligheden for ikke at give samtykke og om konsekvenserne af at nægte at give samtykke."
+
+#: config/documents/cookie-policy-br.php:179
+msgctxt "Legal document cookie policy"
+msgid "information on public and private entities with which the controller shared data;"
+msgstr "oplysninger om offentlige og private enheder, som den dataansvarlige har delt oplysninger med;"
+
+#: config/documents/cookie-policy-br.php:178
+msgctxt "Legal document cookie policy"
+msgid "deletion of personal data processed with the consent of the holder, except in the cases provided for in art. 16 of the General Law for the Protection of Personal Data (LGPD);"
+msgstr "sletning af personoplysninger, der er behandlet med indehaverens samtykke, undtagen i de tilfælde, der er omhandlet i art. 16 i den generelle lov om beskyttelse af personoplysninger (LGPD);"
+
+#: config/documents/cookie-policy-br.php:177
+msgctxt "Legal document cookie policy"
+msgid "portability of data to another service or product provider, upon express request, in accordance with the regulations of the national authority, observing commercial and industrial secrets;"
+msgstr "overførsel af data til en anden tjeneste- eller produktudbyder efter udtrykkelig anmodning i overensstemmelse med de nationale myndigheders bestemmelser og under overholdelse af forretnings- og industrihemmeligheder;"
+
+#: config/documents/cookie-policy-br.php:176
+msgctxt "Legal document cookie policy"
+msgid "anonymization, blocking, or deletion of unnecessary, excessive, or processed data in disagreement with the provisions of the General Law for the Protection of Personal Data (LGPD);"
+msgstr "anonymisering, blokering eller sletning af unødvendige, overdrevne eller behandlede data i strid med bestemmelserne i den generelle lov om beskyttelse af personoplysninger (LGPD);"
+
+#: config/documents/cookie-policy-br.php:175
+msgctxt "Legal document cookie policy"
+msgid "correction of incomplete, inaccurate, or outdated data;"
+msgstr "rettelse af ufuldstændige, unøjagtige eller forældede data;"
+
+#: config/documents/cookie-policy-br.php:174
+msgctxt "Legal document cookie policy"
+msgid "access to data;"
+msgstr "adgang til data;"
+
+#: config/documents/cookie-policy-br.php:173
+msgctxt "Legal document"
+msgid "confirmation of the existence of processing;"
+msgstr "bekræftelse af, at der er tale om en behandling;"
+
+#: config/documents/cookie-policy-br.php:6
+msgctxt "Legal document cookie policy"
+msgid "This Cookie Policy was last updated on %s and applies to citizens and legal permanent residents of Brazil."
+msgstr "Denne cookiepolitik blev senest opdateret den %s og gælder for borgere og personer med lovlig permanent bopæl i Brasilien."
+
+#: config/countries.php:138
+msgid "LGPD (Brazil)"
+msgstr "LGPD (Brasilien)"
+
+#: config/countries.php:123
+msgid "LGPD"
+msgstr "LGPD"
+
+#: config/countries.php:120
+msgid "BR"
+msgstr "BH"
+
+#: config/class-config.php:504
+msgid "Do Not Track and Global Privacy Control are respected."
+msgstr "Do Not Track og Global Privacy Control overholdes."
+
+#: class-wizard.php:712
+msgid "Save and Continue"
+msgstr "Gem og fortsæt"
+
+#: templates/cookiepolicy/cookies_row.php:6 templates/cookie_settings.php:19
+msgid "Expiration"
+msgstr "Udløb"
+
+#: config/documents/documents.php:160 config/questions-wizard.php:131
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-link-widget.php:114
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-link-widget.php:485
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-link-widget.php:552
+msgid "Imprint"
+msgstr "Logo"
+
+#: config/class-config.php:688
+msgid "As Complianz handles all the functionality this plugin provides, you should disable this plugin to prevent unexpected behaviour."
+msgstr "Da Complianz håndterer alle de funktioner, som dette plugin tilbyder, bør du deaktivere dette plugin for at undgå uventet adfærd."
+
+#: config/class-config.php:688
+msgid "We have detected the %s plugin on your website."
+msgstr "Vi har fundet %s plugin på dit websted."
+
+#: class-document.php:970
+msgid "For more information, see the Complianz %sPrivacy Statement%s."
+msgstr "Du kan finde flere oplysninger i Complianz %sPrivacy Statement%s."
+
+#: class-document.php:967
+msgid "This service does not process any personally identifiable information and does not share any data with the service provider."
+msgstr "Denne tjeneste behandler ingen personligt identificerbare oplysninger og deler ingen data med tjenesteudbyderen."
+
+#: class-document.php:965
+msgid "This website uses the Privacy Suite for WordPress by Complianz to collect and record Browser and Device-based Consent. For this functionality, your IP address is anonymized and stored in our database."
+msgstr "Dette websted bruger Privacy Suite for WordPress fra Complianz til at indsamle og registrere browser- og enhedsbaseret samtykke. I forbindelse med denne funktionalitet anonymiseres din IP-adresse og gemmes i vores database."
+
+#: config/countries.php:81
+msgid "European Union"
+msgstr "Den Europæiske Union"
+
+#: config/class-config.php:568
+msgid "You don't have SSL on your site yet. Install SSL for Free with %sReally Simple SSL%s"
+msgstr "Du har ikke SSL på dit websted endnu. Installer SSL gratis med %sReally Simple SSL%s"
+
+#: config/questions-wizard.php:424
+msgid "If you have selected non privacy friendly options in the previous step, configuration by Complianz is required."
+msgstr "Hvis du har valgt indstillinger, der ikke er venlige for privatlivets fred, i det foregående trin, skal Complianz konfigurere dem."
+
+#: cookiebanner/cookiebanner.php:491
+msgid "Disable Complianz on this page"
+msgstr "Deaktivere Complianz på denne side"
+
+#: config/questions-wizard.php:442
+msgid "You can also enable Google Consent Mode."
+msgstr "Du kan også aktivere Google Consent Mode."
+
+#: config/documents/documents.php:124
+msgid "Cookie Policy (ZA)"
+msgstr "Politik for cookies (ZA)"
+
+#: config/documents/cookie-policy-za.php:182
+msgctxt "Legal document cookie policy"
+msgid "To exercise these rights, please contact us. Please refer to the contact details at the bottom of this Cookie Policy. If you have a complaint about how we handle your data, we would like to hear from you, but you also have the right to submit a complaint to the Information Regulator South Africa: P.O Box 31533, Braamfontein, Johannesburg, 2017 Complaints email: complaints.IR@justice.gov.za"
+msgstr "Hvis du ønsker at udøve disse rettigheder, bedes du kontakte os. Se venligst kontaktoplysningerne nederst i denne cookiepolitik. Hvis du har en klage over, hvordan vi håndterer dine data, vil vi gerne høre fra dig, men du har også ret til at indgive en klage til Information Regulator South Africa: P.O Box 31533, Braamfontein, Johannesburg, 2017 Klager e-mail: complaints.IR@justice.gov.za"
+
+#: config/documents/cookie-policy-za.php:6
+msgctxt "Legal document cookie policy"
+msgid "This Cookie Policy was last updated on %s and applies to citizens and legal permanent residents of South Africa."
+msgstr "Denne cookiepolitik blev senest opdateret den %s og gælder for borgere og personer med lovlig permanent bopæl i Sydafrika."
+
+#: config/countries.php:137
+msgid "POPIA (South Africa)"
+msgstr "POPIA (Sydafrika)"
+
+#: config/countries.php:113
+msgid "POPIA"
+msgstr "POPIA"
+
+#: config/countries.php:110
+msgid "ZA"
+msgstr "ZA"
+
+#: config/class-config.php:680
+msgid "We see you have enabled Google Maps as a service, but we can't find an integration. You can integrate manually if needed."
+msgstr "Vi kan se, at du har aktiveret Google Maps som en tjeneste, men vi kan ikke finde en integration. Du kan integrere manuelt, hvis det er nødvendigt."
+
+#: cookiebanner/settings.php:325
+msgid "A privacy-friendly cookie wall."
+msgstr "En cookie-væg, der respekterer privatlivets fred."
+
+#: cookiebanner/settings.php:91
+msgid "You can customize the cookie banner with custom CSS for endless possibilities."
+msgstr "Du kan tilpasse cookie-banneret med brugerdefineret CSS for uendelige muligheder."
+
+#: config/documents/cookie-policy-ca.php:10
+msgctxt "Legal document cookie policy"
+msgid "This page was last changed on %s, last checked on %s and applies to citizens and legal permanent residents of Canada."
+msgstr "Denne side blev sidst ændret på %s, sidst kontrolleret på %s og gælder for borgerne i Canada."
+
+#: config/steps.php:66
+msgctxt "intro statistics configuration"
+msgid "If you choose Complianz to handle your statistics implementation, please delete the current implementation."
+msgstr "Hvis du vælger Complianz til at håndtere din statistikimplementering, skal du slette den nuværende implementering."
+
+#: config/steps.php:61
+msgctxt "intro statistics"
+msgid "Below you can choose to implement your statistics tooling with Complianz. We will add the needed snippets and control consent at the same time."
+msgstr "Nedenfor kan du vælge at implementere dit statistikværktøj med Complianz. Vi vil tilføje de nødvendige snippets og kontrollere samtykke på samme tid."
+
+#: config/countries.php:136
+msgid "Privacy Act 1988 (Australia)"
+msgstr "Privacy Act 1988 (Australien)"
+
+#: config/countries.php:103
+msgid "APA"
+msgstr "APA"
+
+#: config/countries.php:100
+msgid "AU"
+msgstr "AU"
+
+#: config/questions-wizard.php:272
+msgid "Sensitive personal information is considered data that is very likely to have a greater impact on Privacy. For example medical, religious or legal information."
+msgstr "Følsomme personlige oplysninger betragtes som data, som meget sandsynligt har større indflydelse på privatlivets fred. For eksempel medicinske, religiøse eller juridiske oplysninger."
+
+#: config/questions-wizard.php:69
+msgid "Do you target visitors from Germany, Austria, Belgium and/or Spain?"
+msgstr "Er du målrettet besøgende fra Tyskland, Østrig, Belgien og/eller Spanien?"
+
+#: config/purpose.php:12
+msgid "Deliveries"
+msgstr "Leverancer"
+
+#: cookiebanner/settings.php:645
+msgid "This button will reject all cookies except necessary cookies, and dismisses the cookie banner."
+msgstr "Denne knap afviser alle cookies undtagen de nødvendige cookies og afviser cookie-banneret."
+
+#: config/questions-wizard.php:57
+msgid "Which banner do you want to display in other regions?"
+msgstr "Hvilket banner ønsker du at vise i andre regioner?"
+
+#: cookie/class-cookie-admin.php:3594
+msgid "Syncing..."
+msgstr "Synkroniserer..."
+
+#: cookie/class-cookie-admin.php:3571
+msgid "Sync"
+msgstr "Synkronisering"
+
+#: cookie/class-cookie-admin.php:3519
+msgid "Scan"
+msgstr "Scan"
+
+#: cookie/class-cookie-admin.php:1573 templates/dashboard/documents.php:74
+msgid "Create"
+msgstr "Udform"
+
+#: cookie/class-cookie-admin.php:1562
+msgid "A Processor or Service Provider is the party that processes personal data on behalf of a responsible organization or person. If you are this organization or person, you should probably sign a Processing Agreement with them. You can use a Processing Agreement outside of Complianz, or generate one here."
+msgstr "En databehandler eller tjenesteudbyder er den part, der behandler personoplysninger på vegne af en ansvarlig organisation eller person. Hvis du er denne organisation eller person, bør du sandsynligvis underskrive en behandlingsaftale med dem. Du kan bruge en Behandleraftale uden for Complianz eller generere en her."
+
+#: cookie/class-cookie-admin.php:949 cookie/class-cookie-admin.php:1292
+msgid "You haven't accepted the usage of the cookiedatabase.org API. To automatically complete your cookie descriptions, please choose yes."
+msgstr "Du har ikke accepteret brugen af ​​cookiedatabase.org API. Hvis du vil udfylde dine cookie-beskrivelser automatisk, skal du vælge ja i integrationstrinnet."
+
+#: cookie/class-cookie-admin.php:481
+msgid "Either try again, or if this fails; our moderators will investigate further and automatically update the descriptions."
+msgstr "Prøv igen, eller hvis det ikke lykkes, vil vores moderatorer undersøge sagen nærmere og automatisk opdatere beskrivelserne."
+
+#: cookie/class-cookie-admin.php:479
+msgid "Our moderators will keep the cookies up-to-date."
+msgstr "Vores moderatorer vil holde cookies opdateret."
+
+#: config/steps.php:88
+msgid "Service descriptions"
+msgstr "Beskrivelser af tjenester"
+
+#: config/steps.php:80
+msgid "Complianz provides your Cookie Policy with comprehensive cookie descriptions, supplied by cookiedatabase.org."
+msgstr "Complianz forsyner din cookiepolitik med omfattende beskrivelser af cookies, som leveres af cookiedatabase.org."
+
+#: config/steps.php:78
+msgid "Cookie descriptions"
+msgstr "Cookie-beskrivelser"
+
+#: config/steps.php:57
+msgid "For more information, %sread our 5 tips%s about the cookie scan."
+msgstr "Du kan få flere oplysninger ved at %slæse vores 5 tips%s om cookiescanning."
+
+#: config/steps.php:16
+msgctxt "intro first step"
+msgid "You can always %slog a support ticket%s if you need further assistance."
+msgstr "Du kan altid %slogge en supportbillet%s, hvis du har brug for yderligere hjælp."
+
+#: config/steps.php:15
+msgctxt "intro first step"
+msgid "Important notices and relevant articles are shown in the right column."
+msgstr "Vigtige meddelelser og relevante artikler vises i højre kolonne."
+
+#: config/steps.php:14
+msgctxt "intro first step"
+msgid "Hover over the question mark behind certain questions for more information."
+msgstr "Hold musen over spørgsmålstegnet bag visse spørgsmål for at få flere oplysninger."
+
+#: config/steps.php:13
+msgctxt "intro first step"
+msgid "There are a few things to assist you during configuration:"
+msgstr "Der er et par ting, der kan hjælpe dig under konfigurationen:"
+
+#: config/steps.php:12
+msgctxt "intro first step"
+msgid "The Complianz Wizard will guide you through the necessary steps to configure your website for privacy legislation around the world. We designed the wizard to be comprehensible, without making concessions in legal compliance."
+msgstr "Guiden Complianz guider dig gennem de nødvendige trin for at konfigurere dit websted til lovgivning om beskyttelse af personlige oplysninger i hele verden. Vi har designet guiden til at være forståelig uden at give indrømmelser med hensyn til overholdelse af lovgivningen."
+
+#: config/general-settings.php:380
+msgid "Restart plugin tour"
+msgstr "Genstart plugin tour"
+
+#: config/general-settings.php:357
+msgid "Reset"
+msgstr "Reset"
+
+#: config/general-settings.php:412
+msgid "When content is loaded with ajax, for example with a load more button or lightbox, this option could help blocking the service correctly"
+msgstr "Når indhold indlæses med ajax, f.eks. med en load more-knap eller en lightbox, kan denne indstilling hjælpe med at blokere tjenesten korrekt"
+
+#: config/general-settings.php:12
+msgid "Enable GEO IP"
+msgstr "Aktiver GEO IP"
+
+#: config/class-config.php:660
+msgid "Pretty permalinks are not enabled on your site. This can cause issues with the REST API, used by Complianz."
+msgstr "Smukke permalinks er ikke aktiveret på dit websted. Dette kan give problemer med REST API'et, som Complianz bruger."
+
+#: config/class-config.php:625
+msgid "After the issue has been resolved, please re-run a scan to clear this message."
+msgstr "Når problemet er blevet løst, skal du genudføre en scanning for at fjerne denne meddelelse."
+
+#: config/class-config.php:559
+msgid "Not all required pages have been generated."
+msgstr "Ikke alle de krævede sider er blevet genereret."
+
+#: config/class-config.php:558
+msgid "All required pages have been generated."
+msgstr "Alle de nødvendige sider er blevet genereret."
+
+#: config/class-config.php:548
+msgid "No cookie scan has been completed yet."
+msgstr "Der er endnu ikke foretaget nogen scanning af cookies."
+
+#: config/class-config.php:547
+msgid "Last cookie scan completed on %s."
+msgstr "Sidste scanning af cookies blev afsluttet den %s."
+
+#: config/class-config.php:520
+msgid "You have currently selected an informal language, which will result in informal use of language on the legal documents. If you prefer the formal style, you can activate this in the %sgeneral settings%s."
+msgstr "Du har i øjeblikket valgt et uformelt sprog, hvilket vil resultere i uformel sprogbrug i de juridiske dokumenter. Hvis du foretrækker den formelle stil, kan du aktivere dette i %sgenerelle indstillinger%s."
+
+#: config/class-config.php:483
+msgid "Complianz GDPR/CCPA %s. Learn more about our newest release."
+msgstr "Overholdelse af GDPR/CCPA %s. Få mere at vide om vores nyeste version."
+
+#: config/questions-wizard.php:658
+msgid "When possible a placeholder is activated. You can also disable or configure the placeholder to your liking. You can disable services and placeholders under Integrations."
+msgstr "Når det er muligt, aktiveres en pladsholder. Du kan også deaktivere eller konfigurere pladsholderen efter dine ønsker. Du kan deaktivere tjenester og pladsholdere under Integrationer."
+
+#: config/questions-wizard.php:383
+msgid "In some countries, like Germany, Austria, Belgium or Spain, consent is required for statistics, even if the data is anonymized."
+msgstr "I nogle lande, som Tyskland, Østrig, Belgien og Spanien, kræves der samtykke til statistik, selv om dataene er anonymiserede."
+
+#: config/general-settings.php:82
+msgid "These links will be added with HTML attributes so it won't hurt SEO."
+msgstr "Disse links vil blive tilføjet med HTML-attributter, så det vil ikke skade SEO."
+
+#: config/general-settings.php:81
+msgid "Do you want to hyperlink cookie names so visitors can find more information on Cookiedatabase.org?"
+msgstr "Ønsker du at lave hyperlinks til cookienavne, så besøgende kan finde flere oplysninger på Cookiedatabase.org?"
+
+#: config/questions-wizard.php:156
+msgid "Who is the owner of the website?"
+msgstr "Hvem er ejeren af webstedet?"
+
+#: config/questions-wizard.php:155
+msgid "Name or company name"
+msgstr "Navn eller firmanavn"
+
+#: cookiebanner/edit.php:85
+msgid "Style your banner"
+msgstr "Stil dit banner"
+
+#: cookiebanner/edit.php:53
+msgid "Customization"
+msgstr "Tilpasning"
+
+#: cookiebanner/edit.php:60
+msgid "Banner settings"
+msgstr "Bannerindstillinger"
+
+#: cookiebanner/edit.php:46
+msgid "Appearance"
+msgstr "Udseende"
+
+#: cookiebanner/settings.php:608 cookiebanner/settings.php:609
+msgid "Manage Cookie Consent"
+msgstr "Administrer samtykke til cookies"
+
+#: cookiebanner/settings.php:607
+msgid "Title"
+msgstr "Titel"
+
+#: config/general-settings.php:427 cookiebanner/settings.php:546
+msgid "You can add additional custom CSS here. For tips and CSS lessons, check out our %sdocumentation%s"
+msgstr "Du kan tilføje yderligere brugerdefineret CSS her. Du kan finde tips og CSS-lektioner i vores %sdocumentation%s"
+
+#: cookiebanner/settings.php:435
+msgid "Buttons"
+msgstr "Knapper"
+
+#: cookiebanner/settings.php:401
+msgid "Border width"
+msgstr "Kant bredde"
+
+#: cookiebanner/settings.php:388 cookiebanner/settings.php:527
+msgid "Border radius"
+msgstr "Kant radius"
+
+#: cookiebanner/settings.php:425
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-category-widget.php:394
+msgid "Inactive"
+msgstr "Inaktiv"
+
+#: cookiebanner/settings.php:421
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-category-widget.php:409
+msgid "Bullet"
+msgstr "Kugle"
+
+#: cookiebanner/settings.php:408
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-category-widget.php:358
+msgid "Toggles"
+msgstr "Toggles"
+
+#: cookiebanner/settings.php:372
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-link-widget.php:56
+msgid "Hyperlink"
+msgstr "Hyperlink"
+
+#: cookiebanner/settings.php:368
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-category-widget.php:215
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-category-widget.php:297
+msgid "Color"
+msgstr "Farve"
+
+#: cookiebanner/settings.php:360 cookiebanner/settings.php:453
+#: cookiebanner/settings.php:479 cookiebanner/settings.php:508
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-accept-button-widget.php:115
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-deny-button-widget.php:114
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-manage-consent-button-widget.php:115
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-view-save-preferences-button-widget.php:110
+msgid "Text"
+msgstr "Tekst"
+
+#: cookiebanner/settings.php:351 cookiebanner/settings.php:449
+#: cookiebanner/settings.php:475 cookiebanner/settings.php:504
+msgid "Border"
+msgstr "Kant"
+
+#: cookiebanner/settings.php:339 cookiebanner/settings.php:347
+#: cookiebanner/settings.php:417 cookiebanner/settings.php:445
+#: cookiebanner/settings.php:471 cookiebanner/settings.php:500
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-accept-button-widget.php:300
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-accept-button-widget.php:340
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-category-widget.php:203
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-category-widget.php:284
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-deny-button-widget.php:299
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-deny-button-widget.php:339
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-link-widget.php:286
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-link-widget.php:322
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-manage-consent-button-widget.php:300
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-manage-consent-button-widget.php:340
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-view-save-preferences-button-widget.php:444
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-view-save-preferences-button-widget.php:484
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-view-save-preferences-button-widget.php:659
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-view-save-preferences-button-widget.php:699
+msgid "Background"
+msgstr "Baggrund"
+
+#: cookiebanner/settings.php:308
+msgid "Box shadow"
+msgstr "Skygge i kasse"
+
+#: cookiebanner/settings.php:194
+msgid "Slide"
+msgstr "Slide"
+
+#: cookiebanner/settings.php:193
+msgid "Fade"
+msgstr "Fade"
+
+#: config/questions-wizard.php:56 cookiebanner/settings.php:192
+msgid "None"
+msgstr "Ingen"
+
+#: cookiebanner/settings.php:190
+msgid "Animation"
+msgstr "Animation"
+
+#: cookiebanner/settings.php:176
+msgid "Position"
+msgstr "Position"
+
+#: cookiebanner/settings.php:156
+msgid "The custom CSS editor will appear at the bottom of this page when enabled."
+msgstr "Den brugerdefinerede CSS-editor vises nederst på denne side, når den er aktiveret."
+
+#: cookiebanner/settings.php:146
+msgid "Hide preview"
+msgstr "Skjul forhåndsvisning"
+
+#: cookiebanner/settings.php:101
+msgid "The tab will show after the visitor interacted with the banner, and can be used to make the cookie banner reappear."
+msgstr "Fanebladet vises, efter at den besøgende har interageret med banneret, og kan bruges til at få cookie-banneret til at dukke op igen."
+
+#: cookiebanner/settings.php:100
+msgid "Text on the manage consent tab"
+msgstr "Tekst på fanen administrere samtykke"
+
+#: class-field.php:2514 class-field.php:2849 integrations/integrations.php:817
+msgid "Placeholder"
+msgstr "Pladsholder"
+
+#: class-field.php:1952
+msgid "No file chosen"
+msgstr "Ingen fil valgt"
+
+#: class-field.php:1950
+msgid "Import"
+msgstr "Importér"
+
+#: class-field.php:1944
+msgid "Choose file"
+msgstr "Vælg fil"
+
+#: class-field.php:1521 class-field.php:1601
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-accept-button-widget.php:132
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-deny-button-widget.php:131
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-link-widget.php:126
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-manage-consent-button-widget.php:132
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-view-save-preferences-button-widget.php:127
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-view-save-preferences-button-widget.php:269
+msgid "Left"
+msgstr "Venstre"
+
+#: class-field.php:1516 class-field.php:1596 cookiebanner/settings.php:179
+msgid "Bottom"
+msgstr "Bunden"
+
+#: class-field.php:1511 class-field.php:1591
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-accept-button-widget.php:140
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-deny-button-widget.php:139
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-link-widget.php:134
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-manage-consent-button-widget.php:140
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-view-save-preferences-button-widget.php:135
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-view-save-preferences-button-widget.php:277
+msgid "Right"
+msgstr "Højre"
+
+#: class-field.php:1506 class-field.php:1586
+msgid "Top"
+msgstr "Top"
+
+#: functions.php:1284
+msgid "the page source"
+msgstr "sidens kilde"
+
+#: templates/dashboard/tools-conditional.php:27
+msgid "Create a Data Leak Inventory"
+msgstr "Opret en opgørelse over datalækager"
+
+#: templates/dashboard/tools-conditional.php:7
+msgid "Priority Support"
+msgstr "Prioriteret support"
+
+#: templates/dashboard/tools-conditional.php:2
+msgid "Other tools"
+msgstr "Andre værktøjer"
+
+#: templates/dashboard/documents-footer.php:3
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: templates/dashboard/documents-footer.php:2
+msgid "Synchronized"
+msgstr "Synkroniseret"
+
+#: templates/dashboard/documents-footer.php:1
+#: templates/dashboard/documents.php:59
+msgid "Validated"
+msgstr "Godkendt"
+
+#: templates/dashboard/progress.php:83
+msgid "Urgent"
+msgstr "Haster"
+
+#: DNSMPD/class-DNSMPD-table.php:128 templates/dashboard/progress.php:80
+msgid "Open"
+msgstr "Åben"
+
+#: templates/dashboard/progress.php:77
+msgid "Completed"
+msgstr "Gennemført"
+
+#: templates/dashboard/progress.php:65
+msgid "You have no new tasks! Have a look at our %sdocumentation%s and see all the possibilities Complianz has to offer."
+msgstr "Du har ingen nye opgaver! Tag et kig på vores %sdocumentation%s og se alle de muligheder, som Complianz har at tilbyde."
+
+#: templates/dashboard/tools.php:62
+msgid "Webshop privacy"
+msgstr "Databeskyttelse i webshoppen"
+
+#: templates/dashboard/tools.php:34
+msgid "Erase"
+msgstr "Slet"
+
+#: templates/dashboard/tools.php:54
+msgid "Last update %s"
+msgstr "Sidste opdatering %s"
+
+#: templates/dashboard/tools.php:49
+msgid "Not generated yet"
+msgstr "Ikke genereret endnu"
+
+#: templates/dashboard/progress-footer.php:21
+msgid "Placeholders"
+msgstr "Pladsholdere"
+
+#: templates/dashboard/progress-footer.php:19
+msgid "Continue Wizard"
+msgstr "Fortsæt guiden"
+
+#: templates/dashboard/documents.php:36
+msgid "Obsolete"
+msgstr "Forældet"
+
+#: templates/dashboard/tips-tricks-footer.php:3
+msgid "View all"
+msgstr "Vis alle"
+
+#: templates/dashboard/documents-conditional.php:36
+#: templates/dashboard/other-plugins.php:28
+msgid "Terms and Conditions"
+msgstr "Vilkår & Betingelser"
+
+#: templates/dashboard/other-plugins.php:20
+msgid "Easily migrate your website to SSL"
+msgstr "Overfør nemt dit websted til SSL"
+
+#: templates/dashboard/documents-conditional.php:72
+msgid "Other regions"
+msgstr "Andre regioner"
+
+#: templates/wizard/content.php:11
+msgid "Notifications"
+msgstr "Meddelelser"
+
+#: templates/dashboard/progress-footer.php:20
+msgid "Cookie blocker"
+msgstr "Cookie-blokering"
+
+#: class-admin.php:889
+msgid "Other plugins"
+msgstr "Andre plugins"
+
+#: class-admin.php:881
+msgid "Tips & Tricks"
+msgstr "Tips & tricks"
+
+#: class-admin.php:868
+msgid "Last update"
+msgstr "Seneste opdatering"
+
+#: class-admin.php:852
+msgid "Remaining tasks (%s)"
+msgstr "Resterende opgaver (%s)"
+
+#: class-admin.php:850
+msgid "All tasks (%s)"
+msgstr "Alle opgaver (%s)"
+
+#: class-admin.php:833
+msgid "Upgrade to Pro"
+msgstr "Opgrader til Pro"
+
+#: class-admin.php:75 class-admin.php:76 class-admin.php:830
+#: upgrade/upgrade-to-pro.php:190
+msgid "Installed"
+msgstr "Installeret"
+
+#: config/general-settings.php:332
+#: cookiebanner/class-cookiebanner-table.php:216 DNSMPD/class-DNSMPD.php:173
+#: templates/dashboard/tools.php:25
+msgid "Export"
+msgstr "Eksportér"
+
+#: callback-notices.php:15
+msgid "Cookiedatabase.org synchronization disabled."
+msgstr "Cookiedatabase.org synkronisering er deaktiveret."
+
+#: config/questions-wizard.php:569
+msgid "Because Clicky always sets a so-called unique identifier cookie, consent for statistics is always required."
+msgstr "Da Clicky altid indsætter en såkaldt unik identifikationscookie, er det altid nødvendigt at give samtykke til statistik."
+
+#: config/questions-wizard.php:565
+msgid "Enter your Clicky site ID"
+msgstr "Indtast dit Clicky site ID"
+
+#: config/questions-wizard.php:309
+msgid "Yes, with Clicky"
+msgstr "Ja, med Clicky"
+
+#: class-document.php:1137
+msgctxt "cookie policy"
+msgid "On AMP, you can use the manage consent button on the bottom of the page."
+msgstr "På AMP kan du bruge knappen Administrer samtykke nederst på siden."
+
+#: class-document.php:1136
+msgctxt "cookie policy"
+msgid "You have loaded the Cookie Policy without javascript support."
+msgstr "Du har indlæst cookiepolitikken uden javascript-understøttelse."
+
+#: integrations/plugins/contact-form-7.php:271
+msgid "Due to continuous breaking changes in Contact Form 7 we are dropping the CF7 integration as of CF7 5.4. We have concluded that the only viable solution is for Contact Form 7 to integrate with the WP Consent API."
+msgstr "På grund af de løbende ændringer i Contact Form 7, der er ved at blive brudt, dropper vi CF7-integrationen fra og med CF7 5.4. Vi har konkluderet, at den eneste levedygtige løsning er, at Contact Form 7 skal integreres med WP Consent API'en."
+
+#: integrations/plugins/contact-form-7.php:96
+msgid "Please accept marketing cookies to enable this form"
+msgstr "Accepter venligst marketing-cookies for at aktivere denne formular"
+
+#: proof-of-consent/class-cookiestatement-snapshot-table.php:259
+msgid "Year"
+msgstr "År"
+
+#: proof-of-consent/class-cookiestatement-snapshot-table.php:240
+msgid "December"
+msgstr "December"
+
+#: proof-of-consent/class-cookiestatement-snapshot-table.php:239
+msgid "November"
+msgstr "November"
+
+#: proof-of-consent/class-cookiestatement-snapshot-table.php:238
+msgid "October"
+msgstr "Oktober"
+
+#: proof-of-consent/class-cookiestatement-snapshot-table.php:237
+msgid "September"
+msgstr "September"
+
+#: proof-of-consent/class-cookiestatement-snapshot-table.php:236
+msgid "August"
+msgstr "August"
+
+#: proof-of-consent/class-cookiestatement-snapshot-table.php:235
+msgid "July"
+msgstr "Juli"
+
+#: proof-of-consent/class-cookiestatement-snapshot-table.php:234
+msgid "June"
+msgstr "Juni"
+
+#: proof-of-consent/class-cookiestatement-snapshot-table.php:233
+msgid "May"
+msgstr "Maj"
+
+#: proof-of-consent/class-cookiestatement-snapshot-table.php:232
+msgid "April"
+msgstr "April"
+
+#: proof-of-consent/class-cookiestatement-snapshot-table.php:231
+msgid "March"
+msgstr "Marts"
+
+#: proof-of-consent/class-cookiestatement-snapshot-table.php:230
+msgid "February"
+msgstr "Februar"
+
+#: proof-of-consent/class-cookiestatement-snapshot-table.php:229
+msgid "January"
+msgstr "Januar"
+
+#: proof-of-consent/class-cookiestatement-snapshot-table.php:228
+msgid "Month"
+msgstr "Måned"
+
+#: config/questions-wizard.php:257
+msgid "If you enable this option, Complianz will not show the cookie banner to users that enabled a ‘Do Not Track’ or 'Global Privacy Control' setting in their browsers and their default consent status is set to ‘denied’."
+msgstr "Hvis du vælger denne mulighed, vil Complianz ikke vise cookie banneret til brugere, som har aktiveret 'Do Not Track', 'Global Privacy Control', eller tilsvarende i sin browser, hvis brugerens samtykke status samtidigt er sat til 'afvis'."
+
+#: config/questions-wizard.php:233
+msgid "Enabling this option will extend our Proof of Consent method with user consent registration."
+msgstr "Hvis du aktiverer denne indstilling, udvides vores metode til bevis for samtykke med registrering af brugerens samtykke."
+
+#: cookiebanner/class-cookiebanner.php:824
+msgid "No warning"
+msgstr "Ingen advarsel"
+
+#: cookiebanner/class-cookiebanner.php:820
+msgid "No choice"
+msgstr "Ikke noget valg"
+
+#: cookiebanner/class-cookiebanner.php:819
+msgid "Do Not Track"
+msgstr "Må ikke spores"
+
+#: config/general-settings.php:320
+msgid "You can disable the monthly automatic cookie scan here, and do only manual cookie scans."
+msgstr "Du kan deaktivere den automatiske, månedlige scanning samt gennemføre manuelle cookie scanninger her."
+
+#: config/general-settings.php:319
+msgid "Disable the automatic cookie scan."
+msgstr "Deaktiver den automatiske cookie scanning."
+
+#: integrations/plugins/gravity-forms.php:52
+msgid "Click to accept reCaptcha validation."
+msgstr "Klik for at acceptere reCaptcha validering."
+
+#: class-document.php:1109
+msgid "This message was generated by Complianz GDPR/CCPA."
+msgstr "Denne besked blev genereret af Complianz GDPR/CCPA."
+
+#: class-document.php:1105
+msgctxt "notification email"
+msgid "Your legal documents on %s have not been updated in 12 months. Please log in and run the %swizard%s in the Complianz plugin to check if everything is up to date."
+msgstr "Dine juridiske dokumenter på %s er ikke blevet opdateret de seneste 12 måneder. Gå venligst ind og kør %swizard%s i din Complianz plugin for at sikre, at alt er opdateret."
+
+#: config/documents/cookie-policy-br.php:73
+#: config/documents/cookie-policy-ca.php:79
+#: config/documents/cookie-policy-eu.php:73
+#: config/documents/cookie-policy-za.php:77
+msgctxt "cookie policy"
+msgid "Marketing/Tracking cookies are cookies or any other form of local storage, used to create user profiles to display advertising or to track the user on this website or across several websites for similar marketing purposes."
+msgstr "Marketing - / sporingscookies eller hvilken som helst anden form for lokal datalagring, som bruges til at udarbejde brugerprofiler med henblik på annoncering eller på at følge brugeren på dette websted eller på tværs af flere websteder med lignende markedsføringsformål."
+
+#: config/documents/cookie-policy-br.php:72
+#: config/documents/cookie-policy-ca.php:78
+#: config/documents/cookie-policy-eu.php:72
+#: config/documents/cookie-policy-za.php:76
+msgctxt "cookie policy"
+msgid "Marketing/Tracking cookies"
+msgstr "Marketing- / sporingscookies"
+
+#: class-document.php:1246
+msgid "Legal Document"
+msgstr "Juridisk dokument"
+
+#: rest-api/rest-api.php:140
+msgctxt "cookie policy"
+msgid "We have received a privacy signal from your browser. For this reason we have set your privacy settings on this website to strictly necessary. If you want to have full functionality, please consider excluding %s from your privacy settings."
+msgstr "Vi har modtaget en privatlivsinstruks fra din browser. Derfor har vi konfigureret dine privatlivsindstillinger på dette websted to 'Funktionelle'. Hvis du ønsker fuld funktionalitet, kan du overveje at udelade %s fra dine privatlivsindstillinger."
+
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-manage-consent-button-widget.php:120
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-manage-consent-button-widget.php:121
+msgid "Manage Consent"
+msgstr "Administrer samtykke"
+
+#: config/class-config.php:505
+msgid "Do Not Track and Global Privacy Control are not yet respected."
+msgstr "Do Not Track og Global Privacy Control er endnu ikke overholdt."
+
+#: config/questions-wizard.php:459
+msgid "For the Google Analytics tracking ID, log on and click Admin and copy the tracking ID."
+msgstr "Med hensyn til Google Analytics tracking-ID, log på, klik 'Admin' og kopier tracking-IDet"
+
+#: config/questions-wizard.php:454
+msgid "Enter your tracking ID"
+msgstr "Indtast dit tracking-ID"
+
+#: templates/cookiepolicy/services.php:9
+msgctxt "cookie policy"
+msgid "Usage"
+msgstr "Anvendelse"
+
+#: functions.php:2139
+msgid "Sharing of data is pending investigation"
+msgstr "Deling af data afventer undersøgelse"
+
+#: functions.php:1287
+msgid "%s on line %s of %s"
+msgstr "%s på linje %s af %s"
+
+#: config/class-config.php:637
+msgid "Last error in the console:"
+msgstr "Sidste fejl i konsollen:"
+
+#: config/class-config.php:636
+msgid "Javascript errors are detected on the front-end of your site. This may break the cookie banner functionality."
+msgstr "Der er fundet Javascript fejl på dit websteds front-end, som kan ødelægge cookie banner funktionaliteten."
+
+#: config/questions-wizard.php:793
+msgid "Google recommends an integration with TCF V2.0 to avoid loss of revenue."
+msgstr "Google anbefaler en integration med TCF V2.0 for at undgå tab af indtægt."
+
+#: config/questions-wizard.php:789
+msgid "Enable TCF"
+msgstr "Aktiver TCF"
+
+#: config/documents/cookie-policy-br.php:148
+#: config/documents/cookie-policy-ca.php:137
+#: config/documents/cookie-policy-eu.php:150
+#: config/documents/cookie-policy-uk.php:148
+#: config/documents/cookie-policy-za.php:149
+msgctxt "Legal document cookie policy:paragraph title"
+msgid "Vendors"
+msgstr "Forhandlere"
+
+#: templates/integrations/services.php:25
+#: templates/integrations/services.php:28
+msgid "reCaptcha is connected and will be blocked before consent. To change your settings, please visit %sIntegrations%s in the wizard. "
+msgstr "reCaptcha er sat op, men vil være blokeret før samtykke. Besøg venligst %sIntegrationer%s i guiden for or at ændre indstillingerne."
+
+#: integrations/plugins/google-site-kit.php:11
+msgid "Because you're using %s, you can choose which plugin should insert the relevant snippet."
+msgstr "Fordi du bruger %s, kan du vælge, hvilken plugin der skal indsætte det relevante snippet."
+
+#: config/questions-wizard.php:761
+msgid "Complianz cannot automatically block first-party marketing cookies unless these plugins conform to the WP Consent API. Look for any possible integrations on our website if you're not sure. When you answer 'No' to this question, the marketing category will be removed."
+msgstr "Complianz kan ikke automatisk blokere involverede marketing cookies med mindre disse plugins passer med WP Samtykke APIen. Hvis du ikke er sikker så søg efter mulige integrationer på vores websted. Hvis du svarer 'Nej' til spørgsmålet, vil marketingkategorien blive fjernet."
+
+#: config/questions-wizard.php:760
+msgid "You have stated that you don't use third-party services. Do you use plugins that might set marketing cookies?"
+msgstr "Du har indikeret, at du ikke bruger tredjeparts cookies. Anvender du plugins der muligvis placerer marketing cookies?"
+
+#: config/questions-wizard.php:670
+msgid "Do you want to block reCAPTCHA before consent, and when consent is revoked?"
+msgstr "Ønsker du at blokere reCAPTCHA før samtykke, og når samtykke er tilbagekaldt?"
+
+#: callback-notices.php:262
+msgid "You use plugins which place first-party marketing cookies. You can view these plugins on the integrations page. Complianz cannot automatically block first-party marketing cookies unless these plugins conform to the WP Consent API."
+msgstr "Du bruger plugins, som placerer 'first-party' marketing cookies. Du kan se disse plugins på 'Integrationer' siden. Complianz kan ikke automatisk blockere 'first-party' marketing cookies med mindre disse plugins er i overensstemmelse med WP Consent API."
+
+#: callback-notices.php:180
+msgid "If you choose to block reCAPTCHA, please make sure you add a placeholder to your forms."
+msgstr "Hvis du vælger at blokere reCAPTCHA, husk venligst at tilføje en placeholder til dine formularer."
+
+#: integrations/plugins/forminator.php:76
+msgid "Yes, I agree with the %sPrivacy Statement%s"
+msgstr "Ja, jeg er enig med %sPrivatlivserklæring%s"
+
+#: config/general-settings.php:102 config/general-settings.php:119
+#: config/general-settings.php:136
+msgid "The blocked content text appears when for example a Youtube video is embedded."
+msgstr "Den blokerede indholdstekst vises, når for eksempel en Youtube video er indlejret."
+
+#: config/general-settings.php:160
+msgid "Disable to let your theme take over."
+msgstr "Deaktiver for at lade dit tema overtage."
+
+#: config/general-settings.php:158
+msgid "Use document CSS by Complianz"
+msgstr "Brug dokument CSS af Complianz"
+
+#: config/general-settings.php:220
+msgid "When safe mode is enabled, all integrations will be disabled temporarily, please read %sthese instructions%s to debug the issue or ask support if needed."
+msgstr "Når sikker tilstand er aktiveret, deaktiveres alle integrationer midlertidigt, skal du læse %sdisse instruktioner%s for at fejlsøge problemet eller spørg support om nødvendigt."
+
+#: config/general-settings.php:218
+msgid "Enable safe mode"
+msgstr "Aktivér sikker tilstand"
+
+#: config/steps.php:56
+msgid "Complianz will scan several pages of your website for first-party cookies and known third-party scripts. The scan will be recurring monthly to keep you up-to-date!"
+msgstr "Complianz scanner flere sider på dit websted efter førstepartscookies og kendte tredjeparts scripts. Scanningen gentages månedligt for at holde dig ajour!"
+
+#: config/steps.php:22
+msgctxt "intro company info"
+msgid "Here you can select which legal documents you want to generate with Complianz. You can also use existing legal documents."
+msgstr "Her kan du vælge hvilke juridiske dokumenter, du vil generere med Complianz. Du kan også bruge eksisterende juridiske dokumenter."
+
+#: config/questions-wizard.php:828
+msgid "Do you want to disable the storage of personal data by the WP comments function and the checkbox?"
+msgstr "Vil du deaktivere lagring af personlige data ved hjælp af WP-kommentarfunktionen og afkrydsningsfeltet?"
+
+#: config/questions-wizard.php:745
+msgid "Select which social media are used on the website."
+msgstr "Vælg hvilke sociale medier der skal bruges på webstedet."
+
+#: config/questions-wizard.php:732
+msgid "Content from social media is mostly embedded through iFrames. These often place third party (tracking) cookies, so must be blocked based on visitor consent. If your website only contains buttons or links to a social media profile on an external page you can answer No."
+msgstr "Indhold fra sociale medier er for det meste indlejret gennem iFrames. Disse placerer ofte tredjepartscookies (tracking), så de skal blokeres baseret på besøgende samtykke. Hvis dit websted kun indeholder knapper eller links til en profil på sociale medier på en ekstern side, kan du svare Nej."
+
+#: config/questions-wizard.php:730
+msgid "Does your website contain embedded social media content, like buttons, timelines, videos or pixels?"
+msgstr "Indeholder dit websted indlejret indhold fra sociale medier, såsom knapper, tidslinier, videoer eller pixels?"
+
+#: config/questions-wizard.php:93
+msgid "If so, the scan will be extended to the wp-admin part of your site. "
+msgstr "I så fald udvides scanningen til wp-admin delen af ​​dit websted."
+
+#: config/documents/documents.php:22 config/questions-wizard.php:145
+#: gutenberg/build/index.js:1 gutenberg/src/index.js:300
+#: gutenberg/build/index.js:2204
+msgid "Disclaimer"
+msgstr "Ansvarsfraskrivelse"
+
+#: config/questions-wizard.php:39
+msgid "You don’t need to configure your website for ‘accidental’ visitors. Only choose the regions your website is intended for."
+msgstr "Du behøver ikke at konfigurere dit websted til 'utilsigtede' besøgende. Vælg kun de regioner, dit websted er beregnet til."
+
+#: callback-notices.php:247 callback-notices.php:249
+msgid "It is recommended to select a Privacy Statement."
+msgstr "Det anbefales at vælge en erklæring om beskyttelse af personlige oplysninger."
+
+#. Author of the plugin
+msgid "Really Simple Plugins"
+msgstr "Really Simple Plugins"
+
+#: cookiebanner/class-cookiebanner.php:827 cookiebanner/settings.php:714
+#: cookiebanner/settings.php:715 cookiebanner/settings.php:716
+msgid "Functional"
+msgstr "Funktionsdygtig"
+
+#: cookiebanner/edit.php:68 cookiebanner/settings.php:223
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-category-widget.php:195
+#: integrations/plugins/elementor-pro/elementor-pro.php:115
+msgid "Categories"
+msgstr "Kategorier"
+
+#: cookiebanner/class-cookiebanner.php:325 cookiebanner/settings.php:98
+#: cookiebanner/settings.php:99 cookiebanner/settings.php:109
+msgid "Manage consent"
+msgstr "Administrer samtykke"
+
+#: cookiebanner/settings.php:326
+msgid "After saving, a preview of the soft cookie wall will be shown for 3 seconds"
+msgstr "Når du har gemt, vises en forhåndsvisning af den bløde cookie-væg i 3 sekunder"
+
+#: cookiebanner/settings.php:240
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-category-widget.php:370
+msgid "Slider"
+msgstr "Slider"
+
+#: cookiebanner/settings.php:237
+msgid "This style is for the checkboxes on the cookie banner, as well as on your policy for managing consent."
+msgstr "Denne stil er til afkrydsningsfelterne på cookie-banneret såvel som til din politik for styring af samtykke."
+
+#: cookiebanner/settings.php:236
+msgid "Checkbox style"
+msgstr "Afkrydsningsfelt stil"
+
+#: callback-notices.php:163 callback-notices.php:172
+msgid "The cookie scan detected cookies from services which share data with Third Parties. If these cookies were also used in the past 12 months, you should at least select the option 'Internet activity...'"
+msgstr "Cookiescanningen opdagede cookies fra tjenester, der deler data med tredjepart. Hvis disse cookies også blev brugt i de sidste 12 måneder, skal du i det mindste vælge indstillingen 'Internetaktivitet ...'"
+
+#: callback-notices.php:133
+msgid "Your site uses Divi. If you use reCAPTCHA on your site, you may need to disable the reCAPTCHA integration in Complianz. "
+msgstr "Dit websted bruger Divi. Hvis du bruger reCAPTCHA på dit websted, skal du muligvis deaktivere reCAPTCHA-integrationen i Complianz."
+
+#: class-field.php:2059 cookie/class-cookie-admin.php:3623
+msgid "Services in %s"
+msgstr "Tjenester i %s"
+
+#: config/questions-wizard.php:854
+msgid "Connect with Cookiedatabase.org"
+msgstr "Opretter forbindelse til Cookiedatabase.org"
+
+#: config/documents/cookie-policy-br.php:142
+#: config/documents/cookie-policy-ca.php:130
+#: config/documents/cookie-policy-eu.php:142
+#: config/documents/cookie-policy-za.php:142
+msgctxt "Legal document cookie policy:paragraph title"
+msgid "Manage your consent settings"
+msgstr "Administrer dine samtykkeindstillinger"
+
+#: config/questions-wizard.php:133
+msgid "Complianz will generate the Imprint based on the answers in the wizard, but you can also create your own, custom document."
+msgstr "Complianz genererer Impressum baseret på svarene i guiden, men du kan også oprette dit eget, brugerdefinerede dokument."
+
+#: config/questions-wizard.php:44
+msgid "If you want to dynamically apply privacy laws based on the visitor's location, consider upgrading to the %spremium version%s, which allows you to apply a privacy law specific for that region."
+msgstr "Hvis du dynamisk vil anvende privatlivslovgivningen baseret på besøgendes placering, kan du overveje at opgradere til %spremium version%s, som giver dig mulighed for at anvende en privatretlig lov, der er specifik for det område."
+
+#: config/questions-wizard.php:38
+msgid "Which privacy law or guideline do you want to use as the default for your worldwide visitors?"
+msgstr "Hvilken fortrolighedslov eller -retningslinje vil du bruge som standard for dine besøgende på verdensplan?"
+
+#: config/countries.php:135
+msgid "PIPEDA (Canada)"
+msgstr "PIPEDA (Canada)"
+
+#: config/countries.php:133
+msgid "UK-GDPR, PECR, Data Protection Act (United Kingdom)"
+msgstr "UK-GDPR, PECR, Data Protection Act (Det Forenede Kongerige)"
+
+#: config/countries.php:132
+msgid "GDPR (European Union)"
+msgstr "GDPR (Den Europæiske Union)"
+
+#: config/documents/documents.php:18 config/steps.php:32
+#: templates/dashboard/documents-conditional.php:16
+msgid "Impressum"
+msgstr "Impressum"
+
+#: callback-notices.php:249
+msgid "The link to the Privacy Statement is used in your Cookie Policy."
+msgstr "Linket til fortrolighedserklæringen bruges i din cookiepolitik."
+
+#: callback-notices.php:247
+msgid "The link to the Privacy Statement is used in the cookie banner and in your Cookie Policy."
+msgstr "Linket til fortrolighedserklæringen bruges i cookie banneret og i din cookiepolitik."
+
+#: class-field.php:1143
+msgid "None selected"
+msgstr "Ingen valgt"
+
+#: class-field.php:1028
+msgid "No document"
+msgstr "Intet dokument"
+
+#: class-field.php:1027
+msgid "Custom URL"
+msgstr "Brugerdefineret URL"
+
+#: class-field.php:1026
+msgid "Link to custom page"
+msgstr "Link til brugerdefineret side"
+
+#: class-field.php:1019
+msgid "Generated by Complianz"
+msgstr "Genereret af Complianz"
+
+#: config/general-settings.php:409
+msgid "Enable cookie blocker for ajax loaded content"
+msgstr "Aktivér cookie blokering for indhold af indlæst ajax"
+
+#: config/steps.php:110
+msgid "Link to menu"
+msgstr "Link til menu"
+
+#: config/steps.php:107
+msgid "Create documents"
+msgstr "Opret dokumenter"
+
+#: config/steps.php:103
+msgctxt "intro menu"
+msgid "Generate your documents, then you can add them to your menu directly or do it manually after the wizard is finished."
+msgstr "Generer dine dokumenter, derefter kan du tilføje dem til din menu direkte, eller gør det manuelt efter guiden er afsluttet."
+
+#: callback-notices.php:199
+msgid "You haven't created all required pages yet. You can add missing pages in the previous step, or create them manually with the shortcode. You can come back later to this step to add your pages to the desired menu, or do it manually via Appearance > Menu."
+msgstr "Du har ikke oprettet alle påkrævede sider endnu. Du kan tilføje manglende sider i foregående trin eller tilføje dem manuelt med shortcoden. Du kan komme tilbage til dette trin for at tilføje dine ønskede sider til menuen eller gøre det manuelt via Udseende > Menu."
+
+#: class-document.php:1534 class-document.php:1620
+msgid "Update pages"
+msgstr "Opdater sider"
+
+#: class-document.php:1618
+msgid "Create missing pages"
+msgstr "Opret manglende sider"
+
+#: class-document.php:1572
+msgid "All necessary pages have been created already. You can update the page titles here if you want, then click the \"Update pages\" button."
+msgstr "Alle nødvendige sider er allerde oprettet. Du kan opdatere sidens titel her hvis du vil. Klik på \"Opdater sider\" knappen."
+
+#: class-document.php:1570
+msgid "The pages marked with X should be added to your website. You can create these pages with a shortcode, a Gutenberg block or use the below \"Create missing pages\" button."
+msgstr "Pakken markeret med X burde tilføjes til dit websted. Du kan oprette disse sider med en shortcode, en Gutenberg blok eller ved at bruge \"Opret manglende sider\"-knappen."
+
+#: class-field.php:2059 cookie/class-cookie-admin.php:3623
+msgid "Cookies in %s"
+msgstr "Cookies i %s"
+
+#: cookie/class-cookie-admin.php:3591
+msgid "Show deleted cookies"
+msgstr "Vis slettede cookies"
+
+#: class-document.php:481
+msgid "Region %s not activated for %s."
+msgstr "Region %s ikke aktiveret for %s."
+
+#: config/questions-wizard.php:268
+msgid "Does your website contain or process sensitive (personal) information?"
+msgstr "Indeholder eller behandler dit websted følsomme (personlige) informationer?"
+
+#: config/countries.php:418
+msgid "Swedish"
+msgstr "Svensk"
+
+#: config/countries.php:417
+msgid "Norwegian"
+msgstr "Norsk"
+
+#: config/countries.php:416
+msgid "Dutch"
+msgstr "Hollandsk"
+
+#: config/countries.php:415
+msgid "Italian"
+msgstr "Italiensk"
+
+#: config/countries.php:414
+msgid "French"
+msgstr "Fransk"
+
+#: config/countries.php:413
+msgid "Estonian"
+msgstr "Estisk"
+
+#: config/countries.php:412
+msgid "Spanish"
+msgstr "Spansk"
+
+#: config/countries.php:411
+msgid "Greek"
+msgstr "Græsk"
+
+#: config/countries.php:410
+msgid "German"
+msgstr "Tysk"
+
+#: config/countries.php:409
+msgid "Danish"
+msgstr "Dansk"
+
+#: config/countries.php:408
+msgid "English"
+msgstr "Engelsk"
+
+#: class-admin.php:75 class-admin.php:827
+#: templates/dashboard/documents-conditional.php:41
+#: upgrade/upgrade-to-pro.php:146 upgrade/upgrade-to-pro.php:159
+#: upgrade/upgrade-to-pro.php:176
+msgid "Install"
+msgstr "Installer"
+
+#: DNSMPD/class-DNSMPD-table.php:166
+msgid "Status"
+msgstr "Status"
+
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-link-widget.php:108
+msgid "Type"
+msgstr "Type"
+
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-category-widget.php:379
+msgid "Active"
+msgstr "Aktiv"
+
+#: cookiebanner/class-cookiebanner.php:830 cookiebanner/settings.php:731
+#: cookiebanner/settings.php:732 cookiebanner/settings.php:733
+msgid "Preferences"
+msgstr "Præferencer"
+
+#: config/purpose.php:44
+msgid "Audio, electronic, visual, thermal, olfactory, or similar information"
+msgstr "Lyd, elektronik, billede, termik, lugte eller lignende information"
+
+#: shepherd/tour.php:130
+msgid "End tour"
+msgstr "Slut tur"
+
+#: shepherd/tour.php:129
+msgid "Start tour"
+msgstr "Start tur"
+
+#: shepherd/tour.php:127
+msgid "Configure"
+msgstr "Konfigurer"
+
+#: shepherd/tour.php:110
+msgid "You are ready to start the Wizard. For more information, FAQ, and support, please visit Complianz.io."
+msgstr "Du er klar til at starte guiden. For mere information, ofte stillede spørgsmål og support, kan du besøge Complianz.io."
+
+#: shepherd/tour.php:109
+msgid "Let's start the Wizard"
+msgstr "Lad os starte guiden"
+
+#: shepherd/tour.php:103
+msgid "Complianz tracks changes in your Cookie Notice and Cookie Policy with time-stamped documents. This is your consent registration while respecting the data minimization guidelines and won't store any user data."
+msgstr "Complianz sporer ændringer i din cookie-meddelelse og cookiepolitik med tidsstemplede dokumenter. Dette er din samtykke-registrering, mens du overholder retningslinjerne for dataminimering og gemmer ikke brugerdata."
+
+#: shepherd/tour.php:96
+msgid "Based on your answers in the Wizard, we will automatically enable integrations with relevant services and plugins. In case you want to block extra scripts, you can add them to the Script Center."
+msgstr "Baseret på dine svar i guiden aktiverer vi automatisk integration med relevante tjenester og plugins. Hvis du vil blokere ekstra scripts, kan du tilføje dem til Script Center."
+
+#: shepherd/tour.php:88
+msgid "Here you can configure and style your cookie banner if the Wizard is completed. An extra tab will be added with region-specific settings."
+msgstr "Her kan du konfigurere og style dit cookie-banner, hvis guiden er afsluttet. En ekstra fane tilføjes med regionsspecifikke indstillinger."
+
+#: shepherd/tour.php:87
+msgid "Cookie Banner"
+msgstr "Cookie Banner"
+
+#: class-wizard.php:612 shepherd/tour.php:80
+msgid "The Wizard"
+msgstr "Guiden"
+
+#: shepherd/tour.php:74
+msgid "This is your Dashboard. When the Wizard is completed, this will give you an overview of tasks, tools, and documentation."
+msgstr "Dette er dit kontrolpanel. Når guiden er afsluttet, giver dette dig en oversigt over opgaver, værktøjer og dokumentation."
+
+#: shepherd/tour.php:67
+msgid "Get ready for privacy legislation around the world. Follow a quick tour or start configuring the plugin!"
+msgstr "Gør dig klar til privatlivslovgivning overalt i verden. Følg en hurtig tur, eller start konfiguration af plugin!"
+
+#: shepherd/tour.php:66
+msgid "Welcome to Complianz"
+msgstr "Velkommen til Complianz"
+
+#: config/general-settings.php:388
+msgid "Disable all plus ones and warnings on your dashboard."
+msgstr ""
+"Deaktiver alle plus og advarsler på dit kontrolpanel\n"
+"t."
+
+#: config/general-settings.php:387
+msgid "Disable notifications"
+msgstr "Deaktiver meddelelser"
+
+#: config/countries.php:73
+msgid "PIPEDA"
+msgstr "PIPEDA"
+
+#: config/countries.php:70
+msgid "CA"
+msgstr "CA"
+
+#: config/documents/cookie-policy-ca.php:173
+msgctxt "Legal document cookie policy"
+msgid "To exercise these rights, please contact us. Please refer to the contact details at the bottom of this Cookie Policy. If you have a complaint about how we handle your data, we would like to hear from you."
+msgstr "Kontakt os for at udøve disse rettigheder. Se kontaktoplysningerne nederst i denne cookiepolitik. Hvis du har en klage over, hvordan vi håndterer dine data, vil vi gerne høre fra dig."
+
+#: config/documents/cookie-policy-ca.php:171
+msgctxt "Legal document cookie policy"
+msgid "You have the right to address a challenge concerning non-compliance with PIPEDA to our organization and, if the issue is not resolved, to the Office of the Privacy Commissioner of Canada."
+msgstr "Du har ret til at tackle en udfordring vedrørende manglende overholdelse af PIPEDA til vores organisation og, hvis problemet ikke er løst, til Canadas kontor for privatlivets fred."
+
+#: config/documents/cookie-policy-ca.php:170
+msgctxt "Legal document cookie policy"
+msgid "You have the right to withdraw consent at any time, subject to legal or contractual restrictions and reasonable notice. You will be informed of the implications of such withdrawal."
+msgstr "Du har til enhver tid ret til at trække samtykke tilbage, med forbehold af juridiske eller kontraktlige begrænsninger og rimelig varsel. Du vil blive informeret om følgerne af en sådan tilbagetrækning."
+
+#: config/documents/cookie-policy-ca.php:169
+msgctxt "Legal document cookie policy"
+msgid "you may request correction or deletion of the data if it is incorrect or not or no longer relevant. Where appropriate, the amended information shall be transmitted to third parties having access to the information in question."
+msgstr "Du kan anmode om korrektion eller sletning af dataene, hvis de er forkerte eller ikke eller ikke længere er relevante. I givet fald overføres de ændrede oplysninger til tredjepart, der har adgang til de pågældende oplysninger."
+
+#: config/documents/cookie-policy-ca.php:168
+msgctxt "Legal document cookie policy"
+msgid "you may request an overview, in a commonly used format, of the data we process about you;"
+msgstr "du kan anmode om en oversigt, i et almindeligt anvendt format, af de data, vi behandler om dig;"
+
+#: config/documents/cookie-policy-ca.php:167
+msgctxt "Legal document cookie policy"
+msgid "you may object to the processing;"
+msgstr "du kan gøre indsigelse mod behandlingen;"
+
+#: config/documents/cookie-policy-ca.php:166
+msgctxt "Legal document cookie policy"
+msgid "you may submit a request for access to the data we process about you;"
+msgstr "du kan indsende en anmodning om adgang til de data, vi behandler om dig;"
+
+#: config/documents/cookie-policy-ca.php:71
+msgctxt "Legal document cookie policy"
+msgid "You can object to the tracking by these cookies by clicking the \"Manage Consent\" button."
+msgstr "Du kan opponere mod tracking med disse cookies ved at klikke på 'Administrer samtykke' knappen."
+
+#: config/documents/cookie-policy-ca.php:40
+msgctxt "Legal document cookie policy"
+msgid "Some cookies ensure that certain parts of the website work properly and that your user preferences remain known. By placing functional cookies, we make it easier for you to visit our website. This way, you do not need to repeatedly enter the same information when visiting our website and, for example, the items remain in your shopping cart until you have paid."
+msgstr "Nogle cookies sikrer, at visse dele af webstedet fungerer korrekt, og at dine brugerpræferencer forbliver kendte. Ved at placere funktionelle cookies gør vi det lettere for dig at besøge vores websted. På denne måde behøver du ikke gentagne gange at indtaste de samme oplysninger, når du besøger vores websted, og for eksempel forbliver varerne i din indkøbskurv, indtil du har betalt."
+
+#: config/documents/cookie-policy-ca.php:134
+msgctxt "Legal document cookie policy:paragraph title"
+msgid "You can also disable the use of cookies via your browser, but please note that our website may no longer work properly."
+msgstr "Du kan også deaktivere brugen af ​​cookies via din browser, men bemærk at vores websted muligvis ikke længere fungerer korrekt."
+
+#: config/documents/cookie-policy-ca.php:126
+msgctxt "Legal document cookie policy"
+msgid "When you visit our website for the first time, we will show you a pop-up with an explanation about cookies. You do have the right to opt-out and to object against the further use of non-functional cookies."
+msgstr "Når du besøger vores websted for første gang, viser vi dig en pop-up med en forklaring om cookies. Du har ret til at fravælge og gøre indsigelse mod den videre brug af ikke-funktionelle cookies."
+
+#: config/documents/documents.php:88
+msgid "Cookie Policy (CA)"
+msgstr "Cookiepolitik (CA)"
+
+#: templates/integrations/plugins.php:5
+msgid "plugins"
+msgstr "plugins"
+
+#: callback-notices.php:274
+msgid "You have selected options that indicate your site processes sensitive, personal data. You should select 'Yes'"
+msgstr "Du har valgt indstillinger, der angiver, at dit websted behandler følsomme, personlige data. Du skal vælge 'Ja'"
+
+#: templates/integrations/services.php:21
+msgid "services"
+msgstr "tjenester"
+
+#: templates/integrations/plugins.php:4 templates/integrations/services.php:20
+msgid "Enabled %s will be blocked on the front-end of your website until the user has given consent (opt-in), or after the user has revoked consent (opt-out). When possible a placeholder is activated. You can also disable or configure the placeholder to your liking."
+msgstr "Aktiveret %s blokeres i front-end af dit websted, indtil brugeren har givet samtykke (opt-in), eller efter at brugeren har tilbagekaldt samtykke (opt-out). Når det er muligt, aktiveres en pladsholder. Du kan også deaktivere eller konfigurere pladsholderen efter din smag."
+
+#: integrations/plugins/google-tagmanager-for-wordpress.php:138
+msgid "You have selected you do not share data with third-party networks. Remarketing is now disabled in %s."
+msgstr "Du har valgt, at du ikke deler data med tredjepartsnetværk. Remarketing er nu deaktiveret i %s."
+
+#: integrations/plugins/google-tagmanager-for-wordpress.php:38
+msgid "You use %s, which means the answer to this question should be Google Tag Manager."
+msgstr "Du bruger %s, hvilket betyder, at svaret på dette spørgsmål skal være Google Tag Manager."
+
+#: integrations/plugins/contact-form-7.php:93
+msgid "Click to accept marketing cookies and enable this form"
+msgstr "Klik for at acceptere marketingcookies og aktiver denne formular"
+
+#: proof-of-consent/class-proof-of-consent.php:255
+msgid "Proof of consent generation failed. Check your write permissions in the uploads directory"
+msgstr "Bevis for generering af samtykke mislykkedes. Kontroller dine skrivetilladelser i uploads-biblioteket"
+
+#: cookie/class-cookie-admin.php:553
+msgid "View service on cookiedatabase.org"
+msgstr "Se service på cookiedatabase.org"
+
+#: cookie/class-cookie-admin.php:427
+msgid "View cookie on cookiedatabase.org"
+msgstr "Se cookie på cookiedatabase.org"
+
+#: class-review.php:95
+msgid "Don't show again"
+msgstr "Vis ikke igen"
+
+#: config/general-settings.php:370
+msgid "Enabling this option will delete all your settings, and the Complianz tables when you deactivate and remove Complianz."
+msgstr "Aktivering af denne valgmulighed vil slette alle dine indstillinger og Complianz tabellerne, når du deaktiverer eller fjerner Complianz."
+
+#: config/general-settings.php:367
+msgid "Clear all data from Complianz on uninstall"
+msgstr "Ryd alle data fra Complianz ved afinstallation"
+
+#: config/questions-wizard.php:381
+msgid "Do you want to ask consent for statistics?"
+msgstr "Vil du spørge efter samtykke til statistik?"
+
+#: config/questions-wizard.php:42
+msgid "The plugin will apply the above-selected region's settings to all visitors worldwide."
+msgstr "Plugin anvender ovennævnte regions indstillinger på alle besøgende over hele verden."
+
+#: config/steps.php:41
+msgid "Details per purpose"
+msgstr "Detaljer pr formål"
+
+#: integrations/plugins/google-analytics-dashboard-for-wp.php:116
+msgid "You have selected you do not share data with third-party networks. Display advertising is now disabled in %s."
+msgstr "Du har valgt, at du ikke deler data med tredjepartsnetværk. Vis annoncering er nu deaktiveret i %s."
+
+#: integrations/plugins/google-analytics-dashboard-for-wp.php:112
+#: integrations/plugins/google-tagmanager-for-wordpress.php:134
+msgid "You have selected you anonymize IP addresses. This setting is now enabled in %s."
+msgstr "Du har valgt at anonymisere IP-adresser. Denne indstilling er nu aktiveret i %s."
+
+#: config/class-config.php:624
+msgid "You have a duplicate implementation of your statistics tool on your site."
+msgstr "Du har en duplikatimplementering af dit statistikværktøj på dit websted."
+
+#: config/class-config.php:612
+msgid "Enable the cookiedatabase.org API for automatic descriptions, or add these %smanually%s."
+msgstr "Aktiver cookiedatabase.org API'er for automatiske beskrivelser eller tilføj disse %smanuelt%s"
+
+#: config/class-config.php:611
+msgid "You have cookies with incomplete descriptions."
+msgstr "Du har cookies med ufuldstændige beskrivelser."
+
+#: config/questions-wizard.php:875
+msgid "Add the services to which your cookies belong here"
+msgstr "Tilføj her den service, som dine cookies hører til"
+
+#: config/general-settings.php:64
+msgid "Without the API, you will have to manually describe all found cookies, their purpose, function, service and service types. "
+msgstr "Uden API skal du manuelt beskrive alle fundne cookies, deres formål, funktion, service og servicetyper"
+
+#: config/general-settings.php:63
+msgid "Do you consent to the use of the cookiedatabase.org API?"
+msgstr "Samtykker du til brugen af cookiedatabase.org API?"
+
+#: config/steps.php:89
+msgctxt "intro used cookies"
+msgid "Below services use cookies on your website to add functionality. You can use cookiedatabase.org to synchronize information or edit the service if needed. Unknown services will be moderated and added by cookiedatabase.org as soon as possible."
+msgstr "Nedennævnte tjenester bruger cookies på dit websted for at tilføje funktionalitet. Du kan bruge cookiedatabase.org til at synkronisere oplysninger eller redigere tjenesten om nødvendigt. Ukendte tjenester vil blive modereret og tilføjet af cookiedatabase.org så hurtigt som muligt."
+
+#: callback-notices.php:37
+msgid "Please make sure you remove your current implementation to prevent double statistics tracking."
+msgstr "Sørg for at fjerne din nuværende implementering for at forhindre sporing af dobbelt statistik."
+
+#: callback-notices.php:9 callback-notices.php:36
+msgid "This field has been pre-filled based on the scan results."
+msgstr "Dette felt er forudfyldt baseret på scanningsresultaterne."
+
+#: callback-notices.php:19
+msgid "Your server does not have CURL installed, which is required for the sync. Please contact your hosting company to install CURL."
+msgstr "Din server har ikke CURL installeret, hvilket er nødvendigt for synkroniseringen. Kontakt dit hostingfirma for at installere CURL."
+
+#: callback-notices.php:26
+msgid "Synchronization disabled: This happens when all cookies have synchronized to cookiedatabase.org in the last week."
+msgstr "Synkronisering deaktiveret: Dette sker, når alle cookies er synkroniseret til cookiedatabase.org i den sidste uge."
+
+#: config/questions-wizard.php:284
+msgid "If you want to clear all cookies from the plugin, you can do so here. You'll need to run a scan again afterwards. If you want to start with a clean slate, you might need to clear your browsercache, to make sure all cookies are removed from your browser as well."
+msgstr "Hvis du vil rydde alle cookies fra plugin, kan du gøre det her. Du skal køre en scanning igen bagefter. Hvis du vil starte med en ren tavle, skal du muligvis rydde din browsercache for at sikre, at alle cookies også fjernes fra din browser."
+
+#: cookie/class-cookie-admin.php:3527
+msgid "Clear cookies"
+msgstr "Ryd cookies"
+
+#: cookie/class-cookie-admin.php:3526
+msgid "Are you sure? This will permanently delete the list of cookies."
+msgstr "Er du sikker? Dette vil slette listen over cookies permanent."
+
+#: callback-notices.php:107
+msgid "Your server does not have CURL installed, which is required for the scan. Please contact your hosting company to install CURL."
+msgstr "Din server har ikke CURL installeret, hvilket kræves til scanningen. Kontakt dit hostingfirma for at installere CURL."
+
+#: cookie/class-cookie-admin.php:3230
+msgid "(not synced yet)"
+msgstr "(ikke synkroniseret endnu)"
+
+#: cookie/class-cookie-admin.php:2910 functions.php:2152
+msgid "Purpose pending investigation"
+msgstr "Formål, indtil undersøgelsen"
+
+#: cookie/class-cookie-admin.php:1016 cookie/class-cookie-admin.php:1352
+msgid "Could not connect to cookiedatabase.org"
+msgstr "Kunne ikke forbinde til cookiedatabase.org"
+
+#: cookie/class-cookie-admin.php:964 cookie/class-cookie-admin.php:1307
+msgid "A request is already running. Please be patient until the current request finishes"
+msgstr "Der er allerede sendt en anmodning afsted. Vent venligst til den er færdig"
+
+#: cookie/class-cookie-admin.php:655 cookie/class-cookie-admin.php:782
+msgid "Cookies without selected service"
+msgstr "Cookies uden valgt service"
+
+#: cookie/class-cookie-admin.php:603
+msgid "Service \"%s\""
+msgstr "Service \"%s\""
+
+#: cookie/class-cookie-admin.php:596
+msgid "Synchronization with cookiedatabase.org is not enabled for this service"
+msgstr "Synkronisering med cookiedatabase.org er ikke aktiveret til denne service"
+
+#: cookie/class-cookie-admin.php:600
+msgid "This service is not synchronized with cookiedatabase.org"
+msgstr "Denne service er ikke synkroniseret med cookiedatabase.org"
+
+#: cookie/class-cookie-admin.php:598
+msgid "This service has been synchronized with cookiedatabase.org"
+msgstr "Denne service er synkroniseret med cookiedatabase.org"
+
+#: cookie/class-cookie-admin.php:592
+msgid "This service has missing fields"
+msgstr "Denne service mangler felter"
+
+#: cookie/class-cookie-admin.php:590
+msgid "The data for this service is complete"
+msgstr "Dataene for denne service er komplette"
+
+#: cookie/class-cookie-admin.php:502
+msgid "Cookie \"%s\"%s%s"
+msgstr "Cookie \"%s\"%s%s"
+
+#: cookie/class-cookie-admin.php:500
+msgid "(Logged in users only, will be ignored)"
+msgstr "(Kun indloggede brugere, vil blive ignoreret)"
+
+#: cookie/class-cookie-admin.php:499
+msgid "(Administrator cookie, will be ignored)"
+msgstr "(Administrator cookie, der bliver ignoreret)"
+
+#: cookie/class-cookie-admin.php:496
+msgid "This cookie has not been found in the scan for three months. Please check if you are still using this cookie"
+msgstr "Denne cookie er ikke fundet i scanningen på tre måneder. Kontroller, om du stadig bruger denne cookie"
+
+#: cookie/class-cookie-admin.php:493
+msgid "This cookie has not been detected on your site in the last three months"
+msgstr "Denne cookie er ikke fundet på dit websted i de sidste tre måneder"
+
+#: cookie/class-cookie-admin.php:491
+msgid "This cookie has recently been detected"
+msgstr "Denne cookie er for nylig blevet fundet"
+
+#: cookie/class-cookie-admin.php:487
+msgid "This cookie is not shown on the Cookie Policy"
+msgstr "Denne cookie vises ikke på cookiepolitikken"
+
+#: cookie/class-cookie-admin.php:485
+msgid "This cookie will be on your Cookie Policy"
+msgstr "Denne cookie ligger på din cookiepolitik"
+
+#: cookie/class-cookie-admin.php:477
+msgid "Synchronization with cookiedatabase.org is not enabled for this cookie"
+msgstr "Synkronisering med cookiedatabase.org er ikke aktiveret til denne cookie"
+
+#: cookie/class-cookie-admin.php:481
+msgid "This cookie is not yet synchronized with cookiedatabase.org."
+msgstr "Denne cookie er ikke synkroniseret med cookiedatabase.org"
+
+#: cookie/class-cookie-admin.php:479
+msgid "This cookie has been synchronized with cookiedatabase.org."
+msgstr "Denne cookie er synkroniseret med cookiedatabase.org"
+
+#: cookie/class-cookie-admin.php:473
+msgid "This cookie has missing fields"
+msgstr "Denne cookie mangler felter"
+
+#: cookie/class-cookie-admin.php:471
+msgid "The data for this cookie is complete"
+msgstr "Dataene for denne cookie er komplette"
+
+#: cookie/class-cookie-admin.php:384
+msgid "No purposes listed"
+msgstr "Ingen angivne formål"
+
+#: cookie/class-cookie-admin.php:342
+msgid "Select a purpose"
+msgstr "Vælg et formål"
+
+#: cookie/class-cookie-admin.php:320
+msgid "No service types listed"
+msgstr "Ingen angivne servicetyper"
+
+#: cookie/class-cookie-admin.php:275
+msgid "Select a service type"
+msgstr "Vælg en servicetype"
+
+#: cookie/class-cookie-admin.php:252
+msgid "No services listed"
+msgstr "Ingen angivne tjenester"
+
+#: cookie/class-cookie-admin.php:236
+msgid "Select or add a service"
+msgstr "Vælg eller tilføj en service"
+
+#: cookie/class-cookie.php:329 cookie/class-cookie.php:387
+msgid "%s days"
+msgstr "%s dage"
+
+#: templates/cookie_settings.php:71
+msgid "Show cookie on Cookie Policy"
+msgstr "Vis cookie i cookiepolitikken"
+
+#: templates/cookie_settings.php:61
+msgid "Sync cookie info with cookiedatabase.org"
+msgstr "Synkroniser cookieinfo med cookiedatabase.org"
+
+#: templates/cookie_settings.php:53
+msgid "Collected Personal Data"
+msgstr "Indsamlet personlig data"
+
+#: templates/cookie_settings.php:42
+msgid "Stores personal data"
+msgstr "Gemmer personlige data"
+
+#: templates/cookie_settings.php:26
+msgid "Cookie function"
+msgstr "Cookie-funktion"
+
+#: templates/cookie_settings.php:11
+msgid "Service"
+msgstr "Service"
+
+#: templates/service_settings.php:34
+msgid "Sync service info with cookiedatabase.org"
+msgstr "Synkroniser serviceinformation med cookiedatabase.org"
+
+#: templates/service_settings.php:16
+msgid "Data is shared with this service"
+msgstr "Data er delt med denne service"
+
+#: templates/service_settings.php:10
+msgid "Service type"
+msgstr "Service type"
+
+#: templates/cookiepolicy/cookies_row.php:10
+msgid "Function"
+msgstr "Funktion"
+
+#: templates/dashboard/documents.php:47
+msgid "Document is not kept up to date by Complianz"
+msgstr "Dokumentet holdes ikke opdateret med Complianz"
+
+#: templates/dashboard/documents.php:45
+msgid "Document is kept up to date by Complianz"
+msgstr "Dokumentet holdes opdateret med Complianz"
+
+#: class-document.php:1611 templates/dashboard/documents-conditional.php:38
+#: templates/dashboard/documents.php:51 templates/dashboard/documents.php:53
+msgid "Click to copy the document shortcode"
+msgstr "Klik for at se dokuments shortcode"
+
+#: functions.php:2142
+msgctxt "Legal document cookie policy"
+msgid "We use %s for %s."
+msgstr "Vi bruger %s til %s."
+
+#: functions.php:2127 functions.php:2137
+msgid "This data is not shared with third parties."
+msgstr "Disse data deles ikke med tredjepart."
+
+#: functions.php:2129 functions.php:2134
+msgid "For more information, please read the %s%s Privacy Statement%s."
+msgstr "For mere information, bedes du læse %s%s fortrolighedserklæring%s."
+
+#: functions.php:2120
+msgid "Miscellaneous"
+msgstr "Diverse"
+
+#: class-field.php:2107
+msgid "Add new service"
+msgstr "Tilføj ny service"
+
+#: class-document.php:1288 gutenberg/build/index.js:1
+#: gutenberg/src/index.js:187 gutenberg/build/index.js:2080
+msgid "Edit document and stop synchronization"
+msgstr "Rediger dokument, og stop synkronisering"
+
+#: class-document.php:1284 gutenberg/build/index.js:1
+#: gutenberg/src/index.js:186 gutenberg/build/index.js:2079
+msgid "Synchronize document with Complianz"
+msgstr "Synkroniser dokument med Complianz"
+
+#: class-document.php:1262
+msgid "Document status"
+msgstr "Dokumentstatus"
+
+#: integrations/plugins/beehive.php:102
+msgid "You have selected you do not share data with third-party networks. Display advertising is now disabled in Beehive."
+msgstr "Du har valgt, at du ikke deler data med tredjepartsnetværk. Vis annoncering er nu deaktiveret i Beehive."
+
+#: integrations/plugins/beehive.php:98
+msgid "You have selected you anonymize IP addresses. This setting is now enabled in Beehive."
+msgstr "Du har valgt at anonymisere IP-adresser. Denne indstilling er nu aktiveret i Beehive."
+
+#: integrations/plugins/forminator.php:80
+#: integrations/plugins/happyforms.php:129
+msgid "Privacy"
+msgstr "Privatliv"
+
+#: integrations/plugins/happyforms.php:123
+msgid "Yes, I agree with the %sprivacy statement%s"
+msgstr "Ja, jeg er enig i %sfortrolighedserklæring%s"
+
+#: integrations/plugins/forminator.php:15
+msgid "Please accept cookies so we can validate your request with reCaptcha, and submit this form"
+msgstr "Accepter venligst cookies, så vi kan validere din anmodning med reCaptcha og indsend denne formular"
+
+#: integrations/plugins/monsterinsights.php:66
+msgid "You have selected you do not share data with third-party networks. Demographics is now disabled in MonsterInsights."
+msgstr "Du har valgt, at du ikke deler data med tredjepartsnetværk. Demografi er nu deaktiveret i MonsterInsights."
+
+#: integrations/plugins/forminator-addon-class.php:36
+msgid "Sorry, we failed to update settings, please check your form and try again"
+msgstr "Beklager, vi kunne ikke opdatere indstillingerne, kontroller din formular og prøv igen"
+
+#: integrations/plugins/forminator-addon-class.php:33
+msgid "Sorry but we failed to deactivate the Complianz integration, please try again"
+msgstr "Beklager, men vi kunne ikke deaktivere Complianz-integrationen. Prøv igen"
+
+#: integrations/plugins/forminator-addon-class.php:30
+msgid "Sorry but we failed to activate the Complianz integration"
+msgstr "Beklager, men vi kunne ikke aktivere Complianz-integrationen"
+
+#: integrations/plugins/forminator-addon-class.php:27
+msgid "Integrate Forminator with Complianz Privacy Suite"
+msgstr "Integrer Forminator med Complianz Privacy Suite"
+
+#: callback-notices.php:150
+msgid "Because your site uses third-party cookies, the cookie blocker is now activated. If you experience issues on the front-end of your site due to blocked scripts, you can disable specific services or plugin integrations in the %sintegrations section%s, or you can disable the cookie blocker entirely on the %ssettings page%s"
+msgstr "Da dit websted bruger cookies fra tredjepart, er cookie-blokeringen nu aktiveret. Hvis du oplever problemer i front-end af dit websted på grund af blokerede scripts, kan du deaktivere bestemte tjenester eller plugin-integrationer i %sintegrations-afsnittet%s, eller du kan deaktivere cookie blokeringen helt på siden %ssindstillinger%s"
+
+#: integrations/plugins/monsterinsights.php:62
+msgid "You have selected you anonymize IP addresses. This setting is now enabled in MonsterInsights."
+msgstr "Du har valgt at anonymisere IP-adresser. Denne indstilling er nu aktiveret i MonsterInsights."
+
+#: config/documents/documents.php:70
+msgid "Cookie Policy (UK)"
+msgstr "Cookiepolitik (UK)"
+
+#: config/documents/documents.php:33
+msgid "Cookie Policy (EU)"
+msgstr "Cookiepolitik (EU)"
+
+#: config/questions-wizard.php:747
+msgid "Checking services here will add the associated cookies to your Cookie Policy, and block the service until consent is given (opt-in), or after consent is revoked (opt-out)"
+msgstr "Hvis du tjekker tjenester her, tilføjes de tilknyttede cookies til din cookiepolitik og blokerer tjenesten, indtil samtykke er givet (tilvalg), eller efter at samtykke er tilbagekaldt (fravalg)"
+
+#: config/questions-wizard.php:714
+msgid "You can configure Hotjar privacy-friendly, if you do this, no consent is required for Hotjar."
+msgstr "Du kan konfigurere Hotjar fortrolighed, hvis du gør dette, kræves der ingen samtykke til Hotjar."
+
+#: config/questions-wizard.php:712
+msgid "Is Hotjar configured in a privacy-friendly way?"
+msgstr "Er Hotjar konfigureret på en privatlivsvenlig måde?"
+
+#: config/questions-wizard.php:657
+msgid "Checking services here will add the associated cookies to your Cookie Policy, and block the service until consent is given (opt-in), or after consent is revoked (opt-out)."
+msgstr "Når du tjekker tjenester her, tilføjes de tilknyttede cookies til din cookiepolitik og blokerer tjenesten, indtil samtykke er givet (tilvalg), eller efter at samtykke er tilbagekaldt (fravalg)."
+
+#: config/countries.php:93
+msgid "UK-GDPR"
+msgstr "UK-GDPR"
+
+#: config/countries.php:90
+msgid "UK"
+msgstr "UK"
+
+#: config/steps.php:65
+msgid "Statistics - configuration"
+msgstr "Statistikker - konfiguration"
+
+#: class-document.php:768 class-document.php:776
+msgctxt "if phonenumber is entered, this string is part of the sentence \"you may contact %s, via %s or by telephone via %s\""
+msgid "or by telephone on %s"
+msgstr "eller telefonisk på %s"
+
+#: templates/integrations/plugins.php:12
+msgid "No active plugins detected in the integrations list."
+msgstr "Der er ikke registreret nogen aktive plugins i integrationslisten."
+
+#: templates/integrations/plugins.php:2
+msgid "Below you will find the plugins currently detected and integrated with Complianz. Most plugins work by default, but you can also add a plugin to the script center or add it to the integration list."
+msgstr "Nedenfor finder du de plugins, der i øjeblikket er registreret og integreret med Complianz. De fleste plugins fungerer som standard, men du kan også tilføje et plugin til scriptcenter eller tilføje det til integrationslisten."
+
+#: templates/integrations/services.php:17
+msgid "%s are marked as not being used on your website in the %swizard%s."
+msgstr "%s er markeret som ikke i brug på dit websted i %svejledning%s."
+
+#: templates/integrations/services.php:12
+msgid "Third-party services and social media"
+msgstr "Tredjeparts tjenester og sociale medier"
+
+#: config/steps.php:70 integrations/integrations-menu.php:27
+msgid "Services"
+msgstr "Services"
+
+#: templates/dashboard/progress.php:35
+msgid "Well done! Your website is ready for your selected regions."
+msgstr "Godt klaret! Dit websted er klar til dine valgte regioner."
+
+#: integrations/integrations-menu.php:8 integrations/integrations-menu.php:9
+#: shepherd/tour.php:95
+msgid "Integrations"
+msgstr "Integrationer"
+
+#: callback-notices.php:235
+msgid "Categories are mandatory for your statistics configuration."
+msgstr "Kategorier er obligatoriske for din statistikkonfiguration"
+
+#: proof-of-consent/class-proof-of-consent.php:356
+msgid ""
+"This document was generated to show efforts made to comply with privacy legislation.\n"
+"                            This document will contain the Cookie Policy and the cookie consent settings to proof consent\n"
+"                            for the time and region specified below. For more information about this document, please go\n"
+"                            to %shttps://complianz.io/consent%s."
+msgstr ""
+"Dette dokument blev genereret for at vise en indsats, der er gjort for at overholde privatlivets lovgivning.\n"
+"                            Dette dokument vil indeholde cookiepolitikken og cookie-samtykkeindstillingerne for at bevise \n"
+"                            samtykke for den tid og region, der er specificeret nedenfor. Gå til mere information om dette \n"
+"                            dokument til %shttps://complianz.io/consent%s."
+
+#: proof-of-consent/class-proof-of-consent.php:354 shepherd/tour.php:102
+msgid "Proof of Consent"
+msgstr "Bevis for samtykke"
+
+#: proof-of-consent/class-proof-of-consent.php:353
+msgid "Cookie consent settings"
+msgstr "Indstillinger for cookie-samtykke"
+
+#: proof-of-consent/class-proof-of-consent.php:249
+msgid "Generate now"
+msgstr "Generer nu"
+
+#: proof-of-consent/class-cookiestatement-snapshot-table.php:171
+msgid "Created"
+msgstr "Oprettet"
+
+#: proof-of-consent/class-cookiestatement-snapshot-table.php:170
+msgid "File"
+msgstr "Fil"
+
+#: proof-of-consent/class-cookiestatement-snapshot-table.php:144
+msgid "File not found"
+msgstr "Fil ikke fundet"
+
+#: proof-of-consent/class-cookiestatement-snapshot-table.php:103
+msgid "Search"
+msgstr "Søg"
+
+#: cookiebanner/settings.php:324
+msgid "Show as soft cookie wall"
+msgstr "Vis som blød cookie-væg"
+
+#: config/countries.php:284
+msgid "North Macedonia"
+msgstr "Nordlige Makedonien"
+
+#: config/documents/cookie-policy-br.php:18
+#: config/documents/cookie-policy-ca.php:23
+#: config/documents/cookie-policy-eu.php:18
+#: config/documents/cookie-policy-za.php:18
+msgctxt "Legal document cookie policy"
+msgid "A script is a piece of program code that is used to make our website function properly and interactively. This code is executed on our server or on your device."
+msgstr "Et script er et stump kode, der gør, at vores websted fungerer ordentligt og som forventet. Denne kode afvikles enten på vores server eller på din enhed."
+
+#: proof-of-consent/class-proof-of-consent.php:198
+#: proof-of-consent/class-proof-of-consent.php:199
+#: proof-of-consent/class-proof-of-consent.php:244
+#: templates/dashboard/tools.php:43
+msgid "Proof of consent"
+msgstr "Bevis for samtykke"
+
+#: config/documents/cookie-policy-br.php:156
+#: config/documents/cookie-policy-eu.php:158
+#: config/documents/cookie-policy-uk.php:155
+msgctxt "Legal document cookie policy"
+msgid "You can use your internet browser to automatically or manually delete cookies. You can also specify that certain cookies may not be placed. Another option is to change the settings of your internet browser so that you receive a message each time a cookie is placed. For more information about these options, please refer to the instructions in the Help section of your browser."
+msgstr "Du kan bruge din internetbrowser til automatisk eller manuelt at slette cookies. Du kan også specificere, at visse cookies muligvis ikke placeres. En anden mulighed er at ændre indstillingerne for din internetbrowser, så du modtager en besked, hver gang en cookie placeres. For mere information om disse indstillinger, se instruktionerne i Hjælp-afsnittet i din browser."
+
+#: config/questions-wizard.php:191
+msgid "The email address will be obfuscated on the front-end to prevent spidering."
+msgstr "E-mail-adressen bliver tilsløret i front-enden for at forhindre spider."
+
+#: config/questions-wizard.php:829
+msgid "If you enable this, WordPress will not store personal data with comments and you won't need a consent checkbox for the comment form. The consent box will not be displayed."
+msgstr "Hvis du aktiverer dette, gemmer WordPress ikke personlige data med kommentarer, og du behøver ikke et afkrydsningsfelt til samtykke til kommentarformularen. Godkendelsesfeltet vises ikke."
+
+#: config/questions-wizard.php:682
+msgid "Your site uses Google Fonts. For best privacy compliance, we recommend to self host Google Fonts. To self host, follow the instructions in %sthis article%s"
+msgstr "Dit websted bruger Google skrifttyper. For at opnå den bedste overholdelse af privatlivets fred anbefaler vi at selv at være vært for Google Fonts. Følg instruktionerne i %sdenne artikel%s"
+
+#: config/countries.php:63
+msgid "CCPA"
+msgstr "CCPA"
+
+#: config/general-settings.php:231
+msgid "If you experience styling issues with videos or iFrames you can disable the placeholder insertion, which in some themes can conflict with theme styling."
+msgstr "Hvis du oplever stylingproblemer med videoer eller iFrames, kan du deaktivere indsættelse af pladsholder, som i nogle temaer kan være i konflikt med tema styling."
+
+#: config/general-settings.php:229
+msgid "Disable placeholder insertion"
+msgstr "Deaktiver indsættelse af pladsholder"
+
+#: config/documents/cookie-policy-au.php:121
+#: config/documents/cookie-policy-br.php:103
+#: config/documents/cookie-policy-ca.php:104
+#: config/documents/cookie-policy-eu.php:103
+#: config/documents/cookie-policy-uk.php:101
+#: config/documents/cookie-policy-us.php:138
+#: config/documents/cookie-policy-za.php:102
+msgid "%s is located in the United States."
+msgid_plural "%s are located in the United States."
+msgstr[0] "%s befinder sig i USA."
+msgstr[1] "%s befinder sig i USA."
+
+#: config/documents/cookie-policy-br.php:103
+#: config/documents/cookie-policy-br.php:111
+#: config/documents/cookie-policy-ca.php:104
+#: config/documents/cookie-policy-ca.php:112
+#: config/documents/cookie-policy-eu.php:103
+#: config/documents/cookie-policy-eu.php:111
+#: config/documents/cookie-policy-uk.php:101
+#: config/documents/cookie-policy-uk.php:109
+#: config/documents/cookie-policy-us.php:138
+#: config/documents/cookie-policy-us.php:146
+#: config/documents/cookie-policy-za.php:102
+#: config/documents/cookie-policy-za.php:110
+msgid "Please read the privacy statement of these social networks (which can change regularly) to read what they do with your (personal) data which they process using these cookies. The data that is retrieved is anonymized as much as possible."
+msgstr "Læs fortrolighedserklæringen på de sociale netværk (som kan ændres regelmæssigt) for at læse, hvad de gør med dine (personlige) data, som de behandler ved hjælp af disse cookies. De data, der hentes, anonymiseres så meget som muligt."
+
+#: config/documents/cookie-policy-br.php:64
+#: config/documents/cookie-policy-ca.php:63
+#: config/documents/cookie-policy-eu.php:64
+#: config/documents/cookie-policy-za.php:63
+msgctxt "Legal document cookie policy"
+msgid "On this website we use advertising cookies, enabling us to gain insights into the campaign results. This happens based on a profile we create based on your behavior on %s. With these cookies you, as website visitor, are linked to a unique ID but these cookies will not profile your behavior and interests to serve personalized ads."
+msgstr "På dette websted bruger vi marketing cookies, som gør det muligt for os at indhente oplysninger om markedsføringskampagner. Det sker på baggrund af en profil, som vi har udviklet baseret på din adfærd på %s. Med sådanne cookies er du, som bruger, forbundet til et unik ID. Men disse cookies vil ikke blive brugt til at profilere din adfærd og interesser i forbindelse med personalisering af annoncer."
+
+#: cookiebanner/settings.php:135
+msgid "When enabled, this is the cookie banner that is used for all visitors. Enabling it will disable this setting on the current default banner. Disabling it will enable randomly a different default banner."
+msgstr "Når dette er aktiveret, er dette cookie-banneret, der bruges til alle besøgende. Hvis du aktiverer det, deaktiveres denne indstilling på det aktuelle standardbanner. Deaktivering af det aktiverer tilfældigt et andet standardbanner."
+
+#: cookiebanner/settings.php:134
+msgid "Default cookie banner"
+msgstr "Standard cookie-banner"
+
+#: cookiebanner/settings.php:90
+msgid "For internal use only"
+msgstr "Kun for intern brug"
+
+#: cookiebanner/settings.php:89
+msgid "Descriptive title of the cookiebanner"
+msgstr "Beskrivende titel på cookiebanneren"
+
+#: cookiebanner/settings.php:88
+msgid "Cookie banner title"
+msgstr "Cookie-banner titel"
+
+#: config/questions-wizard.php:794
+msgid "If you only use Google for advertising, and have activated the option to use only non personalized ads, you can select no here."
+msgstr "Hvis du kun bruger Google til reklame og har aktiveret muligheden for kun at bruge ikke-personificerede annoncer, kan du vælge nej her."
+
+#: config/questions-wizard.php:792
+msgid "Are any of your advertising cookies used to show personalized ads?"
+msgstr "Bruges nogen af dine marketing cookies til at vise personaliserede annoncer?"
+
+#: config/questions-wizard.php:812
+msgid "Does your website use WordPress comments?"
+msgstr "Bruger dit websted WordPress-kommentarer?"
+
+#: config/questions-wizard.php:165
+msgid "Address, City and Zipcode"
+msgstr "Adresse, postnummer og by"
+
+#: cookiebanner/class-cookiebanner.php:204
+msgid "New cookie banner"
+msgstr "Nyt cookie banner"
+
+#: cookiebanner/cookiebanner.php:375
+#: proof-of-consent/class-proof-of-consent.php:264
+msgid "Filter"
+msgstr "Filtrer"
+
+#: cookiebanner/cookiebanner.php:359
+msgid "Cookie banner settings"
+msgstr "Cookie-banner indstilliger"
+
+#: cookiebanner/cookiebanner.php:191 cookiebanner/cookiebanner.php:192
+#: templates/dashboard/progress-footer.php:22
+msgid "Cookie banner"
+msgstr "Cookie-banner"
+
+#: cookiebanner/class-cookiebanner-table.php:254
+msgid "conversion"
+msgstr "konvertering"
+
+#: cookiebanner/class-cookiebanner-table.php:244
+msgid "Best performer"
+msgstr "Højeste ydelse"
+
+#: cookiebanner/class-cookiebanner-table.php:202
+msgid "Unnamed cookie banner"
+msgstr "Unavngivet cookie banner"
+
+#: cookiebanner/class-cookiebanner-table.php:182
+#: cookiebanner/class-cookiebanner-table.php:259
+msgid "Archive"
+msgstr "Arkiver"
+
+#: cookiebanner/class-cookiebanner-table.php:177
+#: templates/cookie_settings.php:93
+msgid "Restore"
+msgstr "Gendan"
+
+#: cookiebanner/class-cookiebanner-table.php:137
+#: proof-of-consent/class-cookiestatement-snapshot-table.php:121
+msgid "name"
+msgstr "navn"
+
+#: cookiebanner/class-cookiebanner-table.php:118
+msgid "Archived cookiebanners"
+msgstr "Arkiverede cookiebannere"
+
+#: cookiebanner/class-cookiebanner-table.php:115
+msgid "Active cookiebanners"
+msgstr "Aktiver cookiebannere"
+
+#: cookiebanner/class-cookiebanner-table.php:74
+#: proof-of-consent/class-cookiestatement-snapshot-table.php:68
+msgid "Cookiebanners"
+msgstr "Cookiebannere"
+
+#: cookiebanner/class-cookiebanner-table.php:73
+#: cookiebanner/cookiebanner.php:472
+#: proof-of-consent/class-cookiestatement-snapshot-table.php:67
+msgid "Cookiebanner"
+msgstr "Cookiebanner"
+
+#: functions.php:2653
+msgid "All consent types"
+msgstr "Alle typer af tilladelser"
+
+#: functions.php:2651
+msgid "Opt-out"
+msgstr "Opt-out"
+
+#: functions.php:2649
+msgid "Opt-in"
+msgstr "Tilmeld"
+
+#: integrations/plugins/wpforms.php:23
+msgid "(WP Forms)"
+msgstr "(WP Forms)"
+
+#: cron/cron.php:46
+msgid "Once every month"
+msgstr "En gang hver måned"
+
+#: config/general-settings.php:100 config/general-settings.php:117
+msgid "Blocked content text"
+msgstr "Bloker indhold tekst"
+
+#: config/documents/cookie-policy-br.php:46
+#: config/documents/cookie-policy-eu.php:46
+#: config/documents/cookie-policy-za.php:46
+msgctxt "Legal document cookie policy"
+msgid "Because statistics are being tracked anonymously, no permission is asked to place statistics cookies."
+msgstr "Da statistikker spores anonymt, bliver der ikke bedt om tilladelse til at placere analytiske cookies."
+
+#: config/documents/cookie-policy-br.php:39
+#: config/documents/cookie-policy-eu.php:39
+#: config/documents/cookie-policy-za.php:39
+msgctxt "Legal document cookie policy"
+msgid "We ask your permission to place statistics cookies."
+msgstr "Vi beder din tilladelse til at placere analytiske cookies."
+
+#: config/documents/cookie-policy-br.php:38
+#: config/documents/cookie-policy-ca.php:46
+#: config/documents/cookie-policy-eu.php:38
+#: config/documents/cookie-policy-za.php:38
+msgctxt "Legal document cookie policy"
+msgid "We use statistics cookies to optimize the website experience for our users. With these statistics cookies we get insights in the usage of our website."
+msgstr "Vi bruger analytiske cookies til at optimere webstedsoplevelsen for vores brugere. Med disse analytiske cookies får vi indsigt i brugen af ​​vores websted."
+
+#: cookiebanner/settings.php:848
+msgid "Timeout in seconds"
+msgstr "Timeout i sekunder"
+
+#: cookiebanner/settings.php:837
+msgid "When dismiss on time out is enabled, the cookie banner will be dismissed after 10 seconds, or the time you choose below."
+msgstr "Når afvisning ved time out er aktiveret, vil cookie banneret blive afvist efter 10 sekunder, eller den tid, du vælger nedenfor."
+
+#: cookiebanner/settings.php:836
+msgid "Dismiss on time out"
+msgstr "Frakald ved timeout"
+
+#: cookiebanner/settings.php:824
+msgid "When dismiss on scroll is enabled, the cookie banner will be dismissed as soon as the user scrolls."
+msgstr "Når afvisning på at rulle er aktiveret, vil cookie banneret blive afvist, så snart brugeren ruller."
+
+#: cookiebanner/settings.php:823
+msgid "Dismiss on scroll"
+msgstr "Afskriv ved rul"
+
+#: config/general-settings.php:351
+msgid "Are you sure? This will remove all Complianz data."
+msgstr "Er du sikker? Dette vil fjerne alle Complianz data."
+
+#. Plugin URI of the plugin
+msgid "https://www.wordpress.org/plugins/complianz-gdpr"
+msgstr "https://www.wordpress.org/plugins/complianz-gdpr"
+
+#. Plugin Name of the plugin
+msgid "Complianz | GDPR/CCPA Cookie Consent"
+msgstr "Complianz | GDPR/CCPA cookie samtykke"
+
+#: templates/dashboard/documents-conditional.php:4
+msgid "Privacy Statements"
+msgstr "Erklæringer om beskyttelse af personlige oplysninger"
+
+#: config/questions-wizard.php:423
+msgid "It's recommended to let Complianz handle the statistics script. This way, the plugin can detect if it needs to be hooked into the cookie consent code or not. But if you have set it up yourself and don't want to change this, you can choose to do so."
+msgstr "Det anbefales at lade Complianz håndtere statistikscriptet. På denne måde kan plugin registrere, om det skal kobles til cookie-tilladelseskoden eller ej. Men hvis du selv har konfigureret det og ikke ønsker at ændre dette, kan du vælge at gøre det"
+
+#: config/steps.php:26
+msgid "Website information"
+msgstr "Information om webstedet"
+
+#: callback-notices.php:187
+msgid "You have indicated you use a statistics tool which tracks personal data. You can insert this script here so it only fires if the user consents to this."
+msgstr "Du har angivet, at du bruger et statistikværktøj, der sporer personlige data. Du kan indsætte dette script her, så det kun udløses, hvis brugeren samtykker til dette."
+
+#: callback-notices.php:39
+msgid "If you add the ID for your statistics tool here, Complianz will configure your site for statistics tracking."
+msgstr "Hvis du tilføjer ID til dit statistikværktøj her, konfigurerer Complianz dit websted til statistiksporing."
+
+#: DNSMPD/class-DNSMPD.php:505
+msgid "Send"
+msgstr "Send"
+
+#: DNSMPD/class-DNSMPD.php:492
+msgid "email@email.com"
+msgstr "email@email.com"
+
+#: DNSMPD/class-DNSMPD.php:488
+msgid "Your name"
+msgstr "Dit navn"
+
+#: cron/cron.php:54
+msgid "Once every day"
+msgstr "En gang hver dag"
+
+#: cron/cron.php:50
+msgid "Once every week"
+msgstr "En gang hver uge"
+
+#: config/documents/documents.php:14
+#: templates/dashboard/documents-conditional.php:28
+msgid "Privacy Statement for Children"
+msgstr "Erklæring om beskyttelse af personlige oplysninger for børn"
+
+#: config/documents/documents.php:78
+msgid "Privacy Statement (UK)"
+msgstr "Fortrolighedserklæring (UK)"
+
+#: config/documents/documents.php:150
+msgid "Privacy Statement (BR)"
+msgstr "Erklæring om beskyttelse af personlige oplysninger (BR)"
+
+#: class-admin.php:975
+msgid "Data"
+msgstr "Data"
+
+#: config/steps.php:73 integrations/integrations-menu.php:35
+msgid "Plugins"
+msgstr "Plugins"
+
+#: config/steps.php:44
+msgid "Security & Consent"
+msgstr "Sikkerhed og samtykke"
+
+#: config/purpose.php:28
+msgid "Social media accounts"
+msgstr "Sociale mediekonti"
+
+#: config/purpose.php:27
+msgid "Photos"
+msgstr "Billeder"
+
+#: config/purpose.php:26
+msgid "Sex"
+msgstr "Køn"
+
+#: config/general-settings.php:333
+msgid "You can use this to export your settings to another site"
+msgstr "Du kan bruge dette til at eksportere dine indstillinger til et andet sted"
+
+#: config/purpose.php:24
+msgid "Marital status"
+msgstr "Civilstand"
+
+#: config/purpose.php:21
+msgid "IP address"
+msgstr "IP adresse"
+
+#: class-review.php:92
+msgid "Maybe later"
+msgstr "Måske senere"
+
+#: class-review.php:89
+msgid "Leave a review"
+msgstr "Skriv en anmeldelse"
+
+#: class-review.php:83
+msgid "Hi, you have been using Complianz | GDPR cookie consent for a month now, awesome! If you have a moment, please consider leaving a review on WordPress.org to spread the word. We greatly appreciate it! If you have any questions or feedback, leave us a %smessage%s."
+msgstr "Hej, du har brugt Complianz | GDPR cookie samtykke i en måned nu, fantastisk! Hvis du har et øjeblik, kan du overveje at give en anmeldelse på WordPress.org for at fortælle om din oplevelse. Vi sætter stor pris på det! Hvis du har spørgsmål eller feedback, så send os en %sbesked%s."
+
+#: integrations/plugins/contact-form-7.php:189
+#: integrations/plugins/wpforms.php:60
+msgid "To submit this form, you need to accept our %sPrivacy Statement%s"
+msgstr "For at indsende denne formular skal du acceptere vores %sPrivatlivserklæring%s"
+
+#: integrations/plugins/contact-form-7.php:171
+msgid "(Contact form 7)"
+msgstr "(Contact form 7)"
+
+#: integrations/plugins/gravity-forms.php:95
+msgid "(Gravity Forms)"
+msgstr "(Gravity Forms)"
+
+#: integrations/plugins/gravity-forms.php:109
+msgid "To submit this form, you need to accept our Privacy Statement"
+msgstr "For at indsende denne formular skal du acceptere vores erklæring om beskyttelse af personlige oplysninger"
+
+#: DNSMPD/class-DNSMPD.php:455
+msgid "Your request has been processed successfully!"
+msgstr "Din anmodning er behandlet med succes!"
+
+#: DNSMPD/class-DNSMPD.php:419
+msgid "That's a long name you got there. Please try to shorten the name."
+msgstr "Det er et langt navn, du kom der. Prøv at forkorte navnet."
+
+#: DNSMPD/class-DNSMPD.php:414
+msgid "Please enter your name"
+msgstr "Venligst skriv dit navn"
+
+#: DNSMPD/class-DNSMPD.php:409
+msgid "Please enter a valid email address."
+msgstr "Indtast venligst en gyldig e-mailadresse."
+
+#: DNSMPD/class-DNSMPD.php:404
+msgid "Sorry, it looks like you're a bot"
+msgstr "Beklager, det ser ud til at du er en robot"
+
+#: cookiebanner/class-cookiebanner-table.php:210
+#: DNSMPD/class-DNSMPD-table.php:149
+#: proof-of-consent/class-cookiestatement-snapshot-table.php:154
+#: templates/cookie_settings.php:90 templates/service_settings.php:52
+msgid "Delete"
+msgstr "Slet"
+
+#: DNSMPD/class-DNSMPD-table.php:146
+msgid "Unnamed user"
+msgstr "Unavngivet bruger"
+
+#: DNSMPD/class-DNSMPD-table.php:64
+msgid "Users"
+msgstr "Brugere"
+
+#: DNSMPD/class-DNSMPD-table.php:63
+msgid "User"
+msgstr "Bruger"
+
+#: functions.php:337
+msgid "Denied"
+msgstr "Nægtet"
+
+#: functions.php:334
+msgid "Accepted"
+msgstr "Godkendt"
+
+#: functions.php:333 functions.php:336
+msgid "Current status: %s"
+msgstr "Nuværende status: %s"
+
+#: config/class-config.php:603
+msgid "Your documents have not been updated in the past 12 months. Run the wizard to check your settings."
+msgstr "Dine dokumenter er ikke blevet opdateret i de sidste 12 måneder. Kør guiden for at kontrollere dine indstillinger."
+
+#: config/class-config.php:494
+msgid "Not all fields have been entered, or you have not clicked the \"finish\" button yet."
+msgstr "Ikke alle felter er indtastet, eller du har ikke klikket på \"slut\" knappen endnu."
+
+#: config/steps.php:100
+msgctxt "intro menu"
+msgid "Get ready to finish your configuration."
+msgstr "Gør dig klar til at færdiggøre din konfiguration"
+
+#: config/steps.php:11
+msgid "Visitors"
+msgstr "Besøgende"
+
+#: config/questions-wizard.php:216
+msgid "Indicate for what purpose personal data is processed via your website:"
+msgstr "Angiv til hvilket formål personlige data behandles via dit websted:"
+
+#: config/questions-wizard.php:203
+msgid "Phone number"
+msgstr "Telefonnummer"
+
+#: config/general-settings.php:359
+msgid "This will reset all settings to defaults. All data in the Complianz plugin will be deleted"
+msgstr "Dette nulstiller alle indstillinger til standardindstillinger. Alle data i Complianz-pluginet vil blive slettet"
+
+#: config/general-settings.php:344
+msgid "If you want to import your settings, please check out the %spremium version%s"
+msgstr "Hvis du vil importere dine indstillinger, så tjek %spremium version %s"
+
+#: config/general-settings.php:343
+msgid "Import settings"
+msgstr "Import indstillinger"
+
+#: config/general-settings.php:202
+msgid "Hi {name}"
+msgstr "Hej {name}"
+
+#: config/general-settings.php:201
+msgid "Notification email content"
+msgstr "Indhold via e-mail til anmeldelse"
+
+#: config/general-settings.php:189
+msgid "Notification email subject"
+msgstr "Emne for anmeldelse af e-mail"
+
+#: config/general-settings.php:178
+msgid "When emails are sent, you can choose the sender email address here. Please note that it should have this website's domain as sender domain, otherwise the server might block the email from being sent."
+msgstr "Når e-mails sendes, kan du vælge afsenderens e-mail-adresse her. Bemærk, at det skal have dette websteds domæne som afsenderdomæne, ellers kan serveren muligvis blokere e-mailen fra at blive sendt."
+
+#: config/general-settings.php:176
+msgid "Notification sender email address"
+msgstr "E-mail-adresse til underretning af afsender"
+
+#: config/documents/cookie-policy-br.php:207
+#: config/documents/cookie-policy-eu.php:197
+#: config/documents/cookie-policy-za.php:194
+msgctxt "Legal document cookie policy"
+msgid "Email:"
+msgstr "Email:"
+
+#: config/documents/cookie-policy-br.php:206
+#: config/documents/cookie-policy-eu.php:196
+#: config/documents/cookie-policy-za.php:193
+msgctxt "Legal document cookie policy"
+msgid "Website:"
+msgstr "Internet side:"
+
+#: config/documents/cookie-policy-br.php:199
+#: config/documents/cookie-policy-ca.php:178
+#: config/documents/cookie-policy-eu.php:189
+#: config/documents/cookie-policy-za.php:186
+msgctxt "Legal document cookie policy:paragraph title"
+msgid "Contact details"
+msgstr "Kontaktdetaljer"
+
+#: config/documents/cookie-policy-br.php:155
+#: config/documents/cookie-policy-ca.php:152
+#: config/documents/cookie-policy-eu.php:157
+#: config/documents/cookie-policy-uk.php:154
+msgctxt "Legal document cookie policy:paragraph title"
+msgid "Enabling/disabling and deleting cookies"
+msgstr "Aktivering/deaktivering og sletning af cookies"
+
+#: config/documents/cookie-policy-eu.php:177
+#: config/documents/cookie-policy-za.php:175
+msgctxt "Legal document cookie policy"
+msgid "Right to rectification: you have the right to supplement, correct, have deleted or blocked your personal data whenever you wish."
+msgstr "Ret til rettelse: Du har ret til at supplere, rette, slette eller blokere dine personlige data, når du ønsker det."
+
+#: config/documents/cookie-policy-eu.php:176
+#: config/documents/cookie-policy-za.php:174
+msgctxt "Legal document cookie policy"
+msgid "Right of access: You have the right to access your personal data that is known to us."
+msgstr "Ret til adgang: Du har ret til at få adgang til dine personlige data, der er kendt af os."
+
+#: config/documents/cookie-policy-eu.php:175
+#: config/documents/cookie-policy-za.php:173
+msgctxt "Legal document cookie policy"
+msgid "You have the right to know why your personal data is needed, what will happen to it, and how long it will be retained for."
+msgstr "Du har ret til at vide, hvorfor dine personlige data er nødvendige, hvad der vil ske med dem, og hvor længe de bliver opbevaret."
+
+#: config/documents/cookie-policy-br.php:166
+#: config/documents/cookie-policy-ca.php:164
+#: config/documents/cookie-policy-eu.php:168
+#: config/documents/cookie-policy-za.php:167
+msgctxt "Legal document cookie policy"
+msgid "You have the following rights with respect to your personal data:"
+msgstr "Du har følgende rettigheder med hensyn til dine personlige data:"
+
+#: config/documents/cookie-policy-br.php:164
+#: config/documents/cookie-policy-ca.php:161
+#: config/documents/cookie-policy-eu.php:166
+#: config/documents/cookie-policy-za.php:165
+msgctxt "Legal document cookie policy:paragraph title"
+msgid "Your rights with respect to personal data"
+msgstr "Dine rettigheder med hensyn til personlige data"
+
+#: templates/cookiepolicy/services.php:13
+msgctxt "Legal document cookie policy"
+msgid "Sharing data"
+msgstr "Deling af data"
+
+#: config/documents/cookie-policy-br.php:119
+#: config/documents/cookie-policy-ca.php:120
+#: config/documents/cookie-policy-eu.php:119
+#: config/documents/cookie-policy-za.php:118
+msgctxt "Legal document cookie policy:paragraph title"
+msgid "Placed cookies"
+msgstr "Placerede cookies"
+
+#: config/documents/cookie-policy-br.php:81
+#: config/documents/cookie-policy-eu.php:81
+#: config/documents/cookie-policy-za.php:71
+msgctxt "Legal document cookie policy"
+msgid "Because these cookies are marked as tracking cookies, we ask your permission to place these."
+msgstr "Da disse cookies er markeret som sporings-cookies, beder vi om din tilladelse til at placere disse."
+
+#: config/documents/cookie-policy-br.php:54
+#: config/documents/cookie-policy-br.php:63
+#: config/documents/cookie-policy-ca.php:53
+#: config/documents/cookie-policy-ca.php:62
+#: config/documents/cookie-policy-eu.php:54
+#: config/documents/cookie-policy-eu.php:63
+#: config/documents/cookie-policy-za.php:53
+#: config/documents/cookie-policy-za.php:62
+msgctxt "Legal document cookie policy:paragraph title"
+msgid "Advertising cookies"
+msgstr "Marketing cookies"
+
+#: config/documents/cookie-policy-br.php:37
+#: config/documents/cookie-policy-br.php:45
+#: config/documents/cookie-policy-ca.php:45
+#: config/documents/cookie-policy-eu.php:37
+#: config/documents/cookie-policy-eu.php:45
+#: config/documents/cookie-policy-za.php:37
+#: config/documents/cookie-policy-za.php:45
+msgctxt "Legal document cookie policy:paragraph title"
+msgid "Statistics cookies"
+msgstr "Analysecookies"
+
+#: config/documents/cookie-policy-br.php:31
+#: config/documents/cookie-policy-ca.php:39
+#: config/documents/cookie-policy-eu.php:31
+#: config/documents/cookie-policy-za.php:31
+msgctxt "Legal document cookie policy:paragraph title"
+msgid "Technical or functional cookies"
+msgstr "Tekniske eller funktionelle cookies"
+
+#: config/documents/cookie-policy-br.php:27
+#: config/documents/cookie-policy-ca.php:36
+#: config/documents/cookie-policy-eu.php:27
+#: config/documents/cookie-policy-za.php:27
+msgctxt "Legal document cookie policy:paragraph title"
+msgid "Cookies"
+msgstr "Cookies "
+
+#: config/documents/cookie-policy-ca.php:31
+msgctxt "Legal document cookie policy:paragraph title"
+msgid "Third parties"
+msgstr "Tredje partier"
+
+#: config/documents/cookie-policy-br.php:124
+#: config/documents/cookie-policy-br.php:133
+#: config/documents/cookie-policy-ca.php:125
+#: config/documents/cookie-policy-eu.php:124
+#: config/documents/cookie-policy-eu.php:133
+#: config/documents/cookie-policy-za.php:123
+#: config/documents/cookie-policy-za.php:132
+msgctxt "Legal document cookie policy:paragraph title"
+msgid "Consent"
+msgstr "Samtykke"
+
+#: config/documents/cookie-policy-br.php:21
+#: config/documents/cookie-policy-ca.php:26
+#: config/documents/cookie-policy-eu.php:21
+#: config/documents/cookie-policy-za.php:21
+msgctxt "Legal document cookie policy:paragraph title"
+msgid "What is a web beacon?"
+msgstr "Hvad er en web beacon?"
+
+#: config/documents/cookie-policy-br.php:17
+#: config/documents/cookie-policy-ca.php:22
+#: config/documents/cookie-policy-eu.php:17
+#: config/documents/cookie-policy-za.php:17
+msgctxt "Legal document cookie policy:paragraph title"
+msgid "What are scripts?"
+msgstr "Hvad er scripts?"
+
+#: config/documents/cookie-policy-br.php:13
+#: config/documents/cookie-policy-ca.php:18
+#: config/documents/cookie-policy-eu.php:13
+#: config/documents/cookie-policy-za.php:13
+msgctxt "Legal document cookie policy:paragraph title"
+msgid "What are cookies?"
+msgstr "Hvad er cookies?"
+
+#: config/documents/cookie-policy-br.php:9
+#: config/documents/cookie-policy-ca.php:13
+#: config/documents/cookie-policy-eu.php:9
+#: config/documents/cookie-policy-za.php:9
+msgctxt "Legal document cookie policy:paragraph title"
+msgid "Introduction"
+msgstr "Introduktion"
+
+#: config/countries.php:83
+msgid "GDPR"
+msgstr "GDPR"
+
+#: config/countries.php:80
+msgid "EU"
+msgstr "EU"
+
+#: config/countries.php:60
+msgid "US"
+msgstr "US"
+
+#: config/documents/documents.php:10 config/questions-wizard.php:119
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-link-widget.php:113
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-link-widget.php:483
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-link-widget.php:549
+#: integrations/plugins/gravity-forms.php:148
+#: integrations/plugins/gravity-forms.php:188 gutenberg/build/index.js:1
+#: gutenberg/src/index.js:298 gutenberg/build/index.js:2202
+msgid "Privacy Statement"
+msgstr "Fortrolighedserklæring"
+
+#: config/general-settings.php:14
+msgid "If enabled, the cookie warning will not show for countries without a cookie law, and will adjust consent management depending on supported privacy laws"
+msgstr "Hvis det er aktiveret, vises cookievarslingen ikke for lande uden cookielov, og den justerer samtykkehåndtering afhængigt af understøttet privatlivslovgivning"
+
+#: config/purpose.php:55
+msgid "other information concerning the child or the parents, combined with an identifier as described above"
+msgstr "andre oplysninger om barnet eller forældrene kombineret med en identifikator som beskrevet ovenfor"
+
+#: config/purpose.php:54
+msgid "an identifier that permits the physical or online contacting of a child"
+msgstr "en ID, der tillader at barnet kontaktes enten fysisk eller online"
+
+#: config/purpose.php:53
+msgid "a Social Security number"
+msgstr "et sygesikringsnummer"
+
+#: config/purpose.php:52
+msgid "a telephone number"
+msgstr "et telefonnummer"
+
+#: config/purpose.php:51
+msgid "an email address from the parent or guardian"
+msgstr "forældre eller værges emailadresse"
+
+#: config/purpose.php:50
+msgid "an email address from the child"
+msgstr "barnets emailadresse"
+
+#: config/purpose.php:49
+msgid "a home or other physical address including street name and name of a city or town"
+msgstr "en adresse, der inkluderer vejnavn, postnummer og by"
+
+#: config/purpose.php:48
+msgid "a first and last name"
+msgstr "et for- og efternavn"
+
+#: config/purpose.php:23
+msgid "Geolocation data"
+msgstr "Geolokationsdata"
+
+#: config/purpose.php:22
+msgid "Internet activity information, including, but not limited to, browsing history, search history, and information regarding a consumer's interaction with an Internet Web site, application, or advertisement"
+msgstr "Internetaktivitetsinformation, herunder, men ikke begrænset til, browserhistorik, søgehistorik og oplysninger om forbrugerens interaktion med et internetwebsted, applikation eller reklame"
+
+#: config/purpose.php:43
+msgid "Biometric information"
+msgstr "Biometrisk information"
+
+#: config/purpose.php:42
+msgid "Commercial information, including records of personal property, products or services purchased, obtained, or considered"
+msgstr "Kommerciel information, inklusive poster over personlig ejendom, produkter eller tjenester, der er købt, opnået eller overvejet"
+
+#: config/purpose.php:41
+msgid "Health insurance information"
+msgstr "Oplysninger om sundhedsforsikring"
+
+#: config/purpose.php:40
+msgid "Medical information"
+msgstr "Medicinsk information"
+
+#: config/purpose.php:39
+msgid "Financial information such as bank account number or credit card number"
+msgstr "Økonomiske oplysninger såsom bankkontonummer og kreditkortnummer"
+
+#: config/purpose.php:38
+msgid "Employment history"
+msgstr "Medarbejderhistorik"
+
+#: config/purpose.php:37
+msgid "Professional or employment-related information"
+msgstr "Professionel eller ansættelsesrelateret information"
+
+#: config/purpose.php:36
+msgid "Education information"
+msgstr "Uddannelsesinformation"
+
+#: config/purpose.php:35
+msgid "Insurance policy number"
+msgstr "Forsikringspolice nummer"
+
+#: config/purpose.php:34
+msgid "State identification card number"
+msgstr "Angiv identifikationskortnummer"
+
+#: config/purpose.php:33
+msgid "Driver's license"
+msgstr "Kørekort"
+
+#: config/purpose.php:32
+msgid "Passport number"
+msgstr "Pasnummer"
+
+#: config/purpose.php:31
+msgid "Physical characteristics or description"
+msgstr "Fysiske egenskaber eller beskrivelse"
+
+#: config/purpose.php:30
+msgid "A signature"
+msgstr "En underskrift"
+
+#: config/purpose.php:29
+msgid "A social security number"
+msgstr "Et sygesikringsnummer"
+
+#: config/purpose.php:20
+msgid "A telephone number"
+msgstr "Et telefonnummer"
+
+#: config/purpose.php:19
+msgid "An email address"
+msgstr "En emailadresse"
+
+#: config/purpose.php:18
+msgid "A home or other physical address, including street name and name of a city or town"
+msgstr "En adresse, der inkluderer vejnavn, postnummer og by"
+
+#: config/purpose.php:17
+msgid "Account name or alias"
+msgstr "Kontonavn eller alias"
+
+#: config/purpose.php:16
+msgid "A first and last name"
+msgstr "Et for- og efternavn"
+
+#: config/purpose.php:10
+msgid "To be able to offer personalized products and services"
+msgstr "At kunne tilbyde personaliserede produkter og tjenester"
+
+#: config/purpose.php:9
+msgid "Compiling and analyzing statistics for website improvement."
+msgstr "Udarbejdelse og analyse af statistikker til forbedring af websteder."
+
+#: config/purpose.php:8
+msgid "To be able to comply with legal obligations"
+msgstr "At være i stand til at overholde juridiske forpligtelser"
+
+#: config/purpose.php:7
+msgid "To support services or products that a customer wants to buy or has purchased"
+msgstr "At understøtte tjenester eller produkter, som en kunde ønsker at købe eller har købt"
+
+#: config/purpose.php:6
+msgid "Newsletters"
+msgstr "Nyhedsbreve"
+
+#: config/purpose.php:5
+msgid "Registering an account"
+msgstr "Registrering af en konto"
+
+#: config/purpose.php:4
+msgid "Payments"
+msgstr "Betalinger"
+
+#: config/purpose.php:3
+msgid "Contact - Through phone, mail, email and/or webforms"
+msgstr "Kontakt - Via telefon, brev, e-mail og/eller webformularer"
+
+#: class-wizard.php:518
+msgid "If this user stops editing, the lock will expire after %s minutes."
+msgstr "Hvis denne bruger holder op med at redigere, udløber låsen efter %s minutter."
+
+#: class-wizard.php:516
+msgid "The wizard is currently being edited by %s"
+msgstr "Guiden redigeres i øjeblikket af %s"
+
+#: class-wizard.php:114
+msgid "Click '%s' to complete the configuration. You can come back to change your configuration at any time."
+msgstr "Klik '%s' for at færdiggøre konfigurationen. Du kan når som helst komme tilbage og ændre din konfiguration."
+
+#: class-field.php:2291
+msgid "Name of the Third Party with whom you share the data"
+msgstr "Navn på den tredjepart, som du deler dataene med"
+
+#: class-field.php:2252
+msgid "Add new %s"
+msgstr "Tilføj ny %s"
+
+#: class-field.php:2238 class-field.php:2348 class-field.php:2419
+#: class-field.php:2557 class-field.php:2767 class-field.php:2948
+#: class-field.php:3004 class-field.php:3058
+msgid "New entry"
+msgstr "Ny indgang"
+
+#: class-field.php:2190
+msgid "%s country"
+msgstr "%s land"
+
+#: class-field.php:2179
+msgid "A Processing Agreement outside Complianz Privacy Suite"
+msgstr "En behandlingsaftale uden for Complianz Privacy Suite"
+
+#: class-field.php:2156
+msgid "Name of the %s with whom you share the data"
+msgstr "Navn på %s, som du deler dataene med"
+
+#: templates/service_settings.php:27
+msgid "Privacy Statement URL"
+msgstr "URL til beskyttelse af personlige oplysninger"
+
+#: class-document.php:1646 class-document.php:1710
+msgid "Your WordPress version does not support the functions needed for this step. You can upgrade to the latest WordPress version, or add the pages manually to a menu."
+msgstr "Din WordPress-version understøtter ikke de funktioner, der er nødvendige for dette trin. Du kan opgradere til den nyeste WordPress-version eller tilføje siderne manuelt til en menu."
+
+#: class-document.php:1098
+msgctxt "Subject in notification email"
+msgid "Your legal documents on %s need to be updated."
+msgstr "Dine juridiske dokumenter på %s skal opdateres."
+
+#: callback-notices.php:122
+msgid "You are using an anonymous window. This will prevent most cookies from being placed. Please run the scan in a normal browser window."
+msgstr "Du bruger et anonymt vindue. Dette forhindrer, at de fleste cookies placeres. Kør scanningen i et normalt browservindue."
+
+#: callback-notices.php:119
+msgid "You are using an ad blocker. This will prevent most cookies from being placed. Please run the scan without an adblocker enabled."
+msgstr "Du bruger en annonceblokker. Dette forhindrer, at de fleste cookies placeres. Kør scanningen uden, at en adblocker er aktiveret."
+
+#: templates/integrations/custom-scripts.php:2
+msgid "The script center should be used to add and block third-party scripts and iFrames before consent is given, or when consent is revoked. For example Hotjar and embedded video’s."
+msgstr "Skriptcentret skal bruges til at tilføje og blokere tredjeparts-scripts og iFrames, før der gives tilladelse, eller når samtykke tilbagekaldes. For eksempel Hotjar og indlejret video."
+
+#: templates/dashboard/tools-footer.php:2
+msgid "System Status"
+msgstr "System status"
+
+#: class-admin.php:865 config/steps.php:21 config/steps.php:98
+msgid "Documents"
+msgstr "Dokumenter"
+
+#: class-admin.php:318
+msgid "Data successfully cleared"
+msgstr "Data renset succesfuldt"
+
+#: callback-notices.php:77
+msgid "The scan found forms on your site, which means answer should probably include \"contact\"."
+msgstr "Scanningen fandt formularer på dit websted, hvilket betyder, at svaret sandsynligvis skal omfatte \"kontakt\"."
+
+#: integrations/plugins/beehive.php:40
+#: integrations/plugins/caos-host-analytics-local.php:80
+#: integrations/plugins/google-analytics-dashboard-for-wp.php:51
+#: integrations/plugins/monsterinsights.php:54
+#: integrations/plugins/woocommerce-google-analytics-integration.php:77
+#: integrations/plugins/woocommerce-google-analytics-pro.php:90
+msgid "You use %s, which means the answer to this question should be Google Analytics."
+msgstr "Du bruger %s, hvilket betyder, at svaret på dette spørgsmål skal være Google Analytics."
+
+#: config/documents/cookie-policy-br.php:134
+#: config/documents/cookie-policy-eu.php:134
+#: config/documents/cookie-policy-za.php:133
+msgctxt "Legal document cookie policy"
+msgid "When you visit our website for the first time, we will show you a pop-up with an explanation about cookies. As soon as you click on \"%s\", you consent to us using the categories of cookies and plug-ins you selected in the pop-up, as described in this Cookie Policy. You can disable the use of cookies via your browser, but please note that our website may no longer work properly."
+msgstr "Når du besøger vores websted for første gang, viser vi dig en pop-up med en forklaring om cookies. Så snart du klikker på \"%s\", accepterer du os at bruge de kategorier af cookies og plug-ins du valgte i pop-up-funktionen, som beskrevet i denne cookiepolitik. Du kan deaktivere brugen af ​​cookies via din browser, men bemærk at vores websted muligvis ikke længere fungerer korrekt."
+
+#: cookiebanner/settings.php:269 cookiebanner/settings.php:280
+#: cookiebanner/settings.php:291
+msgid "Preview"
+msgstr "Forhåndsvisning"
+
+#: DNSMPD/class-DNSMPD-table.php:164 DNSMPD/class-DNSMPD.php:491
+#: DNSMPD/csv.php:57
+msgid "Email"
+msgstr "Email"
+
+#: proof-of-consent/class-cookiestatement-snapshot-table.php:152
+msgid "Download"
+msgstr "Hent"
+
+#: config/questions-wizard.php:473
+msgid "For the Google Tag Manager code, log on. Then, you will immediatly see Container codes. The one next to your website name is the code you will need to fill in here, the Container ID."
+msgstr "Log ind på Google Tag Manager-koden. Derefter vil du straks se containerkoder. Den ved siden af ​​dit webstedsnavn er den kode, du skal udfylde her, Container ID."
+
+#: cookiebanner/settings.php:154
+msgid "Use Custom CSS"
+msgstr "Brug tilpasset CSS"
+
+#: cookiebanner/settings.php:225
+msgid "Depending on your settings and cookies you use, there can be two or three categories. With Tag Manager you can use more, custom categories."
+msgstr "Afhængig af dine indstillinger og de cookies du bruger, kan der være to eller tre kategorier. Med Tag Manager kan du bruge flere tilpassede kategorier"
+
+#: cookiebanner/settings.php:224
+msgid "With categories, you can let users choose which category of cookies they want to accept."
+msgstr "Med kategorier kan du lade brugerne vælge, hvilken kategori af cookies de vil acceptere."
+
+#: class-field.php:2490 class-field.php:2825 config/steps.php:60
+#: cookiebanner/class-cookiebanner.php:834 cookiebanner/settings.php:754
+#: cookiebanner/settings.php:755 cookiebanner/settings.php:756
+msgid "Statistics"
+msgstr "Statistikker"
+
+#: class-field.php:2501 class-field.php:2836
+#: cookiebanner/class-cookiebanner.php:838 cookiebanner/settings.php:791
+#: cookiebanner/settings.php:792 cookiebanner/settings.php:793
+msgid "Marketing"
+msgstr "Marketing"
+
+#: cookiebanner/settings.php:670 cookiebanner/settings.php:671
+#: cookiebanner/settings.php:672
+msgid "Save preferences"
+msgstr "Gem præferencer"
+
+#: cookiebanner/settings.php:178
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-accept-button-widget.php:136
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-deny-button-widget.php:135
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-link-widget.php:130
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-manage-consent-button-widget.php:136
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-view-save-preferences-button-widget.php:131
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-view-save-preferences-button-widget.php:273
+msgid "Center"
+msgstr "Midte"
+
+#: config/general-settings.php:148
+msgid "Duration in days of the A/B testing period"
+msgstr "Varighed i dage for A/B testperioden"
+
+#: config/general-settings.php:45
+msgid "If enabled, the plugin will track which cookie banner has the best conversion rate."
+msgstr "Hvis det er aktiveret, sporer plugin hvilket cookie-banner der har den bedste konverteringsfrekvens."
+
+#: config/general-settings.php:43
+msgid "Enable A/B testing"
+msgstr "Aktiver A/B test"
+
+#: config/class-config.php:286 config/class-config.php:292
+msgid "If you want to run a/b testing to track which banner gets the highest acceptance ratio, %sget premium%s."
+msgstr "Hvis du vil køre a/b test for at spore, hvilket banner der får det højeste acceptforhold, %sanskaf premium%s."
+
+#: class-field.php:3130 cookiebanner/class-cookiebanner-table.php:208
+msgid "Edit"
+msgstr "Rediger"
+
+#: class-field.php:2176
+msgid "No agreement selected"
+msgstr "Ingen aftale valgt"
+
+#: class-field.php:2167
+msgid "Select the Processing Agreement you made with this %s, or %screate one%s"
+msgstr "Vælg den behandlingsaftale, du har lavet med denne %s, eller %sopret en%s"
+
+#: config/class-config.php:596
+msgid "Matomo is being used, but is not configured in Complianz."
+msgstr "Matomo bruges, men er ikke konfigureret i Complianz."
+
+#: config/class-config.php:587
+msgid "Google Tag Manager is being used, but is not configured in Complianz."
+msgstr "Google Tag Manager bruges, men er ikke konfigureret i Complianz."
+
+#: config/questions-wizard.php:504 config/questions-wizard.php:535
+msgid "Enter the URL of Matomo"
+msgstr "Tilføj URL'en til Matomo"
+
+#: config/questions-wizard.php:520
+msgid "Enter your Matomo site ID"
+msgstr "Tilføj dit Matomo sted ID"
+
+#: config/general-settings.php:419
+msgid "Custom document CSS"
+msgstr "Tilrettet dokument CSS"
+
+#: config/questions-wizard.php:399 integrations/integrations-menu.php:43
+msgid "Script Center"
+msgstr "Script Center"
+
+#: config/questions-wizard.php:656
+msgid "Select the types of third-party services you use on your site."
+msgstr "Vælg de typer tredjeparts tjenester, du bruger på dit websted."
+
+#: config/questions-wizard.php:644
+msgid "e.g. services like Google Fonts, Maps or reCAPTCHA usually place cookies."
+msgstr "tjenester som f.eks. Google Fonts, Maps eller recaptcha placerer normalt cookies"
+
+#: config/questions-wizard.php:643
+msgid "Does your website use third-party services?"
+msgstr "Bruger dit websted tjenester fra tredjepart?"
+
+#: cookiebanner/edit.php:75
+msgid "Custom CSS"
+msgstr "Tilrettet CSS"
+
+#: templates/admin_wrap.php:10
+msgid "Documentation"
+msgstr "Dokumentation"
+
+#: callback-notices.php:90
+msgid "The scan found third-party services on your website: %s, this means the answer should be yes."
+msgstr "Scanningen fandt tredjeparts tjenester på dit websted: %s, dette betyder, at svaret skal være ja."
+
+#: class-wizard.php:723
+msgid "View document"
+msgstr "Se dokument"
+
+#: class-field.php:2436 class-field.php:2785 class-field.php:3016
+#: cookiebanner/class-cookiebanner-table.php:240
+#: DNSMPD/class-DNSMPD-table.php:163 DNSMPD/class-DNSMPD.php:485
+#: DNSMPD/class-DNSMPD.php:487 DNSMPD/csv.php:56
+#: templates/cookiepolicy/cookies_row.php:2 templates/cookie_settings.php:4
+#: templates/service_settings.php:3
+msgid "Name"
+msgstr "Navn"
+
+#: class-field.php:940
+msgid "No options found"
+msgstr "Ingen muligheder fundet"
+
+#: config/questions-wizard.php:308
+msgid "Yes, with Matomo"
+msgstr "Ja, med Matomo"
+
+#: cookiebanner/settings.php:126
+msgid "Disable cookie banner"
+msgstr "Deaktivere cookie-banner"
+
+#: class-admin.php:858
+msgid "Your progress"
+msgstr "Din fremgang"
+
+#: class-admin.php:409 class-admin.php:784 config/class-config.php:701
+msgid "Upgrade to premium"
+msgstr "Opgrader til premium"
+
+#: templates/dashboard/tools.php:31
+msgid "Erase personal data"
+msgstr "Slet personlige data"
+
+#: templates/dashboard/tools.php:22
+msgid "Export personal data"
+msgstr "Eksporter personlig data"
+
+#: templates/dashboard/tools-conditional.php:17
+msgid "Create Processing Agreements"
+msgstr "Opret behandlingsaftale"
+
+#: class-admin.php:873
+msgid "Tools"
+msgstr "Værktøj"
+
+#: config/class-config.php:540
+msgid "Please review step %s of the wizard for changes in cookies."
+msgstr "Gennemgå trin %s i guiden for ændringer i cookies."
+
+#: cookiebanner/cookiebanner.php:364
+msgid "Please complete the wizard to check if you need a cookie banner."
+msgstr "Udfyld venligst guiden for at kontrollere, om du har brug for et cookie-banner."
+
+#: class-admin.php:811
+msgid "Your license needs to be %sactivated%s to unlock the wizard"
+msgstr "Din licens skal %saktiveres%s for at låse guiden op"
+
+#. Author URI of the plugin
+msgid "https://www.complianz.io"
+msgstr "https://www.complianz.io"
+
+#: config/steps.php:28
+msgctxt "intro company info"
+msgid "We need some information to be able to generate your documents."
+msgstr "Vi har brug for nogle oplysninger for at kunne generere dine dokumenter."
+
+#: class-admin.php:967 config/steps.php:8 cookiebanner/edit.php:39
+#: cookiebanner/settings.php:338 functions.php:624
+msgid "General"
+msgstr "Generelt"
+
+#: config/questions-wizard.php:865
+msgid "Add the used cookies here"
+msgstr "Tilføj brugte cookies her"
+
+#: config/questions-wizard.php:776
+msgid "Does your website use cookies for advertising?"
+msgstr "Anvender dit websted cookies til reklamering"
+
+#: config/questions-wizard.php:350
+msgid "Acquiring IP-addresses is blocked"
+msgstr "Tilegnelse af IP-adresser er blokeret"
+
+#: config/questions-wizard.php:329 config/questions-wizard.php:349
+msgid "Google is not allowed to use this data for other Google services"
+msgstr "Google må ikke bruge disse data til andre Google-tjenester"
+
+#: config/questions-wizard.php:328 config/questions-wizard.php:348
+msgid "I have accepted the Google data processing amendment"
+msgstr "Jeg har accepteret ændringen af ​​Google-databehandlingen"
+
+#: config/questions-wizard.php:307
+msgid "Yes, with Google Analytics"
+msgstr "Ja, med Google Analytics"
+
+#: config/questions-wizard.php:303
+msgid "Do you compile statistics of this website?"
+msgstr "Udarbejder du statistikker over dette websted?"
+
+#: config/questions-wizard.php:204
+msgid "What is the telephone number your visitors can use to contact you about privacy issues?"
+msgstr "Hvad er det telefonnummer, dine besøgende kan bruge til at kontakte dig om privatlivets fred?"
+
+#: config/questions-wizard.php:192
+msgid "What is the email address your visitors can use to contact you about privacy issues?"
+msgstr "Hvad er den e-mail-adresse, dine besøgende kan bruge til at kontakte dig om privatlivets fred?"
+
+#: config/questions-wizard.php:182
+msgid "This setting is automatically selected based on your WordPress language setting."
+msgstr "Denne indstilling vælges automatisk baseret på din WordPress sprogindstilling."
+
+#: config/questions-wizard.php:180
+msgid "What is your country?"
+msgstr "Hvad er dit land?"
+
+#: config/questions-wizard.php:168
+msgid "What is your address?"
+msgstr "Hvad er din adresse?"
+
+#: config/documents/documents.php:6 config/questions-wizard.php:106
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-link-widget.php:112
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-link-widget.php:481
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-link-widget.php:546
+#: templates/dashboard/documents-conditional.php:10 gutenberg/build/index.js:1
+#: gutenberg/src/index.js:299 gutenberg/build/index.js:2203
+msgid "Cookie Policy"
+msgstr "Cookiepolitik"
+
+#: config/documents/cookie-policy-br.php:200
+#: config/documents/cookie-policy-ca.php:179
+#: config/documents/cookie-policy-eu.php:190
+#: config/documents/cookie-policy-za.php:187
+msgctxt "Legal document cookie policy"
+msgid "For questions and/or comments about our Cookie Policy and this statement, please contact us by using the following contact details:"
+msgstr "Kontakt os venligst ved hjælp af følgende kontaktoplysninger vedrørende spørgsmål og / eller kommentarer om vores cookiepolitik og denne erklæring:"
+
+#: config/documents/cookie-policy-br.php:160
+#: config/documents/cookie-policy-ca.php:157
+#: config/documents/cookie-policy-eu.php:162
+#: config/documents/cookie-policy-uk.php:159
+#: config/documents/cookie-policy-us.php:192
+#: config/documents/cookie-policy-za.php:160
+msgctxt "Legal document cookie policy"
+msgid "Please note that our website may not work properly if all cookies are disabled. If you do delete the cookies in your browser, they will be placed again after your consent when you visit our websites again."
+msgstr "Bemærk, at vores websted muligvis ikke fungerer korrekt, hvis alle cookies er deaktiverede. Hvis du sletter cookies i din browser, placeres de igen efter dit samtykke, når du atter besøger vores websteder."
+
+#: config/documents/cookie-policy-ca.php:153
+msgctxt "Legal document cookie policy"
+msgid "You can use your internet browser to automatically or manually delete cookies. You can also specify that certain cookies may not be placed. Another option is to change the settings of your internet browser so that you receive a message each time a cookie is placed. For more information about these options, please refer to the instructions in the Help section of your browser. Or you can indicate your preferences on the following page: https://youradchoices.ca "
+msgstr "Du kan bruge din internetbrowser til automatisk eller manuelt at slette cookies. Du kan også specificere, at visse cookies muligvis ikke placeres. En anden mulighed er at ændre indstillingerne for din internetbrowser, så du modtager en besked, hver gang en cookie placeres. For mere information om disse indstillinger, se instruktionerne i Hjælp-afsnittet i din browser. Eller du kan angive dine præferencer på følgende side: https://youradchoices.ca"
+
+#: config/documents/cookie-policy-eu.php:185
+msgctxt "Legal document cookie policy"
+msgid "To exercise these rights, please contact us. Please refer to the contact details at the bottom of this Cookie Policy. If you have a complaint about how we handle your data, we would like to hear from you, but you also have the right to submit a complaint to the supervisory authority (the Data Protection Authority)."
+msgstr "Kontakt os for at udøve disse rettigheder. Se kontaktoplysningerne nederst i denne cookiepolitik. Hvis du har en klage over, hvordan vi håndterer dine data, vil vi gerne høre fra dig, men du har også ret til at indsende en klage til tilsynsmyndigheden (Datatilsynet)."
+
+#: config/documents/cookie-policy-eu.php:180
+#: config/documents/cookie-policy-za.php:177
+msgctxt "Legal document cookie policy"
+msgid "Right to object: you may object to the processing of your data. We comply with this, unless there are justified grounds for processing."
+msgstr "Ret til indsigelse: du kan gøre indsigelse mod behandlingen af ​​dine data. Vi efterkommer dette, medmindre der er berettigede grunde til behandling."
+
+#: config/documents/cookie-policy-eu.php:179
+msgctxt "Legal document cookie policy"
+msgid "Right to transfer your data: you have the right to request all your personal data from the controller and transfer it in its entirety to another controller."
+msgstr "Ret til at overføre dine data: Du har ret til at anmode om alle dine personlige data fra den Behandlingsansvarlige og overføre dem i sin helhed til en anden Behandlingsansvarlig."
+
+#: config/documents/cookie-policy-eu.php:178
+#: config/documents/cookie-policy-za.php:176
+msgctxt "Legal document cookie policy"
+msgid "If you give us your consent to process your data, you have the right to revoke that consent and to have your personal data deleted."
+msgstr "Hvis du giver os dit samtykke til at behandle dine data, har du ret til at tilbagekalde dette samtykke og til at slette dine personlige data."
+
+#: config/dynamic-fields.php:18
+msgid "Purpose:"
+msgstr "Formål:"
+
+#: config/documents/cookie-policy-br.php:55
+#: config/documents/cookie-policy-ca.php:54
+#: config/documents/cookie-policy-eu.php:55
+#: config/documents/cookie-policy-za.php:54
+msgctxt "Legal document cookie policy"
+msgid "On this website we use advertising cookies, enabling us to personalize the advertisements for you, and we (and third parties) gain insights into the campaign results. This happens based on a profile we create based on your click and surfing on and outside %s. With these cookies you, as website visitor are linked to a unique ID, so you do not see the same ad more than once for example."
+msgstr "På dette websted bruger vi annonceringscookies, så vi kan tilpasse annoncerne til dig, og vi (og tredjeparter) får indsigt i annonceringsresultaterne. Dette sker baseret på en profil, vi opretter, baseret på dit klik og surfer til og uden for %s. Med disse cookies er du som besøgende på webstedet knyttet til et unikt ID, så du ikke ser den samme annonce mere end én gang for eksempel."
+
+#: config/documents/cookie-policy-br.php:32
+#: config/documents/cookie-policy-eu.php:32
+#: config/documents/cookie-policy-za.php:32
+msgctxt "Legal document cookie policy"
+msgid "Some cookies ensure that certain parts of the website work properly and that your user preferences remain known. By placing functional cookies, we make it easier for you to visit our website. This way, you do not need to repeatedly enter the same information when visiting our website and, for example, the items remain in your shopping cart until you have paid. We may place these cookies without your consent."
+msgstr "Nogle cookies sikrer, at visse dele af webstedet fungerer korrekt, og at dine brugerpræferencer forbliver kendte. Ved at placere funktionelle cookies gør vi det lettere for dig at besøge vores websted. På denne måde behøver du ikke gentagne gange at indtaste de samme oplysninger, når du besøger vores websted, og for eksempel forbliver varerne i din indkøbskurv, indtil du har betalt. Vi kan placere disse cookies uden dit samtykke."
+
+#: config/documents/cookie-policy-ca.php:32
+msgctxt "Legal document cookie policy"
+msgid "We have made agreements about the use of cookies with other companies that place cookies. However, we cannot guarantee that these third parties handle your personal data in a reliable or secure manner. Parties such as Google are to be considered as independent data controllers. We recommend that you read the privacy statements of these companies."
+msgstr "Vi har indgået aftaler om brugen af ​​cookies med andre virksomheder, der placerer cookies. Vi kan dog ikke garantere, at disse tredjeparter håndterer dine personlige data på en pålidelig eller sikker måde. Parter som Google skal betragtes som uafhængige Behandlinsansvarlige. Vi anbefaler, at du læser disse virksomheds fortrolighedserklæringer."
+
+#: config/documents/cookie-policy-br.php:125
+#: config/documents/cookie-policy-eu.php:125
+#: config/documents/cookie-policy-za.php:124
+msgctxt "Legal document cookie policy"
+msgid "When you visit our website for the first time, we will show you a pop-up with an explanation about cookies. As soon as you click on \"%s\", you consent to us using all cookies and plug-ins as described in the pop-up and this Cookie Policy. You can disable the use of cookies via your browser, but please note that our website may no longer work properly."
+msgstr "Når du besøger vores websted for første gang, viser vi dig en pop-up med en forklaring om cookies. Så snart du klikker på \"%s\", accepterer du, at vi bruger alle cookies og plug-ins som beskrevet i pop-up filen og denne cookiepolitik. Du kan deaktivere brugen af ​​cookies via din browser, men bemærk at vores websted muligvis ikke længere fungerer korrekt."
+
+#: config/steps.php:50
+msgid "Consent"
+msgstr "Samtykke"
+
+#: config/documents/cookie-policy-br.php:22
+#: config/documents/cookie-policy-ca.php:27
+#: config/documents/cookie-policy-eu.php:22
+#: config/documents/cookie-policy-za.php:22
+msgctxt "Legal document cookie policy"
+msgid "A web beacon (or a pixel tag) is a small, invisible piece of text or image on a website that is used to monitor traffic on a website. In order to do this, various data about you is stored using web beacons."
+msgstr "Et web beacon (eller pixel tag) er en lille stump tekst eller billede på et websted, der bruges til at overåge trafikken på webstedet. For at gøre det, bliver der gemt forskellige data om dig i web beacons."
+
+#: config/documents/cookie-policy-br.php:14
+#: config/documents/cookie-policy-ca.php:19
+#: config/documents/cookie-policy-eu.php:14
+#: config/documents/cookie-policy-za.php:14
+msgctxt "Legal document cookie policy"
+msgid "A cookie is a small simple file that is sent along with pages of this website and stored by your browser on the hard drive of your computer or another device. The information stored therein may be returned to our servers or to the servers of the relevant third parties during a subsequent visit."
+msgstr "En cookie er en lille tekst fil, der sendes sammen med sider på webstedet, og som er gemt i din browser på din computer eller enhed. Informationen i cookien kan blive sendt til vores eller relevante tredjeparts servere, når du besøger siden igen."
+
+#: config/documents/cookie-policy-br.php:10
+#: config/documents/cookie-policy-ca.php:14
+#: config/documents/cookie-policy-eu.php:10
+#: config/documents/cookie-policy-za.php:10
+msgctxt "Legal document cookie policy"
+msgid "Our website, %s (hereinafter: \"the website\") uses cookies and other related technologies (for convenience all technologies are referred to as \"cookies\"). Cookies are also placed by third parties we have engaged. In the document below we inform you about the use of cookies on our website."
+msgstr "Vores websted, %s (i det følgende: \"webstedet\") bruger cookies og andre relaterede teknologier (for nemheds skyld benævnes alle teknologier \"cookies\"). Cookies placeres også af tredjepart, vi har engageret. I dokumentet herunder informerer vi dig om brugen af ​​cookies på vores websted."
+
+#: config/countries.php:400
+msgid "Zimbabwe"
+msgstr "Zimbabwe"
+
+#: config/countries.php:399
+msgid "Zambia"
+msgstr "Zambia"
+
+#: config/countries.php:398
+msgid "Yemen"
+msgstr "Yemen"
+
+#: config/countries.php:397
+msgid "Western Sahara"
+msgstr "Vestsahara"
+
+#: config/countries.php:396
+msgid "Wallis And Futuna"
+msgstr "Wallis og Futuna"
+
+#: config/countries.php:395
+msgid "Virgin Islands, U.S."
+msgstr "Jomfruøerne, US"
+
+#: config/countries.php:394
+msgid "Virgin Islands, British"
+msgstr "Jomfruøerne, Britiske"
+
+#: config/countries.php:393
+msgid "Viet Nam"
+msgstr "Vietnam"
+
+#: config/countries.php:392
+msgid "Venezuela"
+msgstr "Venezuela"
+
+#: config/countries.php:391
+msgid "Vanuatu"
+msgstr "Vanuatu"
+
+#: config/countries.php:390
+msgid "Uzbekistan"
+msgstr "Usbekistan"
+
+#: config/countries.php:389
+msgid "Uruguay"
+msgstr "Uruguay"
+
+#: config/countries.php:388
+msgid "United States Outlying Islands"
+msgstr "De Forenede Stater ydre øer"
+
+#: config/countries.php:61 config/countries.php:387
+msgid "United States"
+msgstr "Forenede Stater"
+
+#: config/countries.php:91 config/countries.php:386
+msgid "United Kingdom"
+msgstr "Det Forenede Kongerige"
+
+#: config/countries.php:385
+msgid "United Arab Emirates"
+msgstr "Forenede Arabiske Emirater"
+
+#: config/countries.php:384
+msgid "Ukraine"
+msgstr "Ukraine"
+
+#: config/countries.php:383
+msgid "Uganda"
+msgstr "Uganda"
+
+#: config/countries.php:382
+msgid "Tuvalu"
+msgstr "Tuvalu"
+
+#: config/countries.php:381
+msgid "Turks And Caicos Islands"
+msgstr "Turks- og Caicosøerne"
+
+#: config/countries.php:380
+msgid "Turkmenistan"
+msgstr "Turkmenistan"
+
+#: config/countries.php:379
+msgid "Turkey"
+msgstr "Tyrkiet"
+
+#: config/countries.php:378
+msgid "Tunisia"
+msgstr "Tunesien"
+
+#: config/countries.php:377
+msgid "Trinidad And Tobago"
+msgstr "Trinidad og Tobago"
+
+#: config/countries.php:376
+msgid "Tonga"
+msgstr "Tonga"
+
+#: config/countries.php:375
+msgid "Tokelau"
+msgstr "Tokelau"
+
+#: config/countries.php:374
+msgid "Togo"
+msgstr "Togo"
+
+#: config/countries.php:373
+msgid "Timor-Leste"
+msgstr "Østtimor"
+
+#: config/countries.php:372
+msgid "Thailand"
+msgstr "Thailand"
+
+#: config/countries.php:371
+msgid "Tanzania"
+msgstr "Tanzania"
+
+#: config/countries.php:370
+msgid "Tajikistan"
+msgstr "Tadsjikistan"
+
+#: config/countries.php:369
+msgid "Taiwan"
+msgstr "Taiwan"
+
+#: config/countries.php:368
+msgid "Syrian Arab Republic"
+msgstr "Den syriske arabiske republik"
+
+#: config/countries.php:367
+msgid "Switzerland"
+msgstr "Schweiz"
+
+#: config/countries.php:366
+msgid "Sweden"
+msgstr "Sverige"
+
+#: config/countries.php:365
+msgid "Swaziland"
+msgstr "Swaziland"
+
+#: config/countries.php:364
+msgid "Svalbard And Jan Mayen"
+msgstr "Svalbard og Jan Mayen"
+
+#: config/countries.php:363
+msgid "Suriname"
+msgstr "Surinam"
+
+#: config/countries.php:362
+msgid "Sudan"
+msgstr "Sudan"
+
+#: config/countries.php:361
+msgid "Sri Lanka"
+msgstr "Sri Lanka"
+
+#: config/countries.php:360
+msgid "Spain"
+msgstr "Spanien"
+
+#: config/countries.php:359
+msgid "South Georgia And Sandwich Isl."
+msgstr "South Georgia og Sandwich Isl."
+
+#: config/countries.php:111 config/countries.php:358
+msgid "South Africa"
+msgstr "Sydafrika"
+
+#: config/countries.php:357
+msgid "Somalia"
+msgstr "Somalia"
+
+#: config/countries.php:356
+msgid "Solomon Islands"
+msgstr "Salomonøerne"
+
+#: config/countries.php:355
+msgid "Slovenia"
+msgstr "Slovenien"
+
+#: config/countries.php:354
+msgid "Slovakia"
+msgstr "Slovakiet"
+
+#: config/countries.php:353
+msgid "Singapore"
+msgstr "Singapore"
+
+#: config/countries.php:352
+msgid "Sierra Leone"
+msgstr "Sierra Leone"
+
+#: config/countries.php:351
+msgid "Seychelles"
+msgstr "Seychellerne"
+
+#: config/countries.php:350
+msgid "Serbia"
+msgstr "Serbien"
+
+#: config/countries.php:349
+msgid "Senegal"
+msgstr "Senegal"
+
+#: config/countries.php:348
+msgid "Saudi Arabia"
+msgstr "Saudi Arabien"
+
+#: config/countries.php:347
+msgid "Sao Tome And Principe"
+msgstr "Sao Tomé og Principe"
+
+#: config/countries.php:346
+msgid "San Marino"
+msgstr "San Marino"
+
+#: config/countries.php:345
+msgid "Samoa"
+msgstr "Samoa"
+
+#: config/countries.php:344
+msgid "Saint Vincent And Grenadines"
+msgstr "Sankt Vincent og Grenadinerne"
+
+#: config/countries.php:343
+msgid "Saint Pierre And Miquelon"
+msgstr "Sankt Pierre og Miquelon"
+
+#: config/countries.php:342
+msgid "Saint Martin"
+msgstr "Sankt Martin"
+
+#: config/countries.php:341
+msgid "Saint Lucia"
+msgstr "Sankt Lucia"
+
+#: config/countries.php:340
+msgid "Saint Kitts And Nevis"
+msgstr "Sankt Kitts og Nevis"
+
+#: config/countries.php:339
+msgid "Saint Helena"
+msgstr "Sankt Helena"
+
+#: config/countries.php:338
+msgid "Saint Barthelemy"
+msgstr "Sankt Barthélemy"
+
+#: config/countries.php:337
+msgid "Rwanda"
+msgstr "Rwanda"
+
+#: config/countries.php:336
+msgid "Russian Federation"
+msgstr "Den Russiske Føderation"
+
+#: config/countries.php:335
+msgid "Romania"
+msgstr "Rumænien"
+
+#: config/countries.php:334
+msgid "Reunion"
+msgstr "Genforening"
+
+#: config/countries.php:333
+msgid "Qatar"
+msgstr "Qatar"
+
+#: config/countries.php:332
+msgid "Puerto Rico"
+msgstr "Puerto Rico"
+
+#: config/countries.php:331
+msgid "Portugal"
+msgstr "Portugal"
+
+#: config/countries.php:330
+msgid "Poland"
+msgstr "Polen"
+
+#: config/countries.php:329
+msgid "Pitcairn"
+msgstr "Pitcairn"
+
+#: config/countries.php:328
+msgid "Philippines"
+msgstr "Filippinerne"
+
+#: config/countries.php:327
+msgid "Peru"
+msgstr "Peru"
+
+#: config/countries.php:326
+msgid "Paraguay"
+msgstr "Paraguay"
+
+#: config/countries.php:325
+msgid "Papua New Guinea"
+msgstr "Papua Ny Guinea"
+
+#: config/countries.php:324
+msgid "Panama"
+msgstr "Panama"
+
+#: config/countries.php:323
+msgid "Palestinian Territory, Occupied"
+msgstr "Palæstinsk territorium, besat"
+
+#: config/countries.php:322
+msgid "Palau"
+msgstr "Palau"
+
+#: config/countries.php:321
+msgid "Pakistan"
+msgstr "Pakistan"
+
+#: config/countries.php:320
+msgid "Oman"
+msgstr "Oman"
+
+#: config/countries.php:319
+msgid "Norway"
+msgstr "Norge"
+
+#: config/countries.php:318
+msgid "Northern Mariana Islands"
+msgstr "Nordmarianerne"
+
+#: config/countries.php:317
+msgid "Norfolk Island"
+msgstr "Norfolk Island"
+
+#: config/countries.php:316
+msgid "Niue"
+msgstr "Niue"
+
+#: config/countries.php:315
+msgid "Nigeria"
+msgstr "Nigeria"
+
+#: config/countries.php:314
+msgid "Niger"
+msgstr "Niger"
+
+#: config/countries.php:313
+msgid "Nicaragua"
+msgstr "Nicaragua"
+
+#: config/countries.php:312
+msgid "New Zealand"
+msgstr "New Zealand"
+
+#: config/countries.php:311
+msgid "New Caledonia"
+msgstr "Ny Kaledonien"
+
+#: config/countries.php:310
+msgid "Netherlands Antilles"
+msgstr "De Hollanske Antiller"
+
+#: config/countries.php:309
+msgid "Netherlands"
+msgstr "Holland"
+
+#: config/countries.php:308
+msgid "Nepal"
+msgstr "Nepal"
+
+#: config/countries.php:307
+msgid "Nauru"
+msgstr "Nauru"
+
+#: config/countries.php:306
+msgid "Namibia"
+msgstr "Namibia"
+
+#: config/countries.php:305
+msgid "Myanmar"
+msgstr "Myanmar"
+
+#: config/countries.php:304
+msgid "Mozambique"
+msgstr "Mozambique"
+
+#: config/countries.php:303
+msgid "Morocco"
+msgstr "Marokko"
+
+#: config/countries.php:302
+msgid "Montserrat"
+msgstr "Montserrat"
+
+#: config/countries.php:301
+msgid "Montenegro"
+msgstr "Montenegro"
+
+#: config/countries.php:300
+msgid "Mongolia"
+msgstr "Mongoliet"
+
+#: config/countries.php:299
+msgid "Monaco"
+msgstr "Monaco"
+
+#: config/countries.php:298
+msgid "Moldova"
+msgstr "Moldova"
+
+#: config/countries.php:297
+msgid "Micronesia, Federated States Of"
+msgstr "Mikronesien"
+
+#: config/countries.php:296
+msgid "Mexico"
+msgstr "Mexico"
+
+#: config/countries.php:295
+msgid "Mayotte"
+msgstr "Mayotte"
+
+#: config/countries.php:294
+msgid "Mauritius"
+msgstr "Mauritius"
+
+#: config/countries.php:293
+msgid "Mauritania"
+msgstr "Mauritanien"
+
+#: config/countries.php:292
+msgid "Martinique"
+msgstr "Martinique"
+
+#: config/countries.php:291
+msgid "Marshall Islands"
+msgstr "Marshalløerne"
+
+#: config/countries.php:290
+msgid "Malta"
+msgstr "Malta"
+
+#: config/countries.php:289
+msgid "Mali"
+msgstr "Mali"
+
+#: config/countries.php:288
+msgid "Maldives"
+msgstr "Maldiverne"
+
+#: config/countries.php:287
+msgid "Malaysia"
+msgstr "Malaysia"
+
+#: config/countries.php:286
+msgid "Malawi"
+msgstr "Malawi"
+
+#: config/countries.php:285
+msgid "Madagascar"
+msgstr "Madagaskar"
+
+#: config/countries.php:283
+msgid "Macao"
+msgstr "Macao"
+
+#: config/countries.php:282
+msgid "Luxembourg"
+msgstr "Luxembourg"
+
+#: config/countries.php:281
+msgid "Lithuania"
+msgstr "Litauen"
+
+#: config/countries.php:280
+msgid "Liechtenstein"
+msgstr "Liechtenstein"
+
+#: config/countries.php:279
+msgid "Libyan Arab Jamahiriya"
+msgstr "Libyan Arab Jamahiriya"
+
+#: config/countries.php:278
+msgid "Liberia"
+msgstr "Liberia"
+
+#: config/countries.php:277
+msgid "Lesotho"
+msgstr "Lesotho"
+
+#: config/countries.php:276
+msgid "Lebanon"
+msgstr "Libanon"
+
+#: config/countries.php:275
+msgid "Latvia"
+msgstr "Letland"
+
+#: config/countries.php:274
+msgid "Lao People's Democratic Republic"
+msgstr "Laos - folks demokratiske republik"
+
+#: config/countries.php:273
+msgid "Kyrgyzstan"
+msgstr "Kirgisistan"
+
+#: config/countries.php:272
+msgid "Kuwait"
+msgstr "Kuwait"
+
+#: config/countries.php:271
+msgid "Korea"
+msgstr "Korea"
+
+#: config/countries.php:270
+msgid "Kiribati"
+msgstr "Kiribati"
+
+#: config/countries.php:269
+msgid "Kenya"
+msgstr "Kenya"
+
+#: config/countries.php:268
+msgid "Kazakhstan"
+msgstr "Kasakhstan"
+
+#: config/countries.php:267
+msgid "Jordan"
+msgstr "Jordan"
+
+#: config/countries.php:266
+msgid "Jersey"
+msgstr "Jersey"
+
+#: config/countries.php:265
+msgid "Japan"
+msgstr "Japan"
+
+#: config/countries.php:264
+msgid "Jamaica"
+msgstr "Jamaica"
+
+#: config/countries.php:263
+msgid "Italy"
+msgstr "Italien"
+
+#: config/countries.php:262
+msgid "Israel"
+msgstr "Israel"
+
+#: config/countries.php:261
+msgid "Isle Of Man"
+msgstr "Isle Of Man"
+
+#: config/countries.php:260
+msgid "Ireland"
+msgstr "Irland"
+
+#: config/countries.php:259
+msgid "Iraq"
+msgstr "Irak"
+
+#: config/countries.php:258
+msgid "Iran, Islamic Republic Of"
+msgstr "Iran, Islamiske Republik"
+
+#: config/countries.php:257
+msgid "Indonesia"
+msgstr "Indonesien"
+
+#: config/countries.php:256
+msgid "India"
+msgstr "Indien"
+
+#: config/countries.php:255
+msgid "Iceland"
+msgstr "Island"
+
+#: config/countries.php:254
+msgid "Hungary"
+msgstr "Ungarn"
+
+#: config/countries.php:253
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+#: config/countries.php:252
+msgid "Honduras"
+msgstr "Honduras"
+
+#: config/countries.php:251
+msgid "Holy See (Vatican City State)"
+msgstr "Holy See (Vatikanstaten)"
+
+#: config/countries.php:250
+msgid "Heard Island & Mcdonald Islands"
+msgstr "Heard Island & Mcdonald Islands"
+
+#: config/countries.php:249
+msgid "Haiti"
+msgstr "Haiti"
+
+#: config/countries.php:248
+msgid "Guyana"
+msgstr "Guyana"
+
+#: config/countries.php:247
+msgid "Guinea-Bissau"
+msgstr "Guinea-Bissau"
+
+#: config/countries.php:246
+msgid "Guinea"
+msgstr "Guinea"
+
+#: config/countries.php:245
+msgid "Guernsey"
+msgstr "Guernsey"
+
+#: config/countries.php:244
+msgid "Guatemala"
+msgstr "Guatemala"
+
+#: config/countries.php:243
+msgid "Guam"
+msgstr "Guam"
+
+#: config/countries.php:242
+msgid "Guadeloupe"
+msgstr "Guadeloupe"
+
+#: config/countries.php:241
+msgid "Grenada"
+msgstr "Grenada"
+
+#: config/countries.php:240
+msgid "Greenland"
+msgstr "Grønland"
+
+#: config/countries.php:239
+msgid "Greece"
+msgstr "Grækenland"
+
+#: config/countries.php:238
+msgid "Gibraltar"
+msgstr "Gibraltar"
+
+#: config/countries.php:237
+msgid "Ghana"
+msgstr "Ghana"
+
+#: config/countries.php:236
+msgid "Germany"
+msgstr "Tyskland"
+
+#: config/countries.php:235
+msgid "Georgia"
+msgstr "Georgien"
+
+#: config/countries.php:234
+msgid "Gambia"
+msgstr "Gambia"
+
+#: config/countries.php:233
+msgid "Gabon"
+msgstr "Gabon"
+
+#: config/countries.php:232
+msgid "French Southern Territories"
+msgstr "Franske sydlige territorier"
+
+#: config/countries.php:231
+msgid "French Polynesia"
+msgstr "Fransk Polynesien"
+
+#: config/countries.php:230
+msgid "French Guiana"
+msgstr "Fransk Guyana"
+
+#: config/countries.php:229
+msgid "France"
+msgstr "Frankrig"
+
+#: config/countries.php:228
+msgid "Finland"
+msgstr "Finland"
+
+#: config/countries.php:227
+msgid "Fiji"
+msgstr "Fiji"
+
+#: config/countries.php:226
+msgid "Faroe Islands"
+msgstr "Færøerne"
+
+#: config/countries.php:225
+msgid "Falkland Islands (Malvinas)"
+msgstr "Falklandsøerne (Malvinas)"
+
+#: config/countries.php:224
+msgid "Ethiopia"
+msgstr "Etiopien"
+
+#: config/countries.php:223
+msgid "Estonia"
+msgstr "Estland"
+
+#: config/countries.php:222
+msgid "Eritrea"
+msgstr "Eritrea"
+
+#: config/countries.php:221
+msgid "Equatorial Guinea"
+msgstr "Ækvatorial Guinea"
+
+#: config/countries.php:220
+msgid "El Salvador"
+msgstr "El Salvador"
+
+#: config/countries.php:219
+msgid "Egypt"
+msgstr "Egypten"
+
+#: config/countries.php:218
+msgid "Ecuador"
+msgstr "Ecuador"
+
+#: config/countries.php:217
+msgid "Dominican Republic"
+msgstr "Dominikanske republik"
+
+#: config/countries.php:216
+msgid "Dominica"
+msgstr "Dominica"
+
+#: config/countries.php:215
+msgid "Djibouti"
+msgstr "Djibouti"
+
+#: config/countries.php:214
+msgid "Denmark"
+msgstr "Danmark"
+
+#: config/countries.php:213
+msgid "Czech Republic"
+msgstr "Tjekkiet"
+
+#: config/countries.php:212
+msgid "Cyprus"
+msgstr "Cypern"
+
+#: config/countries.php:211
+msgid "Cuba"
+msgstr "Cuba"
+
+#: config/countries.php:210
+msgid "Croatia"
+msgstr "Kroatien"
+
+#: config/countries.php:209
+msgid "Cote D'Ivoire"
+msgstr "Elfenbenskysten"
+
+#: config/countries.php:208
+msgid "Costa Rica"
+msgstr "Costa Rica"
+
+#: config/countries.php:207
+msgid "Cook Islands"
+msgstr "Cook øerne"
+
+#: config/countries.php:206
+msgid "Congo, Democratic Republic"
+msgstr "Congo, Demokratisk Republik"
+
+#: config/countries.php:205
+msgid "Congo"
+msgstr "Congo"
+
+#: config/countries.php:204
+msgid "Comoros"
+msgstr "Comoros"
+
+#: config/countries.php:203
+msgid "Colombia"
+msgstr "Colombia"
+
+#: config/countries.php:202
+msgid "Cocos (Keeling) Islands"
+msgstr "Cocos (Keeling) Islands"
+
+#: config/countries.php:201
+msgid "Christmas Island"
+msgstr "Juleøerne"
+
+#: config/countries.php:200
+msgid "China"
+msgstr "Kina"
+
+#: config/countries.php:199
+msgid "Chile"
+msgstr "Chile"
+
+#: config/countries.php:198
+msgid "Chad"
+msgstr "Chad"
+
+#: config/countries.php:197
+msgid "Central African Republic"
+msgstr "Central African Republic"
+
+#: config/countries.php:196
+msgid "Cayman Islands"
+msgstr "Cayman Islands"
+
+#: config/countries.php:195
+msgid "Cape Verde"
+msgstr "Kap Verde"
+
+#: config/countries.php:71 config/countries.php:194
+msgid "Canada"
+msgstr "Canada"
+
+#: config/countries.php:193
+msgid "Cameroon"
+msgstr "Cameroon"
+
+#: config/countries.php:192
+msgid "Cambodia"
+msgstr "Cambodia"
+
+#: config/countries.php:191
+msgid "Burundi"
+msgstr "Burundi"
+
+#: config/countries.php:190
+msgid "Burkina Faso"
+msgstr "Burkina Faso"
+
+#: config/countries.php:189
+msgid "Bulgaria"
+msgstr "Bulgarien"
+
+#: config/countries.php:188
+msgid "Brunei Darussalam"
+msgstr "Brunei Darussalam"
+
+#: config/countries.php:187
+msgid "British Indian Ocean Territory"
+msgstr "British Indian Ocean Territory"
+
+#: config/countries.php:121 config/countries.php:186
+msgid "Brazil"
+msgstr "Brasilien"
+
+#: config/countries.php:185
+msgid "Bouvet Island"
+msgstr "Bouvet øen"
+
+#: config/countries.php:184
+msgid "Botswana"
+msgstr "Botswana"
+
+#: config/countries.php:183
+msgid "Bosnia And Herzegovina"
+msgstr "Bosnien-Herzegovina"
+
+#: config/countries.php:182
+msgid "Bolivia"
+msgstr "Bolivia"
+
+#: config/countries.php:181
+msgid "Bhutan"
+msgstr "Bhutan"
+
+#: config/countries.php:180
+msgid "Bermuda"
+msgstr "Bermuda"
+
+#: config/countries.php:179
+msgid "Benin"
+msgstr "Benin"
+
+#: config/countries.php:178
+msgid "Belize"
+msgstr "Belize"
+
+#: config/countries.php:177
+msgid "Belgium"
+msgstr "Belgien"
+
+#: config/countries.php:176
+msgid "Belarus"
+msgstr "Hviderusland"
+
+#: config/countries.php:175
+msgid "Barbados"
+msgstr "Barbados"
+
+#: config/countries.php:174
+msgid "Bangladesh"
+msgstr "Bangladesh"
+
+#: config/countries.php:173
+msgid "Bahrain"
+msgstr "Bahrain"
+
+#: config/countries.php:172
+msgid "Bahamas"
+msgstr "Bahamas"
+
+#: config/countries.php:171
+msgid "Azerbaijan"
+msgstr "Aserbajdsjan"
+
+#: config/countries.php:170
+msgid "Austria"
+msgstr "Østrig"
+
+#: config/countries.php:101 config/countries.php:169
+msgid "Australia"
+msgstr "Australien"
+
+#: config/countries.php:168
+msgid "Aruba"
+msgstr "Aruba"
+
+#: config/countries.php:167
+msgid "Armenia"
+msgstr "Armenien"
+
+#: config/countries.php:166
+msgid "Argentina"
+msgstr "Argentina"
+
+#: config/countries.php:165
+msgid "Antigua And Barbuda"
+msgstr "Antigua og Barbuda"
+
+#: config/countries.php:164
+msgid "Antarctica"
+msgstr "Antarktis"
+
+#: config/countries.php:163
+msgid "Anguilla"
+msgstr "Anguilla"
+
+#: config/countries.php:162
+msgid "Angola"
+msgstr "Angola"
+
+#: config/countries.php:161
+msgid "Andorra"
+msgstr "Andorra"
+
+#: config/countries.php:160
+msgid "American Samoa"
+msgstr "Amerikansk Samoa"
+
+#: config/countries.php:159
+msgid "Algeria"
+msgstr "Algeriet"
+
+#: config/countries.php:158
+msgid "Albania"
+msgstr "Albanien"
+
+#: config/countries.php:157
+msgid "Aland Islands"
+msgstr "Åland"
+
+#: config/countries.php:156
+msgid "Afghanistan"
+msgstr "Afghanistan"
+
+#: config/class-config.php:298 config/general-settings.php:241
+#: cookiebanner/class-cookiebanner-table.php:246
+msgid "Default"
+msgstr "Standard"
+
+#: cookiebanner/settings.php:239
+msgid "Classic"
+msgstr "Klassisk"
+
+#: functions.php:2149 proof-of-consent/class-proof-of-consent.php:251
+#: templates/dashboard/documents-conditional.php:65
+#: templates/dashboard/documents-conditional.php:72
+#: templates/dashboard/tools-conditional.php:11
+#: templates/dashboard/tools-conditional.php:21
+#: templates/dashboard/tools-conditional.php:31
+#: templates/dashboard/tools-conditional.php:45
+#: templates/dashboard/tools-conditional.php:59
+#: templates/dashboard/tools.php:12
+msgid "Read more"
+msgstr "Læs mere"
+
+#: cookiebanner/settings.php:436 cookiebanner/settings.php:616
+#: cookiebanner/settings.php:618 cookiebanner/settings.php:629
+#: cookiebanner/settings.php:631
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-accept-button-widget.php:120
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-accept-button-widget.php:121
+#: integrations/plugins/gravity-forms.php:131
+#: integrations/plugins/gravity-forms.php:136
+#: integrations/plugins/gravity-forms.php:137
+msgid "Accept"
+msgstr "Godkend"
+
+#: cookiebanner/settings.php:462 cookiebanner/settings.php:642
+#: cookiebanner/settings.php:644
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-deny-button-widget.php:119
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-deny-button-widget.php:120
+msgid "Deny"
+msgstr "Afvis"
+
+#: cookiebanner/settings.php:685 cookiebanner/settings.php:865
+msgid "Cookie message"
+msgstr "Cookie-besked"
+
+#: config/general-settings.php:311
+msgid "Cookie banner expiration in days"
+msgstr "Cookie-banner varighed i dage"
+
+#: config/class-config.php:567
+msgid "Great! You're already on SSL!"
+msgstr "Godt! Du bruger allerede SSL!"
+
+#: config/class-config.php:578
+msgid "Google Analytics is being used, but is not configured in Complianz."
+msgstr "Google Analytics bruges, men er ikke konfigureret i Complianz."
+
+#: config/class-config.php:540
+msgid "Cookie changes have been detected."
+msgstr "Cookie-banner er opdaget."
+
+#: config/class-config.php:539
+msgid "No cookie changes have been detected."
+msgstr "Der er ikke fundet nogen cookieændringer."
+
+#: config/class-config.php:493
+msgid "The wizard has been completed."
+msgstr "Guiden er afsluttet."
+
+#: config/class-config.php:281
+msgid "To enable the warning only for countries with a cookie law, %sget premium%s."
+msgstr "For at aktivere advarslen kun for lande med en cookielov, %skøb premium%s."
+
+#: config/class-config.php:277 config/questions-wizard.php:313
+#: config/questions-wizard.php:418 config/questions-wizard.php:436
+#: config/questions-wizard.php:680 config/questions-wizard.php:788
+#: integrations/plugins/elementor-pro/elementor-pro.php:189
+msgid "No"
+msgstr "Nej"
+
+#: config/class-config.php:276 config/questions-wizard.php:417
+#: config/questions-wizard.php:435 config/questions-wizard.php:787
+#: integrations/plugins/elementor-pro/elementor-pro.php:188
+msgid "Yes"
+msgstr "Ja"
+
+#: shepherd/tour.php:125
+msgid "Next"
+msgstr "Næste"
+
+#: class-wizard.php:708 shepherd/tour.php:126
+msgid "Previous"
+msgstr "Forrige"
+
+#: grid/templates/grid-settings-menu.php:11 templates/wizard/menu.php:14
+msgid "Changes saved successfully"
+msgstr "Ændringer gemt sucessfuldt"
+
+#: class-wizard.php:724 config/steps.php:117
+msgid "Finish"
+msgstr "Afslut"
+
+#: class-wizard.php:110
+msgid "Not all required fields are completed yet. Please check the steps to complete all required questions"
+msgstr "Ikke alle obligatoriske felter er udfyldt endnu. Kontroller trinnene for at udfylde alle nødvendige spørgsmål"
+
+#: class-wizard.php:56
+msgid "The wizard isn't completed yet. If you have answered all required questions, you just need to click 'finish' to complete it. In the wizard some general data is entered which is needed for this document. %sPlease complete the wizard first%s."
+msgstr "Guiden er ikke afsluttet endnu. Hvis du har besvaret alle påkrævede spørgsmål, skal du blot klikke på 'finish' for at afslutte det. I guiden indtastes nogle generelle data, som er nødvendige for dette dokument. %sUdfør venligst guiden først%s."
+
+#: class-wizard.php:51
+msgid "Great, the main wizard is completed. This means the general data is already in the system, and you can continue with the next question. This will start a new, empty document."
+msgstr "Godt, hovedguiden er afsluttet. Dette betyder, at de generelle data allerede findes i systemet, og du kan fortsætte med det næste spørgsmål. Dette starter et nyt, tomt dokument."
+
+#: cookie/class-cookie-admin.php:1560
+msgid "Processing Agreements"
+msgstr "Behandlingsaftaler"
+
+#: class-field.php:2214 class-field.php:2326
+msgid "What type of data is shared"
+msgstr "Hvilken type data deles"
+
+#: class-field.php:2303
+msgid "Third Party country"
+msgstr "Tredjepartsland"
+
+#: class-field.php:2358
+msgid "Add new Third Party"
+msgstr "Tilføj ny tredjepart"
+
+#: class-field.php:2044
+msgid "Add new cookie"
+msgstr "Tilføj ny cookie"
+
+#: class-field.php:2202 class-field.php:2316 config/steps.php:36
+#: templates/cookie_settings.php:34
+msgid "Purpose"
+msgstr "Formål"
+
+#: class-admin.php:984
+msgid "Cookies"
+msgstr "Cookies"
+
+#: class-field.php:2014 class-field.php:2231 class-field.php:2342
+#: class-field.php:2553 class-field.php:2944 class-field.php:3054
+msgid "Remove"
+msgstr "Fjern"
+
+#: class-field.php:2002
+msgid "Description"
+msgstr "Beskrivelse"
+
+#: class-field.php:1992 class-field.php:2400 class-field.php:2749
+#: class-field.php:2996
+msgid "Add new"
+msgstr "Tilføj ny"
+
+#: class-field.php:1971 class-field.php:2227 class-field.php:2338
+#: class-field.php:2552 class-field.php:2943 class-field.php:3053
+#: class-wizard.php:114 class-wizard.php:741
+#: templates/CMPLZ_COOKIEBANNER/footer.php:2 templates/cookie_settings.php:87
+#: templates/integrations/footer.php:3 templates/service_settings.php:49
+#: templates/settings/footer.php:2
+msgid "Save"
+msgstr "Gem"
+
+#: class-field.php:1845 cookiebanner/edit.php:25
+msgid "Choose an option"
+msgstr "Vælg en mulighed"
+
+#: class-field.php:617
+msgid "This field is required. Please complete the question before continuing"
+msgstr "Dette felt er påkrævet. Udfyld venligst spørgsmålet, før du fortsætter"
+
+#: class-document.php:858
+msgid "and"
+msgstr "og"
+
+#: class-document.php:726
+msgid "(See annex %s)"
+msgstr "(Se bilag %s)"
+
+#: class-document.php:720
+msgid "(See paragraph %s)"
+msgstr "(Se afsnit %s)"
+
+#: class-document.php:590
+msgid "Annex"
+msgstr "Bilag"
+
+#: class-document.php:1679 class-document.php:1740 class-document.php:1760
+msgid "Select a menu"
+msgstr "Vælg en menu"
+
+#: callback-notices.php:217
+msgid "Great! All your generated documents have been assigned to a menu, so you can skip this step."
+msgstr "Godt! Alle dine genererede dokumenter er tildelt en menu, så du kan springe over dette trin."
+
+#: callback-notices.php:211
+msgid "The generated document %s has not been assigned to a menu yet, you can do this now, or skip this step and do it later."
+msgid_plural "Not all generated documents have been assigned to a menu yet, you can do this now, or skip this step and do it later."
+msgstr[0] "Det genererede dokument %s er endnu ikke tildelt en menu, du kan gøre dette nu eller springe over dette trin og gøre det senere."
+msgstr[1] "De genererede dokumenter er endnu ikke blevet tildelt en menu, du kan gøre dette nu eller springe over dette trin og gøre det senere."
+
+#: class-document.php:1661 class-document.php:1725
+msgid "No menus were found. Skip this step, or %screate a menu%s first."
+msgstr "Ingen menuer blev fundet. Spring over dette trin, eller %sopret en menu%s først."
+
+#: config/steps.php:54 cookie/class-cookie-admin.php:3532
+msgid "Cookie scan"
+msgstr "Cookie scanning"
+
+#: cookie/class-cookie-admin.php:3318
+msgid "No cookies detected"
+msgstr "Ingen cookies opdaget"
+
+#: cookie/class-cookie-admin.php:3210 DNSMPD/class-DNSMPD-table.php:291
+#: DNSMPD/csv.php:73
+msgid "%s at %s"
+msgstr "%s ved %s"
+
+#: callback-notices.php:53
+msgid "The cookie scan detected %s on your site, which means the answer to this question should be %s."
+msgstr "Cookiescanningen blev registreret %s på dit websted, hvilket betyder, at svaret på dette spørgsmål skal være %s."
+
+#: cookiebanner/cookiebanner.php:367
+msgid "Your website does not require a cookie banner, so these settings do not apply."
+msgstr "Dit websted kræver ikke et cookie banner, så disse indstillinger gælder ikke."
+
+#: config/class-config.php:649
+msgid "Your site requires a cookie banner, which has been enabled."
+msgstr "Dit websted kræver et cookie banner, der er aktiveret."
+
+#: class-admin.php:748 class-admin.php:749 shepherd/tour.php:73
+msgid "Dashboard"
+msgstr "Kontrolpanel"
+
+#: class-admin.php:757 class-admin.php:758
+msgid "Wizard"
+msgstr "Guide"
+
+#: class-admin.php:737
+msgid "Complianz"
+msgstr "Complianz"
+
+#: class-admin.php:731
+msgid "Complianz %s"
+msgstr "Complianz %s"
+
+#: class-admin.php:403 templates/dashboard/tools-footer.php:1
+msgid "Support"
+msgstr "Support"
+
+#: class-admin.php:396 class-admin.php:769 class-admin.php:770
+#: class-admin.php:1002 cookiebanner/settings.php:491
+#: integrations/integrations-menu.php:50 templates/dashboard/tools.php:65
+msgid "Settings"
+msgstr "Indstillinger"
+
+#: callback-notices.php:67
+msgid "The scan found social media buttons or widgets for %s on your site, which means the answer should be yes"
+msgstr "Scanningen fandt knapper eller widgets på sociale medier til %s på dit websted, hvilket betyder, at svaret skal være ja"

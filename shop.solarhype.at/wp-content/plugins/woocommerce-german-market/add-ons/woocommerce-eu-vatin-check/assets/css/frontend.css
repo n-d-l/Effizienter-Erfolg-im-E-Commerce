@@ -1,0 +1,48 @@
+/**
+ * Feature Name: Frontend Styles
+ * Version:      1.0
+ * Author:       MarketPress
+ * Author URI:   http://marketpress.com/
+ */
+
+@CHARSET "UTF-8";
+
+/**
+ * If we are using JavaScript we need
+ * to hide the VAT input field. This is
+ * because we don't need it, if there
+ * is no company given. The JavaScript
+ * of this plugin will display it, if
+ * there is an input value for the company. 
+ */
+html.js #billing_vat_field {
+	/* display: none; */
+}
+
+.error-badge {
+	height: 27px;
+	padding-left: 25px;
+	display: inline-block;
+	background: transparent url(../img/error.png) scroll no-repeat 0 0;
+	background-size: 21px;
+}
+
+.correct-badge {
+	height: 27px;
+	padding-left: 25px;
+	display: inline-block;
+	background: transparent url(../img/correct.png) scroll no-repeat 0 0;
+	background-size: 21px;
+}
+
+.spinner-badge {
+	height: 27px;
+	padding-left: 25px;
+	display: inline-block;
+	background: transparent url(../img/ajax-loader.gif) scroll no-repeat 0 0;
+	background-size: 21px;
+}
+
+.woocommerce table.shop_table tfoot th.wcvat-notice-german-market-th {
+	font-weight: normal;
+}

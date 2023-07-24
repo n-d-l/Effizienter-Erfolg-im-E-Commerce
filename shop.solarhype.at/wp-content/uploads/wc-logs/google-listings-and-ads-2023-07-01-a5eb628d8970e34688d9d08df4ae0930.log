@@ -1,0 +1,6 @@
+2023-07-01T03:31:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 870): ["Wechselrichter"].
+2023-07-01T03:31:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 871): ["Wechselrichter"].
+2023-07-01T03:31:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 977): ["Stromspeicher"].
+2023-07-01T03:31:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 978): ["Stromspeicher"].
+2023-07-01T03:31:19+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 4 products:
+[{"woocommerce_id":870,"google_id":"online:de:AT:gla_870"},{"woocommerce_id":871,"google_id":"online:de:AT:gla_871"},{"woocommerce_id":977,"google_id":"online:de:AT:gla_977"},{"woocommerce_id":978,"google_id":"online:de:AT:gla_978"}]

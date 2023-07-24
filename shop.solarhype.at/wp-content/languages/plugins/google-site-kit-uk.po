@@ -1,0 +1,1243 @@
+# Translation of Plugins - Site Kit by Google &#8211; Analytics, Search Console, AdSense, Speed - Stable (latest release) in Ukrainian
+# This file is distributed under the same license as the Plugins - Site Kit by Google &#8211; Analytics, Search Console, AdSense, Speed - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-06-21 11:37:26+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: uk_UA\n"
+"Project-Id-Version: Plugins - Site Kit by Google &#8211; Analytics, Search Console, AdSense, Speed - Stable (latest release)\n"
+
+#: includes/Modules/Analytics.php:285
+#: dist/assets/js/googlesitekit-entity-dashboard-41dd3f81955e1849fa88.js:57
+#: dist/assets/js/googlesitekit-main-dashboard-cab5550e1428b59f0e05.js:80
+msgid "Universal Analytics view"
+msgstr "Перегляд Universal Analytics"
+
+#: includes/Modules/Analytics.php:285
+#: dist/assets/js/googlesitekit-entity-dashboard-41dd3f81955e1849fa88.js:57
+#: dist/assets/js/googlesitekit-main-dashboard-cab5550e1428b59f0e05.js:80
+msgid "Google Analytics 4 view"
+msgstr "Перегляд Google Analytics 4"
+
+#: includes/Core/Admin/Screens.php:483
+#: dist/assets/js/googlesitekit-ad-blocking-recovery-2ad8aae8c8e1db22e509.js:31
+#: dist/assets/js/googlesitekit-modules-adsense-bbc802fbe425941f9cf9.js:74
+msgid "Ad Blocking Recovery"
+msgstr "Відновлення блокування реклами"
+
+#. translators: 1: the regular expression for a valid name, 2: the invalid
+#. metric.
+#: includes/Modules/Analytics_4/Report/Request.php:309
+msgid "Metric name should match the expression %1$s: %2$s"
+msgstr "Назва показника має відповідати виразу %1$s: %2$s"
+
+#. translators: 1: the regular expression for a valid name, 2: a comma
+#. separated list of the invalid metrics.
+#: includes/Modules/Analytics_4/Report/Request.php:297
+msgid "Metric names should match the expression %1$s: %2$s"
+msgstr "Назви показників мають відповідати виразу %1$s: %2$s"
+
+#: includes/Core/Modules/REST_Modules_Controller.php:503
+msgid "Module does not support setting data available state."
+msgstr "Модуль не підтримує налаштування стану доступних даних."
+
+#: includes/Modules/Analytics_4.php:637 includes/Modules/Analytics_4.php:754
+msgid "No connected Google Analytics 4 property ID."
+msgstr "Немає підключеного ID ресурсу Google Analytics 4."
+
+#: includes/Core/Key_Metrics/REST_Key_Metrics_Controller.php:117
+msgid "No more than 4 key metrics can be selected."
+msgstr "Можна вибрати не більше 4 ключових показників."
+
+#: includes/Core/Modules/REST_Modules_Controller.php:160
+msgid "Whether the module is recoverable."
+msgstr "Чи можна відновити модуль."
+
+#: includes/Core/Modules/REST_Modules_Controller.php:156
+msgid "Whether the module is shareable."
+msgstr "Чи можна спільно використовувати модуль."
+
+#: includes/Modules/Analytics_4.php:867
+msgctxt "Service name"
+msgid "Analytics 4"
+msgstr "Analytics 4"
+
+#. translators: %s: is replaced with a comma separated list of the invalid
+#. dimensions.
+#: includes/Modules/AdSense.php:1002 includes/Modules/Analytics.php:1558
+#: includes/Modules/Analytics_4/Report/Request.php:414
+msgid "Unsupported dimensions requested: %s"
+msgstr "Запит непідтримуваних розмірів: %s"
+
+#. translators: %s: is replaced with a comma separated list of the invalid
+#. metrics.
+#: includes/Modules/AdSense.php:958 includes/Modules/Analytics.php:1500
+#: includes/Modules/Analytics_4/Report/Request.php:358
+msgid "Unsupported metrics requested: %s"
+msgstr "Запит непідтримуваних показників: %s"
+
+#: includes/Core/Modules/REST_Modules_Controller.php:606
+msgid "Request parameter slugs is not valid."
+msgstr "Параметр запиту slugs недійсний."
+
+#: includes/Plugin.php:76
+msgid "The Site Kit by Google plugin does <strong>not yet offer</strong> a network mode, but we&#8217;re actively working on that."
+msgstr "Плагін Site Kit від Google <strong>ще не пропонує</strong> режим мережі, але ми активно над цим працюємо."
+
+#: includes/Core/Util/BC_Functions.php:144
+msgid "Inactive widgets"
+msgstr "Неактивні віджети"
+
+#: includes/Core/Modules/REST_Modules_Controller.php:535
+#: includes/Core/Modules/REST_Modules_Controller.php:557
+msgid "Module must be active to request data."
+msgstr "Модуль має бути активованим, щоб запитувати дані."
+
+#. translators: 1: Admin splash URL. 2: Support link URL.
+#: includes/Core/Authentication/Authentication.php:1468
+msgid "<a href=\"%1$s\">Please try again</a>. Retry didn’t work? <a href=\"%2$s\" target=\"_blank\">Get help</a>."
+msgstr "<a href=\"%1$s\">Будь ласка, повторіть спробу</a>. Повторна спроба не спрацювала? <a href=\"%2$s\" target=\"_blank\">Отримати допомогу</a>."
+
+#. translators: %s: version number
+#: google-site-kit.php:57
+msgid "Site Kit requires WordPress version %s or higher"
+msgstr "Для Site Kit потрібен WordPress версії %s або новішої"
+
+#. translators: %s: version number
+#: google-site-kit.php:49
+msgid "Site Kit requires PHP version %s or higher"
+msgstr "Для Site Kit потрібен PHP версії %s або новішої"
+
+#: includes/Core/Dashboard_Sharing/View_Only_Pointer.php:55
+msgid "Check Site Kit’s dashboard to find out how much traffic your site is getting, your most popular pages, top keywords people use to find your site on Search, and more."
+msgstr "Перевірте Майстерню Site Kit, щоб дізнатися, скільки трафіку отримує ваш сайт, ваші найпопулярніші сторінки, ключові слова які люди використовують для пошуку вашого сайту, тощо."
+
+#: includes/Core/Dashboard_Sharing/View_Only_Pointer.php:54
+msgid "You now have access to Site Kit"
+msgstr "Тепер у вас є доступ до Site Kit"
+
+#. translators: %s: is replaced with the invalid dimension.
+#: includes/Modules/AdSense.php:1013 includes/Modules/Analytics.php:1569
+#: includes/Modules/Analytics_4/Report/Request.php:425
+msgid "Unsupported dimension requested: %s"
+msgstr "Запитаний розмір не підтримується: %s"
+
+#. translators: %s: is replaced with the invalid metric.
+#: includes/Modules/AdSense.php:969 includes/Modules/Analytics.php:1511
+#: includes/Modules/Analytics_4/Report/Request.php:369
+msgid "Unsupported metric requested: %s"
+msgstr "Запитана непідтримувана метрика: %s"
+
+#. translators: 1: Support link URL. 2: Get help string.
+#: includes/Core/Authentication/Setup.php:118
+msgid "<a href=\"%1$s\" target=\"_blank\">%2$s</a>"
+msgstr "<a href=\"%1$s\" target=\"_blank\">%2$s</a>"
+
+#. translators: 1: Plugin name. 2: URL change message. 3: Proxy setup URL. 4:
+#. Reconnect string. 5: Proxy support link for the url-has-changed help page.
+#. 6: Help link message.
+#: includes/Core/Authentication/Authentication.php:1164
+msgid "%1$s: %2$s <a href=\"%3$s\">%4$s</a>. <a target=\"_blank\" href=\"%5$s\">%6$s</a>"
+msgstr "%1$s: %2$s <a href=\"%3$s\">%4$s</a>. <a target=\"_blank\" href=\"%5$s\">%6$s</a>"
+
+#: includes/Core/Authentication/Authentication.php:1170
+#: includes/Core/Authentication/Setup.php:120
+#: dist/assets/js/googlesitekit-ad-blocking-recovery-2ad8aae8c8e1db22e509.js:17
+#: dist/assets/js/googlesitekit-ad-blocking-recovery-2ad8aae8c8e1db22e509.js:25
+#: dist/assets/js/googlesitekit-adminbar-09d77fc9bf56bf06416b.js:25
+#: dist/assets/js/googlesitekit-entity-dashboard-41dd3f81955e1849fa88.js:25
+#: dist/assets/js/googlesitekit-entity-dashboard-41dd3f81955e1849fa88.js:31
+#: dist/assets/js/googlesitekit-main-dashboard-cab5550e1428b59f0e05.js:48
+#: dist/assets/js/googlesitekit-main-dashboard-cab5550e1428b59f0e05.js:54
+#: dist/assets/js/googlesitekit-modules-adsense-bbc802fbe425941f9cf9.js:48
+#: dist/assets/js/googlesitekit-modules-adsense-bbc802fbe425941f9cf9.js:66
+#: dist/assets/js/googlesitekit-modules-analytics-51ec8fce536181385563.js:15
+#: dist/assets/js/googlesitekit-modules-pagespeed-insights-077cefce4fbfc4a8ea15.js:1
+#: dist/assets/js/googlesitekit-settings-cf4a4d95448f0b0c1f37.js:9
+#: dist/assets/js/googlesitekit-splash-5c887f1cd1cb64177ad7.js:9
+#: dist/assets/js/googlesitekit-splash-5c887f1cd1cb64177ad7.js:15
+#: dist/assets/js/googlesitekit-splash-5c887f1cd1cb64177ad7.js:36
+#: dist/assets/js/googlesitekit-user-input-c5067ab5c01160d9006d.js:9
+#: dist/assets/js/googlesitekit-widgets-5f8cfdbf8768d4fdcc11.js:23
+#: dist/assets/js/googlesitekit-wp-dashboard-9ff9ecc6563a2a86683e.js:25
+msgid "Get help"
+msgstr "Отримати допомогу"
+
+#: includes/Core/Util/Debug_Data.php:489
+msgid "Owner"
+msgstr "Власник"
+
+#: includes/Core/Util/Debug_Data.php:484
+#: dist/assets/js/googlesitekit-entity-dashboard-41dd3f81955e1849fa88.js:41
+#: dist/assets/js/googlesitekit-main-dashboard-cab5550e1428b59f0e05.js:64
+msgid "Any admin signed in with Google"
+msgstr "Будь-який адміністратор, який увійшов в обліковий запис Google"
+
+#. translators: %s: module name
+#: includes/Core/Util/Debug_Data.php:426
+msgid "%s Management"
+msgstr "Керування %s"
+
+#. translators: %s: module name
+#: includes/Core/Util/Debug_Data.php:418
+msgid "%s Shared Roles"
+msgstr "%s спільних ролей"
+
+#: includes/Core/Util/Debug_Data.php:391
+msgid "Recoverable Modules"
+msgstr "Відновлювані модулі"
+
+#: includes/Core/Modules/REST_Modules_Controller.php:359
+msgid "Module access cannot be checked."
+msgstr "Неможливо перевірити доступ до модуля."
+
+#. translators: 1: Error message or error code. 2: Get help link.
+#: includes/Core/Authentication/Setup.php:161
+msgid "The request to the authentication proxy has failed with an error: %1$s %2$s."
+msgstr "Запит до проксі-сервера автентифікації завершився помилкою: %1$s %2$s."
+
+#. translators: 1: Plugin name. 2: Message.
+#. translators: 1: Module name, 2: Error message
+#: includes/Core/Authentication/Authentication.php:1221
+#: dist/assets/js/googlesitekit-main-dashboard-cab5550e1428b59f0e05.js:84
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: includes/Core/Modules/REST_Modules_Controller.php:684
+msgid "Module is not accessible by current user."
+msgstr "Модуль недоступний для поточного користувача."
+
+#: includes/Core/Modules/REST_Modules_Controller.php:651
+msgid "Module is not recoverable."
+msgstr "Модуль не підлягає відновленню."
+
+#: includes/Core/Modules/REST_Modules_Controller.php:638
+msgid "Module is not shareable."
+msgstr "Модуль не доступний для спільного доступу."
+
+#: includes/Core/Modules/REST_Modules_Controller.php:347
+#: includes/Core/Modules/REST_Modules_Controller.php:499
+#: includes/Modules/AdSense.php:416
+msgid "Module is not connected."
+msgstr "Модуль не підключений."
+
+#. translators: %s: The module name
+#: includes/Core/Admin/Screens.php:389
+msgid "The %s module cannot be set up as it has not been activated yet."
+msgstr "Модуль %s неможливо налаштувати, оскільки він ще не активований."
+
+#: includes/Modules/AdSense.php:213
+msgid "AdSense site status"
+msgstr "Статус сайту AdSense"
+
+#. translators: %s: Get help link.
+#: includes/Core/Authentication/Setup.php:180
+msgid "The request to the authentication proxy has failed. Please, try again later. %s."
+msgstr "Помилка запиту до проксі-сервера автентифікації. Будь-ласка спробуйте пізніше. %s."
+
+#: includes/Core/Authentication/Google_Proxy.php:471
+msgid "Failed to retrieve redirect URL."
+msgstr "Не вдалося отримати URL-адресу перенаправлення."
+
+#: includes/Core/Authentication/Google_Proxy.php:139
+msgid "Missing site_id or site_code parameter for setup URL."
+msgstr "Відсутній параметр site_id або site_code для URL-адреси налаштування."
+
+#: includes/Core/Authentication/Google_Proxy.php:136
+msgid "Missing code parameter for setup URL."
+msgstr "Відсутній параметр коду для URL-адреси налаштування."
+
+#: includes/Modules/PageSpeed_Insights.php:183
+msgid "https://pagespeed.web.dev"
+msgstr "https://pagespeed.web.dev"
+
+#: includes/Core/Authentication/Setup.php:228
+msgid "Verifying site ownership requires a token and verification method."
+msgstr "Для підтвердження права власності на сайт потрібен маркер і метод підтвердження."
+
+#: includes/Core/Authentication/Setup.php:224
+#: includes/Core/Authentication/Setup.php:281
+msgid "Invalid request."
+msgstr "Невірний запит."
+
+#. translators: %s: Current URL
+#: includes/Core/Authentication/Authentication.php:1185
+msgid "New URL: %s"
+msgstr "Нова URL-адреса: %s"
+
+#. translators: %s: Previous URL
+#: includes/Core/Authentication/Authentication.php:1180
+msgid "Old URL: %s"
+msgstr "Стара URL-адреса: %s"
+
+#: includes/Core/Authentication/Authentication.php:1464
+msgid "The link you followed has expired."
+msgstr "Термін дії посилання, за яким ви перейшли, закінчився."
+
+#: includes/Modules/Tag_Manager/Web_Tag.php:100
+msgid "End Google Tag Manager (noscript) snippet added by Site Kit"
+msgstr "Кінець фрагменту Менеджера тегів Google (noscript), доданого Site Kit"
+
+#: includes/Modules/Tag_Manager/Web_Tag.php:96
+msgid "Google Tag Manager (noscript) snippet added by Site Kit"
+msgstr "Фрагмент Менеджера тегів Google (noscript), доданого Site Kit"
+
+#: includes/Modules/Tag_Manager/Web_Tag.php:79
+msgid "End Google Tag Manager snippet added by Site Kit"
+msgstr "Кінець фрагменту Менеджера тегів Google, доданого Site Kit"
+
+#: includes/Modules/Tag_Manager/Web_Tag.php:77
+msgid "Google Tag Manager snippet added by Site Kit"
+msgstr "Фрагмент Менеджера тегів Google, доданого Site Kit"
+
+#: includes/Modules/Tag_Manager/AMP_Tag.php:75
+msgid "End Google Tag Manager AMP snippet added by Site Kit"
+msgstr "Кінець фрагменту AMP, Менеджера тегів Google, доданого Site Kit"
+
+#: includes/Modules/Tag_Manager/AMP_Tag.php:66
+msgid "Google Tag Manager AMP snippet added by Site Kit"
+msgstr "Фрагмент AMP, Менеджера тегів Google, доданого Site Kit"
+
+#: includes/Modules/Optimize/Web_Tag.php:59
+msgid "End Anti-flicker snippet added by Site Kit"
+msgstr "Кінець фрагменту Anti-flicker, доданого Site Kit"
+
+#: includes/Modules/Optimize/Web_Tag.php:56
+msgid "Anti-flicker snippet added by Site Kit"
+msgstr "Фрагмент Anti-flicker, доданий Site Kit"
+
+#: includes/Modules/Analytics/Web_Tag.php:176
+msgid "End Google Analytics snippet added by Site Kit"
+msgstr "Кінець фрагменту Google Analytics, доданого Site Kit"
+
+#: includes/Modules/Analytics/Web_Tag.php:175
+msgid "Google Analytics snippet added by Site Kit"
+msgstr "Фрагмент Google Analytics, доданий Site Kit"
+
+#: includes/Modules/Analytics/AMP_Tag.php:154
+msgid "End Google Analytics AMP snippet added by Site Kit"
+msgstr "Кінець фрагменту AMP, Google Analytics, доданого Site Kit"
+
+#: includes/Modules/Analytics/AMP_Tag.php:146
+msgid "Google Analytics AMP snippet added by Site Kit"
+msgstr "Фрагмент AMP Google Analytics доданий Site Kit"
+
+#: includes/Modules/Analytics.php:1267
+msgid "End Google Analytics opt-out snippet added by Site Kit"
+msgstr "Кінець фрагменту відмови від Google Analytics, доданого Site Kit"
+
+#: includes/Modules/Analytics.php:1258
+msgid "Google Analytics opt-out snippet added by Site Kit"
+msgstr "Фрагмент відмови від Google Analytics, доданий Site Kit"
+
+#: includes/Modules/Analytics.php:1256
+msgid "End Google Analytics AMP opt-out snippet added by Site Kit"
+msgstr "Кінець фрагменту відмови Google Analytics AMP, доданого Site Kit"
+
+#: includes/Modules/Analytics.php:1254
+msgid "Google Analytics AMP opt-out snippet added by Site Kit"
+msgstr "Фрагмент відмови від Google Analytics AMP, доданий Site Kit"
+
+#: includes/Modules/AdSense.php:900 includes/Modules/AdSense/Web_Tag.php:96
+msgid "End Google AdSense snippet added by Site Kit"
+msgstr "Кінець фрагменту Google AdSense, доданого Site Kit"
+
+#: includes/Modules/AdSense.php:896 includes/Modules/AdSense/Web_Tag.php:94
+msgid "Google AdSense snippet added by Site Kit"
+msgstr "Фрагмент Google AdSense, доданий Site Kit"
+
+#: includes/Modules/AdSense/AMP_Tag.php:123
+#: includes/Modules/AdSense/AMP_Tag.php:143
+#: includes/Modules/AdSense/AMP_Tag.php:188
+msgid "End Google AdSense AMP snippet added by Site Kit"
+msgstr "Кінець фрагменту AMP Google AdSense, доданого Site Kit"
+
+#: includes/Modules/AdSense/AMP_Tag.php:115
+#: includes/Modules/AdSense/AMP_Tag.php:142
+#: includes/Modules/AdSense/AMP_Tag.php:184
+msgid "Google AdSense AMP snippet added by Site Kit"
+msgstr "Фрагмент AMP Google AdSense доданий Site Kit"
+
+#: includes/Modules/Analytics_4.php:325
+msgid "You’ll need to grant Site Kit permission to create a new Analytics 4 web data stream for this site on your behalf."
+msgstr "Вам потрібно буде надати Site Kit дозвіл на створення нового потоку веб-даних Analytics 4 для цього сайту від вашого імені."
+
+#: includes/Core/Util/Debug_Data.php:330
+msgid "Verified outside of Site Kit"
+msgstr "Верифіковано за межами Site Kit"
+
+#: includes/Core/Util/Debug_Data.php:323
+msgid "Verified through meta tag"
+msgstr "Верифіковано за допомогою мета-тегу"
+
+#: includes/Core/Util/Debug_Data.php:315
+msgid "Verified through file"
+msgstr "Верифіковано за допомогою файлу"
+
+#: includes/Core/Util/Debug_Data.php:307
+msgid "Not verified"
+msgstr "Не верифіковано"
+
+#: includes/Core/Util/Debug_Data.php:298
+msgid "Verification Status"
+msgstr "Статус верифікації"
+
+#. translators: %s: module name
+#: includes/Core/Modules/Module.php:427
+msgid "Site Kit can’t access the relevant data from %s because you haven’t granted all permissions requested during setup."
+msgstr "Site Kit не може отримати доступ до відповідних даних із %s, оскільки ви надали не всі дозволи, які запитувались під час налаштування."
+
+#. translators: %s: List of invalid parameters.
+#: includes/Modules/Analytics_4.php:684
+msgid "Invalid parameter(s): %s"
+msgstr "Невірний параметр(и): %s"
+
+#: includes/Core/Admin/Available_Tools.php:50
+msgid "Resetting will disconnect all users and remove all Site Kit settings and data within WordPress. You and any other users who wish to use Site Kit will need to reconnect to restore access."
+msgstr "Скидання призведе до відключення всіх користувачів і видалення всіх налаштувань Site Kit і даних у WordPress. Щоб відновити доступ, вам і іншим користувачам, які бажають використовувати Site Kit, потрібно буде повторно підключитися."
+
+#: includes/Modules/Analytics_4.php:320
+msgid "You’ll need to grant Site Kit permission to create a new Analytics 4 property on your behalf."
+msgstr "Вам потрібно буде надати Site Kit дозвіл на створення нового ресурсу Analytics 4 від вашого імені."
+
+#: includes/Modules/Analytics_4.php:263
+msgid "Analytics 4 snippet placed"
+msgstr "Фрагмент Analytics 4 розміщено"
+
+#: includes/Modules/Analytics_4.php:258
+msgid "Analytics 4 measurement ID"
+msgstr "Analytics 4 measurement ID"
+
+#: includes/Modules/Analytics_4.php:253
+msgid "Analytics 4 web data stream ID"
+msgstr "ID потоку веб-даних Analytics 4"
+
+#: includes/Modules/Analytics_4.php:248
+msgid "Analytics 4 property ID"
+msgstr "ID ресурсу Analytics 4"
+
+#: includes/Core/Authentication/Google_Proxy.php:286
+msgid "Failed to parse response."
+msgstr "Помилка аналізу відповіді."
+
+#: includes/Core/Authentication/Google_Proxy.php:241
+#: includes/Core/Authentication/Google_Proxy.php:507
+msgid "OAuth credentials haven't been found."
+msgstr "Облікові дані OAuth не знайдено."
+
+#: includes/Modules/AdSense.php:222
+msgid "Web Stories Ad Unit ID"
+msgstr "ID рекламного блоку веб-історій"
+
+#: includes/Core/Util/Debug_Data.php:579
+msgid "Features"
+msgstr "Функції"
+
+#: includes/Core/Admin/Plugin_Row_Meta.php:51
+msgid "Support"
+msgstr "Підтримка"
+
+#: includes/Core/Admin/Plugin_Row_Meta.php:50
+msgid "Rate Site Kit"
+msgstr "Оцінити Site Kit"
+
+#: includes/Core/Util/Debug_Data.php:532
+msgid "User Capabilities"
+msgstr "Можливості користувача"
+
+#: includes/Core/Modules/Datapoint.php:122
+msgid "You’ll need to grant Site Kit permission to do this."
+msgstr "Для цього вам потрібно буде надати дозвіл Site Kit."
+
+#: includes/Core/User_Input/REST_User_Input_Controller.php:120
+msgid "Missing settings data."
+msgstr "Відсутні дані налаштувань."
+
+#: includes/Core/Authentication/Authentication.php:1472
+msgid "Something went wrong."
+msgstr "Щось пішло не так."
+
+#: includes/Core/Authentication/Authentication.php:1347
+msgid "You have insufficient permissions to manage Site Kit permissions."
+msgstr "У вас недостатньо прав для керування дозволами Site Kit."
+
+#: includes/Core/Admin/Screens.php:472
+msgid "User Input"
+msgstr "Введення користувачем"
+
+#: includes/Core/Authentication/Authentication.php:1351
+#: includes/Core/Authentication/Setup.php:140
+msgid "Site Kit is not configured to use the authentication proxy."
+msgstr "Site Kit не налаштовано на використання проксі-сервера автентифікації."
+
+#: includes/Core/Authentication/Setup.php:136
+msgid "You have insufficient permissions to connect Site Kit."
+msgstr "У вас недостатньо прав для підключення Site Kit."
+
+#: includes/Core/Authentication/Authentication.php:1168
+msgid "Reconnect"
+msgstr "Повторне підключення"
+
+#: includes/Core/Authentication/Authentication.php:1166
+#: dist/assets/js/googlesitekit-splash-5c887f1cd1cb64177ad7.js:34
+msgid "Looks like the URL of your site has changed. In order to continue using Site Kit, you’ll need to reconnect, so that your plugin settings are updated with the new URL."
+msgstr "Схоже, URL-адреса вашого сайту змінилася. Для продовження використання Site Kit, вам потрібно повторно підключитися, щоб ваші налаштування плагіна оновилися з новою URL-адресою."
+
+#: includes/Modules/Site_Verification.php:356
+msgctxt "Service name"
+msgid "Site Verification"
+msgstr "Верифікація сайту"
+
+#: includes/Modules/Analytics.php:796
+#: dist/assets/js/googlesitekit-modules-adsense-bbc802fbe425941f9cf9.js:62
+#: dist/assets/js/googlesitekit-modules-adsense-bbc802fbe425941f9cf9.js:64
+#: dist/assets/js/googlesitekit-modules-analytics-4-ac38f1fc50c49dea23c0.js:13
+#: dist/assets/js/googlesitekit-modules-analytics-4-ac38f1fc50c49dea23c0.js:19
+#: dist/assets/js/googlesitekit-modules-analytics-51ec8fce536181385563.js:23
+#: dist/assets/js/googlesitekit-modules-analytics-51ec8fce536181385563.js:29
+#: dist/assets/js/googlesitekit-modules-analytics-51ec8fce536181385563.js:45
+#: dist/assets/js/googlesitekit-wp-dashboard-9ff9ecc6563a2a86683e.js:33
+#: dist/assets/js/googlesitekit-wp-dashboard-9ff9ecc6563a2a86683e.js:39
+msgctxt "default Analytics view name"
+msgid "All Web Site Data"
+msgstr "Усі дані веб-сайту"
+
+#: includes/Core/Util/Debug_Data.php:354
+msgid "Connected user count"
+msgstr "Кількість підключених користувачів"
+
+#: includes/Core/Modules/REST_Modules_Controller.php:172
+msgid "Owner login."
+msgstr "Вхід власника."
+
+#: includes/Core/Modules/REST_Modules_Controller.php:167
+msgid "Owner ID."
+msgstr "ID власника."
+
+#. translators: 1: Title prefix. 2: Title.
+#: includes/Core/Util/Entity_Factory.php:498
+msgctxt "archive title"
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+
+#: includes/Core/Util/Entity_Factory.php:408
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "d.m.Y"
+
+#: includes/Core/Util/Entity_Factory.php:407
+msgctxt "date archive title prefix"
+msgid "Day:"
+msgstr "День:"
+
+#: includes/Core/Util/Entity_Factory.php:401
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: includes/Core/Util/Entity_Factory.php:400
+msgctxt "date archive title prefix"
+msgid "Month:"
+msgstr "Місяць:"
+
+#: includes/Core/Util/Entity_Factory.php:395
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: includes/Core/Util/Entity_Factory.php:394
+msgctxt "date archive title prefix"
+msgid "Year:"
+msgstr "Рік:"
+
+#: includes/Core/Util/Entity_Factory.php:366
+msgctxt "post type archive title prefix"
+msgid "Archives:"
+msgstr "Архіви:"
+
+#: includes/Core/Util/Entity_Factory.php:341
+msgctxt "author archive title prefix"
+msgid "Author:"
+msgstr "Автор:"
+
+#. translators: %s: Taxonomy singular name.
+#: includes/Core/Util/Entity_Factory.php:313
+msgctxt "taxonomy term archive title prefix"
+msgid "%s:"
+msgstr "%s:"
+
+#: includes/Core/Util/Entity_Factory.php:304
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Чати"
+
+#: includes/Core/Util/Entity_Factory.php:301
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Аудіо"
+
+#: includes/Core/Util/Entity_Factory.php:298
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Статуси"
+
+#: includes/Core/Util/Entity_Factory.php:295
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Посилання"
+
+#: includes/Core/Util/Entity_Factory.php:292
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Цитати"
+
+#: includes/Core/Util/Entity_Factory.php:289
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Відео"
+
+#: includes/Core/Util/Entity_Factory.php:286
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Зображення"
+
+#: includes/Core/Util/Entity_Factory.php:283
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Галереї"
+
+#: includes/Core/Util/Entity_Factory.php:280
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Нотатки"
+
+#: includes/Core/Util/Entity_Factory.php:274
+msgctxt "tag archive title prefix"
+msgid "Tag:"
+msgstr "Позначка:"
+
+#: includes/Core/Util/Entity_Factory.php:270
+msgctxt "category archive title prefix"
+msgid "Category:"
+msgstr "Категорія:"
+
+#: includes/Core/Authentication/Clients/OAuth_Client_Base.php:305
+msgid "Looks like the verification token for your site is missing."
+msgstr "Схоже, для вашого сайту відсутній маркер підтвердження."
+
+#: includes/Core/Authentication/Clients/OAuth_Client_Base.php:303
+msgid "Looks like there is no Search Console property for your site."
+msgstr "Схоже, для вашого сайту немає ресурсу Search Console."
+
+#: includes/Core/Authentication/Clients/OAuth_Client_Base.php:301
+msgid "Looks like your site is not allowed access to Google account data and can’t display stats in the dashboard."
+msgstr "Схоже, вашому сайту заборонено доступ до даних облікового запису Google і він не може відображати статистику у Майстерні."
+
+#: includes/Core/Util/Entity_Factory.php:250
+msgid "Home"
+msgstr "Головна"
+
+#: includes/Modules/Analytics.php:269
+msgid "Analytics view ID"
+msgstr "ID перегляду Analytics"
+
+#: includes/Core/Modules/Module.php:374
+msgid "Invalid datapoint request."
+msgstr "Невірний запит точки даних."
+
+#: includes/Modules/Tag_Manager.php:241
+msgid "Additional permissions are required to create a new Tag Manager container on your behalf."
+msgstr "Щоб створити новий контейнер Менеджера тегів від вашого імені, потрібні додаткові дозволи."
+
+#: includes/Modules/Analytics.php:521
+msgid "Analytics provisioning requires connecting via the Site Kit Service."
+msgstr "Надання даних Analytics потребує підключення через службу Site Kit."
+
+#: includes/Modules/Analytics.php:443
+msgid "You’ll need to grant Site Kit permission to create a new Analytics view on your behalf."
+msgstr "Вам потрібно буде надати дозвіл Site Kit на створення нового представлення даних Analytics від вашого імені."
+
+#: includes/Modules/Analytics.php:448
+msgid "You’ll need to grant Site Kit permission to create a new Analytics property on your behalf."
+msgstr "Вам потрібно буде надати Site Kit дозвіл на створення нового ресурсу Analytics від вашого імені."
+
+#: includes/Modules/Analytics.php:438 includes/Modules/Analytics_4.php:309
+msgid "You’ll need to grant Site Kit permission to create a new Analytics account on your behalf."
+msgstr "Вам потрібно буде надати Site Kit дозвіл на створення нового облікового запису Analytics від вашого імені."
+
+#: includes/Core/Authentication/Authentication.php:749
+#: includes/Core/Authentication/Authentication.php:769
+#: includes/Core/Authentication/Authentication.php:798
+msgid "You don't have permissions to authenticate with Site Kit."
+msgstr "Ви не маєте дозволів на автентифікацію за допомогою Site Kit."
+
+#: includes/Core/Authentication/Setup.php:220
+#: includes/Core/Authentication/Setup.php:277 includes/Core/Util/Reset.php:266
+msgid "You don't have permissions to set up Site Kit."
+msgstr "Ви не маєте дозволів для налаштування Site Kit."
+
+#: includes/Core/Authentication/Clients/OAuth_Client_Base.php:287
+msgid "The Site Kit setup was interrupted because you did not grant the necessary permissions."
+msgstr "Налаштування Site Kit було перервано, оскільки ви не надали необхідні дозволи."
+
+#: includes/Core/Modules/REST_Modules_Controller.php:467
+msgid "Settings to set."
+msgstr "Налаштування для встановлення."
+
+#: includes/Core/Modules/REST_Modules_Controller.php:436
+#: includes/Core/Modules/REST_Modules_Controller.php:453
+msgid "Module does not support settings."
+msgstr "Модуль не підтримує налаштування."
+
+#: includes/Core/Util/Requires_Javascript_Trait.php:36
+msgid "The Site Kit by Google plugin requires JavaScript to be enabled in your browser."
+msgstr "Плагін Site Kit від Google вимагає, щоб у вашому браузері був включений JavaScript."
+
+#: includes/Core/Util/Debug_Data.php:513
+msgid "Required scopes"
+msgstr "Обов'язкові області"
+
+#. translators: used between list items, there is a space after the comma.
+#: includes/Core/Util/Debug_Data.php:373 includes/Core/Util/Debug_Data.php:394
+#: includes/Core/Util/Debug_Data.php:464 includes/Modules/AdSense.php:964
+#: includes/Modules/AdSense.php:1008 includes/Modules/Analytics.php:1506
+#: includes/Modules/Analytics.php:1564
+#: includes/Modules/Analytics_4/Report/Request.php:304
+#: includes/Modules/Analytics_4/Report/Request.php:364
+#: includes/Modules/Analytics_4/Report/Request.php:420
+#: dist/assets/js/googlesitekit-activation-811c075d9bc146d3a375.js:16
+#: dist/assets/js/googlesitekit-ad-blocking-recovery-2ad8aae8c8e1db22e509.js:50
+#: dist/assets/js/googlesitekit-adminbar-09d77fc9bf56bf06416b.js:38
+#: dist/assets/js/googlesitekit-api-82d7d38949a21e7c3a71.js:14
+#: dist/assets/js/googlesitekit-datastore-forms-ab69f80c68472f6af1b5.js:14
+#: dist/assets/js/googlesitekit-datastore-site-2fb07d6987bfe0c79615.js:14
+#: dist/assets/js/googlesitekit-datastore-ui-25a1ea10d404d4a9f656.js:14
+#: dist/assets/js/googlesitekit-datastore-user-5d46776ab3e209d15ede.js:14
+#: dist/assets/js/googlesitekit-entity-dashboard-41dd3f81955e1849fa88.js:74
+#: dist/assets/js/googlesitekit-main-dashboard-cab5550e1428b59f0e05.js:18
+#: dist/assets/js/googlesitekit-modules-948829bef495edb2576f.js:15
+#: dist/assets/js/googlesitekit-modules-adsense-bbc802fbe425941f9cf9.js:18
+#: dist/assets/js/googlesitekit-modules-analytics-4-ac38f1fc50c49dea23c0.js:44
+#: dist/assets/js/googlesitekit-modules-analytics-51ec8fce536181385563.js:94
+#: dist/assets/js/googlesitekit-modules-optimize-072720b4c5f4d570cdd6.js:24
+#: dist/assets/js/googlesitekit-modules-pagespeed-insights-077cefce4fbfc4a8ea15.js:16
+#: dist/assets/js/googlesitekit-modules-search-console-c0afcf1ae0fb3bd5dd88.js:42
+#: dist/assets/js/googlesitekit-modules-tagmanager-774627223360184a7f14.js:40
+#: dist/assets/js/googlesitekit-settings-cf4a4d95448f0b0c1f37.js:30
+#: dist/assets/js/googlesitekit-splash-5c887f1cd1cb64177ad7.js:32
+#: dist/assets/js/googlesitekit-user-input-c5067ab5c01160d9006d.js:30
+#: dist/assets/js/googlesitekit-widgets-5f8cfdbf8768d4fdcc11.js:36
+#: dist/assets/js/googlesitekit-wp-dashboard-9ff9ecc6563a2a86683e.js:56
+msgid ", "
+msgstr ", "
+
+#: includes/Core/Util/Debug_Data.php:370
+msgid "Active Modules"
+msgstr "Активні модулі"
+
+#: includes/Core/Util/Debug_Data.php:285
+msgid "Not authenticated"
+msgstr "Не автентифіковано"
+
+#: includes/Core/Util/Debug_Data.php:284
+msgid "Authenticated"
+msgstr "Автентифіковано"
+
+#: includes/Core/Util/Debug_Data.php:282
+msgid "User Status"
+msgstr "Статус користувача"
+
+#: includes/Core/Util/Debug_Data.php:265
+#: dist/assets/js/googlesitekit-ad-blocking-recovery-2ad8aae8c8e1db22e509.js:31
+#: dist/assets/js/googlesitekit-modules-adsense-bbc802fbe425941f9cf9.js:74
+msgid "Site Status"
+msgstr "Статус сайту"
+
+#: includes/Core/Util/Debug_Data.php:253
+msgid "Not connected"
+msgstr "Нема з'єднання"
+
+#: includes/Core/Util/Debug_Data.php:252
+msgid "Connected through OAuth client credentials"
+msgstr "Підключено через облікові дані клієнта OAuth"
+
+#: includes/Core/Util/Debug_Data.php:251
+msgid "Connected through site credentials"
+msgstr "Підключено через облікові дані сайту"
+
+#: includes/Core/Util/Debug_Data.php:234
+msgid "AMP Mode"
+msgstr "AMP режим"
+
+#: includes/Core/Util/Debug_Data.php:230
+msgid "Secondary"
+msgstr "Другий"
+
+#: includes/Core/Util/Debug_Data.php:229
+msgid "Primary"
+msgstr "Перший"
+
+#: includes/Core/Util/Debug_Data.php:204 includes/Core/Util/Debug_Data.php:447
+#: dist/assets/js/googlesitekit-ad-blocking-recovery-2ad8aae8c8e1db22e509.js:31
+#: dist/assets/js/googlesitekit-modules-adsense-bbc802fbe425941f9cf9.js:74
+#: dist/assets/js/googlesitekit-modules-analytics-51ec8fce536181385563.js:57
+msgid "None"
+msgstr "Немає"
+
+#: includes/Core/Util/Debug_Data.php:177
+msgid "Reference Site URL"
+msgstr "URL-адреса довідкового сайту"
+
+#: includes/Core/Util/Debug_Data.php:173
+msgid "WordPress Version"
+msgstr "Версія WordPress"
+
+#: includes/Core/Util/Debug_Data.php:169
+msgid "PHP Version"
+msgstr "Версія PHP"
+
+#: includes/Core/Util/Debug_Data.php:165
+msgid "Version"
+msgstr "Версія"
+
+#: includes/Modules/AdSense.php:217
+msgid "AdSense snippet placed"
+msgstr "Фрагмент AdSense розміщено"
+
+#: includes/Modules/AdSense.php:209
+msgid "AdSense account status"
+msgstr "Статус облікового запису AdSense"
+
+#: includes/Modules/AdSense.php:204
+msgid "AdSense client ID"
+msgstr "ID клієнта AdSense"
+
+#: includes/Modules/AdSense.php:199
+msgid "AdSense account ID"
+msgstr "ID облікового запису AdSense"
+
+#: includes/Modules/Tag_Manager.php:193
+msgid "Tag Manager snippet placed"
+msgstr "Фрагмент Менеджера тегів розміщено"
+
+#: includes/Modules/Tag_Manager.php:188
+msgid "Tag Manager AMP container ID"
+msgstr "ID контейнера Менеджера тегів AMP"
+
+#: includes/Modules/Tag_Manager.php:183
+msgid "Tag Manager container ID"
+msgstr "ID контейнера Менеджера тегів"
+
+#: includes/Modules/Tag_Manager.php:178
+msgid "Tag Manager account ID"
+msgstr "ID облікового запису Менеджера тегів"
+
+#: includes/Modules/Analytics.php:274
+msgid "Analytics snippet placed"
+msgstr "Фрагмент Analytics розміщено"
+
+#: includes/Modules/Analytics.php:264
+msgid "Analytics property ID"
+msgstr "ID ресурсу Analytics"
+
+#: includes/Modules/Analytics.php:259
+msgid "Analytics account ID"
+msgstr "ID облікового запису Analytics"
+
+#: includes/Modules/Search_Console.php:164
+msgid "Search Console property"
+msgstr "Ресурс Search Console"
+
+#: includes/Core/Authentication/Clients/OAuth_Client_Base.php:307
+msgid "Unable to authenticate Site Kit, as no client credentials exist."
+msgstr "Неможливо встановити автентифікацію Site Kit, оскільки не існує облікових даних клієнта."
+
+#: includes/Core/Admin/Dashboard.php:105
+msgid "Site Kit Summary"
+msgstr "Підсумок Site Kit"
+
+#: includes/Modules/Optimize.php:161
+#: dist/assets/js/googlesitekit-modules-optimize-072720b4c5f4d570cdd6.js:7
+msgid "Optimize Container ID"
+msgstr "ID оптимізаційного контейнера"
+
+#: includes/Core/Notifications/Notification.php:69
+#: dist/assets/js/googlesitekit-main-dashboard-cab5550e1428b59f0e05.js:60
+#: dist/assets/js/googlesitekit-main-dashboard-cab5550e1428b59f0e05.js:90
+msgid "Dismiss"
+msgstr "Відхилити"
+
+#: includes/Core/Admin/Available_Tools.php:47
+#: includes/Core/Admin/Available_Tools.php:61
+#: dist/assets/js/googlesitekit-settings-cf4a4d95448f0b0c1f37.js:17
+#: dist/assets/js/googlesitekit-splash-5c887f1cd1cb64177ad7.js:15
+msgid "Reset Site Kit"
+msgstr "Скинути Site Kit"
+
+#: includes/Modules/AdSense.php:703
+#: dist/assets/js/googlesitekit-ad-blocking-recovery-2ad8aae8c8e1db22e509.js:31
+#: dist/assets/js/googlesitekit-main-dashboard-cab5550e1428b59f0e05.js:90
+#: dist/assets/js/googlesitekit-modules-adsense-bbc802fbe425941f9cf9.js:74
+#: dist/assets/js/googlesitekit-modules-adsense-bbc802fbe425941f9cf9.js:84
+#: dist/assets/js/googlesitekit-modules-adsense-bbc802fbe425941f9cf9.js:98
+msgctxt "Service name"
+msgid "AdSense"
+msgstr "AdSense"
+
+#: includes/Modules/PageSpeed_Insights.php:180
+#: dist/assets/js/googlesitekit-modules-pagespeed-insights-077cefce4fbfc4a8ea15.js:24
+msgctxt "Service name"
+msgid "PageSpeed Insights"
+msgstr "PageSpeed Insights"
+
+#: includes/Modules/Tag_Manager.php:468
+#: dist/assets/js/googlesitekit-modules-tagmanager-774627223360184a7f14.js:25
+msgctxt "Service name"
+msgid "Tag Manager"
+msgstr "Tag Manager"
+
+#: includes/Modules/Search_Console.php:506
+#: dist/assets/js/googlesitekit-modules-search-console-c0afcf1ae0fb3bd5dd88.js:27
+#: dist/assets/js/googlesitekit-modules-search-console-c0afcf1ae0fb3bd5dd88.js:42
+#: dist/assets/js/googlesitekit-splash-5c887f1cd1cb64177ad7.js:19
+msgctxt "Service name"
+msgid "Search Console"
+msgstr "Search Console"
+
+#: includes/Modules/Analytics.php:1109
+#: dist/assets/js/googlesitekit-modules-adsense-bbc802fbe425941f9cf9.js:98
+#: dist/assets/js/googlesitekit-modules-analytics-51ec8fce536181385563.js:39
+#: dist/assets/js/googlesitekit-modules-analytics-51ec8fce536181385563.js:67
+#: dist/assets/js/googlesitekit-modules-analytics-51ec8fce536181385563.js:71
+#: dist/assets/js/googlesitekit-modules-analytics-51ec8fce536181385563.js:81
+#: dist/assets/js/googlesitekit-modules-analytics-51ec8fce536181385563.js:102
+#: dist/assets/js/googlesitekit-modules-analytics-51ec8fce536181385563.js:104
+#: dist/assets/js/googlesitekit-modules-search-console-c0afcf1ae0fb3bd5dd88.js:27
+msgctxt "Service name"
+msgid "Analytics"
+msgstr "Analytics"
+
+#: includes/Modules/Optimize.php:196
+#: dist/assets/js/googlesitekit-modules-optimize-072720b4c5f4d570cdd6.js:13
+msgctxt "Service name"
+msgid "Optimize"
+msgstr "Optimize"
+
+#: includes/Core/Authentication/Authentication.php:1230
+msgid "Click here"
+msgstr "Натисніть тут"
+
+#: includes/Core/Authentication/Authentication.php:1223
+msgid "You need to reauthenticate your Google account."
+msgstr "Вам необхідно повторно авторизувати ваш обліковий запис Google."
+
+#. translators: %s: error code from API
+#: includes/Core/Authentication/Clients/OAuth_Client_Base.php:316
+msgid "Unknown Error (code: %s)."
+msgstr "Невідома помилка (код: %s)."
+
+#: includes/Core/Authentication/Clients/OAuth_Client_Base.php:313
+msgid "Unable to receive access token because of an unsupported grant type."
+msgstr "Неможливо отримати доступ до токену, через непідтримуваний тип надання."
+
+#: includes/Core/Authentication/Clients/OAuth_Client_Base.php:311
+msgid "Unable to receive access token because of an unauthorized client."
+msgstr "Неможливо отримати доступ: клієнт не авторизований."
+
+#: includes/Core/Authentication/Clients/OAuth_Client_Base.php:297
+msgid "Unable to receive access token because of an invalid authorization code or refresh token."
+msgstr "Неможливо отримати маркер доступу через недійсний код авторизації або оновіть маркер."
+
+#: includes/Core/Authentication/Clients/OAuth_Client_Base.php:293
+msgid "Unable to receive access token because of an invalid client."
+msgstr "Неможливо отримати доступ: клієнт неправильний."
+
+#: includes/Core/Authentication/Clients/OAuth_Client_Base.php:299
+msgid "Unable to receive access token because of an invalid OAuth request."
+msgstr "Неможливо отримати токен для доступу через помилку в OAuth запиті."
+
+#: includes/Core/Authentication/Clients/OAuth_Client_Base.php:289
+msgid "Unable to receive access token because of an unknown error."
+msgstr "Неможливо отримати доступ через невідому помилку."
+
+#: includes/Core/Authentication/Clients/OAuth_Client_Base.php:295
+msgid "Unable to receive access token because of an empty authorization code."
+msgstr "Неможливо отримати доступ через порожній код авторизації."
+
+#: includes/Core/Authentication/Clients/OAuth_Client_Base.php:291
+msgid "Internal error that the Google login redirect failed."
+msgstr "Внутрішня помилка: переадресація на Google вхід не спрацювала."
+
+#: includes/Core/Authentication/Clients/OAuth_Client_Base.php:309
+msgid "Unable to refresh access token, as no refresh token exists."
+msgstr "Неможливо оновити токен доступу: новий токен не існує."
+
+#: includes/Core/Util/Debug_Data.php:235 includes/Modules/AdSense.php:218
+#: includes/Modules/Analytics.php:275 includes/Modules/Analytics_4.php:264
+#: includes/Modules/Tag_Manager.php:194
+msgid "No"
+msgstr "Ні"
+
+#: includes/Modules/AdSense.php:218 includes/Modules/Analytics.php:275
+#: includes/Modules/Analytics_4.php:264 includes/Modules/Tag_Manager.php:194
+msgid "Yes"
+msgstr "Так"
+
+#: includes/Core/Modules/REST_Modules_Controller.php:148
+msgid "List of slugs of other modules depending on the module."
+msgstr "Перелік частин посилань інших модулів залежних від модуля."
+
+#: includes/Core/Modules/REST_Modules_Controller.php:140
+msgid "List of slugs of other modules that the module depends on."
+msgstr "Список коротких посилань інших модулів, від яких залежить цей модуль."
+
+#: includes/Core/Modules/REST_Modules_Controller.php:135
+msgid "Whether the module setup has been completed."
+msgstr "Чи завершено встановлення модуля."
+
+#: includes/Core/Modules/REST_Modules_Controller.php:131
+msgid "Whether the module is active."
+msgstr "Чи активовано модуль."
+
+#: includes/Core/Modules/REST_Modules_Controller.php:126
+msgid "Whether the module is internal, thus without any UI."
+msgstr "Чи є модуль внутрішнім, без всякого UI."
+
+#: includes/Core/Modules/REST_Modules_Controller.php:120
+msgid "The module homepage."
+msgstr "Домашня сторінка модуля."
+
+#: includes/Core/Modules/REST_Modules_Controller.php:115
+msgid "Description of the module."
+msgstr "Опис модуля."
+
+#: includes/Core/Modules/REST_Modules_Controller.php:110
+msgid "Name of the module."
+msgstr "Назва модуля."
+
+#: includes/Core/Util/REST_Entity_Search_Controller.php:133
+msgid "Text content to search for."
+msgstr "Текстовий вміст для пошуку."
+
+#: includes/Core/Modules/REST_Modules_Controller.php:588
+msgid "Module data point to address."
+msgstr "Дані модуля вказують на адресу."
+
+#: includes/Core/Modules/REST_Modules_Controller.php:571
+msgid "Data to set."
+msgstr "Дані для встановлення."
+
+#: includes/Core/Modules/REST_Modules_Controller.php:105
+#: includes/Core/Modules/REST_Modules_Controller.php:321
+#: includes/Core/Modules/REST_Modules_Controller.php:378
+#: includes/Core/Modules/REST_Modules_Controller.php:416
+#: includes/Core/Modules/REST_Modules_Controller.php:479
+#: includes/Core/Modules/REST_Modules_Controller.php:515
+#: includes/Core/Modules/REST_Modules_Controller.php:583
+msgid "Identifier for the module."
+msgstr "Ідентифікатор для модуля."
+
+#: includes/Core/Modules/REST_Modules_Controller.php:284
+msgid "An internal error occurred while trying to deactivate the module."
+msgstr "Виникла внутрішня помилка при деактивації модуля."
+
+#. translators: %s: module name
+#: includes/Core/Modules/REST_Modules_Controller.php:279
+msgid "Module cannot be deactivated because deactivation of dependant %s failed."
+msgstr "Модуль не може бути деактивовано тому, що його залежний модуль %s деактивувати не вдалося."
+
+#: includes/Core/Modules/REST_Modules_Controller.php:270
+msgid "An internal error occurred while trying to activate the module."
+msgstr "Виникла внутрішня помилка при спробі активувати модуль."
+
+#. translators: %s: module name
+#: includes/Core/Modules/REST_Modules_Controller.php:266
+msgid "Module cannot be activated because of inactive dependency %s."
+msgstr "Модуль не може бути активовано через виключену залежність %s."
+
+#: includes/Core/Modules/REST_Modules_Controller.php:343
+#: includes/Core/Modules/REST_Modules_Controller.php:394
+#: includes/Core/Modules/REST_Modules_Controller.php:432
+#: includes/Core/Modules/REST_Modules_Controller.php:449
+#: includes/Core/Modules/REST_Modules_Controller.php:495
+#: includes/Core/Modules/REST_Modules_Controller.php:531
+#: includes/Core/Modules/REST_Modules_Controller.php:553
+msgid "Invalid module slug."
+msgstr "Неправильний ярлик модуля."
+
+#. translators: %s: service identifier
+#: includes/Core/Modules/Module.php:541
+msgid "Google service identified by %s does not exist."
+msgstr "Служба Google, визначена %s, не існує."
+
+#: includes/Core/Modules/Module.php:529 includes/Core/Modules/Module.php:533
+msgid "Google services not set up correctly."
+msgstr "Сервіси Google некоректно налаштовані."
+
+#: includes/Core/Modules/Module.php:475
+msgid "Google client not set up correctly."
+msgstr "Google клієнт некоректно налаштований."
+
+#. translators: %s: module slug
+#: includes/Core/Modules/Modules.php:558 includes/Core/Modules/Modules.php:596
+#: includes/Core/Modules/Modules.php:617
+msgid "Invalid module slug %s."
+msgstr "Невірна частина посилання модуля %s."
+
+#: includes/Core/Admin/Screen.php:129
+#: dist/assets/js/googlesitekit-main-dashboard-cab5550e1428b59f0e05.js:84
+msgid "Site Kit"
+msgstr "Site Kit"
+
+#: includes/Core/Admin/Plugin_Action_Links.php:61
+#: includes/Core/Admin/Screens.php:462
+#: dist/assets/js/googlesitekit-settings-cf4a4d95448f0b0c1f37.js:30
+msgid "Settings"
+msgstr "Налаштування"
+
+#: includes/Core/Admin/Screens.php:361 includes/Core/Admin/Screens.php:407
+msgid "Dashboard"
+msgstr "Майстерня"
+
+#: includes/Modules/Analytics.php:1112 includes/Modules/Analytics_4.php:870
+msgid "https://analytics.google.com/analytics/web"
+msgstr "https://analytics.google.com/analytics/web"
+
+#: includes/Modules/Analytics.php:1110 includes/Modules/Analytics_4.php:868
+msgid "Get a deeper understanding of your customers. Google Analytics gives you the free tools you need to analyze data for your business in one place."
+msgstr "Дізнайтесь більше про своїх відвідувачів. Google Analytics дає вам безкоштовні інструменти, необхідні для аналізу даних для вашого бізнесу в одному місці."
+
+#: includes/Modules/Analytics.php:560
+msgid "Analytics module needs to be configured."
+msgstr "Модуль Google Analytics повинен бути налаштований."
+
+#: includes/Modules/Site_Verification.php:359
+msgid "https://www.google.com/webmasters/verification/home"
+msgstr "https://www.google.com/webmasters/verification/home"
+
+#: includes/Modules/Site_Verification.php:357
+msgid "Google Site Verification allows you to manage ownership of your site."
+msgstr "Google Site Verification дозволяє вам управляти підтвердженням власності на цьому веб-сайті."
+
+#: includes/Modules/Site_Verification.php:180
+msgid "Unknown user."
+msgstr "Невідомий користувач."
+
+#: includes/Modules/Optimize.php:199
+msgid "https://optimize.google.com/optimize/home/"
+msgstr "https://optimize.google.com/optimize/home/"
+
+#: includes/Modules/Optimize.php:197
+msgid "Create free A/B tests that help you drive metric-based design solutions to your site"
+msgstr "Створюйте безкоштовні тести A/B, які допоможуть вам запровадити дизайнерські рішення на основі метрики на вашому сайті"
+
+#: includes/Modules/AdSense.php:704
+msgid "Earn money by placing ads on your website. It’s free and easy."
+msgstr "Заробляйте гроші, розміщуючи рекламу на своєму веб-сайті. Це просто та безкоштовно."
+
+#: includes/Modules/AdSense.php:596
+msgid "Invalid date range."
+msgstr "Невірний діапазон дат."
+
+#: includes/Modules/AdSense.php:338
+msgid "Go to AdSense"
+msgstr "Перейти до AdSense"
+
+#: includes/Modules/AdSense.php:631
+msgid "AdSense account ID not set."
+msgstr "ID облікового запису AdSense не задано."
+
+#: includes/Modules/Tag_Manager.php:471
+msgid "https://tagmanager.google.com/"
+msgstr "https://tagmanager.google.com/"
+
+#: includes/Modules/Tag_Manager.php:469
+msgid "Tag Manager creates an easy to manage way to create tags on your site without updating code"
+msgstr "Менеджер тегів створює простий в керуванні спосіб створення тегів на вашому сайті без оновлення коду"
+
+#: includes/Modules/PageSpeed_Insights.php:181
+msgid "Google PageSpeed Insights gives you metrics about performance, accessibility, SEO and PWA"
+msgstr "Google PageSpeed Insights надає вам показники продуктивності, доступності, SEO та PWA"
+
+#. translators: 1: Invalid parameter name, 2: list of valid values
+#: includes/Modules/PageSpeed_Insights.php:113
+#: includes/Modules/Tag_Manager.php:286
+msgid "Request parameter %1$s is not one of %2$s"
+msgstr "Параметр запиту %1$s не входить в список %2$s"
+
+#: includes/Modules/Search_Console.php:509
+msgid "https://search.google.com/search-console"
+msgstr "https://search.google.com/search-console"
+
+#: includes/Modules/Search_Console.php:507
+msgid "Google Search Console and helps you understand how Google views your site and optimize its performance in search results."
+msgstr "Пошукова консоль Google допомагає зрозуміти, як Google переглядає ваш сайт та оптимізує його ефективність у результатах пошуку."
+
+#: includes/Core/REST_API/Exception/Invalid_Datapoint_Exception.php:38
+msgid "Invalid datapoint."
+msgstr "Невірна точка входу."
+
+#: includes/Modules/Search_Console.php:266
+msgid "Error adding the site to Search Console."
+msgstr "Помилка при додаванні сайту в пошукову панель Google."
+
+#. translators: %s: Missing parameter name
+#: includes/Core/Dismissals/REST_Dismissals_Controller.php:109
+#: includes/Core/Feature_Tours/REST_Feature_Tours_Controller.php:108
+#: includes/Core/Notifications/Notifications.php:285
+#: includes/Core/REST_API/Exception/Missing_Required_Param_Exception.php:46
+#: includes/Core/User_Surveys/REST_User_Surveys_Controller.php:228
+#: includes/Modules/AdSense.php:274 includes/Modules/AdSense.php:279
+#: includes/Modules/AdSense.php:290 includes/Modules/AdSense.php:300
+#: includes/Modules/AdSense.php:407 includes/Modules/AdSense.php:425
+#: includes/Modules/AdSense.php:433 includes/Modules/Analytics.php:505
+#: includes/Modules/Analytics.php:509 includes/Modules/Analytics.php:513
+#: includes/Modules/Analytics.php:517 includes/Modules/Analytics.php:573
+#: includes/Modules/Analytics.php:581 includes/Modules/Analytics.php:592
+#: includes/Modules/Analytics.php:603 includes/Modules/Analytics.php:782
+#: includes/Modules/Analytics.php:790 includes/Modules/Analytics.php:807
+#: includes/Modules/Analytics_4.php:571 includes/Modules/Analytics_4.php:587
+#: includes/Modules/Analytics_4.php:602 includes/Modules/Analytics_4.php:617
+#: includes/Modules/Analytics_4.php:628 includes/Modules/Analytics_4.php:657
+#: includes/Modules/Analytics_4.php:675 includes/Modules/Analytics_4.php:711
+#: includes/Modules/Analytics_4.php:722 includes/Modules/Analytics_4.php:730
+#: includes/Modules/Analytics_4.php:743
+#: includes/Modules/PageSpeed_Insights.php:99
+#: includes/Modules/Search_Console.php:238
+#: includes/Modules/Site_Verification.php:173
+#: includes/Modules/Tag_Manager.php:266 includes/Modules/Tag_Manager.php:274
+#: includes/Modules/Tag_Manager.php:317 includes/Modules/Tag_Manager.php:325
+msgid "Request parameter is empty: %s."
+msgstr "Порожній параметр при запиті: %s."
+
+#: google-site-kit.php:50 google-site-kit.php:58
+msgid "Error Activating"
+msgstr "Помилка активації"
+
+#. Author URI of the plugin
+msgid "https://opensource.google.com"
+msgstr "https://opensource.google.com"
+
+#. Author of the plugin
+msgid "Google"
+msgstr "Google"
+
+#. Description of the plugin
+msgid "Site Kit is a one-stop solution for WordPress users to use everything Google has to offer to make them successful on the web."
+msgstr "Site Kit - це універсальне рішення для користувачів WordPress, щоб використовувати все, що може запропонувати Google, щоб зробити їх успішними в Інтернеті."
+
+#. Plugin URI of the plugin
+msgid "https://sitekit.withgoogle.com"
+msgstr "https://sitekit.withgoogle.com"
+
+#. Plugin Name of the plugin
+#: includes/Core/Admin/Screen.php:87
+#: includes/Core/Authentication/Authentication.php:1165
+#: includes/Core/Authentication/Authentication.php:1222
+#: includes/Core/Util/Debug_Data.php:118
+msgid "Site Kit by Google"
+msgstr "Site Kit by Google"

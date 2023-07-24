@@ -1,0 +1,113 @@
+<?php
+if ( ! defined( 'ABSPATH' ) ) {
+	exit; // Exit if accessed directly
+}
+
+$options	= array(				
+				array(	'name' 	=> __( 'Test Invoice', 'woocommerce-german-market' ), 'type' => 'wp_wc_invoice_pdf_test_download_button' ),	
+				
+				array( 'title' 	=> __( 'General Footer Settings', 'woocommerce-german-market' ), 'type' => 'title','desc' => '', 'id' => 'wp_wc_invoice_pdf_general_footer_settings' ),
+
+				array(
+					'name' 		=> __( 'Height', 'woocommerce-german-market' ),
+					'desc' 		=> $user_unit,
+					'desc_tip'	=> __( 'Height of the footer, measured from the bottom of the page, regardless of the following margin settings, i.e. the height has to be greater than margin top plus margin bottom', 'woocommerce-german-market' ),
+					'tip'  		=> __( 'Height of the footer, measured from the bottom of the page, regardless of the following margin settings, i.e. the height has to be greater than margin top plus margin bottom', 'woocommerce-german-market' ),
+					'id'   		=> 'wp_wc_invoice_pdf_footer_height',
+					'type' 		=> 'text',
+					'default'  	=> 0,
+					'css'      	=> 'width: 100px;',
+					'class'		=> 'german-market-unit',
+				),
+				
+				array(
+					'name' 		=> __( 'Margin Top', 'woocommerce-german-market' ),
+					'desc'		=> $user_unit,
+					'desc_tip'	=> __( 'Margin between the top of the footer and beginning of the footer content', 'woocommerce-german-market' ),
+					'tip'  		=> __( 'Margin between the top of the footer and beginning of the footer content', 'woocommerce-german-market' ),
+					'id'   		=> 'wp_wc_invoice_pdf_footer_padding_top',
+					'type' 		=> 'text',
+					'default'  	=> 0,
+					'css'      	=> 'width: 100px;',
+					'class'		=> 'german-market-unit',
+				),
+				
+				array(
+					'name' 		=> __( 'Margin Right', 'woocommerce-german-market' ),
+					'desc' 		=> $user_unit,
+					'desc_tip'	=> __( 'Space between the right page margin and the footer content', 'woocommerce-german-market' ),
+					'tip'  		=> __( 'Space between the right page margin and the footer content', 'woocommerce-german-market' ),
+					'id'   		=> 'wp_wc_invoice_pdf_footer_padding_right',
+					'type' 		=> 'text',
+					'default' 	=> 0,
+					'css'      	=> 'width: 100px;',
+					'class'		=> 'german-market-unit',
+				),
+				
+				array(
+					'name' 		=> __( 'Margin Bottom', 'woocommerce-german-market' ),
+					'desc' 		=> $user_unit,
+					'desc_tip'	=> __( 'Margin between the bottom of the page and the footer content', 'woocommerce-german-market' ),
+					'tip'  		=> __( 'Margin between the bottom of the page and the footer content', 'woocommerce-german-market' ),
+					'id'   		=> 'wp_wc_invoice_pdf_footer_padding_bottom',
+					'type' 		=> 'text',
+					'default'  	=> 0,
+					'css'      	=> 'width: 100px;',
+					'class'		=> 'german-market-unit',
+				),
+				
+				array(
+					'name' 		=> __( 'Margin Left', 'woocommerce-german-market' ),
+					'desc' 		=> $user_unit,
+					'desc_tip'	=> __( 'Space between the left page margin and the footer content', 'woocommerce-german-market' ),
+					'tip'  		=> __( 'Space between the left page margin and the footer content', 'woocommerce-german-market' ),
+					'id'   		=> 'wp_wc_invoice_pdf_footer_padding_left',
+					'type' 		=> 'text',
+					'default'  	=> 0,
+					'css'      	=> 'width: 100px;',
+					'class'		=> 'german-market-unit',
+				),
+				
+				array(
+					'name' 		=> __( 'Background Color', 'woocommerce-german-market' ),
+					'desc_tip' 	=> __( 'Choose the background color of the footer, leave empty to use no background color', 'woocommerce-german-market' ),
+					'tip'  		=> __( 'Choose the background color of the footer, leave empty to use no background color', 'woocommerce-german-market' ),
+					'id'   		=> 'wp_wc_invoice_pdf_footer_background_color',
+					'type' 		=> 'color',
+					'default'  	=> '',
+					'css'      	=> 'width: 100px;',
+				),
+				
+				array(
+					'name' 		=> __( 'Number of Columns', 'woocommerce-german-market' ),
+					'desc_tip' 	=> __( 'Number of columns in the footer, click the save button to update this page after you changed this option', 'woocommerce-german-market' ),
+					'tip'  		=> __( 'Number of columns in the footer, click the save button to update this page after you changed this option', 'woocommerce-german-market' ),
+					'id'   		=> 'wp_wc_invoice_pdf_footer_number_of_columns',
+					'type' 		=> 'select',
+					'default'  	=> 1,
+					'css'      	=> 'width: 100px;',
+					'options' 	=> array(
+									1 	=> 1,
+									2	=> 2,
+									3	=> 3,
+									4	=> 4,
+									5	=> 5,
+									6	=> 6,
+									7	=> 7,
+									8	=> 8,
+									9	=> 9,
+									10	=> 10
+								)
+				),
+											
+				array( 'type' => 'sectionend', 'id' => 'wp_wc_invoice_pdf_general_footer_settings' )
+		);
+		
+// columns
+$number_of_columns = isset( $_REQUEST[ 'wp_wc_invoice_pdf_footer_number_of_columns' ] ) ? $_REQUEST[ 'wp_wc_invoice_pdf_footer_number_of_columns' ] : get_option( 'wp_wc_invoice_pdf_footer_number_of_columns', 1 );
+for ( $i = 1; $i <= $number_of_columns; $i++ ) {
+	$part = 'footer';
+	include( 'helper-options-section-output-one-column.php' );
+	$options = array_merge( $options, $column );
+}
+						

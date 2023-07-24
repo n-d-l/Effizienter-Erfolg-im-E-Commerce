@@ -1,0 +1,15 @@
+{
+    "edit": "edit",
+    "save": "save",
+    "back": "previous",
+    "forward": "next",
+    "finish": "finish",
+    "yes": "Yes",
+    "no": "No",
+    "pleaseSelect": "Please select",
+    "pleaseFill": "Please fill",
+    "hideAnsweredQuestions": "Hide Answered Questions",
+    "hiddenQuestionsWarningHeader": "Currently all answered questions are hidden!",
+    "hiddenQuestionsWarningText": "Remove the filter \"Hide Answered Questions\" to show them again",
+    "questionaryBottomWarning": "Before you have finished configuring your data, check carefully its accuracy and completeness. If the information is incomplete or faulty, we can not accept any liability in the event of a warning."
+}

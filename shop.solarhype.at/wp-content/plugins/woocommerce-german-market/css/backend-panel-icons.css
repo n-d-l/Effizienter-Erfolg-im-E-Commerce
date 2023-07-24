@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+/* Product Tabs */
+#woocommerce-coupon-data ul.wc-tabs li.german_market_age_rating_options a::before, #woocommerce-product-data ul.wc-tabs li.german_market_age_rating_options a::before, .woocommerce ul.wc-tabs li.german_market_age_rating_options a::before {
+    font-family: Dashicons;
+    content: '\f337';
+}
+
+#woocommerce-coupon-data ul.wc-tabs li.price_per_unit_options_options a::before, #woocommerce-product-data ul.wc-tabs li.price_per_unit_options_options a::before, .woocommerce ul.wc-tabs li.price_per_unit_options_options a::before {
+    font-family: WooCommerce;
+    content: '\e02b';
+}
+
+/* show / hide food data arrow */
+.gm-fic-show-food-data:after,
+.gm-fic-show-food-data-variation:after {
+	content: '\f140';
+	font: normal 20px/1 dashicons;
+	position: relative;
+	top: 5px;
+}
+.gm-fic-hide-food-data:after,
+.gm-fic-hide-food-data-variation:after {
+	content: '\f142';
+	font: normal 20px/1 dashicons;
+	position: relative;
+	top: 5px;
+}

@@ -1,0 +1,143 @@
+# Translation of Plugins - ManageWP Worker - Development (trunk) in Vietnamese
+# This file is distributed under the same license as the Plugins - ManageWP Worker - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-08-01 02:40:04+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Plugins - ManageWP Worker - Development (trunk)\n"
+
+#: functions.php:878
+msgid "Every 5 Minutes"
+msgstr "Sau 5 phút"
+
+#: src/MWP/EventListener/PublicRequest/AutomaticLogin.php:151
+msgid "The automatic login token isn't properly signed. Please contact our support for help."
+msgstr "Mã đăng nhập tự động không hợp lệ. Liên hệ bộ phận hỗ trợ của chúng tôi để được hỗ trợ."
+
+#: functions.php:1150
+msgid "The site is currently in maintenance mode."
+msgstr "Trang này đang ở chế độ bảo trì."
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:421
+msgid "Currently loaded keys:"
+msgstr "Các mã được tải hiện tại:"
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:404
+msgid "Copy"
+msgstr "Lưu"
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:396
+msgid "Connection key:"
+msgstr "Mã kết nối:"
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:374
+msgid "Disconnect"
+msgstr "Ngắt kết nối"
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:355
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:367
+msgid "N/A"
+msgstr "N/A"
+
+#. translators: the variable is going to contain a human time difference string
+#. like "2 days"
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:352
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:364
+msgid "%s ago"
+msgstr "%s trước"
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:339
+msgid "Last Used"
+msgstr "Lần dùng cuối"
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:335
+msgid "Connected"
+msgstr "Đã kết nối"
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:331
+msgid "ID"
+msgstr "ID"
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:324
+msgid "Here is the list of currently active connections to this plugin:"
+msgstr "Đây là danh sách kết nối hiện tại với plugin này:"
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:317
+msgid "Enter this website's URL. When prompted, paste the connection key."
+msgstr "Nhập đường dẫn website. Khi được nhắc, hãy dán mã kết nối."
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:303
+msgid "Copy the connection key below."
+msgstr "Sao chép mã kết nối bên dưới."
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:299
+msgid "Install and activate the <b>Worker</b> plugin."
+msgstr "Cài đặt và kích hoạt plugin <b>Worker</b>."
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:294
+msgid "Manual"
+msgstr "Thủ công"
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:288
+msgid "Enter this website's URL, admin username and password, and the system will take care of everything."
+msgstr "Nhập đường dẫn website, tài khoản và mật khẩu admin, và hệ thống sẽ làm mọi thứ."
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:271
+msgid "Automatic"
+msgstr "Tự động"
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:266
+msgid "There are two ways to connect your website to the management dashboard:"
+msgstr "Có hai cách kết nối website của bạn với bảng quản lý:"
+
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:219
+#: src/MWP/EventListener/PublicRequest/AddConnectionKeyInfo.php:458
+msgid "Connection Management"
+msgstr "Quản lý kết nối"
+
+#. Author URI of the plugin
+msgid "https://godaddy.com"
+msgstr "https://godaddy.com"
+
+#. Author of the plugin
+msgid "GoDaddy"
+msgstr "GoDaddy"
+
+#. Description of the plugin
+msgid "We help you efficiently manage all your WordPress websites. <strong>Updates, backups, 1-click login, migrations, security</strong> and more, on one dashboard. This service comes in two versions: standalone <a href=\"https://managewp.com\">ManageWP</a> service that focuses on website management, and <a href=\"https://godaddy.com/pro\">GoDaddy Pro</a> that includes additional tools for hosting, client management, lead generation, and more."
+msgstr "Chúng tôi giúp bạn quản lý hiệu quả toàn bộ website. <strong>Cập nhật, backup, 1-click đăng nhập, chuyển web, bảo mật</strong> và nhiều nữa, trên một bảng tin. Dịch vụ này gồm hai phiên bản: Dịch vụ <a href=\"https://managewp.com\">ManageWP</a> tập trung vào quản lý website, và  <a href=\"https://godaddy.com/pro\">GoDaddy Pro</a> bao gồm các công cụ bổ sung như hosting, quản lý khách hàng, và nhiều nữa."
+
+#. Plugin URI of the plugin
+msgid "https://managewp.com"
+msgstr "https://managewp.com"
+
+#. Plugin Name of the plugin
+msgid "ManageWP - Worker"
+msgstr "ManageWP - Worker"
+
+#. translators: the variable in this string is the WordPress username that
+#. could not be found
+#: src/MWP/EventListener/PublicRequest/AutomaticLogin.php:162
+msgid "User <strong>%s</strong> could not be found."
+msgstr "Không tìm thấy tài khoản <strong>%s</strong>."
+
+#: src/MWP/EventListener/PublicRequest/AutomaticLogin.php:155
+msgid "The automatic login token is invalid. Please check if this website is properly connected with your dashboard, or, if this keeps happening, contact support."
+msgstr "Token đăng nhập tự động không hợp lệ. Hãy kiểm tra trang web để đảm bảo vẫn kết nối với bảng điều khiển, hoặc nếu có vấn đề, hãy liên hệ hỗ trợ."
+
+#: src/MWP/EventListener/PublicRequest/AutomaticLogin.php:125
+msgid "The automatic login token was already used. Please try again, or, if this keeps happening, contact support."
+msgstr "Token đăng nhập tự động đã được sử dụng. Hãy thử lại, hoặc, nếu có vấn đề xảy ra, hãy liên hệ hỗ trợ."
+
+#: src/MWP/EventListener/PublicRequest/AutomaticLogin.php:123
+msgid "The automatic login token has expired. Please try again, or, if this keeps happening, contact support."
+msgstr "Token đăng nhập tự động đã hết hạn. Hãy thử lại, hoặc, nếu có vấn đề, hãy liên hệ hỗ trợ."
+
+#: src/MWP/EventListener/PublicRequest/AutomaticLogin.php:121
+msgid "The automatic login token is invalid. Please try again, or, if this keeps happening, contact support."
+msgstr "Token đăng nhập tự động không hợp lệ. Hãy thử lại, hoặc, nếu có vấn đề xảy ra, hãy liên hệ hỗ trợ."

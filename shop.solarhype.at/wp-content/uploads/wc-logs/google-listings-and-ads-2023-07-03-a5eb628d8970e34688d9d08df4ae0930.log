@@ -1,0 +1,158 @@
+2023-07-03T08:04:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 1985): ["Balkonkraftwerke"].
+2023-07-03T08:04:20+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":1985,"google_id":"online:de:AT:gla_1985"}]
+2023-07-03T08:05:26+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 1984): ["Balkonkraftwerke"].
+2023-07-03T08:05:27+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":1984,"google_id":"online:de:AT:gla_1984"}]
+2023-07-03T08:14:33+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 1113): ["Solarmodule"].
+2023-07-03T08:14:33+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 1113): ["Solarmodule"].
+2023-07-03T08:14:35+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 2 products:
+[{"woocommerce_id":1721,"google_id":"online:de:AT:gla_1721"},{"woocommerce_id":1722,"google_id":"online:de:AT:gla_1722"}]
+2023-07-03T08:17:06+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 1113): ["Solarmodule"].
+2023-07-03T08:17:06+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 1113): ["Solarmodule"].
+2023-07-03T08:17:07+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 2 products:
+[{"woocommerce_id":1721,"google_id":"online:de:AT:gla_1721"},{"woocommerce_id":1722,"google_id":"online:de:AT:gla_1722"}]
+2023-07-03T08:21:22+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 1665): ["Solarmodule"].
+2023-07-03T08:21:22+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 1665): ["Solarmodule"].
+2023-07-03T08:21:23+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 2 products:
+[{"woocommerce_id":1668,"google_id":"online:de:AT:gla_1668"},{"woocommerce_id":1669,"google_id":"online:de:AT:gla_1669"}]
+2023-07-03T08:22:19+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 1665): ["Solarmodule"].
+2023-07-03T08:22:19+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 1665): ["Solarmodule"].
+2023-07-03T08:22:21+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 2 products:
+[{"woocommerce_id":1668,"google_id":"online:de:AT:gla_1668"},{"woocommerce_id":1669,"google_id":"online:de:AT:gla_1669"}]
+2023-07-03T10:11:17+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 976): ["Stromspeicher"].
+2023-07-03T10:11:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":976,"google_id":"online:de:AT:gla_976"}]
+2023-07-03T10:22:24+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2189): ["Solarmodule"].
+2023-07-03T10:22:26+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2189,"google_id":"online:de:AT:gla_2189"}]
+2023-07-03T10:34:20+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2339): ["Solarmodule"].
+2023-07-03T10:34:22+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2339,"google_id":"online:de:AT:gla_2339"}]
+2023-07-03T10:40:00+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\SyncerHooks::handle_update_products Deleting product (ID: 1669) from Google Merchant Center because it is not ready to be synced.
+2023-07-03T10:40:00+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\SyncerHooks::handle_update_products Deleting product (ID: 1668) from Google Merchant Center because it is not ready to be synced.
+2023-07-03T10:40:00+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\SyncerHooks::handle_update_products Deleting product (ID: 1669) from Google Merchant Center because it is not ready to be synced.
+2023-07-03T10:40:00+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\SyncerHooks::handle_update_products Deleting product (ID: 1668) from Google Merchant Center because it is not ready to be synced.
+2023-07-03T10:40:00+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\SyncerHooks::handle_update_products Deleting product (ID: 1669) from Google Merchant Center because it is not ready to be synced.
+2023-07-03T10:40:00+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\SyncerHooks::handle_update_products Deleting product (ID: 1668) from Google Merchant Center because it is not ready to be synced.
+2023-07-03T10:40:16+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::delete_by_batch_requests Deleted 2 products:
+[{"woocommerce_id":1669},{"woocommerce_id":1668}]
+2023-07-03T10:41:24+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\SyncerHooks::handle_update_products Deleting product (ID: 1724) from Google Merchant Center because it is not ready to be synced.
+2023-07-03T10:41:24+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\SyncerHooks::handle_update_products Deleting product (ID: 1718) from Google Merchant Center because it is not ready to be synced.
+2023-07-03T10:41:24+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\SyncerHooks::handle_update_products Deleting product (ID: 1724) from Google Merchant Center because it is not ready to be synced.
+2023-07-03T10:41:24+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\SyncerHooks::handle_update_products Deleting product (ID: 1718) from Google Merchant Center because it is not ready to be synced.
+2023-07-03T10:41:24+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\SyncerHooks::handle_update_products Deleting product (ID: 1724) from Google Merchant Center because it is not ready to be synced.
+2023-07-03T10:41:24+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\SyncerHooks::handle_update_products Deleting product (ID: 1718) from Google Merchant Center because it is not ready to be synced.
+2023-07-03T10:42:23+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::delete_by_batch_requests Deleted 2 products:
+[{"woocommerce_id":1724},{"woocommerce_id":1718}]
+2023-07-03T10:43:25+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\SyncerHooks::handle_update_products Deleting product (ID: 1722) from Google Merchant Center because it is not ready to be synced.
+2023-07-03T10:43:25+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\SyncerHooks::handle_update_products Deleting product (ID: 1721) from Google Merchant Center because it is not ready to be synced.
+2023-07-03T10:43:25+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\SyncerHooks::handle_update_products Deleting product (ID: 1722) from Google Merchant Center because it is not ready to be synced.
+2023-07-03T10:43:25+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\SyncerHooks::handle_update_products Deleting product (ID: 1721) from Google Merchant Center because it is not ready to be synced.
+2023-07-03T10:43:25+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\SyncerHooks::handle_update_products Deleting product (ID: 1722) from Google Merchant Center because it is not ready to be synced.
+2023-07-03T10:43:25+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\SyncerHooks::handle_update_products Deleting product (ID: 1721) from Google Merchant Center because it is not ready to be synced.
+2023-07-03T10:43:35+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::delete_by_batch_requests Deleted 2 products:
+[{"woocommerce_id":1722},{"woocommerce_id":1721}]
+2023-07-03T13:03:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2284): ["Unterkonstruktion"].
+2023-07-03T13:03:20+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2284,"google_id":"online:de:AT:gla_2284"}]
+2023-07-03T13:13:16+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2444): ["Unterkonstruktion"].
+2023-07-03T13:13:17+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2444,"google_id":"online:de:AT:gla_2444"}]
+2023-07-03T13:20:25+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2447): ["Unterkonstruktion"].
+2023-07-03T13:20:28+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2447,"google_id":"online:de:AT:gla_2447"}]
+2023-07-03T13:22:57+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2447): ["Unterkonstruktion"].
+2023-07-03T13:22:58+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2447,"google_id":"online:de:AT:gla_2447"}]
+2023-07-03T13:23:58+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2444): ["Unterkonstruktion"].
+2023-07-03T13:23:59+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2444,"google_id":"online:de:AT:gla_2444"}]
+2023-07-03T13:24:20+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2444): ["Unterkonstruktion"].
+2023-07-03T13:24:21+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2444,"google_id":"online:de:AT:gla_2444"}]
+2023-07-03T13:28:22+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2448): ["Unterkonstruktion"].
+2023-07-03T13:28:24+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2448,"google_id":"online:de:AT:gla_2448"}]
+2023-07-03T13:33:24+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2452): ["Unterkonstruktion"].
+2023-07-03T13:33:25+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2452,"google_id":"online:de:AT:gla_2452"}]
+2023-07-03T13:35:08+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2455): ["Unterkonstruktion"].
+2023-07-03T13:35:11+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2455,"google_id":"online:de:AT:gla_2455"}]
+2023-07-03T13:39:26+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2456): ["Unkategorisiert"].
+2023-07-03T13:39:28+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2456,"google_id":"online:de:AT:gla_2456"}]
+2023-07-03T13:41:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2461): ["Unkategorisiert"].
+2023-07-03T13:41:20+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2461,"google_id":"online:de:AT:gla_2461"}]
+2023-07-03T13:42:26+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2461): ["Unkategorisiert"].
+2023-07-03T13:42:27+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2461,"google_id":"online:de:AT:gla_2461"}]
+2023-07-03T13:44:47+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2460): ["Unkategorisiert"].
+2023-07-03T13:44:49+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2460,"google_id":"online:de:AT:gla_2460"}]
+2023-07-03T13:47:10+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2464): ["Unkategorisiert"].
+2023-07-03T13:47:12+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2464,"google_id":"online:de:AT:gla_2464"}]
+2023-07-03T14:22:30+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2464): ["Unkategorisiert"].
+2023-07-03T14:22:32+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2464,"google_id":"online:de:AT:gla_2464"}]
+2023-07-03T14:37:23+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2466): ["Unkategorisiert"].
+2023-07-03T14:37:24+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2466,"google_id":"online:de:AT:gla_2466"}]
+2023-07-03T14:40:53+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2470): ["Unkategorisiert"].
+2023-07-03T14:40:54+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2470,"google_id":"online:de:AT:gla_2470"}]
+2023-07-03T14:45:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2477): ["Unkategorisiert"].
+2023-07-03T14:45:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\BatchProductHelper::validate_and_generate_update_request_entries Skipping product (ID: 2477) because it does not pass validation: {"woocommerce_id":2477,"errors":["[description] This value should not be blank."]}
+2023-07-03T14:51:25+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2479): ["Unkategorisiert"].
+2023-07-03T14:51:27+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2479,"google_id":"online:de:AT:gla_2479"}]
+2023-07-03T14:52:26+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2479): ["Unkategorisiert"].
+2023-07-03T14:52:27+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2479,"google_id":"online:de:AT:gla_2479"}]
+2023-07-03T15:34:32+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2483): ["Unkategorisiert"].
+2023-07-03T15:34:34+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2483,"google_id":"online:de:AT:gla_2483"}]
+2023-07-03T15:38:23+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2485): ["Unkategorisiert"].
+2023-07-03T15:38:25+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2485,"google_id":"online:de:AT:gla_2485"}]
+2023-07-03T15:44:26+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2489): ["Unkategorisiert"].
+2023-07-03T15:44:28+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2489,"google_id":"online:de:AT:gla_2489"}]
+2023-07-03T16:48:19+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2489): ["Unkategorisiert"].
+2023-07-03T16:48:21+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2489,"google_id":"online:de:AT:gla_2489"}]
+2023-07-03T16:49:10+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2489): ["Unkategorisiert"].
+2023-07-03T16:49:11+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2489,"google_id":"online:de:AT:gla_2489"}]
+2023-07-03T16:51:16+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2492): ["Unkategorisiert"].
+2023-07-03T16:51:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2492,"google_id":"online:de:AT:gla_2492"}]
+2023-07-03T16:52:37+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2493): ["Unkategorisiert"].
+2023-07-03T16:52:38+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2493,"google_id":"online:de:AT:gla_2493"}]
+2023-07-03T16:57:30+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2493): ["Unkategorisiert"].
+2023-07-03T16:57:31+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2493,"google_id":"online:de:AT:gla_2493"}]
+2023-07-03T17:04:00+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2494): ["Unkategorisiert"].
+2023-07-03T17:04:02+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2494,"google_id":"online:de:AT:gla_2494"}]
+2023-07-03T17:06:17+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2496): ["Unkategorisiert","Unterkonstruktion"].
+2023-07-03T17:06:19+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2496,"google_id":"online:de:AT:gla_2496"}]
+2023-07-03T17:08:30+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2494): ["Unterkonstruktion"].
+2023-07-03T17:08:31+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2494,"google_id":"online:de:AT:gla_2494"}]
+2023-07-03T17:10:24+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2493): ["Unterkonstruktion"].
+2023-07-03T17:10:26+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":2493,"google_id":"online:de:AT:gla_2493"}]
+2023-07-03T19:21:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-03T19:21:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\BatchProductHelper::validate_and_generate_update_request_entries Skipping product (ID: 2300) because it does not pass validation: {"woocommerce_id":2300,"errors":["[description] This value should not be blank.","[imageLink] This value should not be blank."]}
+2023-07-03T19:21:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-03T19:21:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\BatchProductHelper::validate_and_generate_update_request_entries Skipping product (ID: 2301) because it does not pass validation: {"woocommerce_id":2301,"errors":["[description] This value should not be blank.","[imageLink] This value should not be blank."]}
+2023-07-03T19:21:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-03T19:21:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\BatchProductHelper::validate_and_generate_update_request_entries Skipping product (ID: 2300) because it does not pass validation: {"woocommerce_id":2300,"errors":["[description] This value should not be blank.","[imageLink] This value should not be blank."]}
+2023-07-03T19:21:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 2287): ["Komplett-Pakete"].
+2023-07-03T19:21:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\BatchProductHelper::validate_and_generate_update_request_entries Skipping product (ID: 2301) because it does not pass validation: {"woocommerce_id":2301,"errors":["[description] This value should not be blank.","[imageLink] This value should not be blank."]}

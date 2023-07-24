@@ -1,0 +1,167 @@
+# Translation of Plugins - WooCommerce Google Analytics Integration - Stable (latest release) in Danish
+# This file is distributed under the same license as the Plugins - WooCommerce Google Analytics Integration - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-10-12 12:44:48+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: da_DK\n"
+"Project-Id-Version: Plugins - WooCommerce Google Analytics Integration - Stable (latest release)\n"
+
+#: includes/class-wc-google-analytics.php:236
+msgid "Cross Domain Tracking"
+msgstr "Sporing på tværs af domæner"
+
+#: includes/class-wc-google-analytics.php:149
+msgid "Google Analytics Tracking ID"
+msgstr "Google Analytics Tracking ID"
+
+#: woocommerce-google-analytics-integration.php:199
+msgid "Get detailed insights into your sales with Google Analytics Pro"
+msgstr "Få detaljerede indsigt i dit salg med Google Analytics Pro"
+
+#. translators: 1: href link to GA pro
+#: woocommerce-google-analytics-integration.php:202
+msgid "Add advanced tracking for your sales funnel, coupons and more. [<a href=\"%s\" target=\"_blank\">Learn more</a> &gt;]"
+msgstr "Tilføj avanceret sporing til dit salg, dine kuponer med mere. [<a href=\"%s\" target=\"_blank\">Lær mere</a> &gt;] "
+
+#. Author URI of the plugin
+msgid "https://woocommerce.com"
+msgstr "https://woocommerce.com"
+
+#: woocommerce-google-analytics-integration.php:111
+msgid "Support"
+msgstr "Support"
+
+#: woocommerce-google-analytics-integration.php:110
+msgid "Settings"
+msgstr "Indstillinger"
+
+#: includes/class-wc-google-analytics.php:485
+msgid "ID:"
+msgstr "ID:"
+
+#: includes/class-wc-google-analytics.php:199
+msgid "Use Enhanced Link Attribution"
+msgstr "Anvend udvidet link tilskrivninger"
+
+#: includes/class-wc-google-analytics.php:312
+msgid "Please note, for transaction tracking to work properly, you will need to use a payment gateway that redirects the customer back to a WooCommerce order received/thank you page."
+msgstr "Bemærk, for transaktions sporingen skal fungere korrekt, skal du anvende en betalings gateway som omdirigerer kunden tilbage til en WooCommerce ordre modtaget/takke side."
+
+#: includes/class-wc-google-analytics.php:309
+msgid "Please allow Google Analytics 24 hours to start displaying results."
+msgstr "Google Analytics behøver op til 24 timer til at begynde at vise resultater."
+
+#: includes/class-wc-google-analytics.php:296
+msgid "Checkout Process Initiated"
+msgstr "Købsprocessen indledt"
+
+#: includes/class-wc-google-analytics.php:288
+msgid "Product Detail Views"
+msgstr "Produkt detaljer visninger"
+
+#: includes/class-wc-google-analytics.php:280
+msgid "Product Clicks from Listing Pages"
+msgstr "Produkt klik fra liste sider"
+
+#: includes/class-wc-google-analytics.php:272
+msgid "Product Impressions from Listing Pages"
+msgstr "Produkt indtryk fra liste sider"
+
+#: includes/class-wc-google-analytics.php:264
+msgid "Remove from Cart Events"
+msgstr "Fjern fra varekurvs begivenheder"
+
+#: includes/class-wc-google-analytics.php:252
+msgid "Enable Enhanced eCommerce "
+msgstr "Aktivere udvidet e-handel "
+
+#: includes/class-wc-google-analytics.php:251
+msgid "Enhanced eCommerce"
+msgstr "Udvidet E-handel"
+
+#: includes/class-wc-google-analytics.php:230
+msgid "Add to Cart Events"
+msgstr "Læg i varekurv handling"
+
+#: includes/class-wc-google-analytics.php:224
+msgid "This requires a payment gateway that redirects to the thank you/order received page after payment. Orders paid with gateways which do not do this will not be tracked."
+msgstr "Dette kræver en betalings-gateway, der omdirigerer til siden tak/ordre modtaget efter betaling. Ordrer som betales med alm. gateways, vil ikke blive sporet."
+
+#: includes/class-wc-google-analytics.php:223
+msgid "Purchase Transactions"
+msgstr "Købs transaktioner"
+
+#: includes/class-wc-google-analytics.php:175
+msgid "Enable Universal Analytics"
+msgstr "Aktiver Universal Analytics"
+
+#: includes/class-wc-google-analytics.php:191
+msgid "\"Display Advertising\" Support"
+msgstr "\"Vis Reklamer\" Support"
+
+#: includes/class-wc-google-analytics.php:185
+msgid "This tracks session data such as demographics, system, etc. You don't need to enable this if you are using a 3rd party Google analytics plugin."
+msgstr "Dette spore sessionsdata som demografi, system, osv. Du behøver ikke at aktivere denne hvis du bruger en 3rd part Google analytics plugin."
+
+#: includes/class-wc-google-analytics.php:184
+msgid "Enable Standard Tracking"
+msgstr "Aktiver Standard Sporing"
+
+#: includes/class-wc-google-analytics.php:165
+msgid "Tracking Options"
+msgstr "Sporingsvalg"
+
+#: includes/class-wc-google-analytics-info-banner.php:69
+msgid "(Dismiss)"
+msgstr "(Afvis)"
+
+#: includes/class-wc-google-analytics-info-banner.php:69
+msgid "Dismiss this notice."
+msgstr "Afvis denne meddelelse."
+
+#: includes/class-wc-google-analytics-info-banner.php:65
+msgid "<a href=\"%s\">Connect WooCommerce to Google Analytics</a> to finish setting up this integration."
+msgstr "<a href=\"%s\">Tilslut WooCommerce til Google Analytics</a> til at færdiggøre indstillingen af denne integration."
+
+#: includes/class-wc-google-analytics-info-banner.php:64
+msgid "Google Analytics &amp; WooCommerce"
+msgstr "Google Analytics &amp; WooCommerce"
+
+#. Description of the plugin
+msgid "Allows Google Analytics tracking code to be inserted into WooCommerce store pages."
+msgstr "Tillader Google Analytics sporingskode at blive indsat i WooCommerce butik sider."
+
+#. Plugin Name of the plugin
+msgid "WooCommerce Google Analytics Integration"
+msgstr "WooCommerce Google Analytics Integration"
+
+#. Author of the plugin
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: includes/class-wc-google-analytics.php:484
+#: includes/class-wc-google-analytics.php:562
+msgid "Add to Cart"
+msgstr "Læg i varekurv"
+
+#: includes/class-wc-google-analytics.php:483
+#: includes/class-wc-google-analytics.php:561
+msgid "Products"
+msgstr "Produkter"
+
+#: includes/class-wc-google-analytics.php:156
+msgid "Set Domain Name"
+msgstr "Angiv domænenavn"
+
+#: includes/class-wc-google-analytics.php:59
+msgid "Google Analytics is a free service offered by Google that generates detailed statistics about the visitors to a website."
+msgstr "Google Analytics er en gratis service, der tilbydes af Google, der genererer detaljeret statistik over besøgende på et websted."
+
+#: includes/class-wc-google-analytics.php:58
+msgid "Google Analytics"
+msgstr "Google Analytics"
